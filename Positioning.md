@@ -177,7 +177,7 @@ and more difficult. If not impossible.
 The basic approach of positioning is not to create something new and different, but to
 manipulate what’s already up there in the mind, to retie the connections that already exist.
 
-### Today’s marketplace is no longer responsive to the strategies that
+Today’s marketplace is no longer responsive to the strategies that
 
 worked in the past. There are just too many products, too many companies, and too much
 marketing noise.
@@ -239,7 +239,7 @@ Furthermore, what we receive is influenced by the nature of our overcommunicated
 “Glittering generalities” have become a way of life in our overcommunicated society. We
 oversimplify because that’s the only way to cope.
 
-### Technically, we are capable of increasing the volume of communication
+Technically, we are capable of increasing the volume of communication
 
 at least tenfold. We’re experimenting with direct television broadcasting from satellites.
 Every home would have 100 channels or so to choose from. North American Philips has just
@@ -349,7 +349,9 @@ Ninety-eight percent of all American homes have at least one television set. (A 
 two or more.)
 
 - Ninety-six percent of all television households can receive four or more
+
 - TV stations. (A third can receive ten or more.)
+
 - The average American family watches television more than 7 hours a
 
 day. (More than 51 hours a week.)
@@ -412,7 +414,9 @@ off if communication doesn’t take place. At least until you are ready to posit
 for the long term. You never get a second chance to make a first impression.
 
 - What do the following names mean to you: Camaro, Cavalier, Celebrity,
+
 - Chevette, Citation, Corvette, and Monte Carlo?
+
 - Automobile model names, right? Would you be surprised to learn that
 
 these are all Chevrolet models?
@@ -482,7 +486,7 @@ fact, the product explosion could get worse. In Europe they are building super-s
 (called hypermarkets) with room for several times as many products. Biggs in Cincinnati, the
 first hypermarket in America, stocks 60,000 products.
 
-### The packaged-goods industry obviously expects the proliferation to
+The packaged-goods industry obviously expects the proliferation to
 
 continue. Those scratch marks on the side of most grocery boxes, the Universal Product Code,
 represent 10 digits. (Your social security number has only 9. And the system is designed to
@@ -557,13 +561,19 @@ Positioning is an organized system for finding a window in the mind. It is based
 concept that communication can only take place at the right time and under the right
 circumstances.
 
-The easy way into the mind The easy way to get into a person’s mind is to be first. You can
+### The easy way into the mind
+
+The easy way to get into a person’s mind is to be first. You can
 demonstrate the validity of this principle by asking yourself a few simple questions.
 
 - What’s the name of the first person to fly solo across the North Atlantic?
+
 - Charles Lindbergh, right?
+
 - Now, what’s the name of the second person to fly solo across the North
+
 - Atlantic?
+
 - Not so easy to answer, is it? What’s the name of the first person to walk on the moon? Neil
 
 Armstrong, of course.
@@ -611,7 +621,9 @@ getting into the mind first.
 You build brand loyalty in a supermarket the same way you build mate loyalty in a marriage.
 You get there first and then be careful not to give them a reason to switch.
 
-The hard way into the mind And what if your name is not Charles or Neil or Kleenex or Hertz?
+### The hard way into the mind
+
+And what if your name is not Charles or Neil or Kleenex or Hertz?
 What if someone else got into your prospect’s mind first?
 
 The hard way to get into a person’s mind is second. Second is nowhere. What’s the
@@ -688,7 +700,9 @@ overcommunicated society.
 To understand how we got to where we are today, it might be helpful to take a quick look at
 recent communication history.
 
-The product era Back in the fifties, advertising was in the product era. In a lot of ways,
+### The product era
+
+Back in the fifties, advertising was in the product era. In a lot of ways,
 these were the good old days when the “better mousetrap” and some money to promote it were
 all you needed.
 
@@ -708,7 +722,9 @@ overheard to say, “Wouldn’t you know it. Last year we had nothing to say, so
 improved’ on the package. This year the research people came up with a real improvement, and
 we don’t know what to say.”
 
-The image era The next phase was the image era. Successful companies found that reputation,
+### The image era
+
+The next phase was the image era. Successful companies found that reputation,
 or image, was more important in selling a product than any specific product feature.
 
 The architect of the image era was David Ogilvy. As he said in his famous speech on the
@@ -721,7 +737,9 @@ level became so high that relatively few companies succeeded.
 And of the ones that made it, most did it primarily with spectacular technical achievements,
 not spectacular advertising. Xerox and Polaroid, to name two.
 
-The positioning era Today it has become obvious that advertising is entering a new era—an
+### The positioning era
+
+Today it has become obvious that advertising is entering a new era—an
 era where creativity is no longer the key to success.
 
 The fun and games of the sixties and seventies have given way to the harsh realities of the
@@ -884,7 +902,7 @@ If our mental storage bowl is too small to handle questions like these, how in t
 we going to keep track in our mind of all those brand names which have been multiplying like
 rabbits over the years?
 
-### Thirty years ago the six leading cigarette companies between them
+Thirty years ago the six leading cigarette companies between them
 
 offered the American smoker 17 different brands. Today they sell more than 175. (A vending
 machine built to hold all these brands would have to be 30 feet long.) “Modelitus” has
@@ -902,7 +920,9 @@ This ranking of people, objects, and brands is not only a convenient method of o
 things but also an absolute necessity to keep from being overwhelmed by the complexities of
 life.
 
-The product ladder To cope with the product explosion, people have learned to rank products
+### The product ladder
+
+To cope with the product explosion, people have learned to rank products
 and brands in the mind. Perhaps this can best be visualized by imagining a series of ladders
 in the mind. On each step is a brand name. And each different ladder represents a different
 product category.
@@ -931,7 +951,9 @@ the public to position the concept against the existing mode of transportation.
 Words like “off-track” betting, “lead-free” gasoline, and “sugar-free” soda are all examples
 of how new concepts can best be positioned against the old.
 
-The “against” position In today’s marketplace the competitor’s position is just as important
+### The “against” position
+
+In today’s marketplace the competitor’s position is just as important
 as your own. Sometimes more important. An early success in the positioning era was the
 famous Avis campaign.
 
@@ -972,7 +994,9 @@ not an easy task.
 But it can be done. What Avis is doing in rent-a-cars, Burger King is doing in fast foods,
 and Pepsi is doing in colas.
 
-The “uncola” position Another classic positioning strategy is to worm your way onto a ladder
+### The “uncola” position
+
+Another classic positioning strategy is to worm your way onto a ladder
 owned by someone else. As 7-Up did. The brilliance of this idea can only be appreciated when
 you comprehend the enormous share of mind enjoyed by Coke and Pepsi. Almost two out of every
 three soft drinks consumed in the United States are cola drinks.
@@ -992,7 +1016,9 @@ Conventional logic says you find your concept inside yourself or inside the prod
 Not true. What you must do is look inside the prospect’s mind. You won’t find an “uncola”
 idea inside a 7-Up can. You find it inside the cola drinker’s head.
 
-The F.W.M.T.S. trap More than anything else, successful positioning requires consistency.
+### The F.W.M.T.S. trap
+
+More than anything else, successful positioning requires consistency.
 You must keep at it year after year.
 
 Yet after a company has executed a brilliant positioning coup, too often it falls into what
@@ -1036,7 +1062,9 @@ happen to be in a position where “they can’t get there from here.”
 Avis is not going to be No. 1. Wishing won’t make it so. And neither will massive amounts of
 advertising.
 
-The “can do” spirit refuses to die In many ways our country’s Vietnam experience was a
+### The “can do” spirit refuses to die
+
+In many ways our country’s Vietnam experience was a
 typical example of American “can do” spirit. Anything is possible if only you try hard
 enough. But no matter how hard we tried, no matter how many soldiers and how much money we
 poured in, the problem could not be solved by an outside force.
@@ -1060,7 +1088,9 @@ from here.” No matter how many millions it is prepared to spend.
 
 And the best example is what happened to RCA in the computer business.
 
-The handwriting on the wall In 1969 we wrote an article for Industrial Marketing magazine
+### The handwriting on the wall
+
+In 1969 we wrote an article for Industrial Marketing magazine
 using RCA as one of the prime examples. Entitled “Positioning Is a Game People Play in
 Today’s Me-Too Marketplace,” the article pulled no punches. It named names and made
 predictions, all based on the rules of a game called positioning. (It was the first time
@@ -1093,7 +1123,9 @@ No. 2 position” in the computer industry. Pointing out that his company had al
 any previous business venture,” including color TV, Mr. Sarnoff said that the goal had been
 development of a solid profit position in the early seventies.
 
-The “can do” spirit dies Less than a year later, the roof fell in. “The $250 million
+### The “can do” spirit dies
+
+Less than a year later, the roof fell in. “The $250 million
 disaster that hit RCA,” said the headline of a story in the September 25, 1971, issue of
 Business Week.
 
@@ -1110,7 +1142,9 @@ Revisited: Why Didn’t GE and RCA Listen?” (The article appeared in the Novem
 of Industrial Marketing.) How do you advertise and market against a company like IBM? The
 two positioning articles made some suggestions.
 
-How to go against an IBM The computer business has often been referred to as “Snow White and
+### How to go against an IBM
+
+The computer business has often been referred to as “Snow White and
 the Seven Dwarfs.” Snow White has established a position unrivaled in the history of
 marketing.
 
@@ -1201,7 +1235,9 @@ Remember Charles Lindbergh and Neil Armstrong?
 
 You just get there firstest with the mostest.
 
-Establishing leadership History shows that the first brand into the brain, on the average,
+### Establishing leadership
+
+History shows that the first brand into the brain, on the average,
 gets twice the long-term market share of the No. 2 brand and twice again as much as the No.
 3 brand. And the relationships are not easily changed.
 
@@ -1212,7 +1248,9 @@ outsells Burger King, General Electric outsells Westinghouse.
 Many marketing experts overlook the enormous advantages of being first. Too often they
 attribute successes like Kodak and IBM and Coke to “marketing acumen.”
 
-The failures of leaders Yet when the shoe is on the other foot, when a marketing leader
+### The failures of leaders
+
+Yet when the shoe is on the other foot, when a marketing leader
 isn’t first in a new category, the new product is usually an also-ran.
 
 Coca-Cola is a gigantic company compared with Dr. Pepper. Yet when Coke introduced a
@@ -1243,7 +1281,9 @@ brand of beer, etc.
 On your next flight, see if the three brands aren’t Coke, Canada Dry, and Budweiser, the
 three leading brands of cola, ginger ale, and beer.
 
-The instability of equality It’s true that in some categories the two leading brands run
+### The instability of equality
+
+It’s true that in some categories the two leading brands run
 neck and neck. What’s equally true is that these categories are inherently unstable. Sooner
 or later, you can expect one brand to get the upper hand and open a lead which eventually
 will reach a stable 5 to 3 or 2 to 1 ratio.
@@ -1266,7 +1306,9 @@ clinch the victory for decades to come. It takes 110 percent of rated power for 
 its wheels off the ground. Yet when it reaches 30,000 feet, the pilot can throttle back to
 70 percent of power and still cruise at 600 miles per hour.
 
-Strategies for maintaining leadership Question: Where does the 800-pound gorilla sleep?
+### Strategies for maintaining leadership
+
+Question: Where does the 800-pound gorilla sleep?
 Answer: Anywhere he wants to.
 
 Leaders can do anything they want to. Short-term, leaders are almost invulnerable. Momentum
@@ -1282,7 +1324,9 @@ future. As a matter of fact, the marketing leader is usually the one who moves t
 into the mind with his or her brand nailed to the one and only rung. Once there, what should
 leaders do and not do?
 
-What not to do As long as a company owns the position, there’s no point in running
+### What not to do
+
+As long as a company owns the position, there’s no point in running
 advertisements that repeat the obvious. “We’re No. 1” is a typical example. Much better is
 to enhance the product category in the prospect’s mind.
 
@@ -1301,7 +1345,9 @@ high-fidelity system east of the Mississippi.”
 
 You have to build a leadership position in the prospect’s terms.
 
-What to do “The real thing.” This classic Coca-Cola advertising campaign is a strategy that
+### What to do
+
+“The real thing.” This classic Coca-Cola advertising campaign is a strategy that
 can work for any leader.
 
 The essential ingredient in securing the leadership position is getting into the mind first.
@@ -1316,7 +1362,9 @@ But “the real thing,” like a first love, will always occupy a special place 
 prospect’s mind. “We invented the product.” A powerful motivating force behind Xerox
 copiers. Polaroid cameras. Zippo lighters.
 
-Covering all bets Unfortunately, leaders often read their own advertising so avidly they end
+### Covering all bets
+
+Unfortunately, leaders often read their own advertising so avidly they end
 up thinking they can do no wrong. So when a competitor introduces a new product or a new
 feature, the tendency is to pooh-pooh the development.
 
@@ -1349,7 +1397,9 @@ single most profitable product ever manufactured in the United States.”
 And what did Xerox do for an encore? Almost nothing. The spectacular success of the 914 was
 followed by one failure after another. Most notably in computers.
 
-Power from the product “Only when our office copying success has been repeated, not once,
+### Power from the product
+
+“Only when our office copying success has been repeated, not once,
 but several times,” said the Xerox chairman early on in the company’s diversification game,
 “can we fairly reach the conclusion that this organization has the kind of power that can be
 relied upon again and again.”
@@ -1378,7 +1428,9 @@ ground zero. Xerox has obviously tried to duplicate its copier success in other 
 it has apparently forgotten one essential element of the 914 program. It was the first to
 fly the plainpaper copier ocean.
 
-Covering with multibrands Most leaders should cover competitive moves by introducing another
+### Covering with multibrands
+
+Most leaders should cover competitive moves by introducing another
 brand. This is the classic “multibrand” strategy of Procter & Gamble.
 
 It may be a misnomer to call it a multibrand strategy. Rather it’s a singleposition
@@ -1410,7 +1462,9 @@ Super in the lot.
 So a multibrand strategy is really a single-position strategy. One without change. Ivory has
 been going strong for 99 years.
 
-Covering with a broader name What dethrones a leader, of course, is change.
+### Covering with a broader name
+
+What dethrones a leader, of course, is change.
 
 The New York Central Railroad was not only the leading railroad in the twenties, it was also
 the bluest of blue-chip stocks. Several mergers later, the Penn Central (as it is called
@@ -1458,7 +1512,7 @@ topic.
 Leaders can also benefit by broadening the range of applications for their products. Arm &
 Hammer has done a good job in promoting the use of baking soda in the refrigerator.
 
-### The Florida Citrus Commission promotes orange juice, the largest-
+The Florida Citrus Commission promotes orange juice, the largest-
 
 selling fruit drink, for lunch snacks, with meals, etc. “It isn’t just for breakfast
 anymore,” say the commercials.
@@ -1491,7 +1545,7 @@ It’s not enough to be better than the competitor. You must introduce your prod
 someone else has a chance to establish leadership. With a more massive advertising and
 promotion launch. And a better name. (More on this point later.)
 
-### Yet the opposite normally occurs. The me-too company wastes valuable
+Yet the opposite normally occurs. The me-too company wastes valuable
 
 time on improving the product. Then the launch is made with a smaller advertising budget
 than the leader’s. And then the new product is given the house name, because that’s the easy
@@ -1499,7 +1553,9 @@ way to ensure a quick share of market. All deadly traps in our overcommunicated 
 
 How do you find an open position in the prospect’s mind?
 
-Cherchez le creneau The French have a marketing expression that sums up this strategy rather
+### Cherchez le creneau
+
+The French have a marketing expression that sums up this strategy rather
 neatly.
 
 Cherchez le creneau. “Look for the hole.” Cherchez le creneau and then fill it. That advice
@@ -1516,7 +1572,9 @@ that worked for Christopher Columbus can also work for you.
 
 Let’s explore some strategies for finding creneaus.
 
-The size creneau For years, Detroit automakers were on a longer, lower kick. Each model
+### The size creneau
+
+For years, Detroit automakers were on a longer, lower kick. Each model
 year, cars became more streamlined, better looking.
 
 Enter the Volkswagen Beetle. Short, fat, and ugly. The conventional way to promote the
@@ -1539,7 +1597,9 @@ capitalize on electronics to build valuable positions based on miniaturization.
 The opposite presents opportunities too. There are opportunities to build positions in
 projection television sets and other products based on large size.
 
-The high-price creneau The classic example is Michelob. The people at Anheuser-Busch found
+### The high-price creneau
+
+The classic example is Michelob. The people at Anheuser-Busch found
 an untapped market for a premium-priced domestic beer. And they moved into the mind with the
 Michelob name.
 
@@ -1581,7 +1641,9 @@ If you do your positioning job right, there should be no price surprises in the 
 ads don’t have to quote exact prices, although sometimes that’s a good thing to do. What
 they should do, however, is to clearly position your brand in a particular price category.
 
-The low-price creneau Instead of high price, the opposite direction can also be a profitable
+### The low-price creneau
+
+Instead of high price, the opposite direction can also be a profitable
 tack to take.
 
 In evaluating price as a possible creneau, keep in mind that the low-price creneau is often
@@ -1777,7 +1839,9 @@ Conflict, even personal conflict, can build a reputation overnight. Where would 
 have been without Richard Nixon?
 
 - For that matter, where would Richard Nixon have been without Alger
+
 - Hiss?
+
 - And Ralph Nader got famous not by saying anything about Ralph Nader
 
 but by going out and attacking the world’s largest corporation singlehandedly.
@@ -2035,7 +2099,7 @@ select names that are almost, but not quite, generic. If once in a while you go 
 track into generic territory, so be it. No world champion driver has made it to the top
 without spinning out a few times.
 
-### A strong, generic-like, descriptive name will block your me-too
+A strong, generic-like, descriptive name will block your me-too
 
 competitors from muscling their way into your territory. A good name is the best insurance
 for long-term success. People is a brilliant name for the gossip-column magazine. It’s a
@@ -2196,7 +2260,7 @@ Two psychology professors, Dr. Herbert Harari and Dr. John W.
 McDavid, were trying to find out why elementary school students made fun of classmates with
 unusual names.
 
-### So they experimented with different names attributed to compositions
+So they experimented with different names attributed to compositions
 
 supposedly written by fourth and fifth graders. Two sets of names, in particular, illustrate
 the principle.
@@ -2213,7 +2277,9 @@ What about famous people with odd first names? Hubert Humphrey and Adlai Stevens
 example. Both losers to men with the popular names of Richard and Dwight.
 
 - What if Richard Humphrey had run against Hubert Nixon? Would
+
 - America have elected a Hubert Nixon?
+
 - Jimmy, Jerry, Richard, Lyndon, John, Dwight, Harry, Franklin. Not since
 
 Herbert have we had a “loser” name in the White House.
@@ -2285,7 +2351,9 @@ not the name that gets Eastern into trouble. It’s the poor service, the food, 
 handling, the surly flight attendants.” The perception is the reality.
 
 - What do you think of Piedmont Airlines? How about Ozark Airlines?
+
 - And what about Allegheny?
+
 - Allegheny, of course, has thrown in the towel and become USAir. Even
 
 North Central and Southern gave up and merged to become Republic Airlines. Both airlines are
@@ -2474,9 +2542,7 @@ list. The results show the value of a name.
 The average awareness of the “initial” companies was 49 percent. The average awareness of a
 matched group of “name” companies was 68 percent, 19 percentage points higher.
 
-### What drives big companies into committing corporate suicide? For one
-
-thing, the top executives have seen the company’s initials on internal memos for so long
+What drives big companies into committing corporate suicide? For one thing, the top executives have seen the company’s initials on internal memos for so long
 they just naturally assume that everybody knows good old VF. Then, too, they misread the
 reasons for the success of companies like IBM and GE.
 
@@ -2592,7 +2658,9 @@ In our initial-happy society, the first question the mind normally asks itself i
 those initials stand for?”
 
 - The mind sees the letters AT&T and says, “Ah, American Telephone &
+
 - Telegraph.”
+
 - But what reply does the mind get when it sees TRW? Obviously, there
 
 are a fair number of people who remember the Thompson Ramo Wooldridge Corporation. And TRW
@@ -2677,7 +2745,7 @@ is 48 pages away where it has to compete with seven other companies that incorpo
 their names. (Following standard rules of alphabetizing a list of names, the phone company
 puts all initial names up front.)
 
-### Take USM Corporation, for example. In the Manhattan telephone
+Take USM Corporation, for example. In the Manhattan telephone
 
 directory, there are seven pages of listings starting with “US.” So you ought to be able to
 find USM somewhere between US Luggage & Leather Products and US News & World Report.
@@ -2730,7 +2798,7 @@ plastics.
 
 RCA is in satellite communications, solid-state electronics, and rent-acars.
 
-### Many people pooh-pooh the conglomerate. Companies should “stick to
+Many people pooh-pooh the conglomerate. Companies should “stick to
 
 their knitting,” they say. But conglomerates have provided the capital to sustain vigorous
 competition in the marketplace. If it weren’t for the conglomerates, we would be a nation of
@@ -2787,7 +2855,7 @@ makes clothes “white.” Cheer makes them “whiter than white.” And Bold ma
 With fewer brands Procter & Gamble does twice as much business and makes five times as much
 profit as Colgate-Palmolive.
 
-### While it’s fashionable on Madison Avenue these days to pooh-pooh
+While it’s fashionable on Madison Avenue these days to pooh-pooh
 
 Procter & Gamble advertising, it’s interesting to note that Procter & Gamble makes more
 money every year than all of America’s 6000 advertising agencies combined.
@@ -2902,7 +2970,7 @@ customers will buy Dial deodorants.
 
 Notice, however, how the rationale changes when the line extension is in the same category.
 
-### Bayer “invented” aspirin and marketed the leading brand of analgesic
+Bayer “invented” aspirin and marketed the leading brand of analgesic
 
 for many years. The people at Bayer couldn’t fail to notice the progress made by the
 “anti-aspirin” approach used by Tylenol.
@@ -2977,7 +3045,7 @@ to buy the DieHard will be able to make the connection. But it’s better to est
 position in the prospect’s mind first and then worry about how to establish a retail
 connection later.
 
-### In positioning, the shortest distance between two points is not
+In positioning, the shortest distance between two points is not
 
 necessarily the best strategy. The obvious name isn’t always the best name. Inside-out
 thinking is the biggest barrier to success. Outside-in thinking is the best aid.
@@ -3021,7 +3089,7 @@ to Protein 21 shampoo.
 A number of years ago the Mennen company introduced a combination shampoo/conditioner called
 Protein 21, which rapidly carved out a 13 percent share of the shampoo market.
 
-### Then Mennen hit the line-extension lure. In rapid succession, the
+Then Mennen hit the line-extension lure. In rapid succession, the
 
 company introduced Protein 21 hairspray in regular and extra hold, scented and unscented.
 Also Protein 21 conditioner (in two formulas) and Protein 21 concentrate. And to make sure
@@ -3117,7 +3185,7 @@ Finally the Union Carbide people gave up and decided to copy the Duracell approa
 Eveready alkaline power cell became the Energizer which finally is giving Duracell a run for
 its money.
 
-### Line extension seems so intuitively right that company after company
+Line extension seems so intuitively right that company after company
 
 falls into the trap. Examples are not hard to find. They’re a saga of opportunities missed.
 
@@ -3249,7 +3317,7 @@ Johnson’s baby shampoo.
 
 By promoting the mildness of the product to the adult market, the company has made Johnson’s baby shampoo one of the leading brands of adult shampoo.
 
-### Notice the characteristics of this broadening-the-base strategy. Same
+Notice the characteristics of this broadening-the-base strategy. Same
 
 product, same package, same label. Only the application has changed. If Johnson & Johnson
 had line-extended the product and introduced Johnson’s adult shampoo, the product would not
@@ -3351,9 +3419,7 @@ diapers.
 
 Also Pierre Cardin wine. In both red and white, of course. And Chanel for Men. “Two” seems
 to be a popular line-extension concept. We have Alka-2, Dial 2, Sominex 2, as well as Jaws
-
 2. (Almost never has a motion picture sequel generated as much business as the original.)
-
 Even advertising agencies have jumped into twos. Ogilvy & Mather 2, Doyle Dane Bernbach 2,
 N. W. Ayer 2, and Grey 2, to name a few twos.
 
@@ -3861,7 +3927,7 @@ position.
 Lasography says new and different, and the business world loves things that are new and
 different.
 
-### Lasography sounds like a basic technology somehow related to
+Lasography sounds like a basic technology somehow related to
 
 xerography. In other words, it connects with Xerox’s last big technology. Lasography from
 Xerox, the company that’s perceived to be in the “ography” business.
@@ -3913,7 +3979,7 @@ place you traveled through to get to somewhere else.
 Furthermore, there’s a moral here that shines through loud and clear. Whether you’re selling
 colas, companies, or countries. Out of mind, out of business.
 
-### Most Americans knew very little about Belgium. They thought Waterloo
+Most Americans knew very little about Belgium. They thought Waterloo
 
 was a suburb of Paris and the most important product of Belgium was waffles. Many didn’t
 even know where the country was. “If it’s Tuesday, this must be Belgium,” was the title of a
@@ -3988,7 +4054,7 @@ The ad that resulted was headlined, “In beautiful Belgium, there are five Amst
 illustration was comprised of five beautiful four-color pictures of Belgium’s three-star
 cities.
 
-### This advertisement generated an enormous number of inquiries about a
+This advertisement generated an enormous number of inquiries about a
 
 country many travelers had seen only through the train window as they traveled from
 Amsterdam to Paris.
@@ -4177,12 +4243,11 @@ the average 10-year-old kid might be vaguely aware of the brand.
 
 For most 10-year-olds, the candy urge immediately conjures up the concept of candy bars.
 
-### Candy bars like Hersheys, Nestlés, Mounds, Almond Joys, Reeses,
+Candy bars like Hersheys, Nestlés, Mounds, Almond Joys, Reeses,
 
 Snickers, Milky Ways. Put there, of course, by the millions of dollars’ worth of advertising
 spent on these and other candy bar brands.
 
-## Chapter 8: Repositioning the competition
 
 Since Milk Duds was getting only a small fraction of that kind of advertising money, it
 would have been hopeless to try to build a separate identity for the brand. The only way to
@@ -4436,9 +4501,13 @@ reasons were concerned, the situation was bleak for the Long Island Trust. Prosp
 them last on all four attributes.
 
 - Many branches
+
 - Full range of services
+
 - Quality of service
+
 - Large capital
+
 - The positions were reversed, however, when the attributes concerned
 
 Long Island itself.
@@ -4447,7 +4516,7 @@ Here is how the respondents ranked the six banks on the Long Island attributes.
 
 Helps Long Island residents
 
-### Helps Long Island economy
+Helps Long Island economy
 
 When the attributes concerned Long Island, the Long Island Trust Company went right to the
 top. A not too surprising result, considering the power of the name.
@@ -4569,12 +4638,10 @@ key aspects.
 A. Exploit the only real weakness of the big metropolitan New York banks: their slow
 reaction time.
 
-### B. Encourage United Jersey management to make sure the bank’s
+B. Encourage United Jersey management to make sure the bank’s
 
 performance matches the advertising’s promise. That took the form of seven key commitments.
-
 1. Decentralized decisions. United Jersey pushed decision making down to the local level.
-
 (One of their lending teams can approve a $10 million loan, and that team meets daily.) In
 10 commercial banking centers throughout the state, other officers on site can make business
 loans quickly. 2. Cross training. United Jersey trains its people in all their banking
@@ -4599,7 +4666,7 @@ Advertising the fast-moving bank When the bank’s performance matched the promi
 advertising was going to make, the advertising started to make the promises. Focusing on the
 weakness of the competition, naturally.
 
-### Each television spot contrasted United Jersey bankers with their
+Each television spot contrasted United Jersey bankers with their
 
 counterparts at the whimsically named “Lethargic National Bank.” In one spot, approval for a
 business loan at Lethargic National seemed to take forever. A second spot showed a Lethargic
@@ -4662,7 +4729,7 @@ One was Stowe, Vermont. The others were: Aspen, Colorado; Courchevel, France; Ja
 Wyoming; Kitzbühel, Austria; Portillo, Chile; St. Christoph, Austria; St. Moritz,
 Switzerland; Sun Valley, Idaho; and Vail, Colorado. (Not a bad list.)
 
-### The positioning advertisements for Stowe used shoulder patches to
+The positioning advertisements for Stowe used shoulder patches to
 
 illustrate the ski areas. “Of the world’s top 10 ski resorts,” said the ad, “only one is in
 the East.” “You don’t have to go to the Alps or the Andes or even to the Rockies to
@@ -4722,7 +4789,7 @@ While much effort had been expended in improving techniques, the programs lacked
 central theme or any continuity. (An especially serious problem in an era of electronic
 overcommunication.)
 
-### It was like General Motors with no overall corporate advertising
+It was like General Motors with no overall corporate advertising
 
 programs. All communication came from the local dealers. Some of it good, much of it bad.
 
@@ -5259,7 +5326,7 @@ Notice what happens when you fail to deal with the competition. Bristol- Myers s
 million to launch Nuprin, and American Home Products spent $40 million to launch Advil. Both
 products contain ibuprofen, an analgesic new to America.
 
-### But both campaigns failed to reposition Tylenol, the dominant headache
+But both campaigns failed to reposition Tylenol, the dominant headache
 
 remedy on the market. As a result, neither product has been able to carve out more than a
 tiny market share.
@@ -5474,7 +5541,7 @@ Years ago a successful product might live 50 years or more before fading away. T
 product’s life cycle is much shorter. Sometimes it can be measured in months instead of
 years.
 
-### New products, new services, new markets, even new media are
+New products, new services, new markets, even new media are
 
 constantly being born. They grow to adulthood and then slide to oblivion. And a new cycle
 starts again.
@@ -5637,7 +5704,7 @@ markets.
 The geographic roll-out is one way. You build the product in one market and then move on to
 another. From east to west. Or vice versa.
 
-### The demographic roll-out is another. Philip Morris built Marlboro into
+The demographic roll-out is another. Philip Morris built Marlboro into
 
 the No. 1 cigarette on college campuses long before it became the No. 1 brand nationwide.
 
@@ -5652,7 +5719,7 @@ supermarkets.
 You need a global outlook Don’t overlook the importance of worldwide thinking. A company
 that keeps its eye on Tom, Dick, and Harry is going to miss Pierre, Hans, and Yoshio.
 
-### Marketing is rapidly becoming a worldwide ballgame. A company that
+Marketing is rapidly becoming a worldwide ballgame. A company that
 
 owns a position in one country now finds that it can use that position to wedge its way into
 another. IBM has some 60 percent of the German computer market. Is this fact surprising? It
@@ -5720,7 +5787,7 @@ strategy, 58 Diversification, 130–131 Ethics, 67–69 Everybody trap, 60 Free�
 House names, 124–125 Human mind (see Mind) Inside–out thinking, 101–102, 199 Jamaica,
 143–147 Jewelry, 56
 
-### Leaders, market (see Market leaders) Line extension:
+Leaders, market (see Market leaders) Line extension:
 
 advantages of, 115–116 bartender test for, 119–120 disadvantages of, 116–118 examples of,
 103–112 and inside–out thinking, 101–102, 199 list test for, 118–119 and outside–in

@@ -203,7 +203,7 @@ leave humanity better than we found it.
 
 Forward. Together.
 
-### Eric
+Eric
 
 “All of physics is either impossible or trivial.
 
@@ -4382,13 +4382,13 @@ Life insurance, for life.925
 What started off as basically a sandbar in the middle of nowhere is now Starbase, Texas. We
 named it “The Gateway to Mars,” because this is where we’re going to develop the technology
 necessary to take humanity, civilization, and life as we know it to another planet for the
-first time in the 4.5-billionyear history of Earth.926
+first time in the 4.5-billion-year history of Earth.926
 
 ### Q: Why Mars?
 
 There are not a lot of options, frankly. Venus is a superheated, high-pressure acid bath.
 Venus is hell, almost literally.928 The moon is closer but it doesn’t have an atmosphere,
-has only onesixth of Earth’s gravity, and is missing many key resources.929 Plus, a Mars
+has only one-sixth of Earth’s gravity, and is missing many key resources.929 Plus, a Mars
 base is more likely to survive a conflict on Earth than a moon base.930 We could establish a
 crude permanent base on the moon. That would be the next step up from Apollo. Let’s not just
 go there for a few hours and head back; let’s have an occupied science base on the moon. We
@@ -4814,7 +4814,7 @@ so obviously lends itself very well to being an audiobook and Penguin did a grea
 narration. It’s quite engaging.1039 The History of the Decline and Fall of the Roman Empire
 by
 
-### Edward Gibbon
+Edward Gibbon
 
 Read Gibbon’s famous book about the decline and fall of the Roman Empire and how they had
 advanced technology in terms of roads, aqueduct plumbing, and so forth and then they
@@ -4842,7 +4842,7 @@ Richard and I have long shared a passion for space. Perhaps one day our kids wil
 play games on a new world!1048 The Autobiography of Benjamin Franklin Autobiographies are
 really helpful.1049
 
-### Britannica Concise Encyclopedia
+Britannica Concise Encyclopedia
 
 Read through the condensed version of the Encyclopedia Britannica; I’d recommend that.1050
 Destined for War: Can America and China Escape Thucydides’s Trap?—A Critical Examination of
@@ -4857,7 +4857,7 @@ Man’s Search for Meaning by Victor E. Frankl
 
 Life 3.0: Being Human in the Age of Artificial Intelligence by
 
-### Max Tegmark
+Max Tegmark
 
 A compelling guide to the challenges and choices in our quest for a great future of life,
 intelligence, and consciousness—on Earth and beyond.1052 Superintelligence: Paths, Dangers,
@@ -4869,7 +4869,7 @@ Final Invention: Artificial Intelligence and the End of the Human Era by James B
 Final Invention is also worth reading.1055 Deep Learning by Ian Goodfellow, Yoshua Bengio,
 and Aaron
 
-### Courville
+Courville
 
 Written by three experts in the field, Deep Learning is the only comprehensive book on the
 subject.1056
@@ -4883,12 +4883,12 @@ Culture by David Kushner Masters of Doom is a great book.1058 The Wealth of Nati
 Smith Adam Smith for the win, obviously.1059 Zero to One: Notes on Startups, or How to Build
 the Future by
 
-### Peter Thiel
+Peter Thiel
 
 Peter Thiel has built multiple breakthrough companies, and Zero to One shows how.1060 What’s
 Our Problem?: A Self-Help Book for Societies by Tim
 
-### Urban
+Urban
 
 Lying by Sam Harris I read Lying by my friend Sam Harris. Excellent cover art and lots of
 good reasons not to lie!1061 The Parasitic Mind: How Infectious Ideas Are Killing Common
@@ -5044,7 +5044,7 @@ youtube.com/watch?v=MBItc_QAUUM. “Elon Musk in 2009—Charlie Rose Interview,�
 Things Past, originally from August 11, 2009, uploaded March 12, 2020, YouTube video, 29:28,
 https://www.youtube.com/ watch?v=ktkV0N0Oask. “Elon Musk's Vision for the Future.”
 
-### “Elon Musk, Charlie Rose Interview (2009).”
+“Elon Musk, Charlie Rose Interview (2009).”
 
 “Elon Musk: The Future We’re Building—and Boring,” TED, May 3, 2017, YouTube video, 40:50,
 https://www.youtube.com/watch?v=zIwLWfaAg-8.
@@ -5071,7 +5071,7 @@ com/2016shareholdermeeting. “RAW Elon Musk Interview from Air Warfare Symposiu
 Space Archive, March 2, 2020, YouTube video, 59:01,
 https://www.youtube.com/watch?v=sp8smJFaKYE.
 
-### “Elon Musk, Air Warfare Symposium 2020.”
+“Elon Musk, Air Warfare Symposium 2020.”
 
 “Ron Baron Interviews Elon Musk at the 29th Annual Baron Investment Conference,” Baron
 Capital, January 4, 2023, YouTube video, 1:00:19, https://www.youtube.com/
@@ -5121,7 +5121,7 @@ Peterson and Musk, “Dr. Peterson x Elon Musk.” “Elon Musk,” Full Send Po
 
 Fridman and Musk, “Lex Fridman Podcast #252.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 Elon Musk and Sam Altman, “Elon Musk and Y Combinator President on Thinking for the Future:
 FULL CONVERSATION,” Vanity Fair, October 8, 2015, YouTube video, 47:53, https://
@@ -5192,13 +5192,13 @@ Fridman and Musk, “Lex Fridman Podcast #252.” 142 Fridman and Musk, “Lex F
 
 ## 252.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 144 Musk, Reddit AMA. “Pando Monthly Fireside Chat with Elon Musk,” PandoMonthly, The Musk
 World, originally from July 17, 2012, uploaded October 27, 2023, YouTube video, 1:03:10,
 https://www.youtube. com/watch?v=1zzMe-b9ch4.
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 “Bill Gates and Elon Musk,” Baidu.
 
@@ -5216,7 +5216,7 @@ Berger, Liftoff. 156 Chris Anderson, “Elon Musk’s Mission to Mars,” Wired,
 https://www.wired. com/2012/10/ff-elon-musk-qa/. 157 Anderson, “Elon Musk's Mission to
 Mars.” 158 Urban, “The Cook and the Chef.”
 
-### “Elon Musk, Charlie Rose Interview (2009).”
+“Elon Musk, Charlie Rose Interview (2009).”
 
 “CHM Revolutionaries: An Evening with Elon Musk,” Computer History Museum, recorded January
 22, 2013, uploaded February 5, 2013, YouTube video, 1:16:51, https://www.youtube.
@@ -5247,7 +5247,7 @@ New York Times Events, November 30, 2023, YouTube video, 1:33:36, https://www.yo
 com/watch?v=2BfMuHDfGJI. “2023 Annual Shareholder Meeting,” Tesla, May 16, 2023,
 https://www.tesla. com/2023shareholdermeeting.
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 186 Musk (@elonmusk), X account.
 
@@ -5263,7 +5263,7 @@ Send Podcast. “Elon Musk,” Full Send Podcast.
 Jimmy Soni, The Founders: The Story of PayPal and the Entrepreneurs Who Shaped Silicon
 Valley (Simon & Schuster, 2022).
 
-### “Elon Musk, Charlie Rose Interview (2009).”
+“Elon Musk, Charlie Rose Interview (2009).”
 
 198 Soni, The Founders.
 
@@ -5273,7 +5273,7 @@ https://www.smithsonianmag.com/science-nature/
 elon-musk-the-rocket-man-with-a-sweet-ride-136059680/. “Elon Musk Answers Your Questions,”
 SXSW 2018.
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 204 Elon Musk, “Elon Musk Commencement Speech at Caltech / CIT 2012,” YouTube video, 15:48,
 posted by “Elon Musk Best Videos,” November 22, 2015, https://youtube.com/
@@ -5301,7 +5301,7 @@ Isaacson, Elon Musk. “CHM Revolutionaries: An Evening with Elon Musk.” 231 K
 “CEO of Tesla Motors and SpaceX.” 232 Khan and Musk, “CEO of Tesla Motors and SpaceX.” 233
 Khan and Musk, “CEO of Tesla Motors and SpaceX.”
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 “CHM Revolutionaries: An Evening with Elon Musk.” 236 Khan and Musk, “CEO of Tesla Motors
 and SpaceX.” “CHM Revolutionaries: An Evening with Elon Musk.” 238 Urban, “The Cook and the
@@ -5323,7 +5323,7 @@ https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2. 241
 Videos, December 4, 2015, YouTube video, 24:50, https://www.youtube.com/
 watch?v=9e4AaXzagfc. “Tesla AI Day 2022.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 254 Tim Dodd, “Starbase Tour with Elon Musk [PART 1 // Summer 2021],” Everyday Astronaut,
 August 3, 2021, YouTube video, 53:16, https://www.youtube.com/watch?v=t705r8ICkRw. “Tesla
@@ -5338,11 +5338,11 @@ Musk's Memos. 265 Berger, Liftoff. 266 Berger, Liftoff. “Tesla CEO Elon Musk,�
 “Elon Musk Answers Your Questions,” SXSW 2018. “2023 Annual Shareholder Meeting,” Tesla. 270
 Battelle and Musk, “Web 2.0 Summit 08.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “2023 Annual Shareholder Meeting,” Tesla.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Elon Musk's Vision for the Future.” “Jeff Skoll Talks with Elon and Kimbal Musk.” 276
 Peterson and Musk, “Dr. Peterson x Elon Musk.”
@@ -5360,22 +5360,22 @@ Isaacson, Elon Musk.
 Isaacson, Elon Musk. 292 Magel, ed., Musk's Memos. “Elon Musk: Digital Superintelligence,” Y
 Combinator.
 
-### “Elon Musk, Air Warfare Symposium 2020.”
+“Elon Musk, Air Warfare Symposium 2020.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 296 Tim Dodd, “Talking to Elon Musk and Jim Bridenstine About SpaceX Fly Astronauts for the
 1st Time! #DM2,” Everyday Astronaut, May 27, 2020, YouTube video, 21:48,
 https://www.youtube. com/watch?v=p4ZLysa9Qqg.
 
-### “Elon Musk, Air Warfare Symposium 2020.”
+“Elon Musk, Air Warfare Symposium 2020.”
 
 “Interview with Elon Musk,” Motley Fool, 2011. “Bill Gates and Elon Musk,” Baidu. “Bill
 Gates and Elon Musk,” Baidu. “Bill Gates and Elon Musk,” Baidu. “Elon Musk, CEO of Tesla at
 ONS 2014,” ONS: Energy Meeting Place, November 13, 2014, YouTube video, 26:52,
 https://www.youtube.com/watch?v=0ZsVxSDB7NY&t=2s. 303 Berger, Liftoff.
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 305 Tim Dodd, “First Look Inside SpaceX’s Starfactory w/ Elon Musk,” Everyday Astronaut,
 June 22, 2024, YouTube video, 1:04:17, https://www.youtube.com/watch?v=aFqjoCbZ4ik. 306
@@ -5390,7 +5390,7 @@ https://www.youtube.com/watch?v=YAtLTLiqNwg. 313 Magel, ed., Musk's Memos. 314 B
 “Shooting the Moon,” Discover Magazine, September 8, 2005, https://www.
 discovermagazine.com/the-sciences/shooting-the-moon.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Tesla Factory Tour,” Marques Brownlee. “Tesla Factory Tour,” Marques Brownlee. “Tesla
 Factory Tour,” Marques Brownlee. “Elon Musk Interview,” Munro Live. “Elon Musk Interview,”
@@ -5410,16 +5410,16 @@ Isaacson, Elon Musk.
 
 Isaacson, Elon Musk. 331 Musk, “Interview with David Faber,” X Spaces.
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
-### “Elon Musk, Air Warfare Symposium 2020.”
+“Elon Musk, Air Warfare Symposium 2020.”
 
 334 Magel, ed., Musk's Memos. 335 Elon Musk, “Tesla Battery Day,” Tesla, September 22, 2020,
 YouTube video, 2:11:29, https:// www.youtube.com/watch?v=l6T9xIeZTds. “Musk, Stanford GSB
 2013.” 337 Ashlee Vance, Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future
 (Ecco, 2015).
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 “Elon Musk at TED2022.”
 
@@ -5451,11 +5451,11 @@ Isaacson, Elon Musk. 362 Rogan and Musk, “JRE #1470.” 363 Musk (@elonmusk), 
 Musk on How to Build the Future.” 365 Elon Musk, “Master Plan, Part Deux,” Tesla Blog, July
 20, 2016, https://www.tesla.com/ master-plan-part-deux.
 
-### “Tesla Q1 2016 Earnings Call.”
+“Tesla Q1 2016 Earnings Call.”
 
 “Elon Musk,” Full Send Podcast. “Elon Musk,” Full Send Podcast.
 
-### “Elon Musk, Air Warfare Symposium 2020.”
+“Elon Musk, Air Warfare Symposium 2020.”
 
 370 Rogan and Musk, “JRE #1609.”
 
@@ -5482,30 +5482,30 @@ Rainn Wilson in the Metaphysical Van Long Before the Cybertruck Was a Thing,” 
 October 8, 2021, YouTube video, 25:11,https://www.youtube.com/watch?v=jMkwsSAIAfY. 382 Khan
 and Musk, “CEO of Tesla Motors and SpaceX.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
-### “Elon Musk, Charlie Rose Interview (2009).”
+“Elon Musk, Charlie Rose Interview (2009).”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 389 Musk (@elonmusk), X account.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Elon Musk's Vision for the Future.” 393 Khan and Musk, “CEO of Tesla Motors and SpaceX.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 395 Khan and Musk, “CEO of Tesla Motors and SpaceX.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 397 Khan and Musk, “CEO of Tesla Motors and SpaceX.” “Elon Musk's Vision for the Future.”
 “Elon Musk's Vision for the Future.” 400 Khan and Musk, “CEO of Tesla Motors and SpaceX.”
 “Elon Musk's Vision for the Future.” “Elon Musk's Vision for the Future.” “Jeff Skoll Talks
 with Elon and Kimbal Musk.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Elon Musk: Digital Superintelligence,” Y Combinator. “Elon Musk: Digital
 Superintelligence,” Y Combinator. 407 Elon Musk and Maurice J. Fitzgerald, Interactive
@@ -5513,31 +5513,31 @@ Network Directory Service with Integrated Maps and Directions, US Patent 5,944,7
 November 8, 1996, and issued August 31, 1999,
 https://patents.justia.com/patent/5944769#claims.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Musk's 2003 Stanford Lecture.” “Musk's 2003 Stanford Lecture.” “Musk's 2003 Stanford
 Lecture.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Musk's 2003 Stanford Lecture.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Elon Musk Answers Your Questions,” SXSW 2018. “Elon Musk Answers Your Questions,” SXSW
 2018.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Musk's 2003 Stanford Lecture.” 422 Soni, The Founders. “Musk's 2003 Stanford Lecture.”
 
 Isaacson, Elon Musk.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Elon Musk: Digital Superintelligence,” Y Combinator.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 429 Fridman and Musk, “Lex Fridman Podcast #252.”
 
@@ -5545,7 +5545,7 @@ Isaacson, Elon Musk.
 
 ### 431 Musk, “Caltech Commencement Speech.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 433 Soni, The Founders. 434 Soni, The Founders. “Elon Musk: Digital Superintelligence,” Y
 Combinator.
@@ -5556,13 +5556,13 @@ Combinator.
 Lecture.” “Musk's 2003 Stanford Lecture.” “The Mind Behind Tesla, SpaceX, SolarCity.” 442
 Soni, The Founders.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 448 Khan and Musk, “CEO of Tesla Motors and SpaceX.” “CHM Revolutionaries: An Evening with
 Elon Musk.” “Musk's 2003 Stanford Lecture.” 451 Khan and Musk, “CEO of Tesla Motors and
@@ -5570,14 +5570,14 @@ SpaceX.” 452 Khan and Musk, “CEO of Tesla Motors and SpaceX.” “Musk's 20
 Lecture.” “CHM Revolutionaries: An Evening with Elon Musk.” “CHM Revolutionaries: An Evening
 with Elon Musk.” “Elon Musk on His PayPal Firing,” Inc. 5000.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Elon Musk on His PayPal Firing,” Inc. 5000. 459 Max Chafkin, “Entrepreneur of the Year,
 2007: Elon Musk,” Inc., December 1, 2007, https://
 www.inc.com/magazine/20071201/entrepreneur-of-the-year-elon-musk.html. “Musk's 2003 Stanford
 Lecture.”
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 “Musk's 2003 Stanford Lecture.”
 
@@ -5598,17 +5598,17 @@ Getting Excited About.” 479 Anderson and Musk, “A Future Worth Getting Excit
 
 ### 480 Musk, “Master Plan, Part Deux.”
 
-### “Elon Musk, Charlie Rose Interview (2009).”
+“Elon Musk, Charlie Rose Interview (2009).”
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 “Musk, Stanford GSB 2013.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “Elon Musk Interview with Billionaire Investment Legend Ron Baron 2015,” Baron Capital, Elon
 Musk Best Videos, December 4, 2015, YouTube video, 51:05, https://www.youtube.com/
@@ -5635,7 +5635,7 @@ Isaacson, Elon Musk. “CHM Revolutionaries: An Evening with Elon Musk.”
 “Talking Tech with Elon Musk!,” Marques Brownlee, August 17, 2018, YouTube video, 17:53,
 https://www.youtube.com/watch?v=MevKTPN4ozw.
 
-### “Elon Musk, Charlie Rose Interview (2009).”
+“Elon Musk, Charlie Rose Interview (2009).”
 
 ### 508 Musk, “Secret Tesla Motors Master Plan.”
 
@@ -5643,16 +5643,16 @@ https://www.youtube.com/watch?v=MevKTPN4ozw.
 
 ### 510 Musk, “Master Plan, Part Deux.”
 
-### “Young Elon Musk Documentary (1999).”
+“Young Elon Musk Documentary (1999).”
 
 ### 513 Musk, “Master Plan, Part Deux.”
 
-### “Young Elon Musk Documentary (1999).”
+“Young Elon Musk Documentary (1999).”
 
 “Elon Musk at TED2022.” “Elon Musk at TED2022.” “Elon Musk: Digital Superintelligence,” Y
 Combinator.
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 “Musk, Stanford GSB 2013.”
 
@@ -5664,7 +5664,7 @@ Isaacson, Elon Musk.
 
 ### 524 Musk, “Caltech Commencement Speech.”
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 Isaacson, Elon Musk. “Elon Musk at TED2022.” “Elon Musk at TED2022.” “Elon Musk at TED2022.”
 “Musk, Stanford GSB 2013.”
@@ -5688,7 +5688,7 @@ Shareholder Meeting,” Tesla.
 (@elonmusk), X account. “Elon Musk's Vision for the Future.” “Elon Musk's Vision for the
 Future.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 Isaacson, Elon Musk. 549 Khan and Musk, “CEO of Tesla Motors and SpaceX.” 550 Dodd, “First
 Look Inside SpaceX's Starfactory.” “Elon Musk Delivers SpaceX Update on Starship, Mars Goals
@@ -5726,7 +5726,7 @@ Chin and Elizabeth Chai Vasarhelyi, Netflix (2022). “The Future We're Building
 and SpaceX.” “Elon Musk's Vision for the Future.” “‘Why Does Space Inspire Us?’ Elon Musk,”
 SpaceX, December 5, 2011, YouTube video, 1:07, https://www.youtube.com/watch?v=_yDZY5_u8FQ.
 
-### “Why Does Space Inspire Us?”
+“Why Does Space Inspire Us?”
 
 “Musk, Stanford GSB 2013.” 588 Urban, “The Cook and the Chef.” “Elon Musk and the Frontier
 of Technology,” transcript, Think Tank with Ben Wattenberg, PBS, December 13, 2007,
@@ -5742,16 +5742,16 @@ SpaceX.”
 for the Future.” 597 Khan and Musk, “CEO of Tesla Motors and SpaceX.” 598 Khan and Musk,
 “CEO of Tesla Motors and SpaceX.” “Musk, Stanford GSB 2013.”
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 Isaacson, Elon Musk. “Elon Musk: Digital Superintelligence,” Y Combinator.
 
-### “Musk Mars Pioneer Award Speech.”
+“Musk Mars Pioneer Award Speech.”
 
 Isaacson, Elon Musk. “Musk's 2003 Stanford Lecture.” “2016 Annual Shareholder Meeting,”
 Tesla.
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 “Musk's 2003 Stanford Lecture.” “Musk's 2003 Stanford Lecture.” “Musk's 2003 Stanford
 Lecture.” “Musk, Stanford GSB 2013.” “Musk's 2003 Stanford Lecture.”
@@ -5763,12 +5763,12 @@ Isaacson, Elon Musk. “CHM Revolutionaries: An Evening with Elon Musk.” “Mu
 Lecture.” “Musk's 2003 Stanford Lecture.” “Elon Musk: Digital Superintelligence,” Y
 Combinator.
 
-### “Elon Musk, Charlie Rose Interview (2009).”
+“Elon Musk, Charlie Rose Interview (2009).”
 
 623 Khan and Musk, “CEO of Tesla Motors and SpaceX.” 624 Berger, Liftoff. 625 Berger,
 Liftoff. 626 Khan and Musk, “CEO of Tesla Motors and SpaceX.” 627 Berger, Liftoff.
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 629 Berger, Liftoff. 630 Kimbal, “The Plan Going Forward,” Kwajalein Atoll and Rockets
 (blog), August 3, 2008, http:// kwajrockets.blogspot.com/2008/08/plan-going-forward.html.
@@ -5778,7 +5778,7 @@ Minutes.
 
 Isaacson, Elon Musk. “Elon Musk: Digital Superintelligence,” Y Combinator.
 
-### “Pando Monthly Fireside Chat.”
+“Pando Monthly Fireside Chat.”
 
 636 Berger, Liftoff. 637 Berger, Liftoff. 638 Berger, Liftoff. 639 Berger, Liftoff. “Future
 of Energy & Transport,” Oxford Martin School. 641 Khan and Musk, “CEO of Tesla Motors and
@@ -5807,17 +5807,17 @@ watch?v=7DPR9rzVCzk. 652 Dodd, “First Look Inside SpaceX's Starfactory.” “
 TED2022.” “Future of Energy & Transport,” Oxford Martin School. 655 Berger, Liftoff. “Elon
 Musk,” Code Conference 2016.
 
-### “Musk Mars Pioneer Award Speech.”
+“Musk Mars Pioneer Award Speech.”
 
 “Elon Musk,” Code Conference 2016.
 
-### “Musk Mars Pioneer Award Speech.”
+“Musk Mars Pioneer Award Speech.”
 
 660 Tom Junod, “Elon Musk: Triumph of His Will,” Esquire, November 14, 2012, https://www.
 esquire.com/news-politics/a16681/elon-musk-interview-1212/. 661 Dodd, “First Look Inside
 SpaceX's Starfactory.” 662 Dodd, “First Look Inside SpaceX's Starfactory.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 “Elon Musk SpaceX Update, Starship Flight 3.” 665 Fridman and Musk, “Lex Fridman Podcast
 
@@ -5844,13 +5844,13 @@ Update, Starship Flight 3.”
 
 ### 685 Dodd, “Starship-Catching Tower.”
 
-### “Musk Mars Pioneer Award Speech.”
+“Musk Mars Pioneer Award Speech.”
 
 ### 687 Musk, “Caltech Commencement Speech.”
 
 ### 688 Musk, “Caltech Commencement Speech.”
 
-### “Musk Mars Pioneer Award Speech.”
+“Musk Mars Pioneer Award Speech.”
 
 690 Musk (@elonmusk), X account. 691 Anderson and Musk, “A Future Worth Getting Excited
 About.” “Elon Musk at TED2022.” “Jeff Skoll Talks with Elon and Kimbal Musk.” “Jeff Skoll
@@ -5864,7 +5864,7 @@ of the Year: Elon Musk.”
 
 705 Wilson and Musk, “Metaphysical Van.” 706 Musk (@elonmusk), X account.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 “TIME Person of the Year: Elon Musk.” 709 Khan and Musk, “CEO of Tesla Motors and SpaceX.”
 710 Khan and Musk, “CEO of Tesla Motors and SpaceX.” “Tesla AI Day 2022.” 712 Musk,
@@ -5878,7 +5878,7 @@ Energy & Transport,” Oxford Martin School. “Elon Musk on Tesla, SpaceX,” W
 Musk, “CEO of Tesla Motors and SpaceX.” 725 Khan and Musk, “CEO of Tesla Motors and SpaceX.”
 “Musk USC Commencement Speech.” “Musk USC Commencement Speech.”
 
-### “Elon Musk, Air Warfare Symposium 2020.”
+“Elon Musk, Air Warfare Symposium 2020.”
 
 ### 729 Dodd, “Starbase Tour, Part 3.”
 
@@ -5922,7 +5922,7 @@ Fridman and Musk, “Lex Fridman Podcast #252.” “2016 Annual Shareholder Mee
 “Elon Musk Podcast,” ARK Invest. “The Future We're Building—and Boring.” “The Future We're
 Building—and Boring.” 783 Krishnan and Ramamurthy, “Elon Musk Clubhouse Interview.”
 
-### “Elon Musk, Investor Day 2023.”
+“Elon Musk, Investor Day 2023.”
 
 ### 785 Musk, “Master Plan, Part Deux.”
 
@@ -5939,11 +5939,11 @@ Podcast #252.” 794 Fridman and Musk, “Lex Fridman Podcast #252.” 795 Fridm
 Fridman Podcast #252.” 796 Fridman and Musk, “Lex Fridman Podcast #252.” 797 Fridman and
 Musk, “Lex Fridman Podcast #252.” 798 Peterson and Musk, “Dr. Peterson x Elon Musk.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 801 Fridman and Musk, “Lex Fridman Podcast #438.” “Birthrate Threat,” WELT Documentary.
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 “Elon Musk Answers Your Questions,” SXSW 2018. 806 Lex Fridman and Elon Musk, “Elon Musk:
 War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400,”
@@ -5983,7 +5983,7 @@ Combinator. 844 Fridman and Musk, “Lex Fridman Podcast #438.” 845 Rogan and 
 
 ## 1470.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 848 Musk (@elonmusk), X account. 849 Diamandis and Musk, “AGI Safety, Superintelligence, and
 Neuralink.” 850 Diamandis and Musk, “AGI Safety, Superintelligence, and Neuralink.” 851 Musk
@@ -6043,7 +6043,7 @@ youtube.com/watch?v=smK9dgdTl40.
 
 909 Wilson and Musk, “Metaphysical Van.” 910 Wilson and Musk, “Metaphysical Van.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 - 913 Khan and Musk, “CEO of Tesla Motors and SpaceX.”
 - 914 Fridman and Musk, “Lex Fridman Podcast #252.”
@@ -6052,12 +6052,12 @@ youtube.com/watch?v=smK9dgdTl40.
 “Elon Musk: Digital Superintelligence,” Y Combinator. 917 Return to Space. 918 Musk
 (@elonmusk), X account.
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 920 Musk (@elonmusk), X account. “Elon Musk on How to Save the Human Race,” Milken
 Conference.
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 ### 924 Musk, “Caltech Commencement Speech.”
 
@@ -6067,7 +6067,7 @@ Conference.
 
 SpaceX Update, Starship Flight 3.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 ### 931 Musk, “Caltech Commencement Speech.”
 
@@ -6079,7 +6079,7 @@ Fridman and Musk, “Lex Fridman Podcast #438.” “Elon Musk SpaceX Update at 
 Flight 3.” “Elon Musk SpaceX Update at Starbase,” May 2025. “Elon Musk SpaceX Update,
 Starship Flight 3.”
 
-### “Elon Musk: 10X Every 6 Months.”
+“Elon Musk: 10X Every 6 Months.”
 
 “Elon Musk SpaceX Update at Starbase,” May 2025. 942 Musk and Altman, “Thinking for the
 Future.” 943 Musk (@elonmusk), X account. “Elon Musk SpaceX Update at Starbase,” May 2025.
@@ -6125,7 +6125,7 @@ https://www.investing.com/ academy/statistics/elon-musk-facts/. 993 Tom Huddlest
 Company,” CNBC, June 19, 2018,
 https://www.cnbc.com/2018/06/19/howelon-musk-founded-zip2-with-his-brother-kimbal.html.
 
-### “Third Row Tesla Podcast, Episode 7.”
+“Third Row Tesla Podcast, Episode 7.”
 
 995 US Securities and Exchange Commission, “Form 10-K: PayPal, Inc.,” archived August 25,
 2020, https://web.archive.org/web/20200825231531/https://www.sec.gov/Archives/edgar/

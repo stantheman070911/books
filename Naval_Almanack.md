@@ -134,11 +134,11 @@ friendly but highly competent sparring partner, he might just change yours.
 
 Keep your hands up and your mind open.
 
-### Pura Vida,
+Pura Vida,
 
-### Tim Ferriss
+Tim Ferriss
 
-### Austin, Texas
+Austin, Texas
 
 ## Eric’s Note (About This Book)
 
@@ -356,7 +356,7 @@ you with responsibility, equity, and leverage.
 
 ↓ “Give me a lever long enough and a place to stand, and I will move the earth.”
 
-### —Archimedes
+> —Archimedes
 
 ↓ Fortunes require leverage. Business leverage comes from capital, people, and products with
 no marginal cost of replication (code and media).
@@ -1794,7 +1794,7 @@ you down the wrong road.
 I never ask if “I like it” or “I don’t like it.” I think “this is what it is” or “this is
 what it isn’t.”
 
-### —Richard Feynman
+> —Richard Feynman
 
 It’s really important for me to be honest. I don’t go out of my way volunteering negative or
 nasty things. I would combine radical honesty with an old rule Warren Buffett has, which is
@@ -2089,7 +2089,7 @@ blogs, tweets, or whatever—anything with ideas and information and learning—
 read are the ones you’re excited about reading all the time. [4] “As long as I have a book
 in my hand, I don’t feel like I’m wasting time.”
 
-### —Charlie Munger
+> —Charlie Munger
 
 Everyone’s brain works differently. Some people love to take notes. Actually, my notetaking
 is Twitter. I read and read and read. If I have some fundamental “ah-ha” insight or concept,
@@ -3919,7 +3919,7 @@ Any moment is perfectly unique. Each moment itself slips by so quickly you can�
 remember that. [2] “Everything is more beautiful because we’re doomed. You will never be
 lovelier than you are now, and we will never be here again.”
 
-### —Homer, The Iliad
+> —Homer, The Iliad
 
 I don’t even remember what I said two minutes ago. At best, the past is some fictional
 little memory tape in my head. As far as I’m concerned, my past is dead. It’s gone. All

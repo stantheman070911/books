@@ -2,7 +2,7 @@
 
 by James Dale Davidson & Lord William Rees-Mogg Simon & Schuster 1997
 
-## CHAPTER 1 THE TRANSITION IN THE YEAR 2000
+## Chapter 1: The Transition in the Year 2000
 
 "It feels like something big is about to happen: graphs show us the yearly growth of
 populations, atmospheric concentrations of carbon dioxide, Web addresses, and Mbytes per
@@ -38,14 +38,14 @@ Greek. We believe that a new stage in history-the age of the Sovereign Individua
 to be "unveiled." "Violence shall no more be heard in thy land, wasting nor destruction
 within thy borders." ISAIAH 60:18
 
-### The Fourth Stage Of Human Society
+### The Fourth Stage of Human Society
 
 The theme of this book is the new revolution of power which is liberating individuals at the
-expense of the twentiethcentury nationstate. Innovations that alter the logic of violence in
+expense of the twentieth century nation state. Innovations that alter the logic of violence in
 unprecedented ways are transforming the boundaries within which the future must lie. If our
 deductions are correct, you stand at the threshold of the most sweeping revolution in
 history. Faster than all but a few now imagine, microprocessing will subvert and destroy the
-nationstate, creating new forms of social organization in the process. This will be far from
+nation state, creating new forms of social organization in the process. This will be far from
 an easy transformation.
 
 The challenge it will pose will be all the greater because it will happen with incredible
@@ -68,16 +68,18 @@ at a smaller scale is likely to jump. Violence will become more random and local
 Organized crime will grow in scope. We explain why.
 
 Another logical implication of falling returns to violence is the eclipse of politics. There
-is much evidence that adherence to the civic myths of the twentiethcentury nationstate is
+is much evidence that adherence to the civic myths of the twentieth century nation state is
 rapidly eroding. The death of Communism is merely the most striking example. As we explore
 in detail, the collapse of morality and growing corruption among leaders of Western
 governments is not a random development. It is evidence that the potential of the
-nationstate is exhausted. Even many of its leaders no longer believe the platitudes they
+nation state is exhausted. Even many of its leaders no longer believe the platitudes they
 mouth.
 
 Nor are they believed by others.
 
-History Repeats Itself This is a situation with striking parallels in the past. Whenever
+### History Repeats Itself
+
+This is a situation with striking parallels in the past. Whenever
 technological change has divorced the old forms from the new moving forces of the economy,
 moral standards shift, and people begin to treat those in command of the old institutions
 with growing disdain. This widespread revulsion often comes into evidence well before people
@@ -98,9 +100,11 @@ extreme today.
 We know what happened to organized religion in the wake of the Gunpowder Revolution.
 Technological developments created strong incentives to downsize religious institutions and
 lower their costs. A similar technological revolution is destined to downsize radically the
-nationstate early in the new millennium.
+nation state early in the new millennium.
 
-The Information Revolution As the breakdown of large systems accelerates, systematic
+### The Information Revolution
+
+As the breakdown of large systems accelerates, systematic
 compulsion will recede as a factor shaping economic life and the distribution of income.
 
 Efficiency will rapidly become more important than the dictates of power in the organization
@@ -135,9 +139,9 @@ societies take shape they will be as different from industrial societies as the 
 Aeschylus was from the world of the cave dwellers. to preserve many contemporary
 institutions impossible in
 
-### Prometheus Unbound: The Rise Of The Sovereign
+### Prometheus Unbound: The Rise of the Sovereign Individual
 
-INDIVIDUAL The coming transformation is both good news and bad. The good news is that the
+The coming transformation is both good news and bad. The good news is that the
 Information Revolution will liberate individuals as never before. For the first time, those
 who can educate themselves will be almost entirely free to invent their own work and realize
 the full benefits of their own productivity. Genius will be unleashed, freed from both the
@@ -150,7 +154,9 @@ In the cybereconomy, they will never see you. The ugly, the fat, the old, the di
 vie with the young and beautiful on equal terms in utterly colorblind anonymity on the new
 frontiers of cyberspace.
 
-Ideas Become Wealth Merit, wherever it arises, will be rewarded as never before. In an
+### Ideas Become Wealth
+
+Merit, wherever it arises, will be rewarded as never before. In an
 environment where the greatest source of wealth will be the ideas you have in your head
 rather than physical capital alone, anyone who thinks clearly will potentially be rich. The
 Information Age will be the age of upward mobility. It will afford far more equal
@@ -178,7 +184,9 @@ They will ultimately have little choice but to treat populations in territories 
 more like customers, and less in the way that organized criminals treat the victims of a
 shakedown racket.
 
-Beyond Politics What mythology described as the province of the gods will become a viable
+### Beyond Politics
+
+What mythology described as the province of the gods will become a viable
 option for the individual-a life outside the reach of kings and councils. First in scores,
 then in hundreds, and ultimately in the millions, individuals will escape the shackles of
 politics. As they do, they will transform the character of governments, shrinking the realm
@@ -203,7 +211,9 @@ efficiency and thus revolutionize the way that assets are created and protected.
 they imagined as they spun their myths has a strange resonance with the world you are likely
 to see.
 
-Alt.Abracadabra The "abracadabra" of the magic invocation, for example. bears a curious
+### Alt.Abracadabra
+
+The "abracadabra" of the magic invocation, for example. bears a curious
 similarity to the password employed to access a computer. In some respects, high-speed
 computation has already made it possible to mimic the magic of the genie. Early generations
 of "digital servants" already obey the commands of those who control the computers in which
@@ -223,7 +233,9 @@ Commanding vastly greater resources and beyond the reach of many forms of compul
 Sovereign Individual will redesign governments and reconfigure economies in the new
 millennium. The full implications of this change are all but unimaginable.
 
-Genius and Nemesis For anyone who loves human aspiration and success, the Information Age
+### Genius and Nemesis
+
+For anyone who loves human aspiration and success, the Information Age
 will provide a bounty. That is surely the best news in many generations. But it is bad news
 as well, The new organization of society implied by the triumph of individual autonomy and
 the true equalization of opportunity based upon merit will lead to very great rewards for
@@ -234,7 +246,7 @@ advanced industrial societies throughout the twentieth century. As we write, the
 percent of the world's population have an average per-capita income of $21,000 annually. The
 remaining 85 percent of the world have an average income of just $1,000. That huge, hoarded
 advantage from the past is bound to dissipate under the new conditions of the Information
-Age. technology Information As it does, the capacity of nationstates to redistribute income
+Age. technology Information As it does, the capacity of nation states to redistribute income
 on a large scale increased will collapse. competition between jurisdictions. When technology
 is mobile, and transactions occur in cyberspace, as they increasingly will do, governments
 will no longer be able to charge more for their services than they are worth to the people
@@ -246,9 +258,9 @@ This means that you will no longer be obliged to live in a high-tax jurisdiction
 earn high income. In the future, when most wealth can be earned anywhere, and even spent
 anywhere, governments that attempt to charge too much as the price of domicile will merely
 drive away their best customers. If our reasoning is correct, and we believe it is, the
-nationstate as we know it will not survive in anything like its present form.
+nation state as we know it will not survive in anything like its present form.
 
-### The End Of Nations
+### The End of Nations
 
 Changes that diminish the power of predominant institutions are both unsettling and
 dangerous. Just as monarchs, lords, popes, and potentates fought ruthlessly to preserve
@@ -272,7 +284,7 @@ The changes implied by the Information Revolution will not only create a fiscal 
 governments, they will tend to disintegrate all large structures.
 
 Fourteen empires have disappeared already in the twentieth century. The breakdown of empires
-is part of a process that will dissolve the nationstate itself.
+is part of a process that will dissolve the nation state itself.
 
 Government will have to adapt to the growing autonomy of the individual.
 
@@ -280,13 +292,13 @@ Taxing capacity will plunge by 50~70 percent. This will tend to make smaller jur
 more successful. The challenge of setting competitive terms to attract able individuals and
 their capital will be more easily undertaken in enclaves than across continents.
 
-We believe that as the modern nationstate decomposes, latter-day barbarians will
+We believe that as the modern nation state decomposes, latter-day barbarians will
 increasingly come to exercise power behind the scenes. Groups like the Russian mafiya, which
 picks the bones of the former Soviet Union, other ethnic criminal gangs, nomenklaturas*,
 drug lords, and renegade covert agencies will be laws unto themselves.
 
 They already are. Far more than is widely understood, the modem barbarians have already
-infiltrated the forms of the nationstate without greatly changing its appearances.
+infiltrated the forms of the nation state without greatly changing its appearances.
 
 They are microparasites feeding on a dying system. As violent and unscrupulous as a state at
 war, these groups employ the techniques of the state on a smaller scale. Their growing
@@ -297,18 +309,19 @@ and control of 7 violence. As this technological revolution unfolds, predatory v
 be organized more and more outside of central control. Efforts to contain violence will also
 devolve in ways that depend more upon efficiency than magnitude of power.
 
-- Nomenklatunas are the entrenched elites that ruled the former Soviet Union and other
-
+* Nomenklatunas are the entrenched elites that ruled the former Soviet Union and other
 state-run economies.
 
-History in Reverse The process by which the nationstate grew over the past five centuries
+### History in Reverse
+
+The process by which the nation state grew over the past five centuries
 will be put into reverse by the new logic of the Information Age. Local centers of power
 will reassert themselves as the state devolves into fragmented, overlapping sovereignties.5
 The growing power of organized crime is merely one reflection of this tendency.
 
 Multinational companies are already having to subcontract all but essential work. Some
 conglomerates, such as AT&T, Unisys, and ITT, have split themselves into several firms in
-order to function more profitably. The nationstate will devolve like an unwieldy
+order to function more profitably. The nation state will devolve like an unwieldy
 conglomerate.
 
 Not only is power in the world changing, but the work of the world is changing as well.
@@ -323,7 +336,7 @@ Microprocessing and rapidly improving communications already make it possible fo
 individual to choose where to work. Transactions on the Internet or the World Wide Web can
 be encrypted and will soon be almost impossible for tax collectors to capture. Tax-free
 money already compounds far faster offshore than onshore funds still subject to the high tax
-burden imposed by the twentiethcentury nationstate. After the turn of the millennium, much
+burden imposed by the twentieth century nation state. After the turn of the millennium, much
 of the world's commerce will migrate into the new realm of cyberspace, a region where
 governments will have no more dominion than they exercise over the bottom of the sea or the
 outer planets. In cyberspace. the threats of physical violence that have been the alpha and
@@ -341,14 +354,14 @@ cows, keeping them in a field to be milked. Soon, the cows will have wings.
 Like an angry farmer, the state will no doubt take desperate measures at first to tether and
 hobble its escaping herd. It will employ covert and even violent means to restrict access to
 liberating technologies. Such expedients will work only temporarily, if at all. The
-twentiethcentury nationstate, with all its pretensions, will starve to death as its tax
+twentieth century nation state, with all its pretensions, will starve to death as its tax
 revenues decline.
 
 When the state finds itself unable to meet its committed expenditure by raising tax
 revenues, it will resort to other, more desperate measures. Among them is printing money.
 Governments have grown used to enjoying a monopoly over currency that they could depreciate
 at will. This arbitrary inflation has been a prominent feature of the monetary policy of all
-twentiethcentury states. Even the best national currency of the postwar period, the German
+twentieth century states. Even the best national currency of the postwar period, the German
 mark, lost 71 percent of its value from January 1, 1949, through the end of June 1995. In
 the same period, the U.S. dollar lost 84 percent of its value.6 This inflation had the same
 effect as a tax on all who hold the currency. As we explore later, inflation as revenue
@@ -373,7 +386,7 @@ the late, departed Soviet Union tried in vain to suppress access to personal com
 Xerox machines, western governments will seek to suppress the cybereconomy by totalitarian
 means.
 
-### Return Of The Luddites
+### Return of the Luddites
 
 Such methods may prove popular among some population segments. The good news about
 individual liberation and autonomy will seem to be bad news to many who are not among the
@@ -393,7 +406,7 @@ crisis. Selfinterested grasping of a conscious kind has far less power to motiva
 than does self-righteous fury. While adherence to the civic myths of the twentieth century
 is rapidly falling away, they are not without their true believers. Everyone who came of age
 in the twentieth century has been inculcated in the duties and obligations of the
-twentiethcentury citizen. The residual moral imperatives from industrial society will
+twentieth century citizen. The residual moral imperatives from industrial society will
 stimulate at least some neo-Luddite attacks on information technologies.
 
 In this sense, this violence to come will be at least partially an expression of what we
@@ -402,7 +415,7 @@ economic life to the circumstances of another. Every stage of society requires i
 rules to help individuals overcome incentive traps peculiar to the choices they face in that
 particular way of life. Just as a farming society could not live by the moral rules of a
 migratory Eskimo band, so the Information Society cannot satisfy moral imperatives that
-emerged to facilitate the success of a militant twentiethcentury industrial state. We
+emerged to facilitate the success of a militant twentieth century industrial state. We
 explain why.
 
 In the next few years, moral anachronism will be in evidence at the core countries of the
@@ -417,10 +430,12 @@ encounters recurred over and over, from the sixteenth century through the early 
 the twentieth century. We expect similar clashes early in the new millennium as Information
 Societies supplant those organized along industrial lines.
 
-The Nostalgia for Compulsion The rise of the Sovereign Individual will not be wholly
+### The Nostalgia for Compulsion
+
+The rise of the Sovereign Individual will not be wholly
 welcomed as promising new phase of history, even among those who benefit from it most.
 Everyone will feel some misgivings. And many will despise innovations that undermine the
-territorial nationstate. It is a fact of human nature that radical change of any kind is
+territorial nation state. It is a fact of human nature that radical change of any kind is
 almost always seen as a dramatic turn for the worse. Five hundred years ago, the courtiers
 gathered around the duke of Burgundy would have said that unfolding innovations that
 undermined feudalism were evil. They thought the world was rapidly spiraling downhill 10 at
@@ -455,11 +470,13 @@ services governments now provide. For inescapable reasons that we explore at len
 book, information technology will, destroy the capacity of the state to charge more for its
 services than they are worth to the people who pay for them.
 
-Sovereignty Through Markets To an extent that few would have imagined only a decade ago,
-individuals will achieve increasing autonomy over territorial nationstates through market
+### Sovereignty Through Markets
+
+To an extent that few would have imagined only a decade ago,
+individuals will achieve increasing autonomy over territorial nation states through market
 mechanisms.
 
-All nationstates face bankruptcy and the rapid erosion of their authority. Mighty as they
+All nation states face bankruptcy and the rapid erosion of their authority. Mighty as they
 are, the power they retain is the power to obliterate, not to command.
 
 Their intercontinental missiles and aircraft carriers are already artifacts, as imposing and
@@ -482,7 +499,7 @@ facto item on the treasury's balance sheet. After the transition of the year 200
 denationalized citizens will no longer be citizens at all, but customers.
 
 The commercialization of sovereignty will make the terms and conditions of citizenship in
-the nationstate as dated as chivalric oaths seemed after the collapse of feudalism. Instead
+the nation state as dated as chivalric oaths seemed after the collapse of feudalism. Instead
 of relating to a powerful state as citizens to be taxed, the Sovereign Individuals of the
 twenty-first century will be customers of governments. These governments wilt be organized
 along different principles than those which the world has come to expect over the past
@@ -491,7 +508,7 @@ several centuries.
 A new moral vocabulary will be required to describe the relations of Sovereign Individuals
 with one another and what remains of government. We suspect that as the terms of these new
 relations come into focus, they will offend many people who came of age as "citizens" of
-twentiethcentury nationstates. The end of nations and the "denationalization of the
+twentieth century nation states. The end of nations and the "denationalization of the
 individual" will deflate some warmly held notions, such as "equal protection under the law"
 that presuppose power relations that are soon to be obsolete.
 
@@ -506,7 +523,7 @@ The Don Quixote of the twenty-first century will not be a knight-errant struggli
 the glories of feudalism but a bureaucrat in a brown suit, a tax collector yearning for a
 citizen to audit.
 
-### Reviving Laws Of The March
+### Reviving Laws of the March
 
 We seldom think of governments as competitive entities, except in the broadest sense, so the
 modern intuition about the range and possibilities of sovereignty has atrophied. In the
@@ -514,7 +531,7 @@ past, when the power equation made more difficult for groups to assert a stable 
 coercion, power was frequently fragmented, jurisdictions overlapped, and entities of many
 different kinds exercised one or more of the attributes of sovereignty. Not infrequently,
 the nominal overlord actually enjoyed scant power on the ground. Governments weaker than the
-nationstates are now faced with sustained competition in their ability to impose a monopoly
+nation states are now faced with sustained competition in their ability to impose a monopoly
 of coercion over a local territory. This 12 competition gave rise to adaptations in
 controlling violence and attracting allegiance that will soon be new again.
 
@@ -533,12 +550,14 @@ was exercised through such legal concepts as "avowal" and "distraint" that have 
 vanished. We expect such concepts to become a prominent feature of the law of Information
 Societies.
 
-Transcending Nationality Before the nationstate, it was difficult to enumerate precisely the
+### Transcending Nationality
+
+Before the nation state, it was difficult to enumerate precisely the
 number of sovereignties that existed in the world because they overlapped in complex ways
 and many varied forms of organization exercised power. They will do so again.
 
 The dividing lines between territories tended to become clearly demarcated and fixed as
-borders in the nationstate system. They will become hazy again in the Information Age. In
+borders in the nation state system. They will become hazy again in the Information Age. In
 the new millennium, sovereignty will be fragmented once more. New entities will emerge
 exercising some but not all of the characteristics we have come to associate with
 governments.
@@ -551,18 +570,20 @@ parts of Europe in the Middle Ages in no sense derived their authority from nati
 identity. They were of all ethnic backgrounds and professed to owe their allegiance to God,
 and not to any affinities that members of a nationality are supposed to share in common.
 
-Merchant Republics of Cyberspace You will also see the reemergence of associations of
+### Merchant Republics of Cyberspace
+
+You will also see the reemergence of associations of
 merchants and wealthy individuals with semisovereign powers, like the Hanse (confederation
 of merchants) in the Middle Ages. The Hanse that operated in the French and Flemish fairs
 grew to encompass the merchants of sixty cities.7 The "Hanseatie League," as it is
 redundantly 13 known in English (the literal translation is "Leaguely League"), was an
 organization of Germanic merchant guilds that provided protection to members and negotiated
 trade treaties. It came to exercise semisovereign powers in a number of Northern European
-and Baltic cities. Such entities will reemerge in place of the dying nationstate in the new
+and Baltic cities. Such entities will reemerge in place of the dying nation state in the new
 millennium, providing protection and helping to enforce contracts in an unsafe world.
 
 In short, the future is likely to confound the expectations of those who have absorbed the
-civic myths of twentiethcentury industrial society. Among them are the illusions of social
+civic myths of twentieth century industrial society. Among them are the illusions of social
 democracy that once thrilled and motivated the most gifted minds.
 
 They presuppose that societies evolve in whatever way governments wish them to; preferably
@@ -636,11 +657,11 @@ We argued that technological change was destabilizing the power equation in the 
 our principal points: • We said that American predominance was in decline, which would lead
 to economic imbalances and distress, including another 1929- style stock market crash.
 Experts were all but unanimous in denying that such a thing could happen. Yet within six
-months, in October 1987, would markets were convulsed by the most violentsell-off of the
+months, in October 1987, were convulsed by the most violentsell-off of the
 century. then • We told readers to expect the collapse of Communism. Again, experts laughed.
 
 Yet 1989 brought the events that "no one could have predicted." The Berlin Wall fell, as
-revvolutions swept away Communist regimes from the Baltic to Bucharest.
+revolutions swept away Communist regimes from the Baltic to Bucharest.
 
 • We explained why the multiethnic empire that the Bolshevik nomenklatura inherited form the
 tsars would "inevitably crack apart." At the end of December 1991, the 15 hammer-and-cycle
@@ -804,20 +825,20 @@ depends on for unemployment compensation.
 
 The tendency to overlook what is fundamentally important is not confined solely to the couch
 dweller watching television. Conventional thinkers of all shapes and sizes observe one of
-the pretenses of the nationstate-that the views people hold determine the way the world
+the pretenses of the nation state-that the views people hold determine the way the world
 changes. Apparently sophisticated analysts lapse into explanations and forecasts that
 interpret major historical developments as if they were determined in a wishful way. A
 striking example of this type of reasoning appeared on the editorial page of the New York
 Times just as we were writing "Goodbye, NationState, Hello.
 
-..What?," by Nicholas Colchester.11 Not only was the topic, the death of the nationstate,
+..What?," by Nicholas Colchester.11 Not only was the topic, the death of the nation state,
 the very topic we are addressing, but its author presents himself as an excellent marker to
 illustrate how far removed our way of thinking is from the norm. Colehester is no simpleton.
 He wrote as editorial director of the Economist Intelligence Unit. If anyone should form a
 realistic view of the world it should be he. Yet his article clearly indicates in several
 places that "the coming of international government "is" now logically unstoppable."
 
-Why? Because the nationstate is faltering and can no longer control economic forces.
+Why? Because the nation state is faltering and can no longer control economic forces.
 
 In our view, this assumption verges on the absurd. To suppose that some specific new form of
 governance will emerge simply because another has failed is a fallacy. By that reasoning,
@@ -830,7 +851,7 @@ determine what types of political systems are actually viable.
 
 That is the focus of this book. When the technologies that arc shaping the new millennium
 are considered, it is far more likely that we will see not one world government, but
-microgovemment, or oven conditions approaching anarchy.
+microgovernment, or oven conditions approaching anarchy.
 
 For every serious analysis of the role of violence in determining the rules by which
 everyone operates, dozens of books have been written about the intricacies of wheat
@@ -857,7 +878,7 @@ individual autonomy. Nobody at midcentury was looking forward to the triumph of 
 Sovereign Individual.
 
 Some of the shrewdest observers of the mid-twentieth century became convinced on the
-evidence of the day that the tendency of the nationstate to centralize power would lead to
+evidence of the day that the tendency of the nation state to centralize power would lead to
 totalitarian domination over all aspects of life. In George Orwell's 1984 (1949), Big
 Brother was watching the individual vainly struggle to maintain a margin of autonomy and
 self-respect. It appeared to be a losing cause.
@@ -931,7 +952,7 @@ come. On the one hand, you will witness the realization of a new form of freedom
 emergence of the Sovereign Individual. You can expect to see almost the complete liberation
 of productivity.
 
-At the same time, we expect to see the death of the modern nationstate. Many of the
+At the same time, we expect to see the death of the modern nation state. Many of the
 assurances of equality that Western people have grown to take for granted in the twentieth
 century are destined to die with it.
 
@@ -949,7 +970,7 @@ unclear, it is because we have failed the task of writing in a way that makes co
 ideas accessible. Unlike many forecasters, we want you to understand and even duplicate our
 line of thinking. It is based not upon psychic reveries or the gyrations of planets, but
 upon old-fashioned, ugly logic. For quite logical reasons, we believe that microprocessing
-will inevitably subvert and destroy the nationstate, creating new forms of social
+will inevitably subvert and destroy the nation state, creating new forms of social
 organization in the process. It is both necessary and possible for you to foresee at least
 some details of the new way of life that may be here sooner than you think.
 
@@ -1114,11 +1135,11 @@ of the world order that has predominated these past five centuries, ever since C
 sailed west to open contact with the New World. Yet unlike Spengler we see the birth of a
 new stage in Western civilization in the coming millennium.
 
-- Adam Smith died in 1790, Karl Marx in 1883.
+* Adam Smith died in 1790, Karl Marx in 1883.
 
-## CHAPTER 2
+## Chapter 2
 
-Metapolitical Transformations In
+### Metapolitical Transformations In Historical Perspective
 
 ### Historical Perspective
 
@@ -1142,12 +1163,12 @@ yeoman agricultural systems, so the New World to come will mark a radical depart
 anything seen before.
 
 In the new millennium, economic and political life will no longer be organized on a gigantic
-scale under the domination of the nationstate as it was during the modern centuries. The
+scale under the domination of the nation state as it was during the modern centuries. The
 civilization that brought you world war, the assembly line, social security, income tax,
 deodorant, and the toaster oven is dying.
 
 Deodorant and the toaster oven may survive. The others won't. Like an ancient and once
-mighty man, the nationstate has a future numbered in years and days, and no longer in
+mighty man, the nation state has a future numbered in years and days, and no longer in
 centuries and decades.
 
 Governments have already lost much of their power to regulate and compel. The collapse of
@@ -1395,7 +1416,9 @@ and defend themselves, Yet the tendency will be to downplay the inevitability of
 changes, or to argue about their desirability as if it were within the fiat of industrial
 institutions to determine how history evolves.
 
-The Grand Illusion Authors who are in many ways better informed than we are will
+### The Grand Illusion
+
+Authors who are in many ways better informed than we are will
 nevertheless lead you astray in thinking about the future because they are far too
 superficial in examining how societies work. For example, David Kline and Daniel Burstein
 have written a well-researched volume entitled Road Warriors: Dreams and Nightmares Along
@@ -1448,7 +1471,7 @@ widespread disorientation, especially among those who lose income or social stat
 look in vain at public opinion polls or other measures of mood for an understanding of how
 the coming megapolitical transition is likely to unfold.
 
-L1Fe Without Foresight
+### Life Without Foresight
 
 If we fail to perceive the great transition going on around us, it is partly because we do
 not desire to see. Our foraging forebears may have been just as obdurate, but they had a
@@ -1516,7 +1539,9 @@ probably within a lifetime. Yet even allowing for the foreshortening of history,
 expect decades to pass before the full megapolitical impact of existing information
 technology is realized.
 
-Major and Minor Megapolitical Transitions This chapter analyzes some of the common features
+### Major and Minor Megapolitical Transitions
+
+This chapter analyzes some of the common features
 of megapolitical transitions.
 
 In following chapters we look more closely at the Agricultural Revolution, and the
@@ -1573,7 +1598,9 @@ The growing importance of technology in shaping the logic of violence has led to
 acceleration of history, leaving each successive transition with less adaptive time than
 ever before.
 
-History Speeds Up With events unfolding many times faster than during previous
+### History Speeds Up
+
+With events unfolding many times faster than during previous
 transformations, early understanding of how the world will change could turn out to be far
 more useful to you than it would have been to your ancestors at an equivalent juncture in
 the past. Even if the first farmers had miraculously understood the full megapolitical
@@ -1804,7 +1831,7 @@ a small group can command effective means of resisting an assault by a large gro
 was the case during the Middle Ages, sovereignty tends to fragment. Small, independent
 authorities exercise many of the functions of government. As we explore in a latter chapter,
 we believe that the Information Age will bring the dawn of cybersoldiers, who will be
-heralds of devolution. Cybersoldiers could be deployed not merely by nationstates but by
+heralds of devolution. Cybersoldiers could be deployed not merely by nation states but by
 very small organizations, and even by individuals. Wars of the next millennium will include
 some almost bloodless battles fought with computers.
 
@@ -1958,11 +1985,13 @@ continues to side with humanity, technology will continue to grow in prominence 
 leading megapolitical variable. It was not the first great megapolitical always such,
 however, as a review of transformation, the Agricultural Revolution, clearly shows.
 
-## CHAPTER 3
+## Chapter 3
 
 ### East Of Eden
 
-The Agricultural Revolution and the Sophistication of Violence 'And the Lord said unto Cain,
+### The Agricultural Revolution and the Sophistication of Violence
+
+'And the Lord said unto Cain,
 Where is Abel, thy brother? And he said, I know not: Am I my brothers' keeper? And he said,
 What hast thou done? the voice of thy brothers' blood crieth unto me from the ground."
 GENESIS 4:9-10 Five hundred generations ago, the first phase change in the organization of
@@ -2365,7 +2394,7 @@ When public authority collapsed, property rights and prosperity tended to recede
 accordingly. Collapsing productivity also tended to undermine authority. While not every
 drought or adverse climatic change resulted in the breakdown of public authority, many did.
 
-The Feudal Revolution Of The Year 1000
+### The Feudal Revolution of the Year 1000
 
 Such was the case with the transformation of the year 1000, which launched the feudal
 revolution.14 At that time, megapolitical and economic conditions differed in important ways
@@ -2698,7 +2727,7 @@ differs in kind from public infrastructure, like bridges and aqueducts. In princ
 least, Church structures were used only for religious services and not as thoroughfares for
 commerce. Yet it should not be forgotten that construction of churches and cathedrals helped
 create and deepen markets for many artisanal and engineering skills. In the same way that
-military spending of the nationstate during the Cold War unintentionally helped incubate the
+military spending of the nation state during the Cold War unintentionally helped incubate the
 Internet, so the building of medieval cathedrals led to spin-offs of other kinds, the
 incubation of commerce. The Church was a principal customer of the building trades and
 artisans. Church purchases of silver for communion services, candelabra, and artworks to
@@ -2770,7 +2799,7 @@ William Rees-
 
 Mogg Simon & Schuster 1997
 
-## CHAPTER 4
+## Chapter 4
 
 ### The Last Days Of Politics
 
@@ -2887,30 +2916,30 @@ made up the bulk of the Western European population. By the end of the fifteenth
 the Church had become a major drag upon productivity. The burdens it imposed upon the
 population were pushing living standards down.
 
-Much the same thing can be said of the nationstate today. It was a necessary adaptation to
+Much the same thing can be said of the nation state today. It was a necessary adaptation to
 the new megapolitical conditions created by the Gunpowder Revolution five centuries ago. The
-nationstate widened the scope of markets and displaced fragmented local authorities at a
+nation state widened the scope of markets and displaced fragmented local authorities at a
 time when more encompassing trading areas brought large returns. The fact that merchants
 almost everywhere in Europe spontaneously allied themselves to the monarch at the center as
-he maneuvered to consolidate authority is itself telling evidence that the nationstate in
+he maneuvered to consolidate authority is itself telling evidence that the nation state in
 its early form was good for business. It helped lift the burdens on commerce imposed by
 feudal landlords and local magnates.
 
-In a world where returns to violence were high and rising, the nationstate was a useful
+In a world where returns to violence were high and rising, the nation state was a useful
 institution. But five centuries later, as this millennium draws to a close, megapolitical
-conditions have changed. Returns to violence are falling, and the nationstate, like the
+conditions have changed. Returns to violence are falling, and the nation state, like the
 Church at the twilight of the Middle Ages, is an anachronism that has become a drag on
 growth and productivity.
 
-Like the Church then, the nationstate today has exhausted its possibilities. It is bankrupt,
+Like the Church then, the nation state today has exhausted its possibilities. It is bankrupt,
 an institution grown to a senile extreme. Like the Church then, it has served as the
 dominant form of social organization for five centuries. Having outlived the conditions that
 brought it into existence, it is ripe for a fall. And fall it will. Technology is
-precipitating a revolution in the exercise of power that will destroy the nationstate just
+precipitating a revolution in the exercise of power that will destroy the nation state just
 as assuredly as gunpowder weapons and the printing press destroyed the monopoly of the
 medieval Church.
 
-If our reasoning is correct, the nationstate will be replaced by new form of sovereignty,
+If our reasoning is correct, the nation state will be replaced by new form of sovereignty,
 some of them unique in history, some reminiscent of the city-states and medieval merchant
 republics of the premodern world. What was old will be new after the year 2000. And what was
 unimaginable will be commonplace. As the scale of technology plunges, governments will find
@@ -2946,14 +2975,14 @@ manners called chivalry.
 The fact that saying so borders on heresy suggests how divorced conventional thinking is
 from a realistic grasp of the dynamics of power in late industrial society. It is an issue
 we examine closely in this book. In our view, voting was an effect rather than a cause of
-the megapolitical conditions that brought forth the modern nationstate. Mass democracy and
-the concept of citizenship flourished as the nationstate grew. They will falter as the
-nationstate falters, causing every bit as much dismay in Washington as the erosion of
+the megapolitical conditions that brought forth the modern nation state. Mass democracy and
+the concept of citizenship flourished as the nation state grew. They will falter as the
+nation state falters, causing every bit as much dismay in Washington as the erosion of
 chivalry caused in the court of the duke of Burgundy five hundred years ago.
 
-Parallels Between Chivalry And
+### Parallels Between Chivalry and Citizenship
 
-CITIZENSHIP If you can understand how and why the importance of chivalric oaths faded away
+If you can understand how and why the importance of chivalric oaths faded away
 with the transition to an industrial organization of society, you will be better positioned
 to see how citizenship as we now know it could fade away in the Information Age. Both served
 a similar function. They facilitated the exercise of power under two quite different sets of
@@ -2995,7 +3024,7 @@ heavy emphasis placed upon the chivalric oath.
 
 The honor of the medieval knight and the duty of the conscript soldier served parallel
 functions. The medieval man was bound by oaths to individuals and the Church in much the way
-that moderns are bound by citizenship to the nationstate. Violating an oath was the medieval
+that moderns are bound by citizenship to the nation state. Violating an oath was the medieval
 equivalent of treason. People in late-medieval times went to extremes to avoid violating
 oaths, just as millions of modern citizens went to extremes in the World Wars, charging
 machine-gun nests to fulfill their duties as citizens.
@@ -3006,7 +3035,9 @@ when the going got rough. Chivalry and citizenship both led people to kill and t
 death. Only demanding and exaggerated values that are strongly reinforced by leading
 institutions can serve that function.
 
-Circumventing Cost-Benefit Analysis The success and survival of any system depends upon its
+### Circumventing Cost-Benefit Analysis
+
+The success and survival of any system depends upon its
 capacity to marshal military effort in times of conflict and crisis. Obviously, the decision
 on the part of a medieval knight or a private in the trenches in World War I to risk his
 life in battle was not likely to be informed by a sober, cost-benefit calculation. Seldom
@@ -3037,7 +3068,7 @@ are neither so attractive that they would pass the scrutiny of costbenefit analy
 desperate that they afford no way out? It is here that concepts like chivalry and
 citizenship are important contributors to the successful use of military power. Long before
 a battle begins, predominant organizations must convince individuals that upholding certain
-duties to the lord, or the nationstate, are more important than life itself. The myths and
+duties to the lord, or the nation state, are more important than life itself. The myths and
 rationalizations that societies employ to encourage risk-taking on the battlefield are a key
 part of their military prowess.
 
@@ -3085,7 +3116,9 @@ personal loyalty and customary ties that had to be upheld as a matter of persona
 These oaths could be sworn by anyone from anywhere provided he was otherwise deemed worthy
 by his station in life.
 
-The Vow Chivalric vows bound individuals to one another and were sworn on the honor of those
+### The Vow
+
+Chivalric vows bound individuals to one another and were sworn on the honor of those
 who were parties to them. As Huizinga wrote, "in making a vow, people imposed some privation
 upon themselves as a spur to accomplishment of the actions they were pledged to perform." So
 much importance was placed upon honoring vows that people frequently risked death or
@@ -3150,27 +3183,29 @@ Rather than just walking barefoot in cold weather, flagellants organized process
 which they would march day and night, from one town to the next. "And each time they came to
 a town they would arrange themselves in groups before the church and flog themselves for
 hours on end."20 We believe that people in the future who look back at the era of the
-nationstate will find some of the undertakings done in the twentieth century in the name of
+nation state will find some of the undertakings done in the twentieth century in the name of
 citizenship as ludicrous as we consider self-flagellation. From the vantage point of the
 Information Society, the spectacle of soldiers in the modern period traveling halfway around
-the world to entertain death out of loyalty to the nationstate will come to be seen as
+the world to entertain death out of loyalty to the nation state will come to be seen as
 grotesque and silly. It will seem not far different from some of the extraordinary and 70
 exaggerated rites of chivalry, like walking about in leg irons, which otherwise sensible
 people took pride in doing during the feudal period.
 
-Chivalry Yields to Citizenship Chivalry faded away, to be replaced by citizenship, when
+### Chivalry Yields to Citizenship
+
+Chivalry faded away, to be replaced by citizenship, when
 megapolitical conditions changed and the military purpose of the vow to one's lord was
 antiquated. The world of gunpowder weapons and industrial armies involved very different
 relations between the individuals who did the fighting and their commanders. Citizenship
 emerged when returns to violence were high and rising, and the state had vastly greater
 resources than the social entities that waged war in the medieval period. Because of its
-great power and wealth, the nationstate could strike a bargain directly with the mass of
+great power and wealth, the nation state could strike a bargain directly with the mass of
 common soldiers who fought in its uniform.
 
 Such bargains proved to be far cheaper to the state and much less troublesome than attempts
 to assemble military forces by negotiating with powerful lords and local notables, each of
 whom was capable of resisting demands that ran counter to his interests as no individual
-citizen in the nationstate conceivably could. that no the fact For reasons we explore at
+citizen in the nation state conceivably could. that no the fact For reasons we explore at
 greater depth later, citizenship crucially depended upon individuals was megapolitically
 capable of exercising military power independently. As information technology alters the
 logic of battle, it will antiquate the myths of citizenship just as assuredly as gunpowder
@@ -3184,7 +3219,9 @@ a description of the way they really behaved. Even an encyclopedic account of th
 obligations of chivalry would have revealed little or nothing about the foundations of the
 nobility's power.
 
-Perfection as a Synonym for Exhaustion The advent of effective gunpowder weapons at the end
+### Perfection as a Synonym for Exhaustion
+
+The advent of effective gunpowder weapons at the end
 of the fifteenth century detonated a powerful blast under their feet-just as armed knights
 had perfected their art as never before. By then, careful breeding had finally produced a
 battle horse sixteen hands high, a steed with the stature to carry comfortably a mounted
@@ -3210,8 +3247,8 @@ to pieces."22 Even though it would be centuries before the full logic of gunpowd
 would be unleashed in the citizen armies of the French Revolution, an early hint of the
 transformation of warfare bygunpowder was the adoption of military uniforms in the
 Renaissance. The uniforms aptly symbolize the new relations between the warrior and the
-nationstate that went hand in hand with the transition from chivalry to citizenship. In
-effect, the new nationstate would strike a "uniform" bargain with its citizens, unlike the
+nation state that went hand in hand with the transition from chivalry to citizenship. In
+effect, the new nation state would strike a "uniform" bargain with its citizens, unlike the
 special, divergent bargains struck by the monarch or the pope with a long chain of vassals
 under feudalism.
 
@@ -3219,7 +3256,9 @@ In the old system, everyone had a different place in an architectonic hierarchy.
 
 Everyone had a bargain as unique as his coat of arms and the colorful pennants he flew.
 
-Lowering the Opportunity Costs of Riches Gunpowder weapons radically altered the nature of
+### Lowering the Opportunity Costs of Riches
+
+Gunpowder weapons radically altered the nature of
 society in yet another way.
 
 They separated the exercise of power from physical strength, thereby lowering the
@@ -3231,7 +3270,9 @@ which men were annoyed, in cases of hostility, .. . [t]o be wealthy and powerful
 together was then impossible." 23 When gunpowder came along, it was impossible to be
 powerful without being rich.
 
-Status and Static Understanding For many of the same reasons that most people today are
+### Status and Static Understanding
+
+For many of the same reasons that most people today are
 ill-prepared to anticipate the new dynamics of the Information Society, the leading thinkers
 of medieval society were unable to anticipate or understand the rise of commerce that played
 so important a part in shaping the modern period. Most people five centuries ago viewed
@@ -3311,7 +3352,7 @@ transition is being measured. The Cambridge Economic History of Europe speaks of
 Revolutions" in the plural, explicitly linking them to the sustained growth of national
 incomes.29 In Japan and Russia, this income surge was delayed until the end of the
 nineteenth century. The rise in living standards and sustained growth of national income in
-other parts of Asia and some parts of Africa was a twentiethcentury phenomenon. In some
+other parts of Asia and some parts of Africa was a twentieth century phenomenon. In some
 parts of Africa, sustained growth remains a dream to this day. But that does not mean that
 these regions are not living in the modern age.
 
@@ -3326,7 +3367,7 @@ printing presses, that precipitated the collapse of feudalism.
 
 Lowering the Cost of Knowledge The capacity to mass-produce books was incredibly subversive
 to medieval institutions, just as microtechnology will prove subversive to the modern
-nationstate.
+nation state.
 
 Printing rapidly undermined the Church's monopoly on the word of God, even as it created a
 new market for heresy. Ideas inimical to the closed feudal society spread rapidly, as 10
@@ -3392,16 +3433,16 @@ Medieval society, seemingly so stable and secure in its beliefs in the middle of
 fifteenth century, was rapidly transformed. Its predominant institution, the Church, saw its
 monopoly challenged and shattered. Authority that had been unquestioned for centuries was
 suddenly in dispute. Beliefs and loyalties more sacred than those that bind any citizen to a
-nationstate today were reconsidered and renounced within a few short years, all because of a
+nation state today were reconsidered and renounced within a few short years, all because of a
 technological revolution that came into its own in the last decade of the fifteenth century.
 
 We believe that change as dramatic as that of five hundred years ago will happen again. The
-Information Revolution will destroy the monopoly of power of the nationstate as surely as
+Information Revolution will destroy the monopoly of power of the nation state as surely as
 the Gunpowder Revolution destroyed the Church's monopoly. There is a striking analogy
 between the situation at the end of the fifteenth century, when life had become thoroughly
 saturated by organized religion, and that of today, when the world has 76 become saturated
-with politics. The Church then and the nationstate today are both examples of institutions
-grown to a senile extreme. Like the late-medieval Church, the nationstate at the end of the
+with politics. The Church then and the nation state today are both examples of institutions
+grown to a senile extreme. Like the late-medieval Church, the nation state at the end of the
 twentieth century is a deeply indebted institution that can no longer pay its way. Its
 operations are ever more irrelevant and even counterproductive to the prosperity of those
 who not long ago might have been its staunchest supporters. "Impoverished, Grasping, and
@@ -3480,7 +3521,7 @@ also held major fisheries. Church Fathers discovered a theological necessity for
 to eat fish, which not incidentally ensured a demand for their product at a time when
 transport and sanitary conditions discouraged fish consumption.
 
-Like the nationstate today, the late-medieval Church not only regulated specific industries
+Like the nation state today, the late-medieval Church not only regulated specific industries
 to directly underpin its own interests; it also made the most of its regulatory powers to
 gain revenue for itself in other ways. Clerics went to special pains to promulgate
 regulations and edicts that were difficult to abide by.
@@ -3535,7 +3576,7 @@ than to find money to pay for them."41 Just as bankrupt governments today scroun
 revenues in counterproductive ways, so did the Church five hundred years ago. Indeed, the
 churchmen used some of the same predatory tricks mastered by the politicians today.
 
-The medieval Church five hundred years ago, like the nationstate today, consumed more of
+The medieval Church five hundred years ago, like the nation state today, consumed more of
 society's resources than it ever had before, or ever would again. The Church then, like the
 state today, seemed incapable of functioning and sustaining itself on even record amounts of
 revenue. Just as the state has come to dominate late-industrial economies, spending more
@@ -3556,7 +3597,7 @@ tithes. In effect, the interests in tithes became the ecclesiastic equivalent of
 issued by modern governments to finance their chronic deficits.
 
 While the Church was the ideological defender of feudalism and critic of commerce and
-capitalism, like the nationstate today, it utilized every available marketing technique to
+capitalism, like the nation state today, it utilized every available marketing technique to
 optimize its own revenues. The Church operated a thriving business In the sale of
 sacramentals, including consecrated candles, palms blessed on Palm Sunday, "herbs blessed on
 the Feast of the Assumption, and especially the varieties of Holy Water." 42 Like today's
@@ -3616,7 +3657,7 @@ One or the other of them apparently became jealous of Juan, whose lifeless body 
 out of the Tiber River on June 15, l497.
 
 The leadership of the late-medieval Church was as corrupt as the leadership of the
-nationstate today. "Today I have twice become a father Gods' blessing on it."50
+nation state today. "Today I have twice become a father Gods' blessing on it."50
 
 ### Rodolph Acricola,
 
@@ -3701,10 +3742,10 @@ will become too common to be deeply felt."59 And so it was.
 
 ### Downsizing The Church
 
-By the end of the fifteenth century, the Church was not only as corrupt as the nationstate
+By the end of the fifteenth century, the Church was not only as corrupt as the nation state
 today; it was also a major drag on economic growth. The Church engrossed large amounts of
 capital in unproductive ways, imposing burdens that limited the output of society and
-suppressed commerce. These burdens, like those imposed by the nationstate today, were
+suppressed commerce. These burdens, like those imposed by the nation state today, were
 numerous. We know what happened to organized religion in the wake of the Gunpowder
 Revolution: it created strong incentives to downsize religious institutions and lower their
 costs.
@@ -3723,7 +3764,7 @@ feast days, and abolished numerous sacraments.
 Poverty went from being an apostolic virtue to an unwelcome and often blameworthy social
 problem.60 To understand how downsizing the Church liberated productivity, you have to
 review the many ways that the Church stood in the way of growth before its monopoly was
-broken. Much as the nationstate does today, the Church at the end of the fifteenth century
+broken. Much as the nation state does today, the Church at the end of the fifteenth century
 imposed an incredible burden of excess costs. 1.
 
 Direct costs such as tithes, taxes, and fees fed the overgrown ecclesiastical bureaucracy.
@@ -3897,7 +3938,7 @@ less industrial development. It was rather a case of the Church as a predominant
 shaping moral, cultural, and legal constraints in ways that were closely fitted to the
 imperatives of feudalism. For this very reason, they were ill-suited to the needs of
 industrial society, just as the moral, cultural, and legal constraints of the modern
-nationstate are ill-suited to facilitating commerce in the Information Age. We believe that
+nation state are ill-suited to facilitating commerce in the Information Age. We believe that
 the state will be revolutionized, just as the Church was, to facilitate the realization of
 the new potential.
 
@@ -3976,24 +4017,24 @@ returns to violence are now falling. This is something that few have even begun 
 recognize, but it will have dramatic consequences.
 
 For reasons we explore in this chapter, the Berlin Wall may prove to be far more symbolic of
-the whole era of the industrial nationstate than those in the crowd that night in Berlin or
+the whole era of the industrial nation state than those in the crowd that night in Berlin or
 the millions watching from a distance understood. The Berlin Wall was built to a very
 different purpose than the walls of San Giovannito prevent people on the inside from
 escaping rather than to prevent predators on the outside from entering. That fact alone is a
 telling indicator of the rise in the power of the state from the fifteenth to the twentieth
 centuries. And in more ways than one.
 
-For centuries, the nationstate made all outward-facing walls redundant and unnecessary. The
+For centuries, the nation state made all outward-facing walls redundant and unnecessary. The
 level of monopoly that the state exercised over coercion in those areas where it first took
 hold made them both more peaceful internally and more formidable militarily than any
 sovereignties the world had seen before. The state used the resources extracted from a
-largely disarmed population to crush small-scale predators. The nationstate became history's
+largely disarmed population to crush small-scale predators. The nation state became history's
 most successful instrument for seizing resources. Its success was based upon its superior
 ability to extract the wealth of its citizens. "Love It or Leave It" (Unless You Are Rich)
 Before the transition from the
 
-nationstate to the new sovereignties of the Information Age is complete, many residents of
-the largest and most powerful Western nationstates, like their counterparts in East Berlin
+nation state to the new sovereignties of the Information Age is complete, many residents of
+the largest and most powerful Western nation states, like their counterparts in East Berlin
 in 1989, will be plotting to find their way out. In a hint of things to come, the president
 of the United States proposed in 1995 the enactment of an exit tax, a "Berlin Wall for
 Capital," that would require wealthy Americans to pay a substantial ransom to escape with
@@ -4032,7 +4073,7 @@ quandary of almost everyone 91 with property. Records show that "among the commo
 which used to be put to an oracle in Egypt three standard types were: 'Am I to become a
 beggar?' 'Shall I take to flight?' and 'Is my flight to be stopped?' "4 Clinton's proposal
 says yes. It is an early version of an obstacle to escape that is likely to grow more
-onerous as the fiscal resources of the nationstate slip away. Of course, the first U.S.
+onerous as the fiscal resources of the nation state slip away. Of course, the first U.S.
 version of an exit barrier is more benign than Erich Honecker's concrete and barbed wire. It
 also involves greater price sensitivity, with the burden falling only on "billionaires" with
 taxable estates above $600,000.
@@ -4066,7 +4107,7 @@ payment reduced their net worth by $2.2 million. At a 20 percent rate of return,
 of excess tax reduces net worth by $44 million.
 
 As the millennium approaches, the new megapolitical conditions of the Information Age will
-make it increasingly obvious that the nationstate inherited from the industrial era is a
+make it increasingly obvious that the nation state inherited from the industrial era is a
 predatory institution. With each year that passes, it will seem less a boon to prosperity
 and more an obstacle, one from which the individual will want an escape. It is an escape
 that desperate governments will be loath to allow. The stability and even the survival of
@@ -4079,9 +4120,9 @@ the actual cost of the services that governments provide in return.
 ### The Life And Death Of The Nationstate
 
 The fall of the Berlin Wall was not just a visible symbol of the death of Communism. It was
-a defeat for the entire world system of nationstates and a triumph of efficiency and
+a defeat for the entire world system of nation states and a triumph of efficiency and
 markets. The fulcrum of power underlying history has shifted. We believe that the fall of
-the Berlin Wall in 1989 culminates the era of the nationstate, a peculiar two-hundred-year
+the Berlin Wall in 1989 culminates the era of the nation state, a peculiar two-hundred-year
 phase in history that began with the French Revolution. States have existed for six thousand
 years. But before the nineteenth century, they accounted for only a small fraction of the
 world's sovereignties. Their ascendancy began and ended in revolution.
@@ -4089,7 +4130,7 @@ world's sovereignties. Their ascendancy began and ended in revolution.
 The great events of 1789 launched Europe on a course toward truly national governments. The
 great events of 1989 marked the death of Communism and an assertion of control by market
 forces over massed power. Those two revolutions, exactly two hundred years apart, define the
-era in which the nationstate predominated in the Great Power system. The Great Powers, in
+era in which the nation state predominated in the Great Power system. The Great Powers, in
 turn, dominated the world, spreading or imposing state systems on even the most remote
 tribal enclave.
 
@@ -4114,7 +4155,7 @@ The Roman state outside of Africa could not cut off water for growing crops by d
 unsubmissive people access to the irrigation system. Such hydraulic systems supplied more
 leverage to violence than any other megapolitical configuration in the ancient economy.
 Whoever controlled the water in these societies could extract spoils at a level almost
-comparable to the percentage of total output absorbed by modern nationstate.
+comparable to the percentage of total output absorbed by modern nation state.
 
 Magnitude over Efficiency Gunpowder enabled states to expand more easily outside the
 confines of rice paddies and arid river valleys. The nature of gunpowder weapons and the
@@ -4189,7 +4230,7 @@ system was predicated upon the doctrine that the state owned everything. The dem
 welfare state, by contrast, made more modest claims, and thereby employed superior
 incentives to mobilize greater output. Instead of laying claim to everything in the
 beginning, governments in the West allowed individuals to own property and accumulate
-wealth. Then, after the wealth had been accumulated, the Western nationstates taxed a large
+wealth. Then, after the wealth had been accumulated, the Western nation states taxed a large
 fraction of it away.
 
 Property taxes, income taxes, and estate taxes at high levels furnished the democratic
@@ -4313,9 +4354,9 @@ Like typical enterprises in competitive markets, even a monopoly controlled by i
 would be compelled to move toward efficiency. It would not be able to charge a price, in the
 form of taxes, that exceeded costs by more than a bare margin.
 
-The Role Of Democracy: Voters As Employees And
+### The Role of Democracy: Voters as Employees and Customers
 
-CUSTOMERS Lane treats democracy in the conventional way in assuming that it brings
+Lane treats democracy in the conventional way in assuming that it brings
 violence-using and violence-producing enterprises "increasingly under the control of their
 customers." q This is certainly the politically correct conclusion.
 
@@ -4515,7 +4556,7 @@ another aggressive group capable of organizing violence.
 
 Industrialism and Democracy Taking a longer view, mass democracy may prove to be an
 anachronism that will not long survive the end of the Industrial Age. Certainly, mass
-democracy and the nationstate emerged together with the French Revolution at the end of the
+democracy and the nation state emerged together with the French Revolution at the end of the
 eighteenth century, probably as a response to a surge in real income. Incomes had begun to
 rise significantly in Western Europe about 1750, partly as a result of warmer weather. This
 coincided with a period of technological innovation that displaced skilled jobs of artisans
@@ -4577,9 +4618,7 @@ larger army.
 Against ordinary individuals, who were not in a position to act in concert with millions of
 other ordinary individuals, the central authorities were to prove irresistibly powerful
 everywhere. But the king of Poland lacked the option of directly taxing his citizens in
-
 1760. He had to deal through the lords, wealthy merchants, and other notables, who were a
-
 small, cohesive group. They could and did act in concert to keep the king from commandeering
 their resources without their consent. Given that the Polish nobility had far more troops
 than he did, the king was in no position to insist.
@@ -4646,7 +4685,7 @@ almost inevitably be more effective at protecting its interests than will a mass
 And even if most members of the group choose not to cooperate with any common action, a few
 who are rich may be capable of deploying enough resources to get the job done.
 
-With democratic decision-making, the nationstate could exercise power much more completely
+With democratic decision-making, the nation state could exercise power much more completely
 over millions of persons, who could not easily cooperate to act collectively in their own
 behalf, than it could in dealings with a much smaller number who could more easily overcome
 the organizational difficulties of defending their concentrated interests.
@@ -4656,16 +4695,16 @@ that allowed the state to tap the resources of the well-to-do without having to 
 directly for their permission. In short, democracy as a decision mechanism was well fitted
 to the megapolitical conditions of the Industrial Age.
 
-It complemented the nationstate because it facilitated the concentration of military power
+It complemented the nation state because it facilitated the concentration of military power
 in the hands of those running it at a time when the magnitude of force brought to bear was
 more important than the efficiency with which it was mobilized.
 
 This was demonstrated decisively with the French Revolution, which raised the magnitude of
-military force on the battlefield. Thereafter, other competitive nationstates had little
+military force on the battlefield. Thereafter, other competitive nation states had little
 choice but to converge on a similar organization, with legitimacy ultimately tied to
 democratic decision-making.
 
-To summarize, the democratic nationstate succeeded during the past two centuries for these
+To summarize, the democratic nation state succeeded during the past two centuries for these
 hidden reasons: 1.
 
 There were rising returns to violence that made magnitude of force more important than
@@ -4682,7 +4721,7 @@ Democracy facilitated domination of government by its "employees," thereby assur
 would be difficult to curtail expenditures, including military expenditures. 5.
 
 Democracy as a decision-rule proved to be an effective antidote to the ability of the
-wealthy to act in concert to restrict the nationstate's ability to tax or otherwise protect
+wealthy to act in concert to restrict the nation state's ability to tax or otherwise protect
 their assets from invasion.
 
 Democracy became the militarily winning strategy because it facilitated the gathering of
@@ -4736,7 +4775,7 @@ citizens of a single ethnos started to develop in Western Europe towards the end
 Middle Ages." An early nationalist entity was the Prussian League (Preussicher Bund), which
 formed in 1440 in opposition to rule by the Teutonic Order. Some of the characteristics of
 the order were highlighted earlier as a polar example of a sovereignty unlike the
-nationstate.
+nation state.
 
 The Teutonic Order was a kind of chartered company almost none of whose members were native
 to Prussia. Its headquarters shifted at various times from Bremen and Lubeck to Jerusalem to
@@ -4801,7 +4840,7 @@ seasoned criminals . . .
 
 People have gradually grown used to living outside the law. Theft, illegal seizure and
 factory takeovers have become everyday occurrences.” FERNANDO DE SOTO Peru in Ruins In a
-sense, Peru was no longer a modern nationstate in 1993. It still had a flag and an army, but
+sense, Peru was no longer a modern nation state in 1993. It still had a flag and an army, but
 most of its institutions lay in ruins. Even the prisons had been taken over by the inmates.
 This disintegration could be traced to a number of causes, but most expert attempts to
 explain it miss the real point. Peru was an early casualty of the technological change that
@@ -4910,7 +4949,7 @@ centuries. If our analysis is correct, the organization of society is bound to c
 reflect growing diseconomies of scale in the employment of violence. The boundaries within
 which the future must lie have been redrawn.
 
-## CHAPTER 6
+## Chapter 6
 
 ### The Megapolitics Of The Information
 
@@ -4943,7 +4982,7 @@ Superhighway.
 
 The fortunes of governments will follow those of their counterparts, the unions, into
 decline. Institutionalized coercion of the kind that played a crucial role in
-twentiethcentury society will no longer be possible. Technology is precipitating a profound
+twentieth century society will no longer be possible. Technology is precipitating a profound
 change in the logic of extortion and protection. " there be no Propriety, no Dominion, no
 Mine and Thine distinct; but only that to be every man ‘s that he can get,' and for so long,
 as he can keep it."
@@ -5103,7 +5142,7 @@ C. Lane, whose work on violence and the economic meaning of war is discussed els
 this volume. When Lane wrote in the middle of this century, the In formation Society was
 nowhere in sight. Under the circumstances, he may well have supposed that the competition to
 employ violence in the world had reached its final stage with the appearance of the
-nationstate. There is no hint in his works that he anticipated microprocessing or believed
+nation state. There is no hint in his works that he anticipated microprocessing or believed
 that it was technologically feasible to create assets in cyberspace, a realm without
 physical existence. Lane had nothing to say about the implications of the possibility that
 large amounts of commerce could be made all but immune from the leverage of violence.
@@ -5955,15 +5994,9 @@ the military costs of enforcing local monopolies high. But while the costs remai
 price that minisovereignties can charge for protection rises, since economic activity
 expands when anarchy is curtailed.
 
----
-
-Note that Lane's four stages of competition and monopoly in the use of violence are
+*********Note that Lane's four stages of competition and monopoly in the use of violence are
 different from the four stages in the organization of economic life that we identify-namely,
-foraging, farming, industrialism, and the Information Age.
-
----
-
-During a late phase of
+foraging, farming, industrialism, and the Information Age. ********* During a late phase of
 the second stage many tribute takers attract customers by special offers to agricultural and
 commercial enterprise. They offer protection at low prices for those who will bring new
 lands into cultivation, and special policing services to encourage trade such as that
@@ -6035,7 +6068,7 @@ since one was stuck paying the taxes in any event, developing it fully had littl
 it other than satisfying morbid curiosity. As Lane said, no matter what portion of the taxes
 was plunder they were a price one had to pay "to avoid more severe losses." 4 The Rise of
 Incomes Under Industrialism Part of the reason this dilemma was tolerable during the past
-two centuries of domination by the nationstate was the fact that incomes were rising
+two centuries of domination by the nation state was the fact that incomes were rising
 dramatically, particularly in the jurisdictions where most industrial development was
 confined.
 
@@ -6045,7 +6078,7 @@ But the increase in plunder was nonetheless accompanied by far greater prosperit
 greater inequality of wealth with the rest of the world. Under such conditions, objections
 to the surge of taxation were inevitably marginal and insufficient to deflect events from
 their logical progression. Indeed, for reasons spelled out in previous chapters, the
-military survival of an industrial nationstate largely depended upon the fact that no
+military survival of an industrial nation state largely depended upon the fact that no
 effective limits could be placed upon its claims on the resources of its citizens.
 
 In every industrial state, policies meandered in more or less the same direction.
@@ -6110,7 +6143,7 @@ by any "violence-using enterprise." It is not subject to monopolization because 
 territory.
 
 Although Lane's argument incorporates conventional postwar assumptions about the
-inevitability of the nationstate, he recognized a point that will be more crucial to
+inevitability of the nation state, he recognized a point that will be more crucial to
 understanding the future than it may have seemed forty or fifty years ago. That is the fact
 that governments have never established stable monopolies of coercion over the open sea.
 
@@ -6168,7 +6201,7 @@ was famously poor. Once thickly wooded, it was deforested over the centuries by 
 trying to stay warm in the bitter winters. The whole place is snowed shut from November
 through April each year. Even in summer, Andorra is so cold that crops grow only on the
 southern slopes. If our description makes it seem unappealing, you have just learned the
-secret of its success. Andorra survived as a feudal enclave in the age of the nationstate
+secret of its success. Andorra survived as a feudal enclave in the age of the nation state
 because it was remote and dirt-poor.
 
 At one time, there were numerous medieval frontier or "march" regions where sovereignties
@@ -6213,7 +6246,7 @@ authorities to compromise over their frontier claims. Such compromises tended no
 effective during the medieval period for two reasons: there were frequently sharp cultural
 gaps between the rival authorities; and more important, they lacked the physical capacity to
 impose a negotiated settlement, having insufficient military power on the ground. During the
-era of the nationstate, when national authorities did come to exercise sufficient military
+era of the nation state, when national authorities did come to exercise sufficient military
 power to impose solutions, most march regions and vague frontiers disappeared.
 
 Border fixing became the norm. That is a stable solution if duopolists of violence face the
@@ -6263,7 +6296,7 @@ saturate cyberspace with violence in the way that they saturated the territories
 monopolized with violence in the modern world. No matter how many governments try to enter
 cyberspace, they will be no more capable or powerful in that realm than anyone else.
 
-Ironically, attempts by nationstates to wage "information wars" to dominate or thwart access
+Ironically, attempts by nation states to wage "information wars" to dominate or thwart access
 to cyberspace would probably only accelerate their own demise.
 
 The tendency toward the devolution of large systems is already powerful because of the fall
@@ -6281,7 +6314,7 @@ shrapnel.
 Vulnerability of Large-Scale Systems The dangers of information war will mostly be dangers
 to large-scale industrial systems that operate with central command and control.
 
-Military authorities in the United States and other leading nationstates are both planning
+Military authorities in the United States and other leading nation states are both planning
 for and fearing acts of information sabotage that could have severe consequences for
 disabling large systems. An act of cyberwarfare could close down a telephone switching
 station, disrupt air traffic control, or sabotage a pumping system that regulates the flow
@@ -6315,22 +6348,22 @@ U.S.A.F (Ret.)
 
 ### Superpowers Of Virtual Warfare
 
-The assumptions of the nationstate at war will make less and less megapolitical sense as the
+The assumptions of the nation state at war will make less and less megapolitical sense as the
 importance of information in warfare increases. Because it has no physical existence,
 cyberspace is not a realm in which magnitudes as we know them in the physical world carry
 any commanding importance. It does not matter how many programmers were involved in
 stipulating a sequence of commands.
 
 All that matters is whether the program functions. The Sovereign Individual may truly count
-for as much in cyberspace as does a nationstate, with its seat in the UN, its own flag, and
+for as much in cyberspace as does a nation state, with its seat in the UN, its own flag, and
 an army deployed on the ground. In purely economic terms, some Sovereign Individuals already
 command investible incomes in the hundreds of millions annually, sums that exceed the
-discretionary spending power of some of the bankrupt nationstates.
+discretionary spending power of some of the bankrupt nation states.
 
 But that is not all. In terms of virtual warfare waged through the manipulation of
 information, some individuals may loom as large or larger than many of the world's states.
 One bizarre genius, working with digital servants, could theoretically achieve the same
-impact in a cyberwar as a nationstate. Bill Gates certainly could.
+impact in a cyberwar as a nation state. Bill Gates certainly could.
 
 In this sense, the age of the Sovereign Individual is not merely a slogan. A hacker, or a
 small group of mathematicians, not to mention a company like Microsoft, or almost any
@@ -6338,12 +6371,12 @@ computer software company, could in principle do any or all of the things that t
 Pentagon's Cyber War Task Force has up its sleeves.
 
 There are hundreds of firms in the Silicon Valley and elsewhere that already have a greater
-capacity to wage a cyberwar than 90 percent of the existing nationstates.
+capacity to wage a cyberwar than 90 percent of the existing nation states.
 
 The presumption that governments will continue to monopolize life on the ground as
 alternative avenues for protection open on all sides is an anachronism.
 
-A far more likely outcome is that nationstates will have to be reconfigured to reduce their
+A far more likely outcome is that nation states will have to be reconfigured to reduce their
 vulnerability to computer viruses, logic bombs, infected wires, and trapdoor programs that
 could be monitored by the U.S. National Security Agency, or some teenage hacker.
 
@@ -6442,7 +6475,7 @@ by James Dale Davidson & Lord William Rees-Mogg Simon & Schuster 1997
 
 "The real issue is control. The Internet is too widespread to be easily dominated by any
 single government. By creating a seamless global-economic zone, antisovereign and
-unregulatable, the Internet calls into question the very idea of a nationstate." JOHN PERRY
+unregulatable, the Internet calls into question the very idea of a nation state." JOHN PERRY
 BARLOW The Information Superhighway has become one of the more familiar metaphors of the
 early days of the digital age. It is remarkable not only for its pervasiveness, but also for
 the common misunderstanding it betrays about the cybereconomy. A highway, after all, is an
@@ -6670,13 +6703,13 @@ would have been impossible in the industrial era, such as in longdistance accoun
 medical diagnosis. More examples of these new applications of advanced computational power
 are spelled out below. The second stage of Net commerce will still function within the old
 institutional framework, employing national currencies and submitting to the jurisdiction of
-nationstates. The merchants who employ the Net for sales will not yet employ it to bank
+nation states. The merchants who employ the Net for sales will not yet employ it to bank
 their profits, only to earn revenues. These profits made on Internet transactions will still
 be subject to taxation. 3.
 
 A more advanced stage will mark the transition to true cybercommerce. Not only will
 transactions occur over the Net, but they will migrate outside the jurisdiction of
-nationstates. Payment will be rendered in cybercurrency. Profits will be booked in
+nation states. Payment will be rendered in cybercurrency. Profits will be booked in
 cyberbanks. Investments will be made in cyberbrokerages.
 
 Many transactions will not be subject to taxation. At this stage, cybercommerce will begin
@@ -7078,7 +7111,7 @@ time in history.
 
 Easily used encryption algorithms and the capacity to shop between terrestrial domiciles for
 transactions will provide effective protection against the largest source of predation,
-nationstates themselves.
+nation states themselves.
 
 That is not to say that territorial governments will be entirely outmaneuvered.
 
@@ -7158,7 +7191,7 @@ implies another revolution in the character of money. As cybercommerce begins, i
 inevitably to cybermoney.
 
 This new form of money will reset the odds, reducing the capacity of the world's
-nationstates to determine who becomes a Sovereign Individual. A crucial part of this change
+nation states to determine who becomes a Sovereign Individual. A crucial part of this change
 will come about because of the effect of information technology in liberating the holders of
 wealth from expropriation through inflation. Soon, you will pay for almost any transaction
 over the Net or World Wide Web at the same time you place it, using cybercash. This new
@@ -7245,16 +7278,14 @@ officially or unofficially.
 The verifiability of the digital receipts rules out this classic expedient for expropriating
 wealth through inflation. The new digital money of the Information Age will return control
 over the medium of exchange to the owners of wealth, who wish to preserve it, rather than to
-nationstates that wish to spirit it away.
+nation states that wish to spirit it away.
 
 The Transaction Cost of "Free" Currency Use of this new cybermoney will substantially free
 you from the power of the state. Earlier, we cited the dreary record of the world's
-nationstates in maintaining the value of their currencies over the past half century. No
+nation states in maintaining the value of their currencies over the past half century. No
 currency has suffered a smaller loss from inflation since World War II than the German mark.
 Yet even so, 71 percent of its value vanished between January 1, 1949, and the end of June
-
 1995. The world reserve currency during this period, the U.S. dollar, lost 84 percent of its
-
 value.'8 This is a measure of the wealth that governments expropriated by exploiting their
 territorial monopolies on legal tender. Note that there is no intrinsic necessity that
 currency depreciate or that the nominal cost of living rise every year. To the contrary.
@@ -7365,7 +7396,7 @@ of Argentine currency. If all the wealth of the world had been converted into Ar
 pesos in 1960 and buried, it would not have been worth the effort to spade it up by 1991.
 
 Argentina's example is a leading indicator for the next millennium. Currency will not be
-inflated because other nationstates will no longer be able to get away with it, just as
+inflated because other nation states will no longer be able to get away with it, just as
 Argentina no longer can. Inflation had another lure during the industrial period when prices
 and wages were downwardly inflexible. Modest inflation increased output by reducing real
 wages and prices could be damaged by a credit contraction imported from other countries.
@@ -7377,7 +7408,7 @@ profits of issuing money were extinguished, a new method of payment would be nee
 compensate the issuers of currency directly. Use of the new monetary system will therefore
 probably involve a more explicit transaction cost, perhaps a fee on the order of 1 percent
 per annum. This will be a small price to pay compared to the annual inflationary penalty of
-from 2.7 percent to 99 percent imposed by nationstates. All the more so because there is a
+from 2.7 percent to 99 percent imposed by nation states. All the more so because there is a
 likelihood that overall prices will decline in the future as monopolies are eroded and
 competition intensifies worldwide.
 
@@ -7455,7 +7486,7 @@ capital to find the highest returns globally, should rapidly compensate for the 
 early in the transition crisis.
 
 Investor Control over Capital Conventional thinkers reviewing our argument at this point
-would conclude that the breakdown of income redistribution in the leading nationstates would
+would conclude that the breakdown of income redistribution in the leading nation states would
 doom the world to economic collapse. Do not believe it. We do not gainsay the fact that a
 transition crisis would be likely. But the view that the state improves the functioning of
 the economy by massive reallocation of resources is an anachronism, an article of faith
@@ -7474,7 +7505,7 @@ utilizing resources and deploying investment. For the first time in history, meg
 conditions will allow investors and entrepreneurs rather than specialists in violence
 ultimate control over capital. It is not unreasonable to expect that the rates of return on
 this dispersed, marketdriven investment could be double or triple the meager returns from
-the politically driven budget allocations of the nationstate era. the ablest It was not
+the politically driven budget allocations of the nation state era. the ablest It was not
 uncommon in the final decades of the twentieth century to find examples in any country of
 government investment that were substantially negative. We cited official Russian statistics
 in the revised version of The Great Reckoning from November 1992, suggesting that the whole
@@ -7494,7 +7525,7 @@ nonusers.
 
 But even more important, freedom from predatory violence will allow the cybereconomy to grow
 at far higher compound rates of growth than conventional economies dominated by
-nationstates. That is perhaps the most important point to be made in anticipating the
+nation states. That is perhaps the most important point to be made in anticipating the
 economic impact of the likely collapse of monopoly taxing and inflating capacities of
 government. Setting aside transition difficulties, which could last for decades, the
 long-term prospects for the global economy should be highly bullish.
@@ -7521,7 +7552,7 @@ pain of death. If it becomes impossible for politicians to obtain resources to r
 the public may respond in a rational way and forget about politics, just as well-intentioned
 people ceased organizing marches of penitents when the Middle Ages came to an end.
 
-## CHAPTER 8
+## Chapter 8
 
 ### The End Of Egalitarian Economics
 
@@ -7545,7 +7576,7 @@ will be less valuable, fewer resources will be wasted either to promote or resis
 Those who have employed compulsion and local advantage to redistribute income are destined
 to lose much of their power. This will alter the command of resources.
 
-Privately generated wealth that heretofore has been commandeered by the nationstate will be
+Privately generated wealth that heretofore has been commandeered by the nation state will be
 retained instead by those who earn it. Increasing amounts of wealth will find their way into
 the hands of the ablest entrepreneurs and venture capitalists worldwide.
 
@@ -7603,7 +7634,7 @@ Information Age equivalent of the landed aristocracy of the feudal age-with the 
 difference that the elite of the Information Age are specialists in production, not
 specialists in violence.
 
-The Megapolitics of Innovation For no very good reason, most twentiethcentury sociologists
+The Megapolitics of Innovation For no very good reason, most twentieth century sociologists
 have assumed that technological progress would naturally tend to produce increasingly
 egalitarian societies.
 
@@ -7924,7 +7955,7 @@ Shifts in technology raised the costs of projecting power from the center to the
 and lowered the military costs of an effective resistance.
 
 Consequently, imperial powers withdrew, or stayed on only in tiny enclaves, like Bermuda or
-the Cayman Islands. "If the postcolonial nationstate had become a shackle on progress, as
+the Cayman Islands. "If the postcolonial nation state had become a shackle on progress, as
 more and more critics in Africa seemed to agree by the end of the 1980s, the prime reason
 could appear in little doubt. The state was not liberating and protective of its citizens,
 no matter what its propaganda claimed; on the contrary its gross effect was constricting and
@@ -7941,7 +7972,7 @@ elaborate transportation infrastructure installed by the Belgians had almost tot
 disappeared by 1990. Only a few creaky riverboats continued to function, one of which was
 taken over as a kind of floating palace by the dictator.
 
-Undependable communication and transport reflect the incompetence of backward nationstates
+Undependable communication and transport reflect the incompetence of backward nation states
 at maintaining order. They have kept prices high and minimized opportunities for most of the
 world's population. As Olson emphasizes: First, poor transportation and communication tend
 to force a firm to rely mainly on local factors of production. When a firm's scale
@@ -8012,7 +8043,7 @@ to those of their customers who make the greatest contributions to economic well
 to those who contribute little or whose economic contributions are negative.
 
 This will represent a tremendous change from the common practice of the twentieth century.
-The ideology of the nationstate was that life can and should be regulated in a positive way
+The ideology of the nation state was that life can and should be regulated in a positive way
 by subsidizing undesirable outcomes and penalizing desirable ones. To be poor is
 undesirable; therefore, the poor were subsidized.
 
@@ -8023,7 +8054,7 @@ dysfunction were.
 
 Nor was there much accounting for the skill, hard work, or ingenuity that went into earning
 the wealth that was redistributed. Outcomes were measured in terms of 179 entitlements. The
-twentiethcentury political view assumed that in order for outcomes to be "fair" they had to
+twentieth century political view assumed that in order for outcomes to be "fair" they had to
 be equal.
 
 The New Paradigm The new megapolitical conditions of the twenty-first century will allow
@@ -8091,8 +8122,8 @@ impede. This competition will eventually apply as fully to the learned professio
 bookkeepers. Digital lawyers and cyberdoctors will proliferate in the Information Economy.
 
 Death Watch for NationStates With the economic benefits formerly captured within the
-boundaries of nationstates falling away, the nationstates themselves will eventually
-collapse under their weighty liabilities. But the fact that all nationstates are on a death
+boundaries of nation states falling away, the nation states themselves will eventually
+collapse under their weighty liabilities. But the fact that all nation states are on a death
 watch does not mean that they are all destined to expire at the same moment. Far from it.
 Devolutionary pressures will tend to be most intense in large political entities where
 incomes for most of the population are stagnant or falling.
@@ -8102,7 +8133,7 @@ for generations, or until lifetime income prospects there equate with those in t
 rich industrial countries. At that point, there will no longer be easy cost-substituting
 gains to be had, and the politics of growth will become more challenging.
 
-We also suspect that nationstates with a single major metropolis will remain coherent longer
+We also suspect that nation states with a single major metropolis will remain coherent longer
 than those with several big cities, which imply multiple centers of interest with their
 various hinterlands.
 
@@ -8138,7 +8169,7 @@ proportionate burden of the federal debt. that Quebec should English Canadians r
 argument and tend to resent its implications because they are keenly aware of the large
 transfers made to Quebec over the years. Nonetheless, the appeal of the Parti Quebecois is
 strong, and it seems only a matter of time until a secession referendum dissolves Canada. A
-similar fate awaits other nationstates when their financial circumstances deteriorate.
+similar fate awaits other nation states when their financial circumstances deteriorate.
 
 Another factor that bodes ill for Canada's long-term survival is the fact that it is a
 thinly populated country with a sprawling industrial-era infrastructure to maintain. The
@@ -8165,7 +8196,7 @@ British Columbia as independent sovereignties.
 
 ### After The Nationstate
 
-In the place of nationstates you will see, at first, smaller jurisdictions at the provincial
+In the place of nation states you will see, at first, smaller jurisdictions at the provincial
 level, and ultimately, smaller sovereignties, enclaves of various kinds like medieval
 city-states surrounded by their hinterlands. As strange as it may seem to people inculcated
 with the importance of politics, policies of these new ministates will in many cases be
@@ -8186,7 +8217,7 @@ Exit, or "voting with your feet," is always an option when dated products, organ
 even governments lose their appeal and seem to offer little prospect of immediate
 improvement. Consider, for example, the growth of medieval towns that served as safe havens
 for serfs escaping feudal subjugation. in to Their role may prove analogous accommodating
-the coming exit from nationstates. The acceptance of aliens escaping from some lord as
+the coming exit from nation states. The acceptance of aliens escaping from some lord as
 "citizens of the pale" defied the prevailing conventions of feudal law and Episcopal
 authority. But nonetheless it was a generally successful alternative for those who employed
 it, contributing importantly to weakening the grip of feudalism. As medieval historian Fritz
@@ -8211,7 +8242,7 @@ excessive exits" of their serfs into towns where they achieved freedom.
 
 To return to our earlier example, it is not as farfetched as it might seem to suppose that
 there will be a number of ministates offering refuge to exiles fleeing the dying
-nationstates. These sovereignties will compete on terms and conditions of exile.
+nation states. These sovereignties will compete on terms and conditions of exile.
 
 Some, perhaps on the West Coast of North America, may well cater to people who do not smoke
 and are intolerant of secondhand smoke from those who do.
@@ -8245,7 +8276,7 @@ fish in defiance of limits.
 
 Because information technology eliminates many of the drawbacks of devolving trading areas,
 it will be practical for the new sovereignties to operate more on the principles of clubs or
-affinity groups than those that governed territorial nationstates.
+affinity groups than those that governed territorial nation states.
 
 Just as it is not crucial that every potential customer share the same taste in clothes, or
 watch the same television programs, it will be less important than it may seem that everyone
@@ -8283,7 +8314,7 @@ a population of 69,403. New York had just 60,489. Baltimore was the third larges
 America with 26,114 inhabitants.
 
 Most of what were to become the great metropolitan cities of Europe had populations that are
-tiny by twentiethcentury standards. London, with a population of 864,845, was probably the
+tiny by twentieth century standards. London, with a population of 864,845, was probably the
 biggest city in the world. Paris, with 547,756, was the only other city in Europe with more
 than half a million inhabitants in 1801. Lisbon's population was 350,000. Vienna had a
 population of 252,000.21 Berlin had barely poked above 200,000 by 1819. Madrid was home to
@@ -8651,7 +8682,7 @@ of "permanent" firms will fall away. This will happen whether taxes are reduced 
 slowly. If rapidly, the artificial costs of functioning on a project basis will the
 disappear more quickly. If slowly, anachronistically high taxes will fall upon existing
 firms, while new enterprises will operate as virtual corporations, better enabling them to
-escape costly burdens imposed by the dying nationstate. the main burden of paying While
+escape costly burdens imposed by the dying nation state. the main burden of paying While
 special skills and talents will be more important than ever in the information economy, most
 of the artificial boundaries between professions will dissolve.
 
@@ -8731,7 +8762,7 @@ As we explore next, whether these developments can or should proceed in the face
 opposition from legions of losers will be among the more Important controversies of the
 Information Age.
 
-## CHAPTER 9
+## Chapter 9
 
 ### Nationalism, Reaction, And The New
 
@@ -8766,16 +8797,16 @@ nationalism are bound to weaken.
 The trouble with this reasonable expectation is that all previous history suggests that it
 cannot be accommodated in a reasonable way. The transition it implies will involve a crisis.
 It entails a radically new way of thinking, a new imagining of community that moves beyond
-nationalism and the nationstate. As Michael Billig has highlighted, "our beliefs about
+nationalism and the nation state. As Michael Billig has highlighted, "our beliefs about
 nation-hood, and about the naturalness of belonging to a nation," are "the products of a
 particular historical age." 3 That age, the Modern Age, may already be defunct. Its
-predominant institutions, nationstates, still endure, but they survive precariously upon an
-eroded foundation. As the other shoe drops, and nationstates collapse, we expect a nasty
+predominant institutions, nation states, still endure, but they survive precariously upon an
+eroded foundation. As the other shoe drops, and nation states collapse, we expect a nasty
 reaction, particularly in the wealthy countries where the "national economy" brought high
 income to unskilled work in the twentieth century. We believe that when all is said and
 done, the change in megapolitical conditions occasioned 196 by the advent of information
 technology will result in radical institutional change. The thesis of this book is that the
-massed power of the nationstate is destined to be privatized and commercialized. Like all
+massed power of the nation state is destined to be privatized and commercialized. Like all
 truly radical institutional change, the privatization and commercialization of sovereignty
 will involve a revolution in the "common sense" of the way the world is comprehended. Such
 change seldom happens in a gradual, linear way.
@@ -8794,11 +8825,11 @@ lobbyists will be less important in the Information Age than they became during 
 Industrial Age. Because favors and restraints of trade wrested from governments will be less
 useful, fewer resources will be wasted in lobbying.4 2.
 
-Wider recognition that the nationstate is obsolete, leading to widespread secession
+Wider recognition that the nation state is obsolete, leading to widespread secession
 movements in many parts of the globe. 3.
 
 A decline in the status and power of traditional elites, as well as a decline in the respect
-accorded the symbols and beliefs that justify the nationstate. 4.
+accorded the symbols and beliefs that justify the nation state. 4.
 
 An intense and even violent nationalist reaction centered among those who lose status,
 income, and power when what they consider to be their "ordinary life" is disrupted by
@@ -8808,7 +8839,7 @@ penetration of local economies; b. hostility to immigration, especially of group
 visibly different from the former national group; c. popular hatred of the information
 elite, rich people, the well-educated, and complaints about capital flight and disappearing
 jobs; d. extreme measures by nationalists intent upon halting the secession of individuals
-and regions from faltering nationstates, including resort to wars and acts of "ethnic
+and regions from faltering nation states, including resort to wars and acts of "ethnic
 cleansing" that reinforce nationalist identification with the state and
 
 rationalize the state's claims on people and their resources. 5.
@@ -8828,7 +8859,7 @@ previously enjoyed high incomes.* c.
 
 The Unabomber notwithstanding, the neo-Luddites will attract most of their adherents among
 those in the bottom two-thirds of earnings capacity within the populations of leading
-nationstates. d.
+nation states. d.
 
 The nationalist and Luddite reaction will be strongest, however, not among the very poor but
 among persons of middling skills, underachievers with credentials, who came of age during
@@ -8841,24 +8872,24 @@ appeal. 8.
 
 The nationalist reaction will peak in the early decades of the new millennium, then fade as
 the efficiency of fragmented sovereignties proves superior to the massed power of the
-nationstate. We suspect that the congenital bullying by nationstates of alternative
+nation state. We suspect that the congenital bullying by nation states of alternative
 jurisdictions, exemplified by the Russian invasion of Chechnya, will tend to deprive nations
 and nationalist fanatics of the sympathy of the new generations that come to maturity under
 the megapolitical conditions of the Information Age. 9.
 
-The nationstate will ultimately collapse in fiscal crisis. Systemic crises typically arise
+The nation state will ultimately collapse in fiscal crisis. Systemic crises typically arise
 when failing institutions suffer from rising expenses and falling income-a situation that is
-bound to beset the leading nationstates as retirement benefits and medical outlays balloon
+bound to beset the leading nation states as retirement benefits and medical outlays balloon
 early in the twenty-first century. As we write, both the United Kingdom and the United
 States are burdened with multitrillion-dollar unfunded pension liabilities (comparable on a
-per capita basis) that neither is likely to tame. Other leading nationstates face similarly
+per capita basis) that neither is likely to tame. Other leading nation states face similarly
 bankrupting burdens.
 
 ### Parallels Witii The Renaissance
 
 We previously outlined reasons for thinking that the collapse of the nanny state will have
 consequences closely parallelling those associated with the collapse of the institutional
-monopoly of the Holy Mother Church five centuries ago. Not unlike the nationstate today, the
+monopoly of the Holy Mother Church five centuries ago. Not unlike the nation state today, the
 Church then had been in a position of unchallenged predominance for centuries. In some
 respects, the Church was even more firmly established than the state became five hundred
 years later. The Church had long claimed to act as "the universal authority at the head of
@@ -8905,9 +8936,9 @@ subversive. As theological historian Euan Cameron said, religious reformers like
 Luther adopted views that "meant a deliberate and decisive break with the institutional and
 spiritual continuity of the old Church."9 Heresy and Treason In that spirit, we anticipate
 "a deliberate and decisive break" with the institutional and ideological continuity of the
-nationstate. By the end of the first quarter of the next century, millions of upright
+nation state. By the end of the first quarter of the next century, millions of upright
 individuals will have committed the secular equivalent of sixteenth-century heresy-a kind of
-low treason. They will have withdrawn allegiance from the faltering nationstate to assert
+low treason. They will have withdrawn allegiance from the faltering nation state to assert
 their own sovereignty, their right to choose not their bishops or their house of worship but
 their form of governance as customers. The privatization of sovereignty will parallel the
 privatization of conscience of five centuries earlier. Both are the mass defection of former
@@ -8951,7 +8982,7 @@ In most Western countries, religious doctrines are so ill-formed and sloppily he
 persons can identify the theological points that were the focus of controversy of heresies
 in the past.11 This reflects the general shift of attention away from religion.
 
-To some extent, religious leaders have actually helped to lead the latetwentiethcentury
+To some extent, religious leaders have actually helped to lead the latetwentieth century
 defection from seriousness about spiritual issues by deflecting their energies away from
 spiritual preoccupations to become lobbyists and social agitators. Drawn like loose filings
 to the magnet of power, they devote much of their activities to pressuring political leaders
@@ -8968,7 +8999,7 @@ A Fiscal Inquisition?
 Simply put, contemporary religious leaders focus much of their declining moral authority on
 secular redemption and agitation to influence the state rather than on spiritual salvation.
 Given this record, they can be expected to participate as accomplices in the reaction
-against the coming secular reformation. As the nationstate is challenged and begins to
+against the coming secular reformation. As the nation state is challenged and begins to
 wobble, it will no longer be able to fulfill the promises of material benefits that are
 central to popular support. The de facto bargain struck at the time of the French Revolution
 will lapse. The state will no longer be capable of guaranteeing its citizens low-cost or
@@ -8997,13 +9028,13 @@ prospects for long-term prosperity just to prevent individuals from declaring th
 independence of politics. 20/20 Vision By 2020, or roughly five centuries after Martin
 Luther nailed his 95 subversive theses on the church door at Wittenberg, the perception of
 the cost/benefit ratios of citizenship will have undergone a similar subversive
-clarification. The vision of the nationstate among persons of ability and wealth, the
+clarification. The vision of the nation state among persons of ability and wealth, the
 Sovereign Individuals of the future, will have undergone the political equivalent of laser
 surgery. They will be seeing 20/20.
 
 In the twentieth century, as throughout the modern era, persistently high returns to
 violence made big government a paying proposition. The decisiveness of massed power
-mobilized the allegiance of the wealthy and ambitious to OECD nationstates, notwithstanding
+mobilized the allegiance of the wealthy and ambitious to OECD nation states, notwithstanding
 predatory taxes imposed on income and capital.
 
 Politicians were able to impose marginal tax rates approaching or exceeding 90 percent in
@@ -9020,7 +9051,7 @@ This meant shouldering a tax burden out of proportion to services rendered.
 
 The Arithmetic of Politics Nineteenth-century American Vice President John J. Calhoun
 shrewdly sketched the arithmetic of modern politics. Calhoun's formula divides the entire
-population of the nationstate into two classes: taxpayers, who contribute more to the cost
+population of the nation state into two classes: taxpayers, who contribute more to the cost
 of government services than they consume; and tax consumers, who receive benefits from
 government in excess of their contribution to the cost.
 
@@ -9047,14 +9078,14 @@ accepted, "one of various kinds of waste built into social organization."
 
 The alternative for the discontented was not to move from Britain to France, for example, or
 from the United States to Canada. Except in rare circumstances, that would have availed
-little. The leading nationstates all suffered from the same drawback. They all adopted more
+little. The leading nation states all suffered from the same drawback. They all adopted more
 or less confiscatory tax regimes. To realize a significant increase in autonomy one had to
 escape the core countries of Europe and North America altogether and head for the periphery.
 Tax burdens were meaningfully lower in parts of Asia, South America, and on various remote
 islands. But there was usually a price to be paid for escaping predatory taxationa loss of
 economic opportunity and, often, a decline in living standards. As we have explored, in the
 conditions of the Industrial Age, economic opportunity was constrained and living standards
-were subpar in most of the jurisdictions outside the core industrial nationstates that
+were subpar in most of the jurisdictions outside the core industrial nation states that
 indulged in confiscatory taxation.
 
 Consider the Communist systems as a paradigm. Along with many Third World regimes, they
@@ -9085,7 +9116,7 @@ persons of outstanding talent were moved to accept the nationalist bargain durin
 Industrial Age.
 
 They stayed put and paid outrageously high taxes for the doubtful protection offered by the
-particular nationstate that monopolized violence in the territory in which they were born.
+particular nation state that monopolized violence in the territory in which they were born.
 "Paradise is now shut and locked, barred by angels, so now we must go forward, around the
 world and see if somehow somewhere, there is a back-way in."
 
@@ -9115,7 +9146,7 @@ without.... Only as countries start to resemble each other because of the advanc
 communications and all-around modernization will the danger of premature and excessive exits
 arise, the 'brain drain' being a current example." 16 Note as we pointed out in chapter 8
 that Hirschman's standard of "premature and excessive exits" is seen from the perspective of
-the nationstate being deserted, not from the perspective of the individual.
+the nation state being deserted, not from the perspective of the individual.
 
 Nonetheless, his conclusion that similarities between countries will increase the attraction
 of defection and exit is unimpeachable. The fact that it is now easier to live well anywhere
@@ -9124,7 +9155,7 @@ that you can live well almost anywhere is the fact that you can now earn a high 
 anywhere. It is no longer necessary to reside in a high-cost jurisdiction in order to
 accumulate sufficient wealth to live, as Lord Keynes advised, "wisely, agreeably and well."
 For reasons we have already explored, microtechnology changes the underlying megapolitical
-foundation upon which the nationstate rests. In the Information Age, a new cybereconomy will
+foundation upon which the nation state rests. In the Information Age, a new cybereconomy will
 emerge beyond the capacity of any government to monopolize. For the first time, technology
 will enable individuals to accumulate wealth in a realm that cannot be bent easily to the
 demands of systematic compulsion.
@@ -9148,7 +9179,7 @@ competition on the basis of quality and price. In other words, governments exerc
 territorial monopolies, like most other entities, finally will be subject to real market
 competition on the basis of how well they serve their customers. This will soon make it
 unavoidably obvious that the old logic that favored high-cost regimes in the industrial era
-has reversed. Leading nationstates, with their predatory, redistributive tax regimes and
+has reversed. Leading nation states, with their predatory, redistributive tax regimes and
 heavy-handed regulations, will no longer be jurisdictions of choice. Seen dispassionately,
 they offer poor-quality protection and diminished economic opportunity at monopoly prices.
 In the years to come, they may prove to be more socially unreceptive and violent than
@@ -9160,7 +9191,7 @@ the ablest people will cease to think of themselves as party to a nation, as "Br
 "American" or "Canadian." A new "transnational" or "extranational" understanding of the
 world and a new way of identifying one's place in it await discovery in the new millennium.
 This new equation of identity, unlike nationality, will not be a product of the systematic
-compulsion that made nationstates and the state system universal in the twentieth century.
+compulsion that made nation states and the state system universal in the twentieth century.
 
 The mere fact that developments embracing the whole globe are commonly described as
 "international" shows how deeply the nationalist paradigm has penetrated into our way of
@@ -9177,7 +9208,7 @@ The International Age began in 1789, the same year as the French Revolution. It 
 two centuries, until 1989, when the revolt against Communism in Europe began. We believe
 that that second revolution marked the end of the International Age, and not merely because
 the discredited Communist anthem was "The International." The command economy with state
-ownership was the most ambitious expression of the nationstate. The close relationship
+ownership was the most ambitious expression of the nation state. The close relationship
 between state power and nationalism was reflected in language. The most aggressive verb of
 the Modern Age was "to nationalize," meaning to bring under state ownership and control. It
 was a word that tripped easily off the tongues of demagogues in most parts of the globe
@@ -9186,8 +9217,8 @@ has become anachronistic, precisely because state power has become anachronistic
 
 In the twilight of the modern era, the concentrated power of the state was undermined by the
 interaction between technological innovation and market forces. Now the next stage in the
-triumph of the market is about to unfold. Not only will individual nationstates begin to
-dissolve, but in our view even the club for nationstates, the United Nations, is destined to
+triumph of the market is about to unfold. Not only will individual nation states begin to
+dissolve, but in our view even the club for nation states, the United Nations, is destined to
 go bankrupt. We would not be surprised to see the UN liquidated sometime soon after the turn
 of the millennium.
 
@@ -9212,7 +9243,7 @@ territorial borders.
 
 The idea that humans must naturally place themselves in an "invented" community called a
 nation will come to be seen by the cosmopolitan elite as eccentric and unreasonable in the
-next century, as it would have been through most of human existence. The nationstate, as
+next century, as it would have been through most of human existence. The nation state, as
 sociologist Anthony Giddens wrote, has "no precedent in history." 8 Michael Billig, an
 authority on nationalism, amplified that point: At other times people did not hold the
 notions of language and dialect, let alone those of territory and sovereignty, which are so
@@ -9249,8 +9280,8 @@ given, along with the population living within those boundaries. Yet it is obvio
 however sanctified these boundaries may have become in international law, they were all at
 one time or another contested between rival claimants and determined ultimately by the
 balance of economic and military power between the contending parties." 22 Someone with all
-the data available on half the world's nationstates and a collection of fine satellite maps
-would not be able to predict where the boundaries of the other nationstates would fall. Nor
+the data available on half the world's nation states and a collection of fine satellite maps
+would not be able to predict where the boundaries of the other nation states would fall. Nor
 is there any scientific way of distinguishing biologically or linguistically the members of
 one nationality from those of another. No autopsy procedure, however advanced, could
 distinguish genetically among the remains of Americans, Canadians, and Sudanese after a
@@ -9261,7 +9292,7 @@ with an army and a navy” MARIO PEI
 
 ### Languages As Artifacts Of Power
 
-Surprisingly, much the same can be said of languages. After centuries of nationstate
+Surprisingly, much the same can be said of languages. After centuries of nation state
 dominance, the idea that "language" does not form an objective basis for distinguishing
 between peoples may seem ill-considered or even absurd. But look more closely. The history
 of modern languages clearly reveals the degree to which they were shaped to reinforce
@@ -9330,7 +9361,7 @@ vernacular "dialects" of Latin that were the basis of "French."
 There were also substantial numbers of Flemish speakers in the northeast. "The Parisian
 style of speech," as Michael Billig reminds us, was not spread through spontaneous market
 processes, but "imposed, legally and culturally, as 'French.' "27 What was true in France
-has been true elsewhere in the building of nationstates.
+has been true elsewhere in the building of nation states.
 
 Languages were often carried by armies and imposed by colonial powers. For example, the map
 of Africa after independence was defined according to the areas where the administrative
@@ -9347,7 +9378,7 @@ in facilitating the exercise of power.
 
 The Military Dimension of Language Unformity In a world where returns to violence were
 rising, the adoption of a national language conveyed military advantages. A national
-language was almost a precondition to consolidation of central power in nationstates.
+language was almost a precondition to consolidation of central power in nation states.
 Central authorities that encouraged their citizens to speak the same tongue were better able
 to weaken the military power of local magnates. The standardization of language after the
 French Revolution made the cheapest and most effective form of modern military force -
@@ -9400,13 +9431,13 @@ national
 level. In more ways than one, multilingual states and empires faced higher obstacles in
 mobilizing for war during the industrial period.
 
-At the margin, therefore, they tended to be supplanted by nationstates that were better able
+At the margin, therefore, they tended to be supplanted by nation states that were better able
 to motivate their citizens to fight and mobilize resources for war. This is exemplified by
 nationalist consolidation, such as the invention of France and the French at the end of the
 eighteenth century. It is also illustrated by cases of nationalist devolution, such as the
-collapse of the Austro-Hungarian Empire after World War I. The new nationstates that emerged
+collapse of the Austro-Hungarian Empire after World War I. The new nation states that emerged
 in thc wake of the Hapsburg Empire Austria, Hungary, Czechoslovakia, and Yugoslavia were, as
-Keynes said, "incomplete and immature." Yet their claims to form independent nationstates
+Keynes said, "incomplete and immature." Yet their claims to form independent nation states
 grouped around national identities at least 210 partly defined by language persuaded Woodrow
 Wilson and other Allied leaders drawing up the Treaty of Versailles.
 
@@ -9449,7 +9480,7 @@ rather than a dialect of Russian.
 Now that the military imperatives favoring language uniformity have largely been
 outstripped, we expect the national languages to fade, but not without a fight. It is to be
 expected that the well-rehearsed adage that "war is the health of the state" will be tested
-as a recuperative. As the nationstate slides into irrelevancy, demagogues and reactionaries
+as a recuperative. As the nation state slides into irrelevancy, demagogues and reactionaries
 will foment wars and conflicts, along the lines of ethnic and tribal fighting that has
 racked the former Yugoslavia and numerous jurisdictions in Africa, from Burundi to Somalia.
 Conflicts will prove convenient for the pretexts they provide for those seeking to arrest
@@ -9490,7 +9521,7 @@ in the face of hostile local conditions.
 
 As the comment from William Pfaff quoted at the head of this chapter suggests, it is a
 historical and wrong to think that loyalties to the land of one's fathers, the patria,
-necessarily entails loyalty to an institution resembling a nationstate.
+necessarily entails loyalty to an institution resembling a nation state.
 
 Geoffrey Parker and Lesley M. Smith make this even more clear in The General Crisis of the
 Seventeenth Century, showing that what appear to be examples of early modern nationalism are
@@ -9500,7 +9531,7 @@ community turns out, on inspection, to be nothing of the kind. The patria itself
 as likely to be a home town or province as the whole nation."34 As Jack Weatherford lucidly
 explains in Savages and Civilization, the rise of the printing press, the first
 mass-production technology, had dramatic effects in contributing to the creation of
-politics, with its demands for allegiance to a broader nationstate. By the year 1500, there
+politics, with its demands for allegiance to a broader nation state. By the year 1500, there
 were printing presses operating in 236 places in Europe, "and they had printed a combined
 total of some 20 million books."35 Gutenberg's first printed book was an edition of the
 Bible in Latin. He followed it with editions of other popular medieval books in Latin. As
@@ -9531,7 +9562,7 @@ basis of his name."37 Astonishingly, Luther's works accounted for "no less than 
 all German-language books sold between 1518 and 1525."38 In many respects, the new
 technology of the Information Age will counter part of the megapolitical impact of
 fifteenth-century technology, the printing press, in stimulating and underpinning the rise
-of nationstates. The World Wide Web creates a commercial venue with a global language,
+of nation states. The World Wide Web creates a commercial venue with a global language,
 English. It will eventually be reinforced with simultaneous-translation software, making
 almost everyone effectively multilingual, and helping to denationalize language and
 imagination.
@@ -9553,7 +9584,7 @@ living within a territory through a sense of identity that can be made to seem m
 important than life itself. As Kantorowicz noted, it is not a coincidence that "at a certain
 moment in history the state in the abstract or the state as a corporation appeared as a
 corpus mysticism and that death for this new mystical body appeared equal in value to the
-death of a crusader for the cause of God!" 39 In this sense, the nationstate can be
+death of a crusader for the cause of God!" 39 In this sense, the nation state can be
 understood as a mystical construct.
 
 Yet as Billig notes, nationalism is "a banal mysticism, which is so banal that all the
@@ -9656,7 +9687,7 @@ Human cultures similarly contain elements that are universal, some of which are 
 inherited from prehuman ancestors. How we seek food, how we mate, how we form families, how
 we relate to strange groups, how we defend ourselves are all complex mixtures of instinct
 and culture, with very primitive roots. They are also all capable of modern adaptations,
-such as those that have characterized the nationstate in the modern period. If we think of
+such as those that have characterized the nation state in the modern period. If we think of
 cultures in this way, we shall see them as parallel to genetic development. The three great
 differences are that cultures are transmitted by the information chain between human beings,
 not by the genetic chain between generations; they can to some extent-perhaps less than we
@@ -9704,7 +9735,7 @@ simply their own personal wellbeing but what Hamilton called their "inclusive fi
 argued that "inclusive fitness" involves not only personal survival in the Darwinian sense,
 but also the enhanced reproduction and survival of close relatives who share the same
 genes.52 Hamilton's "inclusive fitness" thesis helps illuminate many otherwise curious
-features of human societies, including aspects of politics in nationstates.
+features of human societies, including aspects of politics in nation states.
 
 Altruism: Misnomer or Fossil Kin Selection?
 
@@ -9743,9 +9774,9 @@ instructs a man (other things equal) to give his life if he can thereby save two
 four half-siblings, eight cousins, etc."55 *The same logic, of course, applies to thc son or
 daughter who sacrifices for those whom he takes to be his siblings but are not.
 
-Probability Problems Of
+### Probability Problems of Inclusive Fitness
 
-FITNESS INCLUSIVE While this biologic seems clear in principle, upon closer examination it
+While this biologic seems clear in principle, upon closer examination it
 disguises a number of difficulties. For example, the fact that one's siblings or children
 may have a 50 percent probability of sharing an identical gene does not, in strict logic,
 mean that it is actually expressed in them. Every individual carries two sets of each gene,
@@ -9883,10 +9914,10 @@ genetically influenced motivational factors to
 innately bias humans to favor certain choices.
 
 How does this epigenesis work? The identification mechanism employed to harness emotional
-loyalty to the nationstate makes use of various devices that would have been markers of
+loyalty to the nation state makes use of various devices that would have been markers of
 kinship in the primitive past "to link the individual's inclusive fitness concerns" with the
 interests of the state.63 For example, Shaw and Wong focus on five identification devices
-used by modern nationstates to mobilize their populations against out-groups. These are: 1.
+used by modern nation states to mobilize their populations against out-groups. These are: 1.
 a common language 2. a shared homeland 3. similar phenotypic characteristics 4. a shared
 religious heritage and 5. the belief of common descent64 Such characteristics, of course,
 would have distinguished the nucleus ethnic group in the primitive past. Much of the appeal
@@ -9918,11 +9949,11 @@ liquid, into every crevice within the strictly defined boundaries. Benedict Ande
 square centimeter of a legally demarcated territory." 66 And, of course, when it comes to
 sacrifice for the state, the coefficient of imaginary relatedness is always one.
 
-This identification of inclusive fitness with the nationstate is interesting because it
+This identification of inclusive fitness with the nation state is interesting because it
 could help inform the disposition of humans to welcome or resist the changes of the new
 millennium. As we have explored earlier, prior to the Information Age all types of society
 were territorially based. They either formed around the home territory of the nucleus ethnic
-group, or, as with the nationstate, played upon the same motives of group solidarity to
+group, or, as with the nation state, played upon the same motives of group solidarity to
 mobilize force for defense of a local territory against outsiders. In every case, it was the
 stranger outside of one's immediate territory who was feared as the enemy. Given the
 assumptions of kin selection in the primordial past, this made sense.
@@ -9949,7 +9980,7 @@ Information technology is creating economic inequality magnitudes outside the ra
 anything experienced by our ancestors in the pristinely egalitarian Stone Age.
 
 Information technology is also creating supraterritorial assets, which will help to subvert
-the embodiment of the in-group, the nationstate. Ironically, these new cyberassets will
+the embodiment of the in-group, the nation state. Ironically, these new cyberassets will
 probably be of higher value precisely because they are established at a distance from home.
 All the more so if there is an invidious backlash of the kind we expect against the economic
 inequality arising from increasing penetration of information technology in the rich
@@ -9957,18 +9988,18 @@ industrial countries.
 
 That very fact would tend to make assets held at long distance 222 more valuable. They would
 not only be less exposed to envy, they would be more likely to be put beyond the reach of
-the most predatory group with which an individual must cope-his own nationstate.
+the most predatory group with which an individual must cope-his own nation state.
 
 ### Diseconomies of Nature and Nationalism
 
 It is perhaps a mark of the importance of epigenesis in informing attitudes that so little
 notice has been taken of the ironies of in-group identification as it relates to the modern
-nationstate. The logic of violence in the modern period tended to confound the very impulse
+nation state. The logic of violence in the modern period tended to confound the very impulse
 that gave rise to the tendency to identify fitness with the in-group in the first place.
 Why? Because rather than facilitating the survival and prosperity of near-relatives in a
 hostile world, the identification of the individual's "inclusive fitness" with a national
 in-group diluted the value of any act of sacrifice the individual might have made to the
-level of insignificance for his kin. The typical modern nationstate was simply too large to
+level of insignificance for his kin. The typical modern nation state was simply too large to
 allow for a statistically significant "coefficient of relatedness" between the individual
 and other citizens of the nation that laid claim to him. Not only was the proportion of
 close relatives within the in-group sharply diminished from almost unity in the Stone Age to
@@ -9988,8 +10019,8 @@ which wellbeing was measured in the modern era, the largest obstacle to the tale
 individual's success, and therefore to that of his kin, became the burdens imposed in the
 name of the nation, the in-group itself This, at least, was true for those primarily engaged
 in reciprocal rather than coercive sociality-to revisit Van Den Berghe's categories of human
-behavior. 68 The logic of the nationstate suggests that the ultimate price of citizenship is
-sacrifice and death. As Jane Bethke Elshtain observed, nationstates indoctrinate citizens
+behavior. 68 The logic of the nation state suggests that the ultimate price of citizenship is
+sacrifice and death. As Jane Bethke Elshtain observed, nation states indoctrinate citizens
 more for sacrifice than aggression: "The young man goes to war not so much to kill as to
 die, to forfeit his particular body for that of the large body, the body politic." 69 The
 impulse to sacrifice is no less active where the taxpayer is concerned. Paying taxes, like
@@ -10002,15 +10033,15 @@ traveling, precisely because commercial purchases are generally fair exchanges. 
 the buyers would not make them.
 
 In this respect, nationalism shows how epigenesis can reverse the logic of the Darwinian
-"economy of nature." The nationstate facilitated systematic, territorially based predation.
+"economy of nature." The nation state facilitated systematic, territorially based predation.
 Unlike the situation faced by hunter-gatherers in the Stone Age, the main parasite and
 predator upon the individual at the end of the twentieth century was not likely to be the
 "outsider," the foreign enemy, but rather the presumed embodiment of the "in-group," the
-local nationstate itself.
+local nation state itself.
 
 Thus the main advantage offered by the advent of assets that transcend territoriality in the
 Information Age is precisely the fact that such assets can be placed beyond the reach of the
-systematic coercion mobilized by the local nationstate in whose territory the would-be
+systematic coercion mobilized by the local nation state in whose territory the would-be
 Sovereign Individual was resident.
 
 If our view is correct, microtechnology will make it technically feasible for individuals to
@@ -10036,17 +10067,17 @@ those strangers would not necessarily be less genetically close than most of our
 citizens" upon whom in recent centuries we have been bound to depend.
 
 The question is whether the perverse results of in-group amity in the case of the
-nationstate are negative or positive indicators for the cybereconomy. Will the "leftbehinds"
+nation state are negative or positive indicators for the cybereconomy. Will the "leftbehinds"
 who stand to lose the benefits of coercive redistribution treat the
 
-death of the nationstate as if it were an attack on kin? The first quarter century of the
+death of the nation state as if it were an attack on kin? The first quarter century of the
 new millennium will tell. The emotional reactions could be complex. The fact that 115
-million persons gave their lives fighting for nationstates in the twentieth century is stark
+million persons gave their lives fighting for nation states in the twentieth century is stark
 evidence of the power of eplgenesls.71 It shows that many did consider the survival of their
 nations to be matters of life-and-death importance. The question is whether that attitude
 will carry over into a new age with different megapolitical imperatives.
 
-The fact that genetically influenced sacrifice on behalf of the nationstate often militated
+The fact that genetically influenced sacrifice on behalf of the nation state often militated
 against the evolutionary purpose of kin selection also tells you that humans are adaptable
 enough to adjust to many circumstances for which we were not genetically programmed in the
 conditions of the Stone Age. As Tudge elaborates in describing the "extreme generalness" of
@@ -10069,10 +10100,10 @@ Further, the creation of assets that are largely immune to predation should actu
 in a practical way to increase the "inclusive fitness" of Sovereign Individuals.
 
 While the economic logic of participating in the cybereconomy turns the rationales of the
-nationstate upside down, it is compelling, especially for persons of high skills.
+nation state upside down, it is compelling, especially for persons of high skills.
 
 In order to optimize their advantage in shopping among jurisdictions, individuals must be
-willing to exit the nationstate and entrust their personal protection to security personnel
+willing to exit the nation state and entrust their personal protection to security personnel
 motivated mainly by market incentives in areas that may be distant from where they were born
 and reared. This implies a significant advantage in being multilingual and cosmopolitan in
 culture rather than jingoistic. And it further implies that anyone who is serious about
@@ -10088,7 +10119,7 @@ inclinations.
 The new extranational equation of identity that we expect to see take hold in the new
 millennium could make it easier to adopt to the new world than may seem likely. Unlike
 nationality, the new identities will not be a product of the systematic compulsion that made
-nationstates and the nationstate system universal in the twentieth century. In the new age
+nation states and the nation state system universal in the twentieth century. In the new age
 to come, communities and allegiances will not be territorially bounded.
 
 Identification will be more precisely targeted to genuine affinities, shared interests, or
@@ -10105,9 +10136,9 @@ is the price of getting ahead."
 
 ### Escape From The Nationstate
 
-Notwithstanding the firm grip the nationstate as the "in-group" has had on the modern
+Notwithstanding the firm grip the nation state as the "in-group" has had on the modern
 imagination, able people who do not already doubt the utility of affiliating with a grossly
-expensive "imagined community" soon will. In-deed, the partisans of the nationstate have
+expensive "imagined community" soon will. In-deed, the partisans of the nation state have
 already begun to complain of the growing detachment of the cognitive elites.
 
 The late Christopher Lasch, in his diatribe The Revolt of the Elites and the Betrayal of
@@ -10159,7 +10190,7 @@ the denationalization of the individual as such, they rail against its early hin
 manifestations, what Walzer describes as "the imperialism of the market," or the tendency of
 money to "seep across boundaries" in order to buy things which, as Lasch elaborates, "should
 not be for sale," such as exemption from military service. 78 Note the reactionary harking
-to the military demands of the nationstate as a sacred ground upon which money and markets
+to the military demands of the nation state as a sacred ground upon which money and markets
 should not trespass.
 
 These criticisms of the information elite anticipate the terms of a popular reaction against
@@ -10179,13 +10210,13 @@ remainder of the population who are largely monoglot and do not excel in problem
 possess some globally marketable skill. These "losers" or "leftbehinds," as Thomas L.
 
 Friedman describes them, will no doubt continue to identify their wellbeing with the
-political life of existing nationstates. 80
+political life of existing nation states. 80
 
 ### Most Political Agendas Will Be Reactionary
 
 Most of those who harbor an ardent political agenda, whether nationalist, environmentalist,
-or socialist, will rally to defend the wobbling nationstate as the twenty-first century
-opens. Over time, it will become ever more obvious that survival of the nationstate and the
+or socialist, will rally to defend the wobbling nation state as the twenty-first century
+opens. Over time, it will become ever more obvious that survival of the nation state and the
 nationalist sensibility are preconditions for preserving a realm for political compulsion.
 As Billig points out, nationalism "is the condition for conventional (political) strategies,
 whatever the particular politics." 81 Therefore, the nationalist 227 content in all
@@ -10208,14 +10239,14 @@ another bruising for the progressive view of history.
 Contrary to the expectations of supposedly forward-thinking people when the twentieth
 century opened, the free market was not destroyed by the decades but left triumphant. The
 Marxists anticipated the eclipse of capitalism, which never happened, to lead to the
-transcendence of nationstates and the emergence of a universal class consciousness among
+transcendence of nation states and the emergence of a universal class consciousness among
 workers. In fact, the state will be eclipsed, but in a very different way. Something nearly
 the opposite to their expectation is happening. The triumph of capitalism will lead to the
 emergence of a new global, or extranational, consciousness among the capitalists, many of
 whom will become Sovereign Individuals.
 
 Far from depending upon the state to discipline the workers, as the Marxists imagined, the
-ablest, wealthiest persons were net losers from the actions of the nationstate. It is
+ablest, wealthiest persons were net losers from the actions of the nation state. It is
 clearly they who have the most to gain by transcending nationalism as markets triumph over
 compulsion.
 
@@ -10224,8 +10255,8 @@ everyone among the information elite will elect to domicile his incomeearning ac
 low-tax or no-tax jurisdictions. As the Information Age transforms the globe, it will
 impress an unmistakable object lesson in compound interest. Within years, let alone decades,
 it will be widely understood that almost anyone of talent could accumulate a much higher net
-worth and enjoy a better life by abandoning high-tax nationstates. We have already hinted at
-the staggering costs that the leading nationstates impose, but as this is the crux of an
+worth and enjoy a better life by abandoning high-tax nation states. We have already hinted at
+the staggering costs that the leading nation states impose, but as this is the crux of an
 issue that is little understood, it is worth reemphasizing the opportunity costs of
 nationality.
 
@@ -10271,8 +10302,8 @@ and prosperity have repeatedly migrated to new areas of opportunity under the sp
 meandering megapolitical conditions. A thousandfold difference in bottom-line returns would
 match the most potent stimulus that has ever put rational people in motion. Or put another
 way, most people, particularly those Thomas L. Friedman calls the "losers and leftbehinds,"
-if given a chance, would gladly leave any nationstate for $50 million, not to mention the
-still greater costs that nationstates impose in tax extracted from the top 1 percent of
+if given a chance, would gladly leave any nation state for $50 million, not to mention the
+still greater costs that nation states impose in tax extracted from the top 1 percent of
 taxpayers. The rise of Sovereign Individuals shopping for jurisdictions is therefore one of
 the surest forecasts one can make.
 
@@ -10283,7 +10314,7 @@ Citizen?" produced by Ian Ireland of the Australian Parliamentary Research Servi
 1995.83 Ireland canvasses the Australian Citizenship Act of 1948, reviewing the four means
 by which one can obtain Australian citizenship.
 
-These are similar to the options for citizenship in other leading nationstates, namely:
+These are similar to the options for citizenship in other leading nation states, namely:
 citizenship by birth citizenship by adoption citizenship by descent citizenship by grant
 This is all unremarkable except that it focuses attention upon the distinction between
 sovereignty and citizenship. As Ireland says, "Under traditional legal and political
@@ -10382,22 +10413,22 @@ in the new millennium. It is difficult to guess at precisely what point the reac
 turn ugly. Our guess is that the recriminations will intensify when Western nations begin to
 unambiguously crack apart in the manner of the former Soviet Union.
 
-Equally, every time a nationstate cracks up, it will facilitate further devolution and
+Equally, every time a nation state cracks up, it will facilitate further devolution and
 encourage the autonomy of Sovereign Individuals. We expect to see a significant
 multiplication of sovereign entities, as scores of enclaves and jurisdictions more akin to
 city-states emerge from the rubble of nations. These new entities will include many that
 will offer highly competitive pricing of protection services, imposing low taxes or none at
 all on income and capital. The new entities are almost bound to price their protection
-services more attractively than do the leading OECD nationstates. Seen simply as a matter of
+services more attractively than do the leading OECD nation states. Seen simply as a matter of
 market segmentation, the area of the market that is most poorly served is the
 highefficiency, low-cost end. Anyone who wishes to pay high taxes in exchange for a
 complicated array of state spending has ample opportunity to do so. Therefore, the most
 advantageous and profitable strategy for a new minisovereignty is almost bound to lie with a
 high-efficiency, low-price alternative. Such a minisovereignty could only with great
 difficulty expect to provide a more complete array of services than those on offer from the
-surviving nationstates.
+surviving nation states.
 
-Since all nationstates will certainly not collapse at once, the statist alternative is
+Since all nation states will certainly not collapse at once, the statist alternative is
 likely to be well supplied, especially early in the transition.
 
 On the other hand, a no-frills regime of tolerable law and order can be provided relatively
@@ -10414,7 +10445,7 @@ This will make it practical for individuals to cease to identify themselves in n
 terms. Yet the demystification of citizenship will be a slow process.
 
 You are constantly exposed to a barrage of banal messages in the routines of daily life
-designed to reinforce your identification with your local nationstate.
+designed to reinforce your identification with your local nation state.
 
 These messages make it highly unlikely for you to forget "your nationality." For many
 people, nationality is a crucial badge of identity. "We" are taught to see the world in
@@ -10435,7 +10466,7 @@ amounts to a change in the imaginations of millions from first personal plural t
 
 As individuals themselves begin to serve as their own news editors, selecting what topics
 and news stories are of interest, it is far less likely that they will choose to
-indoctrinate themselves in the urgencies of sacrifice for the nationstate. Much the same
+indoctrinate themselves in the urgencies of sacrifice for the nation state. Much the same
 effect will arise from the privatization of education, again facilitated by technology. In
 the medieval period, education was firmly under the control of the Church. In the modern
 age, education has been under the control of the state. In the words of Eric Hobsbawm,
@@ -10451,10 +10482,10 @@ Satellite-based digital telephone services will evolve beyond location-based lan
 systems sharing a common international dialing code. The individual will have his own,
 unique global telephone address, like an Internet address, that will reach him wherever he
 happens to be. In due course, national postal monopolies will collapse, allowing privatized
-mail delivery by worldwide services with no particular ties to any existing nationstate.
+mail delivery by worldwide services with no particular ties to any existing nation state.
 
 These and other apparently small steps will help free the ordinary consumer, as well as the
-cognitive elite, from rote identification with the nationstate. The demystification of
+cognitive elite, from rote identification with the nation state. The demystification of
 citizenship will be most dramatically accelerated by the emergence of practical alternatives
 to dealing within bounded territories monopolized by states. The building blocks of the
 cybereconomy-cybermoney, cyberbanking, and an unregulated global cybermarket in
@@ -10468,7 +10499,7 @@ and fiat money by cooperating to limit encryption and prevent citizens from esca
 domains, the states will ultimately fail. The most productive people on the planet will find
 their way to economic freedom. It is unlikely that the state will even be effective at
 keeping people penned up where they can be physically held to ransom. The ineffectiveness of
-efforts to bar illegal immigrants convincingly shows that nationstates will be unable to
+efforts to bar illegal immigrants convincingly shows that nation states will be unable to
 seal their borders to prevent successful people from escaping. The rich will be at least as
 enterprising in getting out as would-be taxi drivers and waiters are at getting in.
 
@@ -10516,7 +10547,7 @@ take up passports that entail less onerous liabilities.
 Governments in the industrial era priced their services on the basis of the success of the
 taxpayer, rather than in relation to the costs or value of any services provided. The
 movement to commercial pricing of government service will lead to more satisfactory
-protection at a far lower price than that imposed by conventional nationstates.
+protection at a far lower price than that imposed by conventional nation states.
 
 Citizenship Goes the Way of Chivalry In short, citizenship is destined to go the way of
 chivalry. As the basis upon which protection is provided is reorganized once again, the
@@ -10529,21 +10560,21 @@ the predictable way. They abandoned chivalry.
 
 Sworn oaths and personal fealty ceased to be taken as seriously as they had been for the
 previous five centuries. Now 234 information technology promises to be equally subversive of
-citizenship. The nationstate and the claims of nationalism will be demystified just as the
+citizenship. The nation state and the claims of nationalism will be demystified just as the
 claims of the monopoly Church were demystified five centuries ago.
 
 While reactionaries will respond by attempting to vilify innovators and revive nationalist
-sentiment, we doubt that the megapolitically defunct nationstate can exert a sufficiently
+sentiment, we doubt that the megapolitically defunct nation state can exert a sufficiently
 strong tug of loyalties to withstand the Competitive pressures unleashed by information
 technology. Most thinking individuals in a world of bankrupt governments will prefer to be
 well treated as customers of protection services, rather than be plundered as citizens of
-nationstates.
+nation states.
 
 The wealthy OECD countries impose heavy tax and regulatory burdens upon individuals doing
 business within their borders. These costs may have been tolerable when the OECD
-nationstates were the only jurisdictions in which one could do business and reside at a
+nation states were the only jurisdictions in which one could do business and reside at a
 reasonable level of comfort. That day has passed. The premium paid to be taxed and regulated
-as a resident of the richest nationstates no longer repays its cost.
+as a resident of the richest nation states no longer repays its cost.
 
 It will be ever less tolerable as competition between jurisdictions intensifies.
 
@@ -10553,7 +10584,7 @@ Information Age will be able to locate anywhere and do business anywhere.
 With a choice of domiciles, only the most patriotic or stupid will continue to reside in
 high-tax countries.
 
-For this reason, it is to be expected that one or more nationstates will undertake covert
+For this reason, it is to be expected that one or more nation states will undertake covert
 action to subvert the appeal of transience. Travel could be effectively discouraged by
 biological warfare, such as the outbreak of a deadly epidemic.
 
@@ -10625,7 +10656,7 @@ persons will renounce U.S. citizenship, notwithstanding the obstacles imposed by
 exit tax.
 
 The competitive conditions of the Information Age will render it possible to earn high
-incomes almost anywhere. In effect, the locational monopolies that nationstates exploited to
+incomes almost anywhere. In effect, the locational monopolies that nation states exploited to
 impose extremely high taxes will be broken by technology. They are already breaking down, As
 they erode further, competitive pressures are almost bound to drive the most enterprising
 and able to flee countries that tax too much. As former Economist editor Norman Macrae put
@@ -10677,10 +10708,10 @@ they may be hardwired into human nature. The economic logic of deploying assets 
 cyberspace could run counter to the biologic expressed in the ingrained suspicions of
 outsiders. Children in every culture show an aversion to strangers. Opponents of the
 commercialization of sovereignty will do their best to inflame doubts about the new global
-culture of the Information Age and the demise of the nationstate that it implies. Another
+culture of the Information Age and the demise of the nation state that it implies. Another
 possible hitch arising from epigenesis, or genetically influenced motivational factors, is
 the prospect that the "losers and leftbehinds" will respond to developments that undermine
-the nationstate with the fury of hunter-gatherers protecting their families. In an
+the nation state with the fury of hunter-gatherers protecting their families. In an
 environment where disoriented and alienated individuals will have increased power to disrupt
 and destroy, a backlash against the information economy could prove to be violent and
 unpleasant. "Historically collective violence has flowed regularly out of the central
@@ -10707,7 +10738,7 @@ attempts by the same people to accomplish their objectives.
 
 They belong to the same world as nonviolent contention." 94 Whichever theory of violence is
 more correct, prospects for social peace during the Great Transformation would appear to be
-limited. The collapse of the nationstate surely counts as a conspicuous example of an
+limited. The collapse of the nation state surely counts as a conspicuous example of an
 "established institution falling apart."
 
 Therefore, anxieties are likely to be in full flower, as will the political inspiration for
@@ -10728,7 +10759,7 @@ those who expect to be on the receiving end of the trillions in transfer program
 these will be "the losers or leftbehinds," persons without the skills to compete in global
 markets. Like the pensioners of the former Soviet Union who formed the core of Zuganov's
 Communist support, the disappointed pensioners of the dying welfare states will form a
-reactionary constituency keen to prevent the sovereignty of the nationstates from being
+reactionary constituency keen to prevent the sovereignty of the nation states from being
 privatized, thereby depriving the state of its license to steal. As they realize that
 governments they formerly controlled are losing their sovereignty over resources and the
 ability to compel large-scale income transfers, they will become as adamant as French civil
@@ -10764,7 +10795,7 @@ Zealand, Particular animus will be directed toward the rich and immigrants by th
 imagine themselves to be the "global economy's casualties." In the words of Andrew Heal,
 they will "despise the entry of immigrants whose main entry criterion appears to be their
 wealth or their lack of it, which, the specious logic goes, makes them welfare burdens." 96
-Fear of Freedom The prospect of the disappearance of the nationstate early in the new
+Fear of Freedom The prospect of the disappearance of the nation state early in the new
 millennium seems timed to effect the maximum disruption in the lives of suggestible people.
 
 This 239 will lead to widespread unpleasantness. More than a few observers have recognized a
@@ -10857,7 +10888,7 @@ employment opportunities in recent centuries seems like a dependable rule of eco
 life, but it need not be. It is possible for earnings to be concentrated in the hands of a
 prosperous minority.
 
-Real Wages Drop By 50 Percent
+### Real Wages Drop By 50 Percent
 
 That is indeed what happened during the first two centuries or more of the modern period.
 From the time of the Gunpowder Revolution around 1500 until 1700, real incomes for the
@@ -10921,7 +10952,7 @@ presumably better able to maintain order.
 
 The Process Is Reversed In our judgment, the opposite is happening today. Information
 technology is raising earnings opportunities for the skilled and undermining institutions
-that operate at a large scale, including the nationstate.
+that operate at a large scale, including the nation state.
 
 This points to another irony of the Information Age-namely, the schizoid and fundamentally
 obstructionist attitude of critics of the free market toward the rise and fall of industrial
@@ -11022,7 +11053,7 @@ to underclass communities during the twilight of industrialism by raising the sh
 threat against society as a whole. But the effect could be only temporary. By eliminating
 the beneficial impact of competition in challenging underachievers to conform to productive
 norms, the welfare state has helped to create legions of dysfunctional, paranoid, and poorly
-acculturated people, the social equivalent of a powder keg. The death of the nationstate and
+acculturated people, the social equivalent of a powder keg. The death of the nation state and
 the disappearance of income redistribution on a large scale will no doubt lead some among
 the more pyschopathic of these unhappy souls to strike out against anyone who appears more
 prosperous than they. Therefore, it is reasonable to suppose that social peace will be in
@@ -11078,7 +11109,7 @@ average worker. The today would probably be displaced factory workers. equivalen
 Unfortunately, scanning the demographics of most OECD countries, one finds more areas than
 not that could be highlighted as potential sites of violent reaction.
 
-The world's nationstates will seek to counteract the cybereconomy and Sovereign Individuals
+The world's nation states will seek to counteract the cybereconomy and Sovereign Individuals
 who are able to take advantage of it to accumulate wealth.
 
 A furious nationalist reaction will sweep the world. Part and parcel of it will be the
@@ -11103,7 +11134,7 @@ gangs, there has been a proliferation of a sort of garden variety bomber." 111
 
 ### Defense Becomes a Private Good
 
-Notwithstanding the penal taxes imposed by nationstates as a price of protection, they are
+Notwithstanding the penal taxes imposed by nation states as a price of protection, they are
 unlikely to provide it effectively in the years to come. The falling scale of violence
 implied by the new information technology makes the provision of a massive military
 establishment far less useful. This implies not only a declining decisiveness in warfare,
@@ -11113,7 +11144,7 @@ less effective in the next century than the hegemony of Great Britain was in the
 century. Until the onset of World War I, power could be effectively and decisively projected
 from the core to the periphery at relatively low cost. In the twenty-first century, the
 threats that major powers pose to the safety of life and property will necessarily diminish
-with the return to violence. Falling returns to violence suggest that nationstates or
+with the return to violence. Falling returns to violence suggest that nation states or
 empires capable of exercising military power on a large scale are unlikely to survive or
 come into being in the Information Age.
 
@@ -11141,7 +11172,7 @@ protection for its members. Imagine a special passport issued by the League of S
 Individuals, identifying the holder as a person under the protection of the league.
 
 Such a document, if it comes into existence, will be only a temporary artifact of the
-transition away from the nationstate and the bureaucratic age it fostered.
+transition away from the nation state and the bureaucratic age it fostered.
 
 Before the modern period, passports were generally unnecessary to pass frontiers, which were
 loosely defined in most cases. While letters of safe conduct were sometimes employed in
@@ -11160,15 +11191,15 @@ secular inquisitors and reactionaries of the next millennium, the placing of the
 "sacred" attributes of nationality onto a market footing to be bought and sold as a matter
 of cost-benefit calculation will be both infuriating and threatening.
 
-We argue in this book that it will no longer take a nationstate to fight an Information War.
+We argue in this book that it will no longer take a nation state to fight an Information War.
 Such wars could be undertaken by computer programmers deploying large numbers of "bots" or
 digital servants. Bill Gates already possesses a greater capacity to detonate logic bombs in
-vulnerable systems globally than most of the world's nationstates. In the age of the
+vulnerable systems globally than most of the world's nation states. In the age of the
 Information War, any software company, or even the Church of Scientology, would be a more
 formidable antagonist than the accumulated threat posed by the majority of the states with
 seats in the United Nations.
 
-This loss of power by nationstates is a logical consequence of the advent of lowcost,
+This loss of power by nation states is a logical consequence of the advent of lowcost,
 advanced computational capacity. Microprocessing both reduces returns to violence and
 creates for the first time a competitive market for the protection services for which
 governments charged monopoly prices in the industrial period.
@@ -11228,8 +11259,8 @@ more of the role of sovereigns in cases when they accumulate sufficient resource
 inevitably implies that there will be an increase in the scope for anarchy in the world. The
 relations between sovereignties are always anarchic. There is not and never has been a world
 government regulating the behavior of individual sovereignties, whether ministates,
-nationstates, or empires. As Jack Hirshleifer writes, "[W]hile associations ranging from
-primitive tribes to modern nationstates are all governed internally by some 249 form of law,
+nation states, or empires. As Jack Hirshleifer writes, "[W]hile associations ranging from
+primitive tribes to modern nation states are all governed internally by some 249 form of law,
 their external relations with one another remain mainly anarchic." "3 When there are more
 sovereign entities in the world, inevitably more relations transpire in more than one
 jurisdiction and are therefore anarchic.
@@ -11269,7 +11300,7 @@ These issues may be more important to understand in the Information Age than the
 the Industrial Age. Part of the reason that the finer distinctions about the dynamics of
 anarchy were less crucial in recent centuries than they may be in the new millennium is
 precisely because the returns to violence were rising through the modern period. This meant
-that massing larger and larger military forces, as nationstates did in recent centuries,
+that massing larger and larger military forces, as nation states did in recent centuries,
 tended to make for decisive warfare. Decisive warfare, almost by definition, subdues anarchy
 by placing contestants for the control of resources under the domination of a more powerful
 authority. On the other hand, declining decisiveness in battle, which corresponds to the
@@ -11302,19 +11333,19 @@ identifies with territoriality and anarchy. Indeed, if digital money can be tran
 anywhere on the planet at the speed of light, conquest of the territory in which a cyberbank
 is incorporated may be a waste of time. Nationstates wishing to suppress Sovereign
 Individuals would have to seize simultaneously both the world's banking havens and its data
-havens. Even then, if encrypted systems are designed properly, nationstates would merely be
+havens. Even then, if encrypted systems are designed properly, nation states would merely be
 able to sabotage or destroy certain sums of digital money, not seize it.
 
 The conclusion is that the most predictable and vulnerable assets of the rich in the coming
 Information Age may be their physical persons-in other words, their lives.
 
 Which is why we fear Luddite-style terrorism in the coming decades, some of it perhaps
-covertly encouraged by agents provocateurs in the employ of nationstates.
+covertly encouraged by agents provocateurs in the employ of nation states.
 
-Over the long term, however, we doubt that the leading nationstates will succeed in
+Over the long term, however, we doubt that the leading nation states will succeed in
 suppressing Sovereign Individuals. For one thing, existing states, especially in
 capital-poor regions, will find that they have more to gain by harboring Sovereign
-Individuals than by maintaining solidarity with the North Atlantic nationstates and
+Individuals than by maintaining solidarity with the North Atlantic nation states and
 upholding the sanctity of the "international" system. The fact that bankrupt, high-tax
 welfare states want to keep "their citizens" and "their capital" in "their country" will not
 be a compelling motive to be observed by hundreds of fragmenting sovereignties elsewhere.
@@ -11332,9 +11363,9 @@ to be Americans. This is especially likely inasmuch as shopping is now a major f
 of travelers. Ultimately, although well after others, the United States, or fragments
 thereof, will join in the commercialization of sovereignty because of competitive pressures.
 
-Demand Creates Supply Those pressures will be felt more vigorously early on in nationstates
+Demand Creates Supply Those pressures will be felt more vigorously early on in nation states
 with the weakest balance sheets. Among the new "offshore" centers will be fragments and
-enclaves of current nationstates, like Canada and Italy, which will almost surely
+enclaves of current nation states, like Canada and Italy, which will almost surely
 disintegrate well before the end of the first quarter of the twenty-first century. The birth
 of a global market for high-quality, cost-efficient jurisdictions will help bring such
 jurisdictions into being. As in ordinary commerce, smallscale competitors will be more
@@ -11343,7 +11374,7 @@ structure itself to operate efficiently.
 
 The information elite will seek high-quality protection on contract for a reasonable fee.
 While this fee will fall well short of what would be required to redistribute a noticeable
-benefit to the whole populations of nationstates as they are now structured, with tens of
+benefit to the whole populations of nation states as they are now structured, with tens of
 millions to hundreds of millions of citizens, it would not be trivial in a jurisdiction with
 a population in the tens of thousands or hundreds of thousands. The tax payments and other
 economic advantages accruing from the presence of a small number of exceedingly rich
@@ -11357,7 +11388,7 @@ jurisdictions will find it easier to set commercially successful terms for prote
 Therefore, jurisdictions with small populations will enjoy a decided advantage in
 formulating a fiscal policy attractive to Sovereign Individuals.
 
-We believe that the age of the nationstate is over, but this is not to say that the
+We believe that the age of the nation state is over, but this is not to say that the
 attraction of nationalism as a tug on human emotions will be immediately quieted. As an
 ideology, nationalism is well placed to draw upon universal emotional needs. We have all had
 the experience of awe, such as one might feel on first seeing a giant waterfall, or first
@@ -11451,7 +11482,7 @@ The democratic welfare state, by contrast, made more limited initial claims.
 It pretended to allow private ownership, although of a contingent kind, and thereby
 harnessed superior Instead of mismanaging everything from the start, democratic governments
 in the West allowed individuals to own property and accumulate wealth. Only after the wealth
-had been created did the democratic nationstates step in to tax a large fraction of it away.
+had been created did the democratic nation states step in to tax a large fraction of it away.
 to mobilize output. incentives The word "large" should be capitalized. For example, in 1996
 the lifetime federal tax rate in the United States stood at seventy-three cents on the
 dollar.
@@ -11757,7 +11788,7 @@ The main difference that one discerns between the reception of medieval society 
 impostors and that afforded by democracy at the end of the twentieth century is that in the
 Middle Ages such persons were normally executed, whereas, at the end of the twentieth
 century, modern democratic politics provides them with an open channel by which to
-legitimately seize power in the nationstate. A system that routinely submits control over
+legitimately seize power in the nation state. A system that routinely submits control over
 the largest, most deadly enterprises on earth to the winner of popularity contests between
 charismatic demagogues is bound to suffer for it in the long run.
 
@@ -11834,7 +11865,7 @@ other words, you can shift your business elsewhere.
 
 In the last chapter, we analyzed how the advance of information technology will soon make it
 feasible for you to create assets in cyberspace that will be all but immune from predatory
-invasion by nationstates. This will create a de facto metaconstitutional requirement that
+invasion by nation states. This will create a de facto metaconstitutional requirement that
 governments actually provide you with satisfactory service before you pay their bills. Why?
 Because income taxation will become almost as voluntary in fact as it is supposed to be in
 theory.
@@ -11842,8 +11873,8 @@ theory.
 Avoiding "Cumbrous Political Channels" In effect, if information technology evolves as it
 may, it will assure that governments are actually controlled by their customers. As a
 customer, you will first have hundreds, then thousands of options to reduce your protection
-costs directly by contracting a private tax treaty with a nationstate or by defecting from
-nationstates altogether to emerging minisovereignties. These contract "entry" and defection
+costs directly by contracting a private tax treaty with a nation state or by defecting from
+nation states altogether to emerging minisovereignties. These contract "entry" and defection
 or "exit"
 
 options are economic expressions of your desires as a customer. Voting with your feet and
@@ -11877,9 +11908,7 @@ school and sending them to another, to a much greater extent than is now possibl
 general they can now take this step only by changing their place of residence.
 
 For the rest, they can express their views only though cumbrous political channels.5 Albert
-
 0. Hirschman, speaking as a partisan of politics, took exception to Friedman's preference
-
 for "exit as the 'direct' way of expressing one's unfavorable views of an organization. A
 person less well trained in economics might naively suggest that the direct way of
 expressing one's views is to express them!" 16 Whether it is more direct or effective to
@@ -11950,7 +11979,7 @@ AMERICA” IN "ADULT LITERACY IN Ninety Million Alzheimer's Patients?
 If your group in this model political exercise happened to be Americans, you would be
 hard-pressed to get any persuasive message to sink in, particularly if the members of the
 group were similar to the U.S. electorate as a whole. The perception that disproportionally
-large numbers of citizens of the world's most powerful nationstate are underachievers has
+large numbers of citizens of the world's most powerful nation state are underachievers has
 been bleakly confirmed by the most thorough survey ever undertaken of the competence of
 American adults. The study, "Adult Literacy in America," shows that finding a literate
 audience for any political argument is by no means easy. A large fraction, perhaps a
@@ -11998,7 +12027,7 @@ be able to create and protect assets that lie entirely outside the realm of any 
 monopoly on violence. These assets, individual government's therefore, will be highly
 susceptible to individual control. It will be perfectly reasonable for you and significant
 numbers of other future Sovereign Individuals to "vote with your feet" in opting out of
-leading nationstates to contract for personal protection with an outlying nationstate or a
+leading nation states to contract for personal protection with an outlying nation state or a
 new minisovereignty that will only charge a commercially tolerable amount, rather than the
 greater part of your net worth. In short, you would probably accept $50 million to move to
 Bermuda.
@@ -12034,7 +12063,7 @@ future will be able to negotiate acceptable, customized policy packages by priva
 Of course, we do not contend for a moment that much of this will be popular.
 
 The denationalization of the individual and the commercialization of sovereignty it implies
-will offend remaining true believers in the cliches of twentiethcentury politics.
+will offend remaining true believers in the cliches of twentieth century politics.
 
 Like the late Christopher Lasch, they see the atrophy of politics as a threat to the
 wellbeing of a majority of the population. In their view, a revival of industrialera
@@ -12059,17 +12088,17 @@ injustice.
 
 Only politics, which is the art of how we organize ourselves, can even begin to take on such
 tasks." Dionne and others like him fail to understand that the conditions that made
-twentiethcentury life particularly conducive to systematic compulsion were not chosen by any
+twentieth century life particularly conducive to systematic compulsion were not chosen by any
 human agency. The "art of how we organize ourselves" is a statement that would not have been
 intelligible prior to the modern period. Societies are too complex to be rightly considered
-the fruit of any willful effort of self-organization. The nationstates of the modern period
+the fruit of any willful effort of self-organization. The nation states of the modern period
 emerged spontaneously as a coincidental by-product of industrial technology that raised
 returns to violence. Now information technology is reducing the returns to violence. This
 makes politics anachronistic and irretrievable, no matter how earnestly people might wish to
 preserve it into the next millennium. "Not of today nor yesterday the same Throughout all
 time they live; and whence they came None knoweth." SOPHOCLES, Antigone "THEY DON'T MAKE
 THEM LIKE THEY USED TO" The fervent desire to "make laws," which seems so much a part of the
-common sense" of twentiethcentury politics, is by no means universal to all cultures. Its
+common sense" of twentieth century politics, is by no means universal to all cultures. Its
 disappearance in the future could be seen as part of a cycle that has waxed and waned 268
 with the centuries. For example, early Greeks, among others, believed that laws could not be
 made. In the words of philosopher Ernst Cassirer, the Greeks believed "the 'unwritten laws,'
@@ -12096,7 +12125,7 @@ the true meaning of the already existing and complete body of law.
 
 Germanic custom handed on to the medieval mind an idea which it was never able to forget,
 even when in practice it behaved otherwise. This idea was that good laws were rediscovered
-or restated but never remade.21 After the excesses of twentiethcentury legislation, there is
+or restated but never remade.21 After the excesses of twentieth century legislation, there is
 something quaint about that ancient attitude. The desire to put the coercive power of the
 state to work for private ends, particularly the redistribution of income, became almost
 second nature.
@@ -12130,7 +12159,7 @@ Machiavelli ultimately reached a larger audience with his book, not because his 
 The Prince was more eloquent but because his advice better suited the megapolitical
 conditions of the modern age.
 
-As the distinguished twentiethcentury philosopher Ernst Cassirer said in discussing "The
+As the distinguished twentieth century philosopher Ernst Cassirer said in discussing "The
 Moral Problem in Machiavelli," The book describes, with complete indifference, the ways and
 means by which political power is to be acquired and maintained. About the right use of this
 power it does not say a word. ... No one had ever doubted that political life, as matters
@@ -12154,7 +12183,7 @@ been more subversive than Machiavelli's suggestion that the Prince should not he
 lie, cheat, and steal when so doing served his interests.
 
 As the twentieth century drew to a close, Machiavelli's arguments were still being examined
-for their importance in understanding modern politics and various twentiethcentury crimes
+for their importance in understanding modern politics and various twentieth century crimes
 and tyrannies.
 
 Castiglione's work, by contrast, is all but forgotten. In a year's time, Il Lihro del
@@ -12176,7 +12205,7 @@ sovereignty services deepens, the market conditions that constrain "policy" will
 broadly understood.
 
 What we now think of as "political" leadership, which is always conceived in terms of a
-nationstate, will become increasingly entrepreneurial rather than political in nature. In
+nation state, will become increasingly entrepreneurial rather than political in nature. In
 these conditions, the viable range of choice in putting together a "policy" regime for a
 jurisdiction will be effectively narrowed in the same way that the range of options open to
 entrepreneurs in designing a first-class resort hotel or any similar product or service is
@@ -12223,13 +12252,13 @@ outright holding of wealthy persons to ransom.
 
 Hints of what is to come are near the surface as we write. Early evidence that the capacity
 of governments to control international markets is slipping away offends those who believe
-that individuals are, by right, assets of nationstates.
+that individuals are, by right, assets of nation states.
 
 They want to enforce their ability to treat the citizens of a country as assets, not as
 customers. The reactionaries believe that all income should be considered revenues of the
 community, meaning that it should be at the disposal of the state.23 We have already
 discussed arguments advanced by Lasch in Revolt of the Elites and the Betrayal of Democracy.
-But his is not the only diatribe in support of the nationstate. Harvard University political
+But his is not the only diatribe in support of the nation state. Harvard University political
 theorist Michael Sandel argues in Democracy in Discontent that "Democracy today is not
 possible without a politics that can control global economic forces, because without such
 control it won't matter who people vote for, the corporations will rule."24 In other words,
@@ -12245,7 +12274,7 @@ Indeed, democracy as it has been known in the nineteenth and twentieth centuries
 to disappear.
 
 But Sandel misses the real importance of the triumph of markets over compulsion. His
-invocation of corporate rule" as a danger attendant upon the collapse of the nationstate is
+invocation of corporate rule" as a danger attendant upon the collapse of the nation state is
 strikingly anachronistic.
 
 Corporations will hardly be in a position to rule the markets of the new global economy.
@@ -12313,7 +12342,7 @@ authorities have in the continuation of their historic relations with the firms.
 ability of the state to manipulate the decision-making of corporations, but even more 273
 longstanding basically presupposes organizations capable of functioning independently of
 price signals in the auction market. the existence of corporations as We suspect that the
-deepening of markets will not only diminish the taxing capacity of the nationstate, it will
+deepening of markets will not only diminish the taxing capacity of the nation state, it will
 also erode the capacity of politicians to impose their will arbitrarily upon the owners of
 resources by regulation. In a world where jurisdictional advantages will be subject to
 market tests, and many local markets will be opened to competition from anywhere, it is
@@ -12373,7 +12402,7 @@ infrastructure could be discretely privatized and financed directly by those who
 service. Economist Paul Krugman estimates that market pricing of U.S. transportation
 infrastructure would add from $60 billion to $100 billion annually to CIDP in the United
 States, while improving the efficiency of resource use and reducing pollution.33
-Furthermore, it is not to be forgotten that the most costly part of what modern nationstates
+Furthermore, it is not to be forgotten that the most costly part of what modern nation states
 do-redistributing income-is not the provision of a public good at all, but the provision of
 private goods at public expense. "Public expense" here is a euphemism for "at the expense of
 those who pay the taxes." What of a genuine public good, like the provision of a military
@@ -12398,7 +12427,7 @@ outside directors nominated by pension plans. Equally, we doubt that the rationa
 of sovereignty services in the Information Age will care whether Singapore is a mass
 democracy or a proprietorship of Lee Kwan Yew.
 
-## CHAPTER 11
+## Chapter 11
 
 MORALITY AND CRIME IN THE "NATURAL ECONOMY" OF THE INFORMATION AGE "Corruption... is far
 more widespread and universal than previously thought.
@@ -12408,12 +12437,12 @@ industrial countries. . . . Prominent political figures, including presidents of
 and ministers, have been accused of corruption. . . . In a way this represents a
 privatization of the state in which its power is not shifted to the market, as privatization
 normally implies, but to government officials and bureaucrats." VIRO TANZI We believe that
-as the modern nationstate decomposes, latter-day barbarians will increasingly come to
+as the modern nation state decomposes, latter-day barbarians will increasingly come to
 exercise real power behind the scenes. Groups like the Russian mafiyas that pick the bones
 of the former Soviet Union, other ethnic criminal gangs, nomenklaturas, drug lords, and
 renegade covert agencies will increasingly be laws unto themselves. They already are. Far
 more than is widely understood, the modem barbarians have already infiltrated the forms of
-the nationstate without greatly changing its appearances. They are microparasites feeding on
+the nation state without greatly changing its appearances. They are microparasites feeding on
 a dying system. As violent and unscrupulous as a state at war, these groups employ the
 techniques of the state on a smaller scale. Their growing influence and power is part of the
 downsizing of politics.
@@ -12425,11 +12454,11 @@ be organized more and more outside of central control.
 Efforts to contain violence will also devolve in ways that depend more upon efficiency than
 magnitude of power.
 
-The surge of covert criminal activity and corruption within nationstates will form an
+The surge of covert criminal activity and corruption within nation states will form an
 important subplot as the world changes.
 
 What you will see could be a covert and sinister version of a bad movie, Invasion of the
-Body Snatchers. Before most nationstates visibly collapse they will be dominated by
+Body Snatchers. Before most nation states visibly collapse they will be dominated by
 latter-day barbarians. As often as not, as in the famous Bmovie from the 1950s, they will be
 barbarians in disguise. The Pod People of the future, however, will not be aliens from space
 but criminals of various affiliations who fill official positions while owing at least
@@ -12440,16 +12469,16 @@ dissolve, the social ethos dissolves with it, creating an environment in which p
 high places may combine public purposes with private criminal activity.
 
 Unfortunately, you will not be able to depend upon normal information channels to give you
-an accurate and timely understanding of the decay of the nationstate. "Persistent
+an accurate and timely understanding of the decay of the nation state. "Persistent
 make-believe" of the kind that disguised the fall of the Roman
 
 Empire is probably a typical feature of the decomposition of large political entities. It
-now disguises and masks the collapse of the nationstate. For a variety of reasons, the news
+now disguises and masks the collapse of the nation state. For a variety of reasons, the news
 media cannot always be depended upon to tell you the truth.
 
 Many are conservative in the sense that they represent the party of the past.
 
-Some are blinded by anachronistic ideological commitments to socialism and the nationstate.
+Some are blinded by anachronistic ideological commitments to socialism and the nation state.
 Some will be afraid for more tangible reasons to reveal the corruption that is likely to
 loom ever larger in a decaying system. Some will lack physical courage that might be
 required for such a task. Others will fear for their jobs or be shy of other retribution for
@@ -12586,11 +12615,11 @@ and credit reports on their victims through the Internet.
 
 Falling Decisiveness of Military Power For good and for ill, by making large-scale military
 power less decisive, information technology has radically reduced the capacity of the
-nationstate to impose its authority in an unruly world. If once, as Voltaire said, “God was
+nation state to impose its authority in an unruly world. If once, as Voltaire said, “God was
 on the side of bigger battalions," there appears to be less divine support with every day
 that passes for generating large returns to violence. Instead, we see the opposite-more
 evidence of diminishing returns to violence-which strongly implies that large
-conglomerations like the nationstate will no longer justify their huge overhead costs.
+conglomerations like the nation state will no longer justify their huge overhead costs.
 
 The most obvious evidence of the declining decisiveness of centralized power is the rise of
 terrorism. High-profile bombings in the United States in the midnineties show that even the
@@ -12630,7 +12659,7 @@ them.
 
 When the age of Information War finally arrives, it is unlikely that its antagonists will
 only be governments. A company like Microsoft certainly has a greater ability to conduct
-Information War than 90 percent of the world's nationstates.
+Information War than 90 percent of the world's nation states.
 
 The Age of the Sovereign Individual This is part of the reason why we have entitled this
 book The Sovereign Individual. As the scale of warfare falls, defense and protection will be
@@ -12694,7 +12723,7 @@ threat and then charges for its reduction. Governments' provision of protection,
 standard, often qualifies as racketeering." CHARLES TILLY Nature Hates Monopolies As the
 monopoly on violence enjoyed by the "bigger battalions" breaks down, one of the first
 results to be expected is increasing prosperity for organized crime. Organized crime, after
-all, provides the main competition to nationstates in employing violence for predatory
+all, provides the main competition to nation states in employing violence for predatory
 purposes. Although it is impolite to say so, it should not be forgotten, as political
 scientist Charles Tilly reminds us, that governments themselves-"quintessential protection
 rackets with the advantage of legitimacy-qualify as our largest examples of organized
@@ -13588,7 +13617,7 @@ The shifi between nations will be toward a greater equality of wealth, but insid
 will probably be toward greater inequality. The efficient users of talent and capital will
 have a decisive advantage over those with moderate skills or little capital. This wealth
 will be highly mobile. The poor in the advanced world will not be able to tax the rich on
-the twentiethcentury scale; those countries that try to do so will fall back in an intensely
+the twentieth century scale; those countries that try to do so will fall back in an intensely
 competitive race.
 
 Of course, the total productivity of the world economy will continue to rise, perhaps by an
@@ -13607,10 +13636,10 @@ we shall witness the creation of a world superclass, perhaps of 500 million very
 people, with 100 million being rich enough to emerge as Sovereign Individuals.
 
 This process will have an inevitable consequence. Societies will become much less
-homogeneous; the nationstate will become weaker, or crumble altogether; the cognitive elite
+homogeneous; the nation state will become weaker, or crumble altogether; the cognitive elite
 will see itself as cosmopolitan. Already people who work in the same global functions are
 developing a culture that is much closer to that of their fellow workers in other parts of
-the world than to their fellow citizens in the old nationstates. A London investment banker
+the world than to their fellow citizens in the old nation states. A London investment banker
 will probably feel more at home in Seoul than he will in Glasgow; a Washington civil servant
 may feel more at home in Bonn than in black areas of Washington itself. We can already see
 the splintering effect that this process has on moral values. The morality of the individual
@@ -13901,7 +13930,7 @@ States and thus expose yourself to predatory U.S. taxes, including exit taxes. 3
 Based upon the history of other dominant systems facing collapse, those who opt for the
 ultimum refugium and get out early will be better off in the end.
 
-The dangers of a nationalist reaction to the crisis of the nationstate make it important not
+The dangers of a nationalist reaction to the crisis of the nation state make it important not
 to underestimate the scope for tyranny and mischief. You should never leave your money in
 any jurisdiction that claims the right to conscript you, your children, or grandchildren. 4.
 
@@ -13981,7 +14010,7 @@ intelligence, as more wealth will be created by adding knowledge to products. 20
 As Professor Guy Bois observed in his history, The Transformation of the Year One Thousand,
 "in a period of increasing difficulties, the weaker elements in the social body tend to
 polarize around a rising star."' In the transformation of the year two thousand, the rising
-star will be the Sovereign Individual. As the nationstate system breaks down, risk-averse
+star will be the Sovereign Individual. As the nation state system breaks down, risk-averse
 persons who formerly would have sought employment with government may find an alternative in
 affiliating as retainers to the very rich. 21.
 
@@ -13994,7 +14023,7 @@ Debt deflation may accompany the transition to the new millennium. 23.
 The death of politics will mean the end of central bank regulation and manipulation of
 money. Cybermoney will become the new money of the Information Age, replacing the paper
 money of Industrialism. This means not only a change in the fortunes of banknote printers,
-it implies the death of inflation as an effective means by which nationstates can commandeer
+it implies the death of inflation as an effective means by which nation states can commandeer
 resources.
 
 Real interest rates will tend to rise. 24.
@@ -14005,7 +14034,7 @@ must be adjusted to the unfamiliar realities of deflation-that is, debt should b
 savings and cost reductions should be pursued with greater urgency; long-term contracts and
 compensation packages should probably be drawn with flexible nominal terms. 25.
 
-Taxing capacity in the leading nationstates will fall away by 50 to 70 percent, while it
+Taxing capacity in the leading nation states will fall away by 50 to 70 percent, while it
 will prove far more difficult to reduce spending in an orderly way.
 
 The result to be expected is a continuation of deficits that plague most OECD countries,
@@ -14047,7 +14076,7 @@ James George Frazer, The Golden Bough: A Study in Magic and Religion (New York: 
 1951), p.105. 5.
 
 For more detail about fragmented sovereignties as a precursor and alternative to the
-nationstate, see Charles Tilly, Coercion, Capital and European States AD 990-1992 (Oxford:
+nation state, see Charles Tilly, Coercion, Capital and European States AD 990-1992 (Oxford:
 Blackwell, 1993). 6.
 
 The German GPI index stood at 33.20 on December 31, 1948, and 112.90 on June 30, 1995, which
