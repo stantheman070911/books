@@ -4,7 +4,7 @@
 
 By Peter Thiel with Blake Masters
 
-# Preface: Zero to One
+## Preface: Zero to One
 
 ### Contents
 
@@ -28,7 +28,7 @@ By Peter Thiel with Blake Masters
 
 ### 10 The Mechanics of Mafia
 
-11 If You Build It, Will They Come?
+### 11 If You Build It, Will They Come?
 
 ### 12 Man and Machine
 
@@ -36,7 +36,7 @@ By Peter Thiel with Blake Masters
 
 ### 14 The Founder’s Paradox
 
-# Conclusion: Stagnation or Singularity?
+## Conclusion: Stagnation or Singularity?
 
 ### Acknowledgments
 
@@ -416,11 +416,8 @@ And yet the opposite principles are probably more
 And yet the opposite principles are probably more correct:
 
 1. It is better to risk boldness than triviality.
-
 2. A bad plan is better than no plan.
-
 3. Competitive markets destroy profits.
-
 4. Sales matters just as much as product.
 
 It’s true that there was a bubble in technology. The late ’90s was a time of hubris: people
@@ -438,9 +435,7 @@ madness of crowds by dogmatically rejecting them. Instead ask yourself: how much
 know about business is shaped by mistaken reactions to past mistakes? The most contrarian
 thing of all is not to oppose the crowd but to think for yourself.
 
-## ALL HAPPY COMPANIES ARE
-
-## DIFFERENT
+## ALL HAPPY COMPANIES ARE DIFFERENT
 
 THE BUSINESS VERSION of our contrarian question is: what valuable company is nobody
 building? This question is harder than it looks, because your company could create a lot of
@@ -1462,7 +1457,6 @@ entrepreneurs sell their company. What do they do with the money? In a financial
 it unfolds like this:
 
 - The founders don’t know what to do with it, so they give it to a large bank.
-
 - The bankers don’t know what to do with it, so they diversify by spreading it across a
   portfolio of institutional investors.
 
@@ -1749,13 +1743,7 @@ others. If you focus on diversification instead of single-minded pursuit of the 
 companies that can become overwhelmingly valuable, you’ll miss those rare companies in the
 first place.
 
-## This graph shows
-
-the stark reality versus
-
-the perceived relative
-
-homogeneity:
+### This graph shows the stark reality versus the perceived relative homogeneity:
 
 Our results at Founders Fund illustrate this skewed pattern: Facebook, the best investment
 in our 2005 fund, returned more than all the others combined. Palantir, the second-best
@@ -1934,7 +1922,6 @@ least some of his goals.” He
 divided human goals into three groups:
 
 1. Goals that can be satisfied with minimal effort;
-
 2. Goals that can be satisfied with serious effort; and 3. Goals that cannot be satisfied,
    no matter how much effort one makes.
 
@@ -2276,9 +2263,7 @@ keep everyone aligned for the long term.
 distinguish between three concepts:
 
 - Ownership: who legally owns a company’s equity?
-
 - Possession: who actually runs the company on a day-to-day basis?
-
 - Control: who formally governs the company’s affairs?
 
 A typical startup allocates ownership among founders, employees, and investors. The managers
@@ -2599,9 +2584,7 @@ You’re not going to learn those kinds of secrets from consultants, and you don
 worry if your company doesn’t make sense to conventional professionals. Better to be called
 a cult— or even a mafia.
 
-## IF YOU BUILD IT, WILL THEY
-
-## COME?
+## IF YOU BUILD IT, WILL THEY COME?
 
 EVEN THOUGH SALES is everywhere, most people underrate its importance.
 
@@ -3796,7 +3779,7 @@ for every business is to lose all sense of myth and mistake disenchantment for w
 
 ## Conclusion
 
-## Stagnation Or Singularity?
+### Stagnation Or Singularity?
 
 IF EVEN THE MOST FARSIGHTED founders cannot plan beyond the next 20 to 30 years, is there
 anything to say about the very distant future? We don’t know anything specific, but we can
@@ -3908,11 +3891,8 @@ following images:
 ### 14.4: Elvis Presley, Tom Wargacki/WireImage
 
 - 14.4: Michael Jackson, David LEFRANC/Gamma-Rapho via Getty Images
-
 - 14.4: Britney Spears, New York Daily News Archive via Getty Images
-
 - 14.5: Janis Joplin, Albert B. Grossman and David Gahr/Getty Images
-
 - 14.5: Jim Morrison, Elektra Records and CBS via Getty Images
 
 ### 14.5: Kurt Cobain, Frank Micelotta/Stringer/Getty Images
@@ -4306,9 +4286,7 @@ controlling of
 ### four possible patterns for
 
 - Gaga, Lady, 14.1, 14.2
-
 - Gates, Bill, prf.1, 6.1, 6.2, 6.3, 14.1
-
 - General Motors, 9.1, 13.1
 
 ### genius
@@ -4833,9 +4811,7 @@ SpaceX, prf.1, 10.1, 11.1
 ## Spears, Britney
 
 - SpectraWatt, 13.1, 13.2
-
 - Spencer, Herbert, 6.1, 6.2
-
 - Square, 4.1, 6.1
 
 ## Stanford Sleep Clinic

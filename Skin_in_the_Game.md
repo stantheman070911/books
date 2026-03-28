@@ -6,390 +6,246 @@ By Nassim Nicholas Taleb
 
 ## Contents
 
-# Book 1: Introduction
+## Book 1: Introduction
 
 - The Less Obvious Aspects of Skin in the Game
-
 - Prologue, Part 1: Antaeus Whacked
-
 - Libya After Antaeus
-
 - Ludis de Alieno Corio
-
 - Warlords Are Still Around
-
 - The Bob Rubin Trade
-
 - Systems Learn by Removing
-
 - Prologue, Part 2: A Brief Tour of Symmetry
-
 - I. From Hammurabi to Kant
-
 - Hammurabi in Paris
-
 - Silver Beats Gold
-
 - Fuhgedaboud Universalism
-
 - II. From Kant to Fat Tony
-
 - Crook, Fool, or Both
-
 - Causal Opacity and Preferences Revealed
-
 - Skin in the Game, but Not All the Time
-
 - III. Modernism
-
 - How to Beam Light on a Speaker
-
 - Simplicity
-
 - I Am Dumb Without Skin in the Game
-
 - Regulations vs. Legal Systems
-
 - IV. Soul in the Game
-
 - Artisans
-
 - A Caveat with Entrepreneurs
-
 - Arrogant Will Do
-
 - Citizenship de Plaisance
-
 - Heroes Were Not Library Rats
-
 - Soul in the Game and Some (Not Too Much) Protectionism
-
 - Skin in the Ruling
-
 - Prologue, Part 3: The Ribs of the Incerto
-
 - The Road
-
 - An Enhanced Detector
-
 - The Book Reviewers
-
 - Organization of the Book
-
 - Appendix: Asymmetries in Life and Things
 
-# Book 2: A First Look At Agency
+## Book 2: A First Look At Agency
 
-# Chapter 1. Why Each One Should Eat His Own Turtles: Equality in Uncertainty
+### Chapter 1. Why Each One Should Eat His Own Turtles: Equality in Uncertainty
 
 - A Customer Is Born Every Day
-
 - The Price of Corn in Rhodes
-
 - Equality in Uncertainty
-
 - Rav Safra and the Swiss
-
 - Members and Non-Members
-
 - Non Mihi non Tibi, sed Nobis (Neither Mine nor Yours, but Ours)
-
 - Are You on the Diagonal?
-
 - All (Literally) in the Same Boat
-
 - Talking One’s Book
-
 - A Short Visit to the Doctor’s Office
-
 - Next
 
-# Book 3: That Greatest Asymmetry
+## Book 3: That Greatest Asymmetry
 
-# Chapter 2. The Most Intolerant Wins: The Dominance of the Stubborn Minority
+### Chapter 2. The Most Intolerant Wins: The Dominance of the Stubborn Minority
 
 - Criminals with Peanut Allergies
-
 - Renormalization Group
-
 - The Veto
-
 - Lingua Franca
-
 - Genes vs. Languages
-
 - The One-Way Street of Religions
-
 - Decentralize, Again
-
 - Imposing Virtue on Others
-
 - Stability of the Minority Rule, a Probabilistic Argument
-
 - Popper-Goedel’s Paradox
-
 - Irreverence of Markets and Science
-
 - Unus sed Leo: Only One but a Lion
-
 - Summary and Next
-
 - Appendix to Book 3: A Few More Counterintuitive Things About the Collective
-
 - Zero-Intelligence Markets
 
-# Book 4: Wolves Among Dogs
+## Book 4: Wolves Among Dogs
 
-# Chapter 3. How to Legally Own Another Person
+### Chapter 3. How to Legally Own Another Person
 
 - To Own a Pilot
-
 - From the Company Man to the Companies Person
-
 - Coase’s Theory of the Firm
-
 - Complexity
-
 - A Curious Form of Slave Ownership
-
 - Freedom is Never Free
-
 - Wolves Among the Dogs
-
 - Loss Aversion
-
 - Waiting for Constantinople
-
 - Do Not Rock Bureaucristan
-
 - Next
 
-# Chapter 4. The Skin of Others in Your Game
+### Chapter 4. The Skin of Others in Your Game
 
 - A Mortgage and Two Cats
-
 - Finding Hidden Vulnerabilities
-
 - How to Put Skin in the Game of Suicide Bombers
-
 - Next
 
-# Book 5: Being Alive Means Taking Certain Risks
+## Book 5: Being Alive Means Taking Certain Risks
 
-# Chapter 5. Life in the Simulation Machine
+### Chapter 5. Life in the Simulation Machine
 
 - Jesus Was a Risk Taker
-
 - Pascal’s Wager
-
 - The Matrix
-
 - The Donald
-
 - Next
 
-# Chapter 6. The Intellectual Yet Idiot
+### Chapter 6. The Intellectual Yet Idiot
 
 - Where to Find a Coconut
-
 - Science and Scientism
-
 - Intellectual Yet Philistine
-
 - Never Gotten Drunk with Russians
-
 - To Conclude
-
 - Postscript
 
-# Chapter 7. Inequality and Skin in the Game
+### Chapter 7. Inequality and Skin in the Game
 
 - Inequality vs. Inequality
-
 - The Static and the Dynamic
-
 - Pikketism and the Revolt of the Mandarin Class
-
 - Cobbler Envies Cobbler
-
 - Inequality, Wealth, and Vertical Socialization
-
 - Empathy and Homophily
-
 - Data, Shmata
-
 - Ethics of Civil Service
-
 - Next
 
-# Chapter 8. An Expert Called Lindy
+### Chapter 8. An Expert Called Lindy
 
 - Who Is the “Real” Expert?
-
 - The Lindy of Lindy
-
 - Do We Need a Judge?
-
 - Tea with the Queen
-
 - Institutions
-
 - Against One’s Interest
-
 - Soul in the Game, Again
-
 - Science is Lindy-Prone
-
 - Empirical or Theoretic?
-
 - The Grandmother vs. the Researchers
-
 - A Brief Tour of Your Grandparents’ Wisdom
 
-# Book 6: Deeper Into Agency
+## Book 6: Deeper Into Agency
 
-# Chapter 9. Surgeons Should Not Look Like Surgeons
+### Chapter 9. Surgeons Should Not Look Like Surgeons
 
 - Looking the Part
-
 - The Green Lumber Fallacy
-
 - Best-Dressed Business Plan
-
 - A Bishop for Halloween
-
 - The Gordian Knot
-
 - Overintellectualization of Life
-
 - Another Business of Intervention
-
 - Gold and Rice
-
 - The Compensation
-
 - Education as Luxury Good
-
 - A BS Detection Heuristic
-
 - Real Gyms Don’t Look Like Gyms
-
 - Next
 
-# Chapter 10. Only the Rich Are Poisoned: The Preferences of Others
+### Chapter 10. Only the Rich Are Poisoned: The Preferences of Others
 
 - Venenum in Auro Bibitur
-
 - Large Funeral Homes
-
 - Conversation
-
 - Nonlinearity of Progress
-
 - Next
 
-# Chapter 11. Facta non Verba (Deeds Before Words)
+### Chapter 11. Facta non Verba (Deeds Before Words)
 
 - An Offer Very Hard to Refuse
-
 - The Assassins
-
 - Assassination as Marketing
-
 - Assassination as Democracy
-
 - The Camera for Skin in the Game
 
-# Chapter 12. The Facts Are True, the News Is Fake
+### Chapter 12. The Facts Are True, the News Is Fake
 
 - How to Disagree with Yourself
-
 - Information Doesn’t Like to Be Owned
-
 - The Ethics of Disagreement
-
 - Next
 
-# Chapter 13. The Merchandising of Virtue
+### Chapter 13. The Merchandising of Virtue
 
 - The Public and the Private
-
 - The Virtue Merchants
-
 - To Be or to Seem?
-
 - Simony
-
 - Virtue Is About Others and the Collective
-
 - Unpopular Virtue
-
 - Take Risk
 
-# Chapter 14. Peace, Neither Ink nor Blood
+### Chapter 14. Peace, Neither Ink nor Blood
 
 - Mars vs. Saturn
-
 - Where Are the Lions?
-
 - History Seen from the Emergency Room
-
 - Next
 
-# Book 7: Religion, Belief, And Skin In The Game
+## Book 7: Religion, Belief, And Skin In The Game
 
-# Chapter 15. They Don’t Know What They Are Talking About When They Talk
+### Chapter 15. They Don’t Know What They Are Talking About When They Talk
 
 - About Religion
-
 - Belief vs. Belief
-
 - Libertarianism and Church-Free Religions
-
 - Next
 
-# Chapter 16. No Worship Without Skin in the Game
+### Chapter 16. No Worship Without Skin in the Game
 
 The Gods Do Not Like Cheap Signaling The Evidence
 
-# Chapter 17. Is the Pope Atheist?
+### Chapter 17. Is the Pope Atheist?
 
 Religious in Words Next
 
-# Book 8: Risk And Rationality
+## Book 8: Risk And Rationality
 
-# Chapter 18. How to Be Rational About Rationality
+### Chapter 18. How to Be Rational About Rationality
 
 - Ocular Deception
-
 - Ergodicity First
-
 - From Simon to Gigerenzer
-
 - Revelation of Preferences
-
 - What Is Religion About?
 
 “Tawk” and Cheap “Tawk” What Does Lindy Say?
 
 The Nondecorative in the Decorative
 
-# Chapter 19. The Logic of Risk Taking
+### Chapter 19. The Logic of Risk Taking
 
 - Ergodicity
-
 - Repetition of Exposures
-
 - Who Is “You”?
-
 - Courage and Precaution Aren’t Opposites
-
 - Rationality, Again
-
 - Love Some Risks
-
 - Naive Empiricism
-
 - Summary
 
 ## Epilogue: What Lindy Told Me
@@ -438,7 +294,7 @@ INCERTO’S TECHNICAL COMPANION, consisting of academic-style papers, miscellane
 
 Two men of courage: Ron Paul, a Roman among Greeks; Ralph Nader, Greco-Phoenician saint
 
-# Book 1
+## Book 1
 
 This book, while standalone, is a continuation of the Incerto collection, which is a
 combination of a) practical discussions, b) philosophical tales, and c) scientific and
@@ -544,9 +400,7 @@ Let us first connect a few dots of the items in the list above with two vignette
 give the flavor of how the idea transcends categories.
 
 - Prologue, Part 1
-
 - Antaeus Whacked
-
 - Never run away from Mamma—I keep finding warlords—Bob Rubin and his trade—Systems like car accidents
 
 Antaeus was a giant, or rather a semi-giant of sorts, the literal son of Mother Earth, Gaea,
@@ -741,7 +595,9 @@ stubborn author), and keep past income—what I have called the Bob Rubin trade.
 The Bob Rubin trade? Robert Rubin, a former Secretary of the United States Treasury, one of
 those who sign their names on the banknote you just used to pay for coffee, collected more
 than $120 million in compensation from Citibank in the decade preceding the banking crash of
+
 2008. When the bank, literally insolvent, was rescued by the taxpayer, he didn’t write any
+
 check—he invoked uncertainty as an excuse. Heads he wins, tails he shouts “Black Swan.” Nor
 did Rubin acknowledge that he transferred risk to taxpayers: Spanish grammar specialists,
 assistant schoolteachers, supervisors in tin can factories, vegetarian nutrition advisors,
@@ -900,13 +756,20 @@ TABLE 1 • EVOLUTION OF MORAL SYMMETRY
 
 - From Taleb And Sandis, 2016
 - Hammurabi/Lex Talionis
+
   “An eye for an eye, a tooth for a tooth” (Hammurabi, Exodus 21.24)
+
 - 15Th Law Of Holiness And Justice
+
   “Love your neighbor as yourself” (Leviticus 19.18)
+
 - Silver Rule
 - Golden Rule
+
   “Do unto others as you would have them do unto you” (Matthew 7:12)
+
 - Formula Of The Universal Law
+
   “Act only in accordance with maxim that through which you can at the same time will that it
   will become a universal law.” (Kant 1785: 4:421)
 
@@ -1775,9 +1638,7 @@ ergodicity, which was left hanging. Finally, the chapter outlines what we call t
 precautionary principle.
 
 - Appendix:
-
 - Asymmetries in Life and Things
-
 - TABLE 2 • ASYMMETRIES IN SOCIETY
 
 ## Where We Left Off In Antifragile
@@ -1813,9 +1674,9 @@ prizes, honors, ceremonies, medals, tea with the Queen of England, membership in
 handshake with Obama Highest—even only—award is death for one’s ideas or positions:
 Socrates, Jesus, Saint Catherine, Hypatia, Joan of Arc
 
-# Book 2
+## Book 2
 
-# Chapter 1
+### Chapter 1
 
 Why Each One Should Eat His Own Turtles:
 
@@ -2323,9 +2184,9 @@ commercial and an ethical viewpoint, assuming the two can be disentangled. We al
 introduced the problem of scale. Next, we will try to get deeper into the hidden asymmetries
 that make aggregates strange animals.
 
-# Book 3
+## Book 3
 
-# Chapter 2
+### Chapter 2
 
 ## The Most Intolerant Wins: The Dominance of the Stubborn Minority
 
@@ -3022,9 +2883,9 @@ going; markets do.
 
 Leave people alone under a good structure and they will take care of things.
 
-# Book 4
+## Book 4
 
-# Chapter 3
+### Chapter 3
 
 ## How to Legally Own Another Person
 
@@ -3490,7 +3351,7 @@ substitute for their annual “job assessment,” and you will picture a differe
 
 Next, let’s talk about the Achilles’ heel of the free who is not so free.
 
-# Chapter 4
+### Chapter 4
 
 ## The Skin of Others in Your Game
 
@@ -3718,9 +3579,9 @@ In the last two chapters we examined the good and the bad of dependence and the 
 on our freedoms coming from skin in the game. Next, let us look at the thrills (of the right
 type) of risk taking.
 
-# Book 5
+## Book 5
 
-# Chapter 5
+### Chapter 5
 
 ## Life in the Simulation Machine
 
@@ -3848,7 +3709,7 @@ Otherwise you will resemble the person we expose in the next chapter (which hope
 offend many “intellectuals”), the insidious disease of modern times: back-office people
 (that is, support staff) acting as front-office ones (business generators).
 
-# Chapter 6
+### Chapter 6
 
 ## The Intellectual Yet Idiot
 
@@ -3984,7 +3845,7 @@ between the satirical and the literal.
 Next, we stop the satirical and return to the main book with the sooooo misunderstood topic
 of economic inequality. By IYIs.
 
-# Chapter 7
+### Chapter 7
 
 ## Inequality and Skin in the Game
 
@@ -4373,7 +4234,7 @@ decides who is and who is not an expert? Where is the metaexpert?
 Time is the expert. Or, rather, the temperamental and ruthless Lindy, as we see in the next
 chapter.
 
-# Chapter 8
+### Chapter 8
 
 ## An Expert Called Lindy
 
@@ -4751,9 +4612,9 @@ then … come rest at ease.” Cynéas: “But you are already there; why take m
 Montaigne then cites the well-known passage in Lucretius’ De Rerum Natura (V, 1431) on how
 human nature knows no upper bound, as if to punish itself.
 
-# Book 6
+## Book 6
 
-# Chapter 9
+### Chapter 9
 
 ## Surgeons Should Not Look Like Surgeons
 
@@ -5153,7 +5014,7 @@ argument that, while the presence of skin in the game does away with the cosmeti
 absence causes multiplicative nonsense. Next, let us consider the divergence of interest
 between you and yourself when you become rich.
 
-# Chapter 10
+### Chapter 10
 
 ## Only the Rich Are Poisoned: The Preferences of Others
 
@@ -5300,7 +5161,7 @@ of degradation of your well-being, and a bit beyond that.
 The next chapter will present the rule of no verbal threat through the history of the
 experts of the craft, the sect of the Assassins.
 
-# Chapter 11
+### Chapter 11
 
 ## Facta non Verba (Deeds Before Words)
 
@@ -5500,7 +5361,7 @@ pleasing the watchers, and can actually irritate them. Remember that Socrates wa
 death because he would not compromise his standards. More on that, in a few chapters, when
 we discuss real virtue.
 
-# Chapter 12
+### Chapter 12
 
 ## The Facts Are True, the News Is Fake
 
@@ -5654,7 +5515,7 @@ some old ethical practices were abandoned.
 
 The next chapter will take us to virtue as skin in the game.
 
-# Chapter 13
+### Chapter 13
 
 ## The Merchandising of Virtue
 
@@ -5872,7 +5733,7 @@ economy); institutions (like the aid industry) may help, but they are equally li
 
 Courage (risk taking) is the highest virtue. We need entrepreneurs.
 
-# Chapter 14
+### Chapter 14
 
 ## Peace, Neither Ink nor Blood
 
@@ -6082,11 +5943,11 @@ But recall that religion is about skin in the game—not quite about “belief.�
 the next few chapters with what people call “religion,” which will take us deeper and deeper
 into the core of the book: rationality and risk bearing.
 
-# Book 7
+## Book 7
 
 ## G A M E
 
-# Chapter 15
+### Chapter 15
 
 They Don’t Know What They Are Talking About When They Talk About Religion The more they
 talk. the less you understand—Law or nomous?—In religion, as in other things, you pay for
@@ -6232,7 +6093,7 @@ treating religions as if they are all the same animal. But there is a commonalit
 chapter will show us how religion does not like fair-weather friends; it wants commitment;
 it is based on skin in the game.
 
-# Chapter 16
+### Chapter 16
 
 No Worship Without Skin in the Game
 
@@ -6362,7 +6223,7 @@ tangible proof, is new in history.
 The strength of a creed did not rest on “evidence” of the powers of its gods, but evidence
 of the skin in the game on the part of its worshippers.
 
-# Chapter 17
+### Chapter 17
 
 Is the Pope Atheist?
 
@@ -6448,9 +6309,9 @@ This chapter will ease us to the next section: a) rationality resides in what yo
 what you think or in what you “believe” (skin in the game), and b) rationality is about
 survival.
 
-# Book 8
+## Book 8
 
-# Chapter 18
+### Chapter 18
 
 ## How to Be Rational About Rationality
 
@@ -6717,7 +6578,7 @@ a reason.
 Rationality is risk management, period. The next chapter will make the final argument in
 support of this principle.
 
-# Chapter 19
+### Chapter 19
 
 ## The Logic of Risk Taking
 
@@ -7301,6 +7162,7 @@ no. 7666: 214–218.
 MacLean, Leonard C., Edward O. Thorp, and William T. Ziemba,
 
 2011. The Kelly Capital Growth Investment Criterion: Theory and Practice, vol. 3. World
+
       Scientific.
 
 Mandelbrot, Benoit, 1982. The Fractal Geometry of Nature.
@@ -7331,6 +7193,7 @@ Public Choice 48(1): 3–25.
 Parfit, Derek, 2011. On What Matters. Vols. 1–3. Oxford: Oxford University Press.
 
 Periander of Corinth. In Early Greek Philosophy: Beginning and Early Ionian Thinkers, Part
+
 1. Loeb Classical Library, Harvard University Press.
 
 Peters, Ole, 2011. “The Time Resolution of the St Petersburg Paradox.” Philosophical
@@ -7474,7 +7337,9 @@ don’t understand doesn’t exist.
 Intellectual Yet Idiot: an idiot.
 
 Pseudo-rationalism: 1) focusing on the rationality of a belief rather than its consequences,
+
 2) the use of bad probabilistic models to naively decry people’s “irrationality” when they
+
 engage in a certain class of actions.
 
 Agency Problem: misalignment of interest between the agent and the principal, say between
@@ -7683,7 +7548,9 @@ Other approaches: we can also approach the proof more formally in a measure-theo
 showing that while space sets for “nonruin” A are disjoint, time sets are not. The approach
 relies on the fact that for a measure V: does not necessarily equal Almost all papers
 discussing the actuarial “overestimation” of tail risk via options (see review in Barberis
+
 2003) are void by the inequality in Theorem 1. Clearly they assume that an agent only exists
+
 for a single decision or exposure. Simply, the original papers documenting the “bias” assume
 that the agents will never ever again make another decision in their remaining lives.
 
@@ -7896,13 +7763,9 @@ near-certain omission.
 ## The Beginning
 
 - Let the conversation begin …
-
 - Follow the Penguin Twitter.com@penguinUKbooks
-
 - Keep up-to-date with all our stories YouTube.com/penguinbooks
-
 - Pin ‘Penguin Books’ to your Pinterest
-
 - Like ‘Penguin Books’ on Facebook.com/penguinbooks
 
 ## Listen to Penguin at SoundCloud.com/penguin-books
@@ -7924,14 +7787,12 @@ Penguin Random House LLC 2018 First published in Great Britain by Allen Lane 201
 Copyright © Nassim Nicholas Taleb, 2018
 
 - Portions of this work were originally published in different form on Medium
-
 - The moral right of the author has been asserted
-
 - Cover design: Richard Green
 
 ## Isbn: 978-0-241-24748-8
 
-# Book 1: Introduction
+## Book 1: Introduction
 
 fn1 To figure out why ethics, moral obligations, and skills cannot be easily separable in
 real life, consider the following. When you tell someone in a position of responsibility,
@@ -7999,7 +7860,7 @@ Randomness to be understood as “there is more luck than you think,” rather t
 people were getting from reviews: “it is all dumb luck.” Most books don’t survive three
 months.
 
-# CHAPTER 1: WHY EACH ONE SHOULD EAT HIS OWN TURTLES:
+### CHAPTER 1: WHY EACH ONE SHOULD EAT HIS OWN TURTLES:
 
 ## Equality In Uncertainty
 
@@ -8025,7 +7886,7 @@ filtering. I bought an electric car—a Tesla—because my neighbor was enthusia
 (skin in the game), and I watched him remain so for a few years. No amount of advertising
 will match the credibility of a genuine user.
 
-# CHAPTER 2: THE MOST INTOLERANT WINS: THE DOMINANCE OF THE
+### CHAPTER 2: THE MOST INTOLERANT WINS: THE DOMINANCE OF THE
 
 ## Stubborn Minority
 
@@ -8058,7 +7919,7 @@ market or understand the economy, or generate policy. fn2 It is worth mentioning
 as these people acted as attack dogs against those who discounted the selfish-gene theory,
 without addressing the mathematics provided (they can’t), yet kept barking.
 
-# CHAPTER 3: HOW TO LEGALLY OWN ANOTHER PERSON
+### CHAPTER 3: HOW TO LEGALLY OWN ANOTHER PERSON
 
 fn1 The academic tenure system is meant to give people the security to express their
 opinions freely. However, tenure is given (in the ideological disciplines, such as the
@@ -8082,7 +7943,7 @@ more social mobility, ironically, more people could access the pool of politicia
 their jobs. And progressively, as with corporations, you start gathering people with minimal
 courage—and selected because they don’t have courage, as with a regular corporation.
 
-# CHAPTER 4: THE SKIN OF OTHERS IN YOUR GAME
+### CHAPTER 4: THE SKIN OF OTHERS IN YOUR GAME
 
 fn1 In Plato’s Apology, Socrates behaved like a mensch: “I, Sir, have a family, you know,
 and was not born ‘from oak or from rock’ ”—this is again an expression of Homer—“but from
@@ -8093,7 +7954,7 @@ narrative is that terrorists think they are going to heaven and will meet virgin
 like their next-door neighbors. Not quite true: many just seek a perceived heroic death, or
 to impress their friends. The desire to be a hero can be quite blinding.
 
-# CHAPTER 5: LIFE IN THE SIMULATION MACHINE
+### CHAPTER 5: LIFE IN THE SIMULATION MACHINE
 
 fn1 “The Son of God shares our nature so we can share His; as He has us in Him, so we have
 Him in us.”—Chrysostom fn2 I note that even the fact that Trump expressed himself in an
@@ -8101,7 +7962,7 @@ unconventional manner was a signal that he never had a boss before, no superviso
 convince, impress, or seek approval from: people who have been employed are more careful in
 their choice of words.
 
-# CHAPTER 6: THE INTELLECTUAL YET IDIOT
+### CHAPTER 6: THE INTELLECTUAL YET IDIOT
 
 fn1 Pareto’s comments are harsher than mine on this topic. fn2 Also the IYI thinks this
 criticism of IYIs means “everybody is an idiot,” not realizing that their group represents,
@@ -8113,7 +7974,7 @@ advocate übernudger Cass Sunstein, interpreted this piece as saying that “the
 non-idiots not called Taleb,” not realizing that people like him are less than 1 percent or
 even less than one-tenth of 1 percent of the population.
 
-# CHAPTER 7: INEQUALITY AND SKIN IN THE GAME
+### CHAPTER 7: INEQUALITY AND SKIN IN THE GAME
 
 fn1 It came to my notice that in countries with high rent-seeking, wealth is seen as
 something zero-sum: you take from Peter to give to Paul. On the other hand, in places with
@@ -8158,13 +8019,14 @@ Applications
 
 Belligerence,” https://stevenpinker.com/files/comments_on_taleb_by_s_pinker.pdf; Cirillo and
 Taleb, “The Decline of Violent Conflicts: What Do the Data Really Say?” Nobel Foundation,
+
 2017. “Fooled Pinker, 29–45;
 
 ## 2016:
 
 by
 
-# CHAPTER 8: AN EXPERT CALLED LINDY
+### CHAPTER 8: AN EXPERT CALLED LINDY
 
 fn1 The “turtles all the way down” expression expresses an infinite regress problem, as
 follows. The logician Bertrand Russell was once told that the world sits on turtles. “And
@@ -8200,7 +8062,7 @@ Nimium boni est, cui hinil est mali.
 Non scabat caput praeter unges tuo, Ma bi ikkak illa ifrak. xasfour bil ‘id a san min xaṡra
 xalṡajra. fn10 Nimium allercando veritas amittitur. fn11 Fiducia pecunias amici.
 
-# CHAPTER 9: SURGEONS SHOULD NOT LOOK LIKE SURGEONS
+### CHAPTER 9: SURGEONS SHOULD NOT LOOK LIKE SURGEONS
 
 fn1 Non teneas aurum totum quod splendet ut aurum/nec pulchrum pomum quodlibet esse bonum.
 fn2
@@ -8211,13 +8073,13 @@ to biographies of scientists and mathematicians written by science journalists�
 professional biographers. They will find some narrative and, worse, put scientists on
 pedestals.
 
-# CHAPTER 11: FACTA NON VERBA (DEEDS BEFORE WORDS)
+### CHAPTER 11: FACTA NON VERBA (DEEDS BEFORE WORDS)
 
 fn1 It appears that what we read about the Assassins can be smear by their enemies,
 including the apocryphal accounts according to which their name comes from consumption of
 hashish (cannabis in Arabic), as they would get into a trance before their assassination.
 
-# CHAPTER 12: THE FACTS ARE TRUE, THE NEWS IS FAKE
+### CHAPTER 12: THE FACTS ARE TRUE, THE NEWS IS FAKE
 
 fn1 There were some occasional episodes of collective frenzy, with the spread of false
 rumors, but, owing to the low level of connectivity between communities, these did not
@@ -8231,7 +8093,7 @@ most misplaced exploitation of that concept, rather than with the public, who si
 naturally, with the victim. This is to remind the reader that journalism has the mother of
 all agency problems. lives in
 
-# CHAPTER 14: PEACE, NEITHER INK NOR BLOOD
+### CHAPTER 14: PEACE, NEITHER INK NOR BLOOD
 
 fn1 This is the elementary but very common error I pointed out in Fooled by Randomness, of
 confusing frequency with expectation (or average). It is very hard for nontraders to
@@ -8259,7 +8121,7 @@ Other books: James Davidson’s Courtesans and Fishcakes, where you see how the 
 bread with the left hand. Or Graham Robb’s The Discovery of France, which informs you that
 the French spoke little French in 1914. And many more.
 
-# CHAPTER 15: THEY DON’T KNOW WHAT THEY ARE TALKING ABOUT
+### CHAPTER 15: THEY DON’T KNOW WHAT THEY ARE TALKING ABOUT
 
 ## When They Talk About Religion
 
@@ -8267,13 +8129,13 @@ fn1 The Egyptian Copts have been increasingly persecuted by Sunni Muslims, but t
 Church stands against the creation of a selfgoverning state somewhere in Egypt, using the
 argument that it was “not Christian” to want a political entity in this world.
 
-# CHAPTER 16: NO WORSHIP WITHOUT SKIN IN THE GAME
+### CHAPTER 16: NO WORSHIP WITHOUT SKIN IN THE GAME
 
 fn1 Taraktu’l ḱalqa ṫarran fi hawaka, ayatamtul xiyala likay araka /Falaw qataxani fil ubbi
 irban, lama malil fu’ada(ou) ila siwaka/faḱuth ma ṡưta ya mawlaya minni, ana lkurbanu
 wajjahani nidaka. But, once again, this may be apocryphal.
 
-# CHAPTER 19: THE LOGIC OF RISK TAKING
+### CHAPTER 19: THE LOGIC OF RISK TAKING
 
 fn1 As with my “Fat Tails” project, economists may have been aware of the ensemble-time
 problem, but in a sterile way. Further, they keep saying “we’ve known about fat tails,” but

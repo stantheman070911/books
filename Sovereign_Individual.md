@@ -10510,9 +10510,6 @@ liabilities on the basis of an accident of birth, increasing numbers of Sovereig
 Individuals will take advantage of this ambiguity to desert their tax liabilities, moving
 beyond citizenship to become customers. They will negotiate private tax treaties 233 as
 customers, along the lines now available in Switzerland, as analyzed in
-
-## Chapter 8. A typical private tax treaty negotiated with the French-speaking
-
 Swiss cantons allows an individual or family to reside in exchange for a fixed annual tax
 payment of 50,000 Swiss francs (currently about $45,000). Note that this is not a flat-rate
 tax, but a fiat amount of tax fixed without respect to income.
@@ -12020,9 +12017,6 @@ computerized information exists in cyberspace-the new dimension created by endle
 reproduction of computer networks, satellites, modems, databases and the public Internet."
 17 Massed armies will mean little in such a world. Efficiency will mean more than ever
 before. Because microtechnology creates a new dimension in protection, as we explored in
-
-## Chapter 6 and elsewhere, individuals for the first time in human existence will
-
 be able to create and protect assets that lie entirely outside the realm of any territorial
 monopoly on violence. These assets, individual government's therefore, will be highly
 susceptible to individual control. It will be perfectly reasonable for you and significant
@@ -14059,9 +14053,9 @@ The growing danger of crime, particularly embezzlement and undetectable theft, w
 morality and honor among associates more crucial and highly valued than it was during the
 Industrial Era, particularly in its waning years.
 
-Footnotes
+## Footnotes
 
-## Chapter 1. The Transition of the Year 2000: The Fourth Stage of Human Society
+### Chapter 1. The Transition of the Year 2000: The Fourth Stage of Human Society
 
 1.
 
@@ -14123,7 +14117,7 @@ Quoted in S. B. Saul, The Myth 0f the Great Depression (London: Macmillan, 1985)
 Oswald Spengler, The Decline of the West, trans. Charles Francis Atkinson, quoted in I. F.
 Clark, The Pattern ofExpectation, 1644-2001 (London: Jonathan Cape, 1979), p. 220.
 
-## Chapter 2. Megapolitical Transformations in Historic Perspective 1.
+### Chapter 2. Megapolitical Transformations in Historic Perspective 1.
 
 Huizinga, op. cit., p.7. 2.
 
@@ -14181,7 +14175,7 @@ p.6. 22.
 Chris Scarre, ed., Past Worlds: The Times Atlas of Archaeology 314 (New York: Random House,
 1995), p.58.
 
-## Chapter 3. East of Eden: The Agricultural Revolution and the Sophistication of
+### Chapter 3. East of Eden: The Agricultural Revolution and the Sophistication of
 
 Violence 1.
 
@@ -14281,7 +14275,7 @@ Oxford University Press, 1993), p.178. 43.
 
 Boyden, op. ciL, p. 118.
 
-## Chapter 4. The Last Days of Politics: Parallels Between the Senile Decline of the
+### Chapter 4. The Last Days of Politics: Parallels Between the Senile Decline of the
 
 Holy Mother Church and the Nanny State I.
 
@@ -14430,7 +14424,7 @@ Ibid., p.27. 69.
 
 Ibid., p.22.
 
-## Chapter 5. The Life and Death of the NationState: Democracy and Nationalism
+### Chapter 5. The Life and Death of the NationState: Democracy and Nationalism
 
 as Resource Strategies in the Age of Violence 1.
 
@@ -14484,7 +14478,7 @@ Ibid. 22.
 
 Ibid., p.6.
 
-## Chapter 6. The Megapolitics of the Information Age:
+### Chapter 6. The Megapolitics of the Information Age:
 
 The Triumph of Efficiency over Power 1.
 
@@ -14619,7 +14613,7 @@ Kelly, op. cit., p.19. 48.
 George Melloan, "Welfare State Reform Is Mostly Mythological," The Wall Street Journal.
 October 14, 1996, p. A19.
 
-## Chapter 7. Transcending Locality: The Emergence of the Cybereconomy John
+### Chapter 7. Transcending Locality: The Emergence of the Cybereconomy John
 
 Perry Barlow, "Thinking Locally, Acting Globally," Time, January 15, 1996, p.57. 2.
 
@@ -14675,7 +14669,7 @@ Davidson and Rees-Mogg, op. cit., p.203. 24.
 
 Lane, "Economic Consequences of Organized Violence," op. ciL, p.413.
 
-## Chapter 8. The End of Egalitarian Economics:
+### Chapter 8. The End of Egalitarian Economics:
 
 The Revolution in Earnings Capacity in a World Without Jobs 1.
 
@@ -14773,7 +14767,7 @@ Ibid., p.58. 36.
 
 Abu-Lughod, op. cit., p.186.
 
-## Chapter 9. Nationalism, Reaction, and the New Luddites
+### Chapter 9. Nationalism, Reaction, and the New Luddites
 
 1.
 
@@ -15067,7 +15061,7 @@ Ibid., p.16. 119.
 
 Ibid.
 
-## Chapter 10. The Twilight ofDemocracy
+### Chapter 10. The Twilight ofDemocracy
 
 1.
 

@@ -2032,7 +2032,7 @@ classified ads.
 It was, to the best of my knowledge, the first map and directions on the internet. There may
 still be some patents—or maybe they lapsed at this point. (Note from Eric: there is, patent
 
-## 5944769.407) The whole initial code base I wrote myself because there wasn’t anyone else.
+5944769.407) The whole initial code base I wrote myself because there wasn’t anyone else.
 
 It was just me.408 I was twenty-four at the time and only had a few thousand dollars saved.
 I convinced my brother to join, and he brought about five thousand dollars, which was a lot
@@ -5190,7 +5190,7 @@ Baidu. “Candid Interview with Tesla CEO,” Vator.
 
 Fridman and Musk, “Lex Fridman Podcast #252.” 142 Fridman and Musk, “Lex Fridman Podcast
 
-## 252.”
+252.”
 
 “Elon Musk: 10X Every 6 Months.”
 
@@ -5258,7 +5258,7 @@ Sal Kahn and Elon Musk, “Elon Musk: CEO of Tesla Motors and SpaceX,” Khan Ac
 2013, YouTube video, 48:41, https://www.youtube.com/watch?v=vDwzmJpI4io. “Elon Musk,” Full
 Send Podcast. “Elon Musk,” Full Send Podcast.
 
-### 195 Musk, “Caltech Commencement Speech.”
+195 Musk, “Caltech Commencement Speech.”
 
 Jimmy Soni, The Founders: The Story of PayPal and the Entrepreneurs Who Shaped Silicon
 Valley (Simon & Schuster, 2022).
@@ -5311,13 +5311,13 @@ https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2. 241
 “SpaceX Will Colonize Mars, Part 2.” 242 Rogan and Musk, “JRE #1470.” 243 Rogan and Musk,
 “JRE #1169.” 244 Rogan and Musk, “JRE #1470.” 245 Musk (@elonmusk), X account.
 
-### 246 Musk, “Caltech Commencement Speech.”
+246 Musk, “Caltech Commencement Speech.”
 
 “CHM Revolutionaries: An Evening with Elon Musk.”
 
-### 248 Musk, “Caltech Commencement Speech.”
+248 Musk, “Caltech Commencement Speech.”
 
-### 249 Musk, “Caltech Commencement Speech.”
+249 Musk, “Caltech Commencement Speech.”
 
 “Elon Musk Talks About His Firing as PayPal CEO 2008,” Inc. 5000 Conference, Elon Musk Best
 Videos, December 4, 2015, YouTube video, 24:50, https://www.youtube.com/
@@ -5397,14 +5397,14 @@ Factory Tour,” Marques Brownlee. “Elon Musk Interview,” Munro Live. “Elo
 Munro Live. “Elon Musk Interview,” Munro Live. “Elon Musk Interview,” Munro Live. 323
 Fridman and Musk, “Lex Fridman Podcast #438.”
 
-### 324 Dodd, “Starbase Tour, Part 1.”
+324 Dodd, “Starbase Tour, Part 1.”
 
-### 325 Dodd, “Starbase Tour, Part 1.”
+325 Dodd, “Starbase Tour, Part 1.”
 
 326 Tim Dodd, “Starbase Tour with Elon Musk [PART 2 // Summer 2021],” Everyday Astronaut,
 August 7, 2021, YouTube video, 1:01:18, https://www.youtube.com/watch?v=SA8ZBJWo73E.
 
-### 327 Dodd, “Starbase Tour, Part 1.”
+327 Dodd, “Starbase Tour, Part 1.”
 
 Isaacson, Elon Musk.
 
@@ -5423,7 +5423,7 @@ YouTube video, 2:11:29, https:// www.youtube.com/watch?v=l6T9xIeZTds. “Musk, S
 
 “Elon Musk at TED2022.”
 
-### 340 Dodd, “Starbase Tour, Part 2.”
+340 Dodd, “Starbase Tour, Part 2.”
 
 “Musk's 2003 Stanford Lecture.” “Musk's 2003 Stanford Lecture.”
 
@@ -5439,7 +5439,7 @@ https://www.youtube.com/watch?v=wsixsRI-Sz4. “Tesla Motors (TSLA) Elon Reeve M
 Results: Earnings Call Transcript,” Seeking Alpha, May 4, 2016,
 https://seekingalpha.com/article/3971543-tesla-motors-tsla-elon-reevemusk-on-q1-2016-results-earnings-call-transcript.
 
-### 352 Dodd, “Starbase Tour, Part 2.”
+352 Dodd, “Starbase Tour, Part 2.”
 
 “Elon Musk Podcast Feb 2019 Full,” ARK Invest, Thayqua, February 21, 2019, YouTube video,
 29:13, https://www.youtube.com/watch?v=MOy3MTZ9Dyg. “Elon Musk Podcast,” ARK Invest. 355
@@ -5459,23 +5459,23 @@ Musk on How to Build the Future.” 365 Elon Musk, “Master Plan, Part Deux,”
 
 370 Rogan and Musk, “JRE #1609.”
 
-### 371 Dodd, “Starbase Tour, Part 1.”
+371 Dodd, “Starbase Tour, Part 1.”
 
 Joe Rogan and Elon Musk, “#2054: Elon Musk,” October 31, 2023, in The Joe Rogan Experience,
 podcast, 2:41:00, https://open.spotify.com/episode/7edwvm2c6Ieuzun4xtFYCJ. “Elon Musk,” Code
 Conference 2016.
 
-### 374 Dodd, “Starbase Tour, Part 1.”
+374 Dodd, “Starbase Tour, Part 1.”
 
-### 375 Dodd, “Starbase Tour, Part 2.”
+375 Dodd, “Starbase Tour, Part 2.”
 
-### 376 Dodd, “Starbase Tour, Part 1.”
+376 Dodd, “Starbase Tour, Part 1.”
 
 377 Rogan and Musk, “JRE #2054.”
 
-### 378 Musk, “Caltech Commencement Speech.”
+378 Musk, “Caltech Commencement Speech.”
 
-### 379 Musk, “Caltech Commencement Speech.”
+379 Musk, “Caltech Commencement Speech.”
 
 “Elon Musk Interview,” Munro Live. 381 Rainn Wilson and Elon Musk, “Tesla’s Elon Musk Meets
 Rainn Wilson in the Metaphysical Van Long Before the Cybertruck Was a Thing,” SoulPancake,
@@ -5541,16 +5541,16 @@ Isaacson, Elon Musk.
 
 429 Fridman and Musk, “Lex Fridman Podcast #252.”
 
-### 430 Musk, “Caltech Commencement Speech.”
+430 Musk, “Caltech Commencement Speech.”
 
-### 431 Musk, “Caltech Commencement Speech.”
+431 Musk, “Caltech Commencement Speech.”
 
 “Third Row Tesla Podcast, Episode 7.”
 
 433 Soni, The Founders. 434 Soni, The Founders. “Elon Musk: Digital Superintelligence,” Y
 Combinator.
 
-### 436 Musk, “Caltech Commencement Speech.”
+436 Musk, “Caltech Commencement Speech.”
 
 437 Urban, “The Cook and the Chef.” “Musk's 2003 Stanford Lecture.” “Musk's 2003 Stanford
 Lecture.” “Musk's 2003 Stanford Lecture.” “The Mind Behind Tesla, SpaceX, SolarCity.” 442
@@ -5587,7 +5587,7 @@ avec Elon Musk à Paris 1 Panthéon-Sorbonne,” Université Paris 1 Panthéon- 
 Musk, “The Secret Tesla Motors Master Plan (Just Between You and Me),” Tesla Blog, August 2,
 2006, https://www.tesla.com/secret-master-plan. 467 Musk (@elonmusk), X account.
 
-### 468 Musk, “Master Plan, Part Deux.”
+468 Musk, “Master Plan, Part Deux.”
 
 “Elon Musk, CEO of Tesla at ONS 2014.” “Elon Musk, CEO of Tesla at ONS 2014.” “Future of
 Energy & Transport,” Oxford Martin School. “Future of Energy & Transport,” Oxford Martin
@@ -5596,7 +5596,7 @@ Rocket Man.” 475 Musk (@elonmusk), X account. 476 Musk (@elonmusk), X account.
 and Musk, “A Future Worth Getting Excited About.” 478 Anderson and Musk, “A Future Worth
 Getting Excited About.” 479 Anderson and Musk, “A Future Worth Getting Excited About.”
 
-### 480 Musk, “Master Plan, Part Deux.”
+480 Musk, “Master Plan, Part Deux.”
 
 “Elon Musk, Charlie Rose Interview (2009).”
 
@@ -5616,36 +5616,36 @@ watch?v=qsIbGKosY1E. “2016 Annual Shareholder Meeting,” Tesla.
 
 Isaacson, Elon Musk. 495 Musk and Altman, “Thinking for the Future.”
 
-### 496 Musk, “Caltech Commencement Speech.”
+496 Musk, “Caltech Commencement Speech.”
 
 497 Musk and Altman, “Thinking for the Future.”
 
-### 498 Musk, “Caltech Commencement Speech.”
+498 Musk, “Caltech Commencement Speech.”
 
-### 499 Musk, “Caltech Commencement Speech.”
+499 Musk, “Caltech Commencement Speech.”
 
 Isaacson, Elon Musk. “CHM Revolutionaries: An Evening with Elon Musk.”
 
-### 502 Musk, “Caltech Commencement Speech.”
+502 Musk, “Caltech Commencement Speech.”
 
 “Elon Musk on His PayPal Firing,” Inc. 5000.
 
-### 504 Musk, “Caltech Commencement Speech.”
+504 Musk, “Caltech Commencement Speech.”
 
 “Talking Tech with Elon Musk!,” Marques Brownlee, August 17, 2018, YouTube video, 17:53,
 https://www.youtube.com/watch?v=MevKTPN4ozw.
 
 “Elon Musk, Charlie Rose Interview (2009).”
 
-### 508 Musk, “Secret Tesla Motors Master Plan.”
+508 Musk, “Secret Tesla Motors Master Plan.”
 
-### 509 Musk, “Master Plan, Part Deux.”
+509 Musk, “Master Plan, Part Deux.”
 
-### 510 Musk, “Master Plan, Part Deux.”
+510 Musk, “Master Plan, Part Deux.”
 
 “Young Elon Musk Documentary (1999).”
 
-### 513 Musk, “Master Plan, Part Deux.”
+513 Musk, “Master Plan, Part Deux.”
 
 “Young Elon Musk Documentary (1999).”
 
@@ -5658,31 +5658,31 @@ Combinator.
 
 Isaacson, Elon Musk.
 
-### 522 Musk, “Caltech Commencement Speech.”
+522 Musk, “Caltech Commencement Speech.”
 
 “Musk, Stanford GSB 2013.”
 
-### 524 Musk, “Caltech Commencement Speech.”
+524 Musk, “Caltech Commencement Speech.”
 
 “Third Row Tesla Podcast, Episode 7.”
 
 Isaacson, Elon Musk. “Elon Musk at TED2022.” “Elon Musk at TED2022.” “Elon Musk at TED2022.”
 “Musk, Stanford GSB 2013.”
 
-### 534 Musk, “Caltech Commencement Speech.”
+534 Musk, “Caltech Commencement Speech.”
 
-### 535 Musk, “Caltech Commencement Speech.”
+535 Musk, “Caltech Commencement Speech.”
 
 536 Elon Musk, “Elon Musk Writes Letter to the People of New Jersey,” CleanTechnica, 2013,
 https://cleantechnica.com/2014/03/15/elon-musk-writes-letter-people-new-jersey/. “Creating
 the World’s Best Service and Warranty Program,” Tesla (blog), April 26, 2013. “2016 Annual
 Shareholder Meeting,” Tesla.
 
-### 539 Musk, “Caltech Commencement Speech.”
+539 Musk, “Caltech Commencement Speech.”
 
-### 540 Musk, “Caltech Commencement Speech.”
+540 Musk, “Caltech Commencement Speech.”
 
-### 541 Musk, “Caltech Commencement Speech.”
+541 Musk, “Caltech Commencement Speech.”
 
 “The Future We're Building—and Boring.” “Elon Musk's Vision for the Future.” 544 Musk
 (@elonmusk), X account. “Elon Musk's Vision for the Future.” “Elon Musk's Vision for the
@@ -5696,11 +5696,11 @@ and More at Starbase,” VideoFromSpace, YouTube video, May 29, 2025, https://ww
 watch?v=0nMfW7T3rx4. “Talking Tech with Elon Musk,” Marques Brownlee. 553 Battelle and Musk,
 “Web 2.0 Summit 08.” “Talking Tech with Elon Musk,” Marques Brownlee.
 
-### 555 Dodd, “Starship-Catching Tower.”
+555 Dodd, “Starship-Catching Tower.”
 
-### 556 Musk, “Secret Tesla Motors Master Plan.”
+556 Musk, “Secret Tesla Motors Master Plan.”
 
-### 557 Musk, “Secret Tesla Motors Master Plan.”
+557 Musk, “Secret Tesla Motors Master Plan.”
 
 “Musk USC Commencement Speech.” “Elon Musk Interview,” Munro Live. 560 Musk (@elonmusk), X
 account. 561 Fridman and Musk, “Lex Fridman Podcast #438.” 562 Fridman and Musk, “Lex
@@ -5714,11 +5714,11 @@ Revolutionaries: An Evening with Elon Musk.” “CHM Revolutionaries: An Evenin
 Musk.” “CHM Revolutionaries: An Evening with Elon Musk.” “CHM Revolutionaries: An Evening
 with Elon Musk.”
 
-### 576 Musk, “Master Plan, Part Deux.”
+576 Musk, “Master Plan, Part Deux.”
 
 Isaacson, Elon Musk.
 
-### 578 Dodd, “Starbase Tour, Part 2.”
+578 Dodd, “Starbase Tour, Part 2.”
 
 579 Khan and Musk, “CEO of Tesla Motors and SpaceX.” 580 Return to Space, directed by Jimmy
 Chin and Elizabeth Chai Vasarhelyi, Netflix (2022). “The Future We're Building—and Boring.”
@@ -5736,7 +5736,7 @@ Mars Society Convention,” The Mars Society, August 9, 2012, YouTube video, 33:
 https://www.youtube. com/watch?v=PK0kTcJFnVk. 592 Khan and Musk, “CEO of Tesla Motors and
 SpaceX.”
 
-### 593 Dodd, “Starbase Tour, Part 2.”
+593 Dodd, “Starbase Tour, Part 2.”
 
 594 Rogan and Musk, “JRE #1169.” “Elon Musk's Vision for the Future.” “Elon Musk's Vision
 for the Future.” 597 Khan and Musk, “CEO of Tesla Motors and SpaceX.” 598 Khan and Musk,
@@ -5784,22 +5784,22 @@ Isaacson, Elon Musk. “Elon Musk: Digital Superintelligence,” Y Combinator.
 of Energy & Transport,” Oxford Martin School. 641 Khan and Musk, “CEO of Tesla Motors and
 SpaceX.” “Future of Energy & Transport,” Oxford Martin School.
 
-### 643 Dodd, “Starbase Tour, Part 2.”
+643 Dodd, “Starbase Tour, Part 2.”
 
-### 644 Dodd, “Starbase Tour, Part 2.”
+644 Dodd, “Starbase Tour, Part 2.”
 
-### 645 Dodd, “Starbase Tour, Part 2.”
+645 Dodd, “Starbase Tour, Part 2.”
 
 Isaacson, Elon Musk.
 
-### 647 Dodd, “Starbase Tour, Part 1.”
+647 Dodd, “Starbase Tour, Part 1.”
 
 648 Tim Dodd, “Starbase Tour with Elon Musk [PART 3 // Summer 2021],” Everyday Astronaut,
 August 11, 2021, YouTube video, 20:51, https://www.youtube.com/watch?v=9Zlnbs-NBUI.
 
-### 649 Dodd, “Starbase Tour, Part 2.”
+649 Dodd, “Starbase Tour, Part 2.”
 
-### 650 Dodd, “Starbase Tour, Part 2.”
+650 Dodd, “Starbase Tour, Part 2.”
 
 “Elon Musk Delivers SpaceX Update Following Starship Flight 3! Talk Mars, Moon and More,”
 VideoFromSpace, April 8, 2024, YouTube video, 39:48, https://www.youtube.com/
@@ -5821,7 +5821,7 @@ SpaceX's Starfactory.” 662 Dodd, “First Look Inside SpaceX's Starfactory.”
 
 “Elon Musk SpaceX Update, Starship Flight 3.” 665 Fridman and Musk, “Lex Fridman Podcast
 
-## 438.” “Elon Musk SpaceX Update, Starship Flight 3.” 667 Dodd, “First Look Inside SpaceX's
+438.” “Elon Musk SpaceX Update, Starship Flight 3.” 667 Dodd, “First Look Inside SpaceX's
 
 Starfactory.” 668 Dodd, “First Look Inside SpaceX's Starfactory.” “Elon Musk’s NEW EPIC
 Rant!,” Matt Pocius on Tesla Stock & Money, June 16, 2024, YouTube video, 42:43,
@@ -5833,22 +5833,22 @@ and Neuralink.” 673 Fridman and Musk, “Lex Fridman Podcast #438.” “Elon 
 at Starbase,” May 2025. “Elon Musk SpaceX Update, Starship Flight 3.” “Elon Musk's NEW EPIC
 Rant.” 677 Dodd, “First Look Inside SpaceX's Starfactory.” 678 Rogan and Musk, “JRE #1609.”
 
-### 679 Dodd, “Starbase Tour, Part 3.”
+679 Dodd, “Starbase Tour, Part 3.”
 
-### 680 Dodd, “Starbase Tour, Part 3.”
+680 Dodd, “Starbase Tour, Part 3.”
 
-### 681 Dodd, “Starbase Tour, Part 3.”
+681 Dodd, “Starbase Tour, Part 3.”
 
 “Elon Musk's NEW EPIC Rant.” “Elon Musk SpaceX Update, Starship Flight 3.” “Elon Musk SpaceX
 Update, Starship Flight 3.”
 
-### 685 Dodd, “Starship-Catching Tower.”
+685 Dodd, “Starship-Catching Tower.”
 
 “Musk Mars Pioneer Award Speech.”
 
-### 687 Musk, “Caltech Commencement Speech.”
+687 Musk, “Caltech Commencement Speech.”
 
-### 688 Musk, “Caltech Commencement Speech.”
+688 Musk, “Caltech Commencement Speech.”
 
 “Musk Mars Pioneer Award Speech.”
 
@@ -5860,7 +5860,7 @@ Documentary. 699 Musk, “Interview with David Faber,” X Spaces. “Elon Musk'
 Future.” 701 Rogan and Musk, “JRE #1470.” “TIME Person of the Year: Elon Musk.” “TIME Person
 of the Year: Elon Musk.”
 
-### 704 Dodd, “Starship-Catching Tower.”
+704 Dodd, “Starship-Catching Tower.”
 
 705 Wilson and Musk, “Metaphysical Van.” 706 Musk (@elonmusk), X account.
 
@@ -5880,7 +5880,7 @@ Musk, “CEO of Tesla Motors and SpaceX.” 725 Khan and Musk, “CEO of Tesla M
 
 “Elon Musk, Air Warfare Symposium 2020.”
 
-### 729 Dodd, “Starbase Tour, Part 3.”
+729 Dodd, “Starbase Tour, Part 3.”
 
 “Elon Musk on How to Build the Future.” “Elon Musk on How to Build the Future.” 732 Anderson
 and Musk, “A Future Worth Getting Excited About.” 733 Anderson and Musk, “A Future Worth
@@ -5906,25 +5906,25 @@ Rant.” “Elon Musk: Digital Superintelligence,” Y Combinator. 763 Urban, �
 Brain's Magical Future.” 764 Urban, “Neuralink and the Brain's Magical Future.” 765 Urban,
 “Neuralink and the Brain's Magical Future.” 766 Fridman and Musk, “Lex Fridman Podcast
 
-## 438.” “Elon Musk: Digital Superintelligence,” Y Combinator. 768 Fridman and Musk, “Lex
+438.” “Elon Musk: Digital Superintelligence,” Y Combinator. 768 Fridman and Musk, “Lex
 
 Fridman Podcast #438.” “Elon Musk: Digital Superintelligence,” Y Combinator. 770 Fridman and
 Musk, “Lex Fridman Podcast #18.” “Elon Musk,” Full Send Podcast. 772 Fridman and Musk, “Lex
 Fridman Podcast #18.” 773 Fridman and Musk, “Lex Fridman Podcast #18.” “The Future We're
 Building—and Boring.” 775 Krishnan and Ramamurthy, “Elon Musk Clubhouse Interview.”
 
-### 776 Musk, “Master Plan, Part Deux.”
+776 Musk, “Master Plan, Part Deux.”
 
 Fridman and Musk, “Lex Fridman Podcast #252.” “2016 Annual Shareholder Meeting,” Tesla.
 
-### 779 Musk, “Master Plan, Part Deux.”
+779 Musk, “Master Plan, Part Deux.”
 
 “Elon Musk Podcast,” ARK Invest. “The Future We're Building—and Boring.” “The Future We're
 Building—and Boring.” 783 Krishnan and Ramamurthy, “Elon Musk Clubhouse Interview.”
 
 “Elon Musk, Investor Day 2023.”
 
-### 785 Musk, “Master Plan, Part Deux.”
+785 Musk, “Master Plan, Part Deux.”
 
 “2023 Annual Shareholder Meeting,” Tesla.
 
@@ -5950,7 +5950,7 @@ War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podc
 Lex Fridman, November 9, 2023, YouTube video, 2:16:46,
 https://www.youtube.com/watch?v=JN3KPFbWCy8. 807 Fridman and Musk, “Lex Fridman Podcast
 
-## 400.” 808 Fridman and Musk, “Lex Fridman Podcast #400.” 809 Fridman and Musk, “Lex Fridman
+400.” 808 Fridman and Musk, “Lex Fridman Podcast #400.” 809 Fridman and Musk, “Lex Fridman
 
 Podcast #400.” “Elon Musk Answers Your Questions,” SXSW 2018. “Elon Musk Answers Your
 Questions,” SXSW 2018. “Elon Musk on Tesla, SpaceX,” WSJ. 813 Fridman and Musk, “Lex Fridman
@@ -5959,21 +5959,21 @@ DealBook Summit 2023. “Elon Musk on Advertisers,” DealBook Summit 2023. “E
 Advertisers,” DealBook Summit 2023. 818 Peterson and Musk, “Dr. Peterson x Elon Musk.” 819
 Peterson and Musk, “Dr. Peterson x Elon Musk.” 820 Fridman and Musk, “Lex Fridman Podcast
 
-## 438.” 821 Fridman and Musk, “Lex Fridman Podcast #252.” 822 Fridman and Musk, “Lex Fridman
+438.” 821 Fridman and Musk, “Lex Fridman Podcast #252.” 822 Fridman and Musk, “Lex Fridman
 
 Podcast #438.” “Elon Musk on Tesla, SpaceX,” WSJ. 824 Fridman and Musk, “Lex Fridman Podcast
 
-## 252.” 825 Fridman and Musk, “Lex Fridman Podcast #438.” “CHM Revolutionaries: An Evening
+252.” 825 Fridman and Musk, “Lex Fridman Podcast #438.” “CHM Revolutionaries: An Evening
 
 with Elon Musk.” “Jeff Skoll Talks with Elon and Kimbal Musk.” “Birthrate Threat,” WELT
 Documentary. “Birthrate Threat,” WELT Documentary. “Birthrate Threat,” WELT Documentary. 831
 Fridman and Musk, “Lex Fridman Podcast #252.” 832 Fridman and Musk, “Lex Fridman Podcast
 
-## 252.” “Birthrate Threat,” WELT Documentary. 834 Musk (@elonmusk), X account. “Birthrate
+252.” “Birthrate Threat,” WELT Documentary. 834 Musk (@elonmusk), X account. “Birthrate
 
 Threat,” WELT Documentary.
 
-### 836 Musk, “Caltech Commencement Speech.”
+836 Musk, “Caltech Commencement Speech.”
 
 837 Diamandis and Musk, “AGI Safety, Superintelligence, and Neuralink.” “Elon Musk: Digital
 Superintelligence,” Y Combinator. 839 Fridman and Musk, “Lex Fridman Podcast #400.” 840
@@ -5981,7 +5981,7 @@ Urban, “Neuralink and the Brain's Magical Future.” 841 Rogan and Musk, “JR
 Urban, “Neuralink and the Brain's Magical Future.” “Elon Musk: Digital Superintelligence,” Y
 Combinator. 844 Fridman and Musk, “Lex Fridman Podcast #438.” 845 Rogan and Musk, “JRE
 
-## 1470.”
+1470.”
 
 “Elon Musk: 10X Every 6 Months.”
 
@@ -5997,7 +5997,7 @@ the Brain's Magical Future.” “Elon Musk,” Full Send Podcast. “Elon Musk,
 inc., May 7, 2024, YouTube video, 40:34, https://www.youtube.com/ watch?v=s5o5m7LP6YY. 865
 Fridman and Musk, “Lex Fridman Podcast #438.” 866 Fridman and Musk, “Lex Fridman Podcast
 
-## 438.” 867 Fridman and Musk, “Lex Fridman Podcast #438.” 868 Fridman and Musk, “Lex Fridman
+438.” 867 Fridman and Musk, “Lex Fridman Podcast #438.” 868 Fridman and Musk, “Lex Fridman
 
 Podcast #438.” 869 Fridman and Musk, “Lex Fridman Podcast #438.” 870 Peterson and Musk, “Dr.
 Peterson x Elon Musk.” 871 Peterson and Musk, “Dr. Peterson x Elon Musk.” “Elon Musk on How
@@ -6006,13 +6006,13 @@ Full Send Podcast. “Elon Musk,” Full Send Podcast. “Elon Musk,” Full Sen
 Musk,” Full Send Podcast. 878 Peterson and Musk, “Dr. Peterson x Elon Musk.” 879 Peterson
 and Musk, “Dr. Peterson x Elon Musk.”
 
-### 880 Musk, “Caltech Commencement Speech.”
+880 Musk, “Caltech Commencement Speech.”
 
 “Birthrate Threat,” WELT Documentary. 882 Peterson and Musk, “Dr. Peterson x Elon Musk.”
 
 Isaacson, Elon Musk. 884 Fridman and Musk, “Lex Fridman Podcast #438.”
 
-### 885 Musk, “Caltech Commencement Speech.”
+885 Musk, “Caltech Commencement Speech.”
 
 886 Peterson and Musk, “Dr. Peterson x Elon Musk.” “Elon Musk's NEW EPIC Rant.” 888 Peterson
 and Musk, “Dr. Peterson x Elon Musk.” 889 Peterson and Musk, “Dr. Peterson x Elon Musk.”
@@ -6020,26 +6020,26 @@ and Musk, “Dr. Peterson x Elon Musk.” 889 Peterson and Musk, “Dr. Peterson
 Conference. 892 Peterson and Musk, “Dr. Peterson x Elon Musk.” 893 Fridman and Musk, “Lex
 Fridman Podcast #438.” 894 Musk (@elonmusk), X account.
 
-### 895 Dodd, “Starship-Catching Tower.”
+895 Dodd, “Starship-Catching Tower.”
 
-### 896 Dodd, “Starship-Catching Tower.”
+896 Dodd, “Starship-Catching Tower.”
 
-### 897 Dodd, “Starship-Catching Tower.”
+897 Dodd, “Starship-Catching Tower.”
 
 898 Return to Space. “Elon Musk on His PayPal Firing,” Inc. 5000. 900 Robert Strauss, “The
 Next, Next Thing,” The Pennsylvania Gazette, November 1, 2008, https://
 thepenngazette.com/the-next-next-thing/. “Elon Musk on His PayPal Firing,” Inc. 5000. 902
 Rogan and Musk, “JRE #1609.” “Elon Musk,” Full Send Podcast. “Elon Musk,” Full Send Podcast.
 
-### 905 Musk, “Caltech Commencement Speech.”
+905 Musk, “Caltech Commencement Speech.”
 
 906 Lex Fridman and Elon Musk, “Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot |
 Lex Fridman Podcast #49,” Lex Fridman, November 12, 2019, YouTube video, 36:09, https://www.
 youtube.com/watch?v=smK9dgdTl40.
 
-### 907 Musk, “Caltech Commencement Speech.”
+907 Musk, “Caltech Commencement Speech.”
 
-### 908 Musk, “Caltech Commencement Speech.”
+908 Musk, “Caltech Commencement Speech.”
 
 909 Wilson and Musk, “Metaphysical Van.” 910 Wilson and Musk, “Metaphysical Van.”
 
@@ -6059,7 +6059,7 @@ Conference.
 
 “Elon Musk: 10X Every 6 Months.”
 
-### 924 Musk, “Caltech Commencement Speech.”
+924 Musk, “Caltech Commencement Speech.”
 
 925 Fridman and Musk, “Lex Fridman Podcast #252.” “Elon Musk SpaceX Update at Starbase,” May
 
@@ -6069,7 +6069,7 @@ SpaceX Update, Starship Flight 3.”
 
 “Elon Musk: 10X Every 6 Months.”
 
-### 931 Musk, “Caltech Commencement Speech.”
+931 Musk, “Caltech Commencement Speech.”
 
 932 Rogan and Musk, “JRE #1609.” “Elon Musk SpaceX Update at Starbase,” May 2025. 934
 Fridman and Musk, “Lex Fridman Podcast #438.” “Elon Musk SpaceX Update at Starbase,” May
@@ -6104,16 +6104,16 @@ Urban, “SpaceX's Big F***ing Rocket.” “Elon Musk at TED2022.” “Elon Mu
 Superintelligence,” Y Combinator. 979 Urban, “SpaceX Will Colonize Mars, Part 2.” 980 Urban,
 “SpaceX Will Colonize Mars, Part 2.” 981 Rogan and Musk, “JRE #1609.”
 
-### 982 Musk, “Caltech Commencement Speech.”
+982 Musk, “Caltech Commencement Speech.”
 
 983 The Editors of Encyclopaedia Britannica, “Elon Musk,” Britannica Money, Encyclopaedia
 Britannica, accessed November 13, 2025, https://www.britannica.com/biography/Elon-Musk. 984
 Vance, Elon Musk. 985 Ashlee Vance, “Elon Musk: The College Years,” Esquire, June 5, 2015,
 https://www.esquire.com/ entertainment/books/a35508/elon-musk-college-years-canada-u-penn/.
 
-### 986 Vance, “Elon Musk: The College Years.”
+986 Vance, “Elon Musk: The College Years.”
 
-### 987 Vance, “Elon Musk: The College Years.”
+987 Vance, “Elon Musk: The College Years.”
 
 988 Rogan and Musk, “JRE #1609.” “Jeff Skoll Talks with Elon and Kimbal Musk.” 990 Mahnoor
 Khan, “Why Elon Musk Dropped Out of Stanford After Only Two Days,” Fortune, February 15,

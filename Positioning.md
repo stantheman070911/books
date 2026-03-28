@@ -349,12 +349,9 @@ Ninety-eight percent of all American homes have at least one television set. (A 
 two or more.)
 
 - Ninety-six percent of all television households can receive four or more
-
-- TV stations. (A third can receive ten or more.)
-
+  TV stations. (A third can receive ten or more.)
 - The average American family watches television more than 7 hours a
-
-day. (More than 51 hours a week.)
+  day. (More than 51 hours a week.)
 
 Like motion pictures, the TV picture is really a still picture which changes 30 times a
 second. Which means the average American family is exposed to some 750,000 television
@@ -414,12 +411,9 @@ off if communication doesn’t take place. At least until you are ready to posit
 for the long term. You never get a second chance to make a first impression.
 
 - What do the following names mean to you: Camaro, Cavalier, Celebrity,
-
-- Chevette, Citation, Corvette, and Monte Carlo?
-
+  Chevette, Citation, Corvette, and Monte Carlo?
 - Automobile model names, right? Would you be surprised to learn that
-
-these are all Chevrolet models?
+  these are all Chevrolet models?
 
 Chevrolet is one of the most heavily advertised products in the world. In a recent year,
 General Motors spent more than $178 million to promote Chevrolet in the United States.
@@ -567,16 +561,11 @@ The easy way to get into a person’s mind is to be first. You can
 demonstrate the validity of this principle by asking yourself a few simple questions.
 
 - What’s the name of the first person to fly solo across the North Atlantic?
-
 - Charles Lindbergh, right?
-
 - Now, what’s the name of the second person to fly solo across the North
-
-- Atlantic?
-
+  Atlantic?
 - Not so easy to answer, is it? What’s the name of the first person to walk on the moon? Neil
-
-Armstrong, of course.
+  Armstrong, of course.
 
 What’s the name of the second? What’s the name of the highest mountain in the world? Mount
 Everest in the Himalayas, right?
@@ -1839,12 +1828,9 @@ Conflict, even personal conflict, can build a reputation overnight. Where would 
 have been without Richard Nixon?
 
 - For that matter, where would Richard Nixon have been without Alger
-
-- Hiss?
-
+  Hiss?
 - And Ralph Nader got famous not by saying anything about Ralph Nader
-
-but by going out and attacking the world’s largest corporation singlehandedly.
+  but by going out and attacking the world’s largest corporation singlehandedly.
 
 People like to watch the bubble burst.
 
@@ -2277,12 +2263,9 @@ What about famous people with odd first names? Hubert Humphrey and Adlai Stevens
 example. Both losers to men with the popular names of Richard and Dwight.
 
 - What if Richard Humphrey had run against Hubert Nixon? Would
-
-- America have elected a Hubert Nixon?
-
+  America have elected a Hubert Nixon?
 - Jimmy, Jerry, Richard, Lyndon, John, Dwight, Harry, Franklin. Not since
-
-Herbert have we had a “loser” name in the White House.
+  Herbert have we had a “loser” name in the White House.
 
 And who did Herbert Hoover beat in 1928? Another man with a loser name, Alfred.
 
@@ -2351,13 +2334,10 @@ not the name that gets Eastern into trouble. It’s the poor service, the food, 
 handling, the surly flight attendants.” The perception is the reality.
 
 - What do you think of Piedmont Airlines? How about Ozark Airlines?
-
 - And what about Allegheny?
-
 - Allegheny, of course, has thrown in the towel and become USAir. Even
-
-North Central and Southern gave up and merged to become Republic Airlines. Both airlines are
-doing quite well.
+  North Central and Southern gave up and merged to become Republic Airlines. Both airlines are
+  doing quite well.
 
 The Akron twins Another common name problem is represented by two companies headquartered in
 Akron, Ohio.
@@ -2658,14 +2638,11 @@ In our initial-happy society, the first question the mind normally asks itself i
 those initials stand for?”
 
 - The mind sees the letters AT&T and says, “Ah, American Telephone &
-
-- Telegraph.”
-
+  Telegraph.”
 - But what reply does the mind get when it sees TRW? Obviously, there
-
-are a fair number of people who remember the Thompson Ramo Wooldridge Corporation. And TRW
-is a $6 billion company, so it gets a lot of press and does a lot of advertising. But would
-those advertising dollars work harder if TRW had a “name” name instead of an initial name?
+  are a fair number of people who remember the Thompson Ramo Wooldridge Corporation. And TRW
+  is a $6 billion company, so it gets a lot of press and does a lot of advertising. But would
+  those advertising dollars work harder if TRW had a “name” name instead of an initial name?
 
 Some companies put sets of initials in series. How about trying to remember the D-M-E
 Corporation, a subsidiary of VSI Corporation? We’re not trying to suggest that companies
@@ -3641,15 +3618,18 @@ And if you work for a company with thousands of small-volume products (3M is a t
 example), you obviously cannot have a new name for every one.
 
 So we offer some rules of the road that will tell you when to use the house name and when
-not to. 1. Expected volume. Potential winners should not bear the house name.
-
-Small-volume products should. 2. Competition. In a vacuum, the brand should not bear the
-house name. In a crowded field, it should. 3. Advertising support. Big-budget brands should
-not bear the house name. Small-budget brands should. 4. Significance. Breakthrough products
-should not bear the house name.
-
-Commodity products such as chemicals should. 5. Distribution. Off-the-shelf items should not
-bear the house name. Items sold by sales reps should.
+not to.
+1. Expected volume. Potential winners should not bear the house name.
+   Small-volume products should.
+2. Competition. In a vacuum, the brand should not bear the
+   house name. In a crowded field, it should.
+3. Advertising support. Big-budget brands should
+   not bear the house name. Small-budget brands should.
+4. Significance. Breakthrough products
+   should not bear the house name.
+   Commodity products such as chemicals should.
+5. Distribution. Off-the-shelf items should not
+   bear the house name. Items sold by sales reps should.
 
 ## Chapter 14: Positioning a company: Xerox
 
@@ -4283,15 +4263,21 @@ If this seems like the obvious answer to you, it wasn’t to the people who used
 Milk Duds advertising. In some 15 years of Milk Duds’ television commercials, there wasn’t
 one reference to the long-lasting idea. Let’s take a mental walk through a 30-second
 television commercial to see how the long-lasting idea was sugarcoated for the benefit of
-the 10- year-old. 1. Once there was a kid who had a big mouth … (A kid is standing next to
-an enormous mouth.) 2. … that loved candy bars. (The kid is shoveling candy bars one right
-after another into the mouth.) 3. … but they didn’t last very long. (The kid runs out of
-candy bars and the mouth gets very upset.) 4. Then he discovered chocolaty caramel Milk
-Duds. (The kid holds up the Milk Duds, and the mouth starts to lick its chops.) 5. The mouth
+the 10- year-old.
+1. Once there was a kid who had a big mouth … (A kid is standing next to
+an enormous mouth.)
+2. … that loved candy bars. (The kid is shoveling candy bars one right
+after another into the mouth.)
+3. … but they didn’t last very long. (The kid runs out of
+candy bars and the mouth gets very upset.)
+4. Then he discovered chocolaty caramel Milk
+Duds. (The kid holds up the Milk Duds, and the mouth starts to lick its chops.)
+5. The mouth
 loved the Milk Duds because they last a long time. (The kid rolls the Milk Duds one by one
-up the mouth’s tongue.) 6. (Then the kid and the mouth sing a duet together, which is the
-campaign song.) When a candy bar is only a memory, you’ll still be eating your Milk Duds. 7.
-Get your mouth some Milk Duds. (Big smiles on both the kid and the mouth.)
+up the mouth’s tongue.)
+6. (Then the kid and the mouth sing a duet together, which is the
+campaign song.) When a candy bar is only a memory, you’ll still be eating your Milk Duds.
+7. Get your mouth some Milk Duds. (Big smiles on both the kid and the mouth.)
 
 Did it work? Not only did the television advertising reverse a downward sales trend, but in
 the ensuing months the company sold more Milk Duds than it ever did in its history.
@@ -4501,16 +4487,11 @@ reasons were concerned, the situation was bleak for the Long Island Trust. Prosp
 them last on all four attributes.
 
 - Many branches
-
 - Full range of services
-
 - Quality of service
-
 - Large capital
-
 - The positions were reversed, however, when the attributes concerned
-
-Long Island itself.
+  Long Island itself.
 
 Here is how the respondents ranked the six banks on the Long Island attributes.
 
@@ -4644,20 +4625,26 @@ performance matches the advertising’s promise. That took the form of seven key
 1. Decentralized decisions. United Jersey pushed decision making down to the local level.
 (One of their lending teams can approve a $10 million loan, and that team meets daily.) In
 10 commercial banking centers throughout the state, other officers on site can make business
-loans quickly. 2. Cross training. United Jersey trains its people in all their banking
+loans quickly.
+2. Cross training. United Jersey trains its people in all their banking
 services, not just in one specialty. So when a customer has a question, he or she doesn’t
-have to wait for an answer while the question is referred to another person. 3. Commitment
+have to wait for an answer while the question is referred to another person.
+3. Commitment
 to electronics. United Jersey’s system of statewide ATMs (Automatic Teller Machines) is the
 largest private network in the state. United Jersey’s corporate customers can be on line
-directly with the bank’s computers for balance inquiries and other daily questions. 4.
+directly with the bank’s computers for balance inquiries and other daily questions.
+4.
 Speedy lock box service. United Jersey people pick up checks six times a day during the
 workweek, four times on the weekend. Its Newark lock box has its own private ZIP Code.
-United Jersey empties lock boxes and fills up customer accounts as fast as it can. 5. FACT
+United Jersey empties lock boxes and fills up customer accounts as fast as it can.
+5. FACT
 terminals. (Fast Authorization of Cashless Transactions.) With these terminals now in place,
 merchants enjoy the benefit of rapid electronic approvals. And faster approvals with
-minimized risk mean improved cash flow. 6. Responsiveness. Whether it’s being first with a
+minimized risk mean improved cash flow.
+6. Responsiveness. Whether it’s being first with a
 new product or matching the competition’s rates, United Jersey is committed to being
-responsive to the customer’s financial needs. 7. Central location. United Jersey built its
+responsive to the customer’s financial needs.
+7. Central location. United Jersey built its
 new corporate headquarters in Princeton. From the geographic center of the state, United
 Jersey is less than an hour away from any of its business customers by car, even less by
 helicopter.
@@ -5242,7 +5229,8 @@ To help you with this thinking process, here are six questions you can ask yours
 your mental juices flowing.
 
 Don’t be deceived. The questions are simple to ask but difficult to answer. They often raise
-soul-searching issues that can test your courage and your beliefs. 1. What position do you
+soul-searching issues that can test your courage and your beliefs.
+1. What position do you
 own? Positioning is thinking in reverse. Instead of starting with yourself, you start with
 the mind of the prospect.
 
@@ -5272,7 +5260,8 @@ Most products today are like 7-Up before the uncola campaign. They have weak or 
 positions in the minds of most prospects.
 
 What you must do is to find a way into the mind by hooking your product, service, or concept
-to what’s already there. 2. What position do you want to own? Here is where you bring out
+to what’s already there.
+2. What position do you want to own? Here is where you bring out
 your crystal ball and try to figure out the best position to own from a long-term point of
 view. “Own” is the key word. Too many programs set out to communicate a position that is
 impossible to preempt because someone else already owns it.
@@ -5309,7 +5298,8 @@ people, you wind up with nothing. Better to narrow the focus of your expertise. 
 a unique position as a specialist, not as a jack-of-all-trades generalist.
 
 The job market today belongs to the people who can define and position themselves as
-specialists. 3. Whom must you outgun? If your proposed position calls for a head-to-head
+specialists.
+3. Whom must you outgun? If your proposed position calls for a head-to-head
 approach against a marketing leader, forget it. It’s better to go around an obstacle rather
 than over it. Back up. Try to select a position that no one else has a firm grip on. You
 must spend as much time thinking about the situation from the point of view of your
@@ -5361,7 +5351,8 @@ several cities. If you become successful in one location, you can always roll ou
 program to other places. Provided the first location is appropriate.
 
 If you can become the No. 1 scotch in New York (the No. 1 scotchdrinking area of the
-country), you can roll out the product to the rest of the U.S.A. 5. Can you stick it out?
+country), you can roll out the product to the rest of the U.S.A.
+5. Can you stick it out?
 You can think of our overcommunicated society as a constant crucible of change. As one idea
 replaces another in bewildering succession.
 
@@ -5392,7 +5383,8 @@ The line-extension trap is a good example. What you are really doing when you li
 weakening your basic position. And once that’s gone, you are adrift without an anchor.
 
 Levi’s line-extended into casual clothes. And then found its basic position in jeans
-undermined by “designer label” jeans. 6. Do you match your position? Creative people often
+undermined by “designer label” jeans.
+6. Do you match your position? Creative people often
 resist positioning thinking because they believe it restricts their creativity.
 
 And you know what? It does. Positioning thinking does restrict creativity.

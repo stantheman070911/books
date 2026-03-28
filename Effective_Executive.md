@@ -7,22 +7,16 @@ By Peter F. Drucker
 ## Contents
 
 1. Effectiveness Can Be Learned
-
 2. Know Thy Time
-
 3. What Can I Contribute?
-
 4. Making Strength Productive
-
 5. First Things First
-
 6. The Elements of Decision-making
-
 7. Effective Decisions
 
 Conclusion: Effectiveness Must Be Learned
 
-# Chapter 1: Effectiveness Can Be Learned
+## Chapter 1: Effectiveness Can Be Learned
 
 To be effective is the job of the executive. "To effect" and "to execute" are, after all,
 near-synonyms. Whether he works in a business or in a hospital, in a government agency or in
@@ -43,7 +37,7 @@ there first, like the tortoise in the old fable.
 Intelligence, imagination, and knowledge are essential re sources, but only effectiveness
 converts them into results. By themselves, they only set limits to what can be attained.
 
-## Why We Need Effective Executives
+### Why We Need Effective Executives
 
 All this should be obvious. But why then has so little atten tion been paid to
 effectiveness, in an age in which there are mountains of books and articles on every other
@@ -70,7 +64,7 @@ the rest of us have to learn the hard way. m This wastrue not only of business a
 It is hardto realize today that "government" during the American Civil War a hundred years
 ago meant the merest handful of people. Lincoln's Secretary of War had fewer than fifty
 
-## Effectiveness Can Be Learned
+### Effectiveness Can Be Learned
 
 civilian subordinates, most of them not "executives" and policy-makers but telegraph clerks.
 The entire Washington establishment of the U.S. government in Theodore Roose velt's time,
@@ -136,6 +130,7 @@ ideas, information. By themselves these "products" are useless. Somebodyelse, an
 knowledge, has to take them as his input and convert them into his output before
 
 * This is brought out in all studies, especially in three empirical works: Frederick
+
   Herzberg (with B. Mauser and B. Snyderman), The Motivation to Work (New York, Wiley,
   1959); David C. McClellan, The Achieving Society (Princeton, N.J., Van Nostrand, 1961);
   and Frederick Herzberg, Work and the Nature of Man (Cleveland, World. 1966). they have any
@@ -259,6 +254,7 @@ few yet realize, however, is how many people there are even in the most humdrum 
 of today, whether business or government agency, research lab or hospital, who
 
 * On this see my Managing for Results (New York, Harper & Row, 1964)—especially chap. 2. t
+
   The best statement I know was made by Frederick R. Kappel, the head of the American
   Telephone & Telegraph Company (The Bell Telephone System) at the XHFA International
   Management Congress in New York, September 1963. Mr. Kappel's main points are quoted in
@@ -347,6 +343,7 @@ deliberate action, the flow of events will determine what he is concerned with a
 does.
 
 * This comes out clearly in Sune Carlson's Executive Behavior (Stockholm, Strombergs, 1951),
+
   the one study of top management in large corporations which actually recorded the time-use
   of senior executives. Even the most effective executives in Professor Carlson's study
   found most of their time taken up with the demands of others and for purposes which added
@@ -537,7 +534,7 @@ These four realities the executive cannot change. They are necessary conditions 
 existence. But he must there fore assume that he will be ineffectual unless he makes special
 efforts to learn to be effective.
 
-## The Promise of Effectiveness
+### The Promise of Effectiveness
 
 Increasing effectiveness may well be the only area where we can hope significantly to raise
 the level of executive per formance, achievement, and satisfaction.
@@ -649,6 +646,7 @@ a court jester.
 I soon learned that there is no "effective personality."* The
 
 * As is asserted in an unpublished (and undated) talk which Professor Chris Argyris of Yale
+
   University made at the graduate business school of Columbia University. According to
   Professor Argyris, the "successful" ex ecutive (as he calls him) has ten characteristics,
   among them "High Frustra tion Tolerance," understanding of the "Laws of Competitive
@@ -738,7 +736,7 @@ rather than razzle-dazzle tactics.
 
 These are the elements of executive effectiveness—and these are the subjects of this book.
 
-# Chapter 2: Know Thy Time
+## Chapter 2: Know Thy Time
 
 Most discussions of the executive's task start with the advice to plan one's work. This
 sounds eminently plausible. The only thing wrong with it is that it rarely works. The plans
@@ -788,7 +786,7 @@ darkness, most people retain their sense of space. But even with the lights on, 
 in a sealed room make most people incapable of estimating how much time has elapsed. They
 are as likely to under rate grossly the time spent in the room as to overrate it grossly.
 
-## Know Thy Time
+### Know Thy Time
 
 If we rely on our memory, therefore, we do not know how time hasbeenspent.
 
@@ -815,7 +813,7 @@ record, rather than memory, has to be trusted when it comes to the use of time.
 The effective executive therefore knows that to manage his time,he first hasto know where it
 actually goes.
 
-## The Time Demands on the Executive
+### The Time Demands on the Executive
 
 There areconstant pressures toward unproductive andwaste ful time-use. Any executive,
 whether he is a manager or not, has to spend a great deal of his time on things that do not
@@ -907,7 +905,7 @@ organization to have any re sults and performanceat all. This means that he has 
 time to direct his vision from his work to results, and from his specialtyto the outside in
 which alone performance lies.
 
-## Wherever knowledge workers perform well in large organizations
+### Wherever knowledge workers perform well in large organizations
 
 senior executives take time out, on a regular schedule, to sit down with them,
 sometimes all the way down to green juniors, and ask: "What should we at the head of this or
@@ -958,7 +956,7 @@ make decisions fast, and people who make them rather slowly. But without excepti
 make personnel decisions slowly and they make them several times before they really commit
 themselves.
 
-## Alfred P. Sloan, Jr.,
+### Alfred P. Sloan, Jr.,
 
 former head of General Motors, the world's largest manufacturing company, was reported never
 to make a personnel decision the first time it came up. He made a tentative judgment, and
@@ -1207,7 +1205,7 @@ This is an extreme, of course. But it illustrates both how much control one can 
 over one's time if one really tries, and how much of the time-wasters one can cut out with
 out loss of effectiveness.
 
-## Pruning the Time-wasters
+### Pruning the Time-wasters
 
 These three diagnostic questions deal with unproductive and time-consuming activities over
 which every executive has some control. Every knowledge worker and every executive should
@@ -1411,7 +1409,7 @@ information can sometimes be remedied fast. At other times, it takes long, patie
 correct them. The results of such work are, however, great— and especially in terms of time
 gained.
 
-## Consolidating "Discretionary Time"
+### Consolidating "Discretionary Time"
 
 The executive who records and analyzes his time and then attempts to manage it can determine
 how much he has for his important tasks. How much time is therethat is "discretionary," that
@@ -1535,7 +1533,7 @@ prescription for wisdom, is almost impossibly difficult for mortal men. But ever
 follow the injunction "Know Thy Time" if he wants to, and be well on the road toward
 contribution and effectiveness.
 
-# Chapter 3: What Can I Contribute?
+## Chapter 3: What Can I Contribute?
 
 The effective executive focuses on contribution. He looks up from his work and outward
 toward goals. He asks: "What can I contribute that will significantly affect the performance
@@ -1555,7 +1553,7 @@ authoritythey "should have." As a result, they render them selves ineffectual.
 The head of one of the large management consulting firms always starts an assignment with a
 new client by spending
 
-## What Can I Contribute?
+### What Can I Contribute?
 
 a few days visiting the senior executives of the client organi zation one by one. After he
 has chattedwith them about the assignment and the client organization, its history and its
@@ -1572,7 +1570,7 @@ matter how exalted his title and rank. But the man who focuses on contribution a
 responsibility for results, no matter how junior, is in the most literal sense of the
 phrase, "top management." He holds himself accountable for the performance of the whole.
 
-## The Executive's Own Commitment
+### The Executive's Own Commitment
 
 The focus on contribution turns the executive's attention away from his own specialty, his
 own narrow skills, his own department, andtoward the performance of the whole. It turns his
@@ -1791,7 +1789,7 @@ who are the university's "customers." Alienation of the students from the admini
 certainly a major factor in the student unhappiness and unrest that underlay, for instance,
 the Berkeley riots at the University of California in 1965.
 
-## How to Make the Specialist Effective
+### How to Make the Specialist Effective
 
 For the knowledge worker to focus on contribution is par ticularly important. This alone
 canenable him to contribute at all.
@@ -1815,7 +1813,7 @@ degree of specialized knowledge, each with its own tools, its own concerns, and 
 jargon. And the sciences, in turn, have all become splintered to the point where one kind of
 physicist finds it difficult to comprehend what another kind of physicist is concerned with.
 
-## The cost accountant
+### The cost accountant
 
 is as much a "scientist" as the biochemist, in the sense that he has his own special area of
 knowledge with its own assumptions, its own concerns, and its own language. And so is the
@@ -1868,7 +1866,7 @@ appreciate the richness and the excitement of diversity, it will give him immuni
 the arrogance of the learned—that degenera tive disease whichdestroys knowledge anddeprives
 it of beauty and effectiveness.
 
-## The Right Human Relations
+### The Right Human Relations
 
 Executives in an organization do not have good human rela tions because they have a "talent
 for people." They have good human relations because they focus on contribution in their own
@@ -1956,7 +1954,7 @@ And yet, they have to worktogether for a common end and in linewitha general pla
 the doctor s prescription for treatment. In terms of organizational structure, each of these
 health-service professionals reports to his own chief.
 
-## Each operates in terms of his own highly specialized field of knowledge
+### Each operates in terms of his own highly specialized field of knowledge
 
 that is, as a "professional." But each has to keep all the others informed
 according to the specific situa tion, the condition, and the need of an individual patient.
@@ -2020,7 +2018,7 @@ little of them selves, they will remain stunted. If they demand a good deal of t
 they will grow to giant stature—without any more effort than is expended by the
 nonachievers.
 
-## The Effective Meeting
+### The Effective Meeting
 
 The meeting, the report, or the presentation are the typical work situation of the
 executive. They are his specific, everyday tools. They also make great demands on his
@@ -2067,7 +2065,7 @@ government agency.
 
 To focus on contribution is to focus on effectiveness.
 
-# Chapter 4: Making Strength Productive
+## Chapter 4: Making Strength Productive
 
 The effective executive makes strength productive. He knows that one cannot build on
 weakness. To achieve results, one has to use all the available strengths—the strengths of
@@ -2077,7 +2075,7 @@ cannot, of course, overcome the weaknesses with which each of us is abundantly e
 it can make them irrelevant. Its task is to use the strength of each man as a building block
 for joint per formance.
 
-## Staffing from Strength
+### Staffing from Strength
 
 The area in which the executive first encounters the chal lenge of strength isin staflSng.
 The effective executive fills posi tions and promoteson the basisof what a man can do. He
@@ -2116,7 +2114,7 @@ there are peaks, there are valleys. And no one is strong in many areas. Measured
 universe of human knowledge, experience, and abilities, even the greatest genius would have
 to be rated a total failure. There is
 
-## Making Strength Productive
+### Making Strength Productive
 
 no such thing asa "good man." Good for what? is the question.
 
@@ -2882,7 +2880,7 @@ Rather, as the Bible tells us in the parable of the Talents, the task is to mult
 performance capacity of the whole by putting to use whatever strength, whatever health,
 whatever aspiration thereis in individuals.
 
-# Chapter 5: First Things First
+## Chapter 5: First Things First
 
 If there is any one "secret" of effectiveness, it is concentra tion. Effective executives do
 first things first and they do one thing at a time.
@@ -2903,7 +2901,7 @@ more will he shift to sustained efforts—efforts which require a fairly big qua
 to bear fruit. Yet to get even that half-day or those two weeks of really productive time
 requires
 
-## First Things First
+### First Things First
 
 self-discipline and an iron determination to say "No."
 
@@ -2990,7 +2988,7 @@ Effective executives know that they have to get many things done—and done effe
 Therefore, they concentrate— their own time and energy as well as that of their organiza
 tion—on doing one thing at atime, and on doing first things first.
 
-## Sloughing Off Yesterday
+### Sloughing Off Yesterday
 
 The first rule for the concentration of executive efforts is to slough off the past that has
 ceased tobe productive. Effective executives periodically review their work programs—and
@@ -3131,7 +3129,7 @@ reasonably certain that we would still have stagecoaches—nationalized, to be s
 subsidized, and with a fantastic research program to "retrain the horse"—had there been
 ministries of transporta tion around 1825.
 
-## Priorities And Posteriorities
+### Priorities And Posteriorities
 
 There are always more productive tasks for tomorrow than there is time to do them and more
 opportunities than there are capable people to take care of them—not to mention the always
@@ -3167,7 +3165,7 @@ and the urgent over the relevant.
 
 The job is, however, not to set priorities. That is easy.
 
-## How
+### How
 
 Everybody can do it. The reason why so few executives con centrate is the difficulty of
 setting "posteriorities"—that is, de ciding what tasks not to tackle—and of sticking to the
@@ -3254,7 +3252,7 @@ Concentration—that is, the courage to impose on time and events his own decisi
 really matters and comes first—is the executive's only hope of becoming the master of time
 and events instead of their whipping boy.
 
-# Chapter 6: The Elements of Decision-making
+## Chapter 6: The Elements of Decision-making
 
 Decision-making is only one of the tasks of an executive. It usually takes but a small
 fraction of his time. But to make de cisions is the specific executive task. Decision-making
@@ -3293,7 +3291,7 @@ This means that, while the effective decision itself is based on the highest lev
 conceptual understanding, the action to cany it out should be as close as possible to the
 working level and as simple as possible.
 
-## Two Case Studies in Decision-making
+### Two Case Studies in Decision-making
 
 The least-known of the great American business builders, Theodore Vail, was perhaps the most
 effective decision-maker in U.S. business history. As president of the Bell Telephone System
@@ -3306,7 +3304,7 @@ the two most populous Canadian provinces, Quebec and Ontario) is the only develo
 theworld in which tele communications are notowned by government. The BellSystem is also the
 only public utility that has shown itself capable of
 
-## The Elements of Decision-Making
+### The Elements of Decision-Making
 
 risk-taking leadership and rapid growth, even though it has a monopoly in a vital area and
 has achieved saturation of its original market.
@@ -3450,7 +3448,7 @@ tory, and politics. At the same time, these are large enough examples to show st
 decisions in government, the military, the hospital, of the university exemplify the same
 concepts as the next sections in this and the following chapter will demonstrate.
 
-## The Effective Executive
+### The Effective Executive
 
 General Motors* the company he took over in 1922 was a loose federation of almost
 independent chieftains. Each of these men ran a unit which a few short years before had
@@ -3480,6 +3478,7 @@ developing strong, independent performing executives from within.
 Everyone before Sloan had seen the problem as one of per-
 
 * New York, Doubleday, 1964. sonalities, to be solved through a struggle for power from
+
   which one man would emerge victorious. Sloan sawit as a con stitutional problem to be
   solved through a new structure; de centralization which balances local autonomy in
   operations with central control of direction and policy.
@@ -3526,7 +3525,7 @@ organized self-obsoles cence would have struck him as lunacy. He was equally con
 only the tightest centralized control could produce efficiency and results. Sloan's
 decentralization appeared to him self-destructive weakness.
 
-## The Elements of the Decision Process
+### The Elements of the Decision Process
 
 The truly important features of the decisions Vail and Sloan made are neither their novelty
 nor their controversial nature.
@@ -3537,7 +3536,7 @@ They are:
 - The definition of the specifications which the answer to the problem had to satisfy, that is, of the "boundary con ditions";
 - The thinking through what is "right," that is, the solution which will fully satisfy the specifications before attention is given to the compromises, adaptations, and concessions needed to make the decision acceptable;
 
-## The Elements of Decision-Making
+### The Elements of Decision-Making
 
 - The building into the decision of the action to cany it out;
 - The "feedback" which tests the validity and effectiveness of the decision against the actual course of events.
@@ -4092,6 +4091,7 @@ his men. He could, of course, read the menus and order this or that item to be b
 him. But no; he is expected to go into the mess
 
 * This was certainly established military practice in very ancient times— Thucydides and
+
   Xenophon both take it for granted, as do the earliest Chinese texts on war we have—and so
   did Caesar. hallandtake hissample of the food from the same kettle that serves the
   enlisted men.
@@ -4178,7 +4178,7 @@ ence.
 The effective executive encourages opinions. But he insists that the people who voice them
 also think through what it is thatthe"experiment"—that is, thetesting of theopinion against
 
-## Effective Decisions
+### Effective Decisions
 
 reality—would have to show. The effective executive, there fore, asks: "What dowehave to
 know to test thevalidity of this hypothesis?" "What would the facts have to be to make this
@@ -4422,6 +4422,7 @@ thatwhile "4 x 6 equals 6 x 4, €a blindVenetian' isn'tthe same thing as *a Ven
 "* Thisis imagina tive sight of a highorder. Far too many adult decisions are
 
 * See his perceptive book, Toward a Theory of Instruction (Cambridge, Harvard, 1966), p. 64.
+
   made on the assumption that a "blind Venetian" must indeed be the same as a "Venetian
   blind." An old story tells of a South Sea Islander of Victorian times who, after his
   return from a visit to the West, told his fellow islanders that the Westerners had no
@@ -4476,6 +4477,7 @@ worked mightily to prove each other wrong. If either side had tried to understan
 other one sees and
 
 * This, of course, is nothing new* It is indeed only a rephrasing of Mary Parker Follet (see
+
   her Dynamic Administration, ed. by Henry C. Metcalf and L. Urwick [New York, Harper & Row,
   1942]), who in turn only ex tended Plato's arguments in his great dialogue on rhetoric,
   the Phaedrus. why, both would be a great deal stronger, and labor rela tions in the steel
@@ -4487,7 +4489,7 @@ forces himself to see opposition as his means to think through thealternatives. 
 conflict of opinion as his tool to make sure all major aspects of an important matter are
 looked at carefully.
 
-## There is one final question the effective decision-maker asks:
+### There is one final question the effective decision-maker asks:
 
 "Is a decision really necessary?" One alternative is always the alternative of doing
 nothing.
@@ -4599,7 +4601,7 @@ Executives are not paid for doing things they like to do.
 They are paid for getting the right things done—most of all in their specific task, the
 making of effective decisions.
 
-## Decision-Making And The Computer
+### Decision-Making And The Computer
 
 Does all this still apply today when we have the computer?
 
@@ -4784,9 +4786,7 @@ line in the organization will have to learn to be executives and to make effecti
 decisions.
 
 - Conclusion:
-
 - Effectiveness Must Be Learned
-
 - This book rests on two premises:
 
 • The executive's job is to be effective; and • Effectiveness can be learned.
@@ -4808,7 +4808,7 @@ Effectiveness is, after all, not a "subject," but a self-discipline.
 But throughout this book, and implicit in its structure and in the way it treats its subject
 matter, is always the question: "What makes for effectiveness in an organization and in any
 
-## Effectiveness Must Be Learned
+### Effectiveness Must Be Learned
 
 of the major areas of an executive's day and work?" Only rarely is the question asked: "Why
 should there be effective ness?" The goal of effectiveness is taken for granted.
@@ -5026,7 +5026,7 @@ Decision-making, 113-65, 169 alternatives in, 147-57 case studies in, 114-22 com
 142, 159-65 courage in, 157-58 disagreement as necessary Europe, executives in, 11 failure,
 most Executive common cause of, 58
 
-## Executive realities, 9-18 Executives, definition of, 8
+### Executive realities, 9-18 Executives, definition of, 8
 
 Facts and decision-making, 143-44 "Featherbedding," 154-55 Feedback in decision-making,
 139-42 Focus on contribution, at meetings, Follet, Mary Parker, 154n.
@@ -5039,7 +5039,7 @@ procurement and inventory poli cies in, 145-46 recurrent crisis in, 42 Dinners a
 time-wasters, 28 Direct results, 55-56 Disagreement as necessary for deci sion-making,
 148-55
 
-## Discretionary time, consolidating of,
+### Discretionary time, consolidating of,
 
 Doctors in military service, 126-27 Dreystadt, Nicholas, 64 Du Pont, Pierre, 120 Du Pont de
 Nemours, E. I., & Com pany, 108 Edsel (automobile), 17 Education General Motors Corporation,
@@ -5054,9 +5054,7 @@ of decision-mak ing, 143-45 Ickes, Harold, 149 Imagination, decision-making and,
 investment, 5 See also University presidents "Indispensable men," 91 explanations of, 88
 
 - Eisenhower, Gen. Dwight D., 90,91,
-
 - Information
-
 - Electronic computers, see Computers
 
 malfunction in, 46-47 See also Computers Interstate Commerce Commission, Military service
@@ -5074,7 +5072,7 @@ Knowledge workers as executives, 5-9 frustrations of, 82-83 function and fulfill
 172-74 rise of, 2-3 Learning of effectiveness, 20-24,166- Lee, Gen. Robert E., 72, 73
 Leonardo da Vinci, 74 Lincoln, Abraham, 71-72, 78, 148 "Listeners" vs. "readers," 94
 
-## McNamara, Robert, 42, 46, 60, 80,
+### McNamara, Robert, 42, 46, 60, 80,
 
 Malorganization, 44-46 Manager development, 18-19 Managers, executives compared to, Manual
 workers, 174 efficiency of, 2 Market research, 7 Marketing executives, 79 Marshall, Gen.
@@ -5083,7 +5081,7 @@ people's time and, 39 effective performance of, 170-71 executives as captive of,
 interdependence of jobs in, 76-77 need for perpetuation by, 56-57 social compared with
 biological, Overstaffing, 43-44
 
-## Parkinson, C. Northcote, 38 Patton, Gen. George, 90 People
+### Parkinson, C. Northcote, 38 Patton, Gen. George, 90 People
 
 as time-consumers, 29-31 development of, 56-57 good human relations, 63-69 personnel
 decisions, 32-33, 146 Personalities "effective," 21-22 "mature," 72 structuring jobs to fit,
@@ -5112,15 +5110,10 @@ University presidents, 60-61, 79 U.S. Steel Company, 120 Vail, Theodore, 114-119
 Value commitments, 56 Vietnam war, 111 "executives" in, 6
 
 - Washington, George, 149 World War I
-
 - Schlieffen Plan in, 132, 150 Russian mobilization in, 151
-
 - World War II, 58, 89-91, 162
-
 - Zuckerman, Sir Solly, 164
-
 - About the Author
-
 - With the publication of his first book, The End of Economic Man, in
 
 1939 Peter F. Drucker established himself as a trenchant, unorthodox and independent analyst
@@ -5175,14 +5168,12 @@ University. He lives in California.
 
 WWW.PETER-DRUCKER.COm
 
-## Isbn-13: 978-0-06-083345-9
+### Isbn-13: 978-0-06-083345-9
 
-## Isbn-10: 0-06-083345-9
+### Isbn-10: 0-06-083345-9
 
 - USA $15.95 Canada $21.50
-
 - A
-
 - Cover design by Clinton Van Gemert
 
 for Mucca Design C Collins AnImprint o/HarperCollinsPublishers www.harpercollins.com

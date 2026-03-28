@@ -227,7 +227,7 @@ Be well,
 
 ## Now, Here Is Naval in His Own Words…
 
-## Background
+### Background
 
 I grew up in a single-parent household with my mom working, going to school, and raising my
 brother and me as latchkey kids. We were very self-sufficient from a very early age. There
