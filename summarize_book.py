@@ -76,6 +76,31 @@ SECTION_KIND_PRIORITY = {
     "endmatter": 1,
 }
 
+REFERENCE_TITLE_MARKERS = {
+    "sources",
+    "references",
+    "bibliography",
+    "recommended reading",
+    "reading list",
+}
+
+ENDMATTER_TITLE_MARKERS = {
+    "about the author",
+    "acknowledgments",
+    "acknowledgements",
+    "appreciation",
+    "want more",
+    "bonus",
+}
+
+SUPPLEMENTAL_TITLE_MARKERS = {
+    *REFERENCE_TITLE_MARKERS,
+    *ENDMATTER_TITLE_MARKERS,
+    "timeline",
+    "timeline of",
+    "69 core musk methods",
+}
+
 
 LEGACY_CHUNK_SCHEMA = {
     "type": "object",
@@ -484,6 +509,27 @@ def priority_weight_for_kind(kind: str) -> int:
     return SECTION_KIND_PRIORITY.get(kind, 3)
 
 
+def detail_guidance_for_priority(priority_weight: int, kind: str) -> str:
+    if priority_weight >= 5:
+        return (
+            "High-detail material. Preserve the chapter's core claims, methods, pivots, and "
+            "representative examples with generous space in the final summary."
+        )
+    if priority_weight == 4:
+        return (
+            "Detailed coverage. Keep the main argument or chronology specific enough that a "
+            "serious reader could reconstruct the chapter's distinctive contribution."
+        )
+    if priority_weight == 3:
+        return (
+            "Moderate coverage. Preserve the chapter's distinct role and strongest examples, "
+            "but do not expand every subsection equally."
+        )
+    if kind in {"reference", "endmatter"}:
+        return "Compressed coverage. Summarize this material honestly as supporting or documentary matter."
+    return "Light coverage. Preserve only the role this material plays in setting up or closing the book."
+
+
 def unique_preserving_order(values: list[str]) -> list[str]:
     seen: set[str] = set()
     result: list[str] = []
@@ -510,6 +556,12 @@ def leading_sentence(text: str) -> str:
 def infer_section_kind(title: str, raw_text: str) -> str:
     normalized = normalize_title_for_match(title)
     haystack = f"{normalized}\n{raw_text[:3000].casefold()}"
+    if any(marker in normalized for marker in REFERENCE_TITLE_MARKERS):
+        return "reference"
+    if any(marker in normalized for marker in ENDMATTER_TITLE_MARKERS):
+        return "endmatter"
+    if normalized.startswith("timeline"):
+        return "endmatter"
     if any(
         token in haystack
         for token in [
@@ -521,6 +573,8 @@ def infer_section_kind(title: str, raw_text: str) -> str:
             "further reading",
             "endnotes",
             "footnotes",
+            "recommended reading",
+            "reading list",
         ]
     ):
         return "reference"
@@ -532,6 +586,10 @@ def infer_section_kind(title: str, raw_text: str) -> str:
             "about the author",
             "credits",
             "copyright",
+            "timeline",
+            "appreciation",
+            "want more",
+            "bonus",
         ]
     ):
         return "endmatter"
@@ -787,10 +845,11 @@ def build_packets(
     current_chapter: str | None = None
     current_labels: list[str] = []
     current_texts: list[str] = []
+    current_kinds: list[str] = []
     current_tokens = 0
 
     def flush() -> None:
-        nonlocal current_chapter, current_labels, current_texts, current_tokens
+        nonlocal current_chapter, current_labels, current_texts, current_kinds, current_tokens
         if not current_texts:
             return
         raw_text = "\n\n---\n\n".join(current_texts)
@@ -806,9 +865,18 @@ def build_packets(
         current_chapter = None
         current_labels = []
         current_texts = []
+        current_kinds = []
         current_tokens = 0
 
+    def has_doc_kind(kinds: list[str]) -> bool:
+        return any(kind in {"reference", "endmatter"} for kind in kinds)
+
+    def label_looks_supplemental(label: str) -> bool:
+        normalized = normalize_title_for_match(label)
+        return any(marker in normalized for marker in SUPPLEMENTAL_TITLE_MARKERS)
+
     for section in sections:
+        section_kind = infer_section_kind(" > ".join(section.path), section.raw_text)
         if section.token_estimate > max_chunk_tokens:
             flush()
             packets.extend(
@@ -831,10 +899,20 @@ def build_packets(
             )
         ):
             flush()
+        elif current_texts:
+            current_has_doc = has_doc_kind(current_kinds)
+            next_is_doc = section_kind in {"reference", "endmatter"}
+            if current_has_doc != next_is_doc:
+                flush()
+            elif label_looks_supplemental(label) and not all(label_looks_supplemental(item) for item in current_labels):
+                flush()
+            elif not label_looks_supplemental(label) and any(label_looks_supplemental(item) for item in current_labels):
+                flush()
 
         current_chapter = section.chapter_title
         current_labels.append(label)
         current_texts.append(section.raw_text)
+        current_kinds.append(section_kind)
         current_tokens += section.token_estimate
 
     flush()
@@ -842,13 +920,15 @@ def build_packets(
 
 
 def infer_packet_profile(packet: Packet) -> dict[str, Any]:
-    kind = infer_section_kind(" ".join(packet.section_labels[:2]) or packet.chapter_title, packet.raw_text)
+    kind = infer_section_kind(" ".join(packet.section_labels) or packet.chapter_title, packet.raw_text)
+    priority_weight = priority_weight_for_kind(kind)
     return {
         "packet_id": packet.packet_id,
         "chapter_title": packet.chapter_title,
         "covered_sections": packet.section_labels[:],
         "packet_kind": kind,
-        "priority_weight": priority_weight_for_kind(kind),
+        "priority_weight": priority_weight,
+        "detail_guidance": detail_guidance_for_priority(priority_weight, kind),
         "role_in_book": role_for_kind(kind, packet.chapter_title, packet.section_labels),
     }
 
@@ -858,6 +938,25 @@ def dominant_kind(kinds: list[str]) -> str:
         return "mixed"
     counts = Counter(kinds)
     best = sorted(counts.items(), key=lambda item: (-item[1], -priority_weight_for_kind(item[0]), item[0]))
+    return best[0][0]
+
+
+def dominant_chapter_kind(packet_profiles: list[dict[str, Any]]) -> str:
+    if not packet_profiles:
+        return "mixed"
+    relevant_packets = packet_profiles[:]
+    non_documentary_packets = [
+        profile for profile in packet_profiles if profile["packet_kind"] not in {"reference", "endmatter"}
+    ]
+    if non_documentary_packets:
+        relevant_packets = non_documentary_packets
+
+    weighted_scores: Counter[str] = Counter()
+    for profile in relevant_packets:
+        kind = profile["packet_kind"]
+        weighted_scores[kind] += int(profile.get("priority_weight", priority_weight_for_kind(kind)))
+
+    best = sorted(weighted_scores.items(), key=lambda item: (-item[1], -priority_weight_for_kind(item[0]), item[0]))
     return best[0][0]
 
 
@@ -871,6 +970,7 @@ def build_book_map(book_title: str, sections: list[Section], packets: list[Packe
         ):
             profile["packet_kind"] = "framing"
             profile["priority_weight"] = priority_weight_for_kind("framing")
+            profile["detail_guidance"] = detail_guidance_for_priority(profile["priority_weight"], "framing")
             profile["role_in_book"] = role_for_kind("framing", profile["chapter_title"], profile["covered_sections"])
     section_counts = Counter(section.chapter_title for section in sections)
     chapter_profiles: list[dict[str, Any]] = []
@@ -878,7 +978,7 @@ def build_book_map(book_title: str, sections: list[Section], packets: list[Packe
     chapter_order = unique_preserving_order([packet.chapter_title for packet in packets])
     for chapter_title in chapter_order:
         chapter_packets = [profile for profile in packet_profiles if profile["chapter_title"] == chapter_title]
-        chapter_kind = dominant_kind([profile["packet_kind"] for profile in chapter_packets])
+        chapter_kind = dominant_chapter_kind(chapter_packets)
         priority_values = [profile["priority_weight"] for profile in chapter_packets] or [3]
         priority_weight = max(priority_values)
         chapter_profiles.append(
@@ -886,6 +986,7 @@ def build_book_map(book_title: str, sections: list[Section], packets: list[Packe
                 "chapter_title": chapter_title,
                 "chapter_kind": chapter_kind,
                 "priority_weight": priority_weight,
+                "detail_guidance": detail_guidance_for_priority(priority_weight, chapter_kind),
                 "packet_count": len(chapter_packets),
                 "section_count": section_counts.get(chapter_title, len(chapter_packets)),
                 "role_in_book": role_for_kind(
@@ -903,6 +1004,7 @@ def build_book_map(book_title: str, sections: list[Section], packets: list[Packe
         "Give the most space to chapters or packets with priority 4-5; compress priority 1-2 material unless it frames the thesis.",
         "Treat reference and endmatter sections as documentation, not as core argumentative chapters.",
         "Use framing sections to explain the book's setup and transitions, but do not let them crowd out the main argument.",
+        "Aim for a substantial study-guide summary, not jacket-copy brevity: core chapters should carry enough detail to reconstruct the book's real argument and examples.",
     ]
     return {
         "book_title": book_title,
@@ -923,6 +1025,7 @@ def render_book_map_markdown(book_map: dict[str, Any]) -> str:
         lines.append("")
         lines.append(f"- Kind: {chapter['chapter_kind']}")
         lines.append(f"- Priority weight: {chapter['priority_weight']}")
+        lines.append(f"- Detail guidance: {chapter['detail_guidance']}")
         lines.append(f"- Packet count: {chapter['packet_count']}")
         lines.append(f"- Section count: {chapter['section_count']}")
         lines.append(f"- Role: {chapter['role_in_book']}")
@@ -954,11 +1057,30 @@ def compact_book_map(book_map: dict[str, Any] | None) -> dict[str, Any]:
                 "chapter_title": item["chapter_title"],
                 "chapter_kind": item["chapter_kind"],
                 "priority_weight": item["priority_weight"],
+                "detail_guidance": item.get("detail_guidance", ""),
                 "role_in_book": item["role_in_book"],
             }
             for item in book_map.get("chapter_profiles", [])
         ],
     }
+
+
+def collect_ambiguity_flags(items: list[dict[str, Any]]) -> list[str]:
+    flags: list[str] = []
+    for item in items:
+        for value in item.get("ambiguity_flags", []) or []:
+            if isinstance(value, str):
+                flags.append(value)
+    return unique_preserving_order(flags)
+
+
+def ambiguity_digest(items: list[dict[str, Any]], *, label_key: str) -> list[dict[str, Any]]:
+    digest: list[dict[str, Any]] = []
+    for item in items:
+        flags = [flag for flag in item.get("ambiguity_flags", []) or [] if isinstance(flag, str) and flag.strip()]
+        if flags:
+            digest.append({label_key: item.get(label_key, ""), "ambiguity_flags": unique_preserving_order(flags)})
+    return digest
 
 
 def enrich_chunk_summary(payload: dict[str, Any], book_map: dict[str, Any] | None = None) -> dict[str, Any]:
@@ -1035,7 +1157,9 @@ Merge repeated ideas, preserve chapter progression, and keep the result grounded
 summaries rather than inventing new interpretation.
 Use the inferred chapter profile to decide proportion: emphasize thesis-carrying material,
 compress framing and documentation, and clearly distinguish the main chapter claim from local
-supporting details."""
+supporting details.
+Treat this as chapter-level study notes, not a blurb: a serious reader should come away knowing
+what the chapter contributes, how it moves, and which examples or methods make it distinctive."""
 
 
 def final_stage_instructions(contract: str) -> str:
@@ -1045,12 +1169,17 @@ Stage: final book synthesis.
 
 Return strict JSON. Produce a polished, publication-quality summary that still reads as an
 evidence-bound synthesis rather than a review.
+Aim for a substantial summary, closer to a serious study guide than to jacket copy.
 The executive summary should be readable prose, not notes.
-Chapter summaries should be concise but specific.
+Chapter summaries should be concise but specific, and for priority 4-5 chapters they should
+carry enough detail that a serious reader could reconstruct the book's distinctive claims,
+methods, chronology, and representative examples.
 Use the supplied book map to keep proportion and carry the book's real structure into the final
 summary.
 Do not add admiration, criticism, or outside context unless it is explicitly present in the
-provided chapter summaries."""
+provided chapter summaries.
+Open by naming what kind of book this is and what central wager or mission holds its parts
+together."""
 
 
 def verify_stage_instructions(contract: str) -> str:
@@ -1063,7 +1192,9 @@ Use the book map to catch proportion errors, chapter omissions, and places where
 reference material has been given too much weight.
 List unsupported claims or overstatements in `issues`, then return a revised final summary that
 is more faithful and still polished.
-Prefer removing drift over preserving flair."""
+Prefer removing drift over preserving flair.
+If the draft is too thin to stand in for a serious reading experience, deepen the core chapters
+with grounded detail rather than adding gloss."""
 
 
 def build_chunk_user_text(
@@ -1109,6 +1240,9 @@ def build_chapter_user_text(
         Inferred chapter profile:
         {json.dumps(chapter_profile or {}, ensure_ascii=False, indent=2)}
 
+        Inherited ambiguity flags:
+        {json.dumps(collect_ambiguity_flags(packet_summaries), ensure_ascii=False, indent=2)}
+
         Packet summaries:
         {json.dumps(packet_summaries, ensure_ascii=False, indent=2)}
         """
@@ -1127,6 +1261,9 @@ def build_final_user_text(
         Book map:
         {json.dumps(compact_book_map(book_map), ensure_ascii=False, indent=2)}
 
+        Chapter ambiguity digest:
+        {json.dumps(ambiguity_digest(chapter_summaries, label_key='chapter_title'), ensure_ascii=False, indent=2)}
+
         Chapter summaries:
         {json.dumps(chapter_summaries, ensure_ascii=False, indent=2)}
         """
@@ -1143,6 +1280,9 @@ def build_verify_user_text(
         f"""\
         Book map:
         {json.dumps(compact_book_map(book_map), ensure_ascii=False, indent=2)}
+
+        Chapter ambiguity digest:
+        {json.dumps(ambiguity_digest(chapter_summaries, label_key='chapter_title'), ensure_ascii=False, indent=2)}
 
         Draft final summary:
         {json.dumps(draft_summary, ensure_ascii=False, indent=2)}
