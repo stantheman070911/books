@@ -297,7 +297,7 @@ and control of 7 violence. As this technological revolution unfolds, predatory v
 be organized more and more outside of central control. Efforts to contain violence will also
 devolve in ways that depend more upon efficiency than magnitude of power.
 
-* Nomenklatunas are the entrenched elites that ruled the former Soviet Union and other
+- Nomenklatunas are the entrenched elites that ruled the former Soviet Union and other
 
 state-run economies.
 
@@ -1114,7 +1114,7 @@ of the world order that has predominated these past five centuries, ever since C
 sailed west to open contact with the New World. Yet unlike Spengler we see the birth of a
 new stage in Western civilization in the coming millennium.
 
-* Adam Smith died in 1790, Karl Marx in 1883.
+- Adam Smith died in 1790, Karl Marx in 1883.
 
 ## CHAPTER 2
 
@@ -5955,9 +5955,15 @@ the military costs of enforcing local monopolies high. But while the costs remai
 price that minisovereignties can charge for protection rises, since economic activity
 expands when anarchy is curtailed.
 
-*********Note that Lane's four stages of competition and monopoly in the use of violence are
+---
+
+Note that Lane's four stages of competition and monopoly in the use of violence are
 different from the four stages in the organization of economic life that we identify-namely,
-foraging, farming, industrialism, and the Information Age. ********* During a late phase of
+foraging, farming, industrialism, and the Information Age.
+
+---
+
+During a late phase of
 the second stage many tribute takers attract customers by special offers to agricultural and
 commercial enterprise. They offer protection at low prices for those who will bring new
 lands into cultivation, and special policing services to encourage trade such as that

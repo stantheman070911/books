@@ -232,8 +232,7 @@ Now comes a tricky part - telling people you’re charging money for something t
 free. It’s like telling your friends who used to get free sandwiches that now they need to
 pay. You need to:
 
-- •
-- • Let people know you’re selling something Explain why it’s worth paying for Sign up for
+- Let people know you’re selling something Explain why it’s worth paying for Sign up for
   free advertising credits on platforms like Google or Facebook Show how your paid version
   is better than the free one was
 
@@ -242,7 +241,6 @@ pay. You need to:
 You probably don’t know much about selling yet, and that’s okay! The best approach is to:
 
 - Use results from your free customers as proof (“Look how much this helped them!”)
-- •
 - Talk to people about their problems and show how you can solve them Start with people who
   already liked your free stuff Be honest about what you’re offering and what it costs
 
@@ -250,7 +248,7 @@ You probably don’t know much about selling yet, and that’s okay! The best ap
 
 Your free customers helped you learn, but paying customers are different. They:
 
-- • Have higher expectations Are more likely to complain
+- Have higher expectations Are more likely to complain
 - Need more attention
 - Want better results Your job is to figure out why people might not like or use your
   product. Maybe your computer repair service takes too long, or maybe your sandwich
@@ -261,23 +259,21 @@ Your free customers helped you learn, but paying customers are different. They:
 
 You probably can’t afford fancy software yet, but you can:
 
-- •
-- • Join free online groups to learn what tools others use Read forums about your industry
+- Join free online groups to learn what tools others use Read forums about your industry
   Use free trials of basic software Start with free tools like Google’s business tools
 
 ### Getting Help
 
 You’re going to realize you can’t do everything yourself. When this happens:
 
-- •
-- • Reach out to people you know who might help Use websites like Upwork or Fiverr to find
+- Reach out to people you know who might help Use websites like Upwork or Fiverr to find
   freelancers Start small with part-time help Be clear about what you need done
 
 ### Managing Money
 
 This is crucial—you need to:
 
-- • Set up a way to collect payments (like Square or PayPal) Actually run a real payment
+- Set up a way to collect payments (like Square or PayPal) Actually run a real payment
   through your system
 - Get your first paying customer’s money into your bank account
 - Keep track of who has paid and who hasn’t
@@ -476,7 +472,7 @@ make customers happy, even if it’s not efficient. You might need to:
 
 - Work longer hours to get things perfect
 - Double-check everything
-- • Provide extra service at no charge Fix problems immediately when they come up
+- Provide extra service at no charge Fix problems immediately when they come up
 
 Think: driving to the convenience store to drop off ice cream to a customer’s house at 2AM.
 The point is to be valuable, not scalable yet.
@@ -491,7 +487,7 @@ You need to:
 
 - Follow the “Rule of 100” (spend 100 minutes daily on marketing)
 - Make marketing a daily priority, not just when you’re slow. (Get ahead)
-- • Keep track of what brings in customers (actions & results).
+- Keep track of what brings in customers (actions & results).
 
 Test different ways of reaching people. Stick with the one that works best for you. Don’t
 try and diversify in the beginning. Double down on what works.
@@ -501,7 +497,6 @@ try and diversify in the beginning. Double down on what works.
 Sales are up and down, and you need to fix that. It’s time to:
 
 - Create a consistent sales script
-- •
 - Learn the “CLOSER” method for converting leads Practice your pitch until it’s natural
   Track what works and what doesn’t
 
@@ -520,14 +515,13 @@ Money is tight, but you need basic tools. Focus on:
 
 - Using free trials and credits
 - Getting basic website/hosting
-- • Setting up a simple CRM (customer management system) Using free Google tools
+- Setting up a simple CRM (customer management system) Using free Google tools
 
 ### Getting Help
 
 Your part-timers aren’t enough anymore. You need to:
 
-- •
-- • Start converting part-timers to full-time employees Post job ads Look for people who
+- Start converting part-timers to full-time employees Post job ads Look for people who
   want steady work Be clear about expectations
 
 ### Managing People
@@ -543,15 +537,14 @@ Now that you have help, you need to:
 
 Things are getting more complex with money. You need to:
 
-- • Set up QuickBooks or similar accounting software Save money for taxes
+- Set up QuickBooks or similar accounting software Save money for taxes
 - Check your bank account daily
-- • Keep track of all expenses Start planning for bigger expenses Your Daily Life at Stage 2
+- Keep track of all expenses Start planning for bigger expenses Your Daily Life at Stage 2
   Your typical day might include:
 - Serving existing customers
 - Marketing for new customers
 - Managing part-time help
-- •
-- • Handling money Fixing problems Improving your product/service Talking to potential
+- Handling money Fixing problems Improving your product/service Talking to potential
   customers
 
 ### Common Feelings at This Stage
@@ -559,7 +552,7 @@ Things are getting more complex with money. You need to:
 - Overwhelmed by all the moving parts
 - Excited about growth
 - Worried about consistency
-- • Proud of becoming a “real” business Stressed about managing others
+- Proud of becoming a “real” business Stressed about managing others
 - Concerned about money flow
 
 ### Signs You’Re Doing It Well
@@ -584,16 +577,12 @@ Things are getting more complex with money. You need to:
 Keep Quality High
 
 - Never sacrifice quality for speed
-- •
 - Fix problems immediately Learn from mistakes Keep improving Stay Organized
-- •
-- • Use simple systems Track everything Keep good records Stay on top of taxes Manage People
+- Use simple systems Track everything Keep good records Stay on top of taxes Manage People
   Well
-- •
-- • Be clear about expectations Pay people properly Provide good training Show appreciation
+- Be clear about expectations Pay people properly Provide good training Show appreciation
   Watch the Money
-- •
-- • Track every dollar. Check your bank account daily.
+- Track every dollar. Check your bank account daily.
 
 Save for taxes. Make a separate account if you have to.
 
@@ -604,7 +593,7 @@ Keep personal and business money separate.
 Keep Marketing
 
 - Market every day
-- • Try new methods Track what works
+- Try new methods Track what works
 - Do more of what works (volume)
 
 ### Graduating From Stage
@@ -729,8 +718,7 @@ Now comes a tricky part - telling people you’re charging money for something t
 free. It’s like telling your friends who used to get free sandwiches that now they need to
 pay. You need to:
 
-- •
-- • Let people know you’re selling something Explain why it’s worth paying for Sign up for
+- Let people know you’re selling something Explain why it’s worth paying for Sign up for
   free advertising credits on platforms like Google or Facebook Show how your paid version
   is better than the free one was
 
@@ -739,7 +727,6 @@ pay. You need to:
 You probably don’t know much about selling yet, and that’s okay! The best approach is to:
 
 - Use results from your free customers as proof (“Look how much this helped them!”)
-- •
 - Talk to people about their problems and show how you can solve them Start with people who
   already liked your free stuff Be honest about what you’re offering and what it costs
 
@@ -747,7 +734,7 @@ You probably don’t know much about selling yet, and that’s okay! The best ap
 
 Your free customers helped you learn, but paying customers are different. They:
 
-- • Have higher expectations Are more likely to complain
+- Have higher expectations Are more likely to complain
 - Need more attention
 - Want better results Your job is to figure out why people might not like or use your
   product. Maybe your computer repair service takes too long, or maybe your sandwich
@@ -758,23 +745,21 @@ Your free customers helped you learn, but paying customers are different. They:
 
 You probably can’t afford fancy software yet, but you can:
 
-- •
-- • Join free online groups to learn what tools others use Read forums about your industry
+- Join free online groups to learn what tools others use Read forums about your industry
   Use free trials of basic software Start with free tools like Google’s business tools
 
 ### Getting Help
 
 You’re going to realize you can’t do everything yourself. When this happens:
 
-- •
-- • Reach out to people you know who might help Use websites like Upwork or Fiverr to find
+- Reach out to people you know who might help Use websites like Upwork or Fiverr to find
   freelancers Start small with part-time help Be clear about what you need done
 
 ### Managing Money
 
 This is crucial—you need to:
 
-- • Set up a way to collect payments (like Square or PayPal) Actually run a real payment
+- Set up a way to collect payments (like Square or PayPal) Actually run a real payment
   through your system
 - Get your first paying customer’s money into your bank account
 - Keep track of who has paid and who hasn’t
@@ -903,13 +888,12 @@ Products and Customers Sales and Service Tech and Tools People and HR Money Matt
 
 ### Products & Customers
 
-- •
 - Your biggest headache is that you can’t fix everything customers complain about You have
   to pick the ONE thing that bothers customers the most and fix just that Your leads
   (potential customers) aren’t buying as quickly because they don’t know you as well
 - You need to start sending emails and creating content to build trust over time Sales and
   Service
-- • You’re wasting time talking to people who aren’t serious about buying You need to make a
+- You’re wasting time talking to people who aren’t serious about buying You need to make a
   list of what makes someone a “good” potential customer
 - New customers often feel lost when they start using your product/service
 - You need to create a proper way to welcome and guide new customers
@@ -918,16 +902,14 @@ Products and Customers Sales and Service Tech and Tools People and HR Money Matt
 
 - You probably bought too many different software tools thinking you’d use them all
 - Now you need to figure out which ones you actually need and cancel the rest
-- • You should try to extend free trials or get discounts on the tools you keep You need a
+- You should try to extend free trials or get discounts on the tools you keep You need a
   basic system to track your sales pipeline People and HR
-- •
-- • It’s hard to find good people to hire You need to learn how to write good job
+- It’s hard to find good people to hire You need to learn how to write good job
   descriptions and review resumes properly You’re probably not handling employee taxes
   correctly You need to get a payroll service to handle taxes and fees properly
 
 ### Customer Service
 
-- •
 - People are getting paid informally (which isn’t good) You need to set up proper payroll
   processing You need basic bookkeeping to track money coming in and going out
 - You need to manage invoices and payments properly
@@ -939,10 +921,9 @@ the business. Here’s what you need to do to graduate from Stage 3: Fix Your Bi
 First
 
 - Don’t try to fix everything at once
-- •
 - Find the #1 thing customers complain about Fix that one thing really well Then move on to
   the next biggest problem Get Your Money In Order
-- • Set up proper payroll for employees Start using basic accounting software
+- Set up proper payroll for employees Start using basic accounting software
 - Make sure you’re tracking all money coming in and going out
 - Have a system for managing bills and getting paid Help Your Team Help You
 - Write down how you do important tasks
@@ -951,7 +932,7 @@ First
 - Check their work to make sure it’s done right Make Your Customers Happy
 - Create a proper way to welcome new customers
 - Make sure they know how to use your product/service
-- • Help them get results quickly Keep in touch with them regularly
+- Help them get results quickly Keep in touch with them regularly
 
 ### The Bottom Line
 
@@ -1062,13 +1043,12 @@ Products and Customers Sales and Service Tech and Tools People and HR Money Matt
 
 ### Products & Customers
 
-- •
 - Your biggest headache is that you can’t fix everything customers complain about You have
   to pick the ONE thing that bothers customers the most and fix just that Your leads
   (potential customers) aren’t buying as quickly because they don’t know you as well
 - You need to start sending emails and creating content to build trust over time Sales and
   Service
-- • You’re wasting time talking to people who aren’t serious about buying You need to make a
+- You’re wasting time talking to people who aren’t serious about buying You need to make a
   list of what makes someone a “good” potential customer
 - New customers often feel lost when they start using your product/service
 - You need to create a proper way to welcome and guide new customers
@@ -1077,16 +1057,14 @@ Products and Customers Sales and Service Tech and Tools People and HR Money Matt
 
 - You probably bought too many different software tools thinking you’d use them all
 - Now you need to figure out which ones you actually need and cancel the rest
-- • You should try to extend free trials or get discounts on the tools you keep You need a
+- You should try to extend free trials or get discounts on the tools you keep You need a
   basic system to track your sales pipeline People and HR
-- •
-- • It’s hard to find good people to hire You need to learn how to write good job
+- It’s hard to find good people to hire You need to learn how to write good job
   descriptions and review resumes properly You’re probably not handling employee taxes
   correctly You need to get a payroll service to handle taxes and fees properly
 
 ### Customer Service
 
-- •
 - People are getting paid informally (which isn’t good) You need to set up proper payroll
   processing You need basic bookkeeping to track money coming in and going out
 - You need to manage invoices and payments properly
@@ -1098,10 +1076,9 @@ the business. Here’s what you need to do to graduate from Stage 3: Fix Your Bi
 First
 
 - Don’t try to fix everything at once
-- •
 - Find the #1 thing customers complain about Fix that one thing really well Then move on to
   the next biggest problem Get Your Money In Order
-- • Set up proper payroll for employees Start using basic accounting software
+- Set up proper payroll for employees Start using basic accounting software
 - Make sure you’re tracking all money coming in and going out
 - Have a system for managing bills and getting paid Help Your Team Help You
 - Write down how you do important tasks
@@ -1110,7 +1087,7 @@ First
 - Check their work to make sure it’s done right Make Your Customers Happy
 - Create a proper way to welcome new customers
 - Make sure they know how to use your product/service
-- • Help them get results quickly Keep in touch with them regularly
+- Help them get results quickly Keep in touch with them regularly
 
 ### The Bottom Line
 
@@ -1213,7 +1190,7 @@ make customers happy, even if it’s not efficient. You might need to:
 
 - Work longer hours to get things perfect
 - Double-check everything
-- • Provide extra service at no charge Fix problems immediately when they come up
+- Provide extra service at no charge Fix problems immediately when they come up
 
 Think: driving to the convenience store to drop off ice cream to a customer’s house at 2AM.
 The point is to be valuable, not scalable yet.
@@ -1228,7 +1205,7 @@ You need to:
 
 - Follow the “Rule of 100” (spend 100 minutes daily on marketing)
 - Make marketing a daily priority, not just when you’re slow. (Get ahead)
-- • Keep track of what brings in customers (actions & results).
+- Keep track of what brings in customers (actions & results).
 
 Test different ways of reaching people. Stick with the one that works best for you. Don’t
 try and diversify in the beginning. Double down on what works.
@@ -1238,7 +1215,6 @@ try and diversify in the beginning. Double down on what works.
 Sales are up and down, and you need to fix that. It’s time to:
 
 - Create a consistent sales script
-- •
 - Learn the “CLOSER” method for converting leads Practice your pitch until it’s natural
   Track what works and what doesn’t
 
@@ -1257,14 +1233,13 @@ Money is tight, but you need basic tools. Focus on:
 
 - Using free trials and credits
 - Getting basic website/hosting
-- • Setting up a simple CRM (customer management system) Using free Google tools
+- Setting up a simple CRM (customer management system) Using free Google tools
 
 ### Getting Help
 
 Your part-timers aren’t enough anymore. You need to:
 
-- •
-- • Start converting part-timers to full-time employees Post job ads Look for people who
+- Start converting part-timers to full-time employees Post job ads Look for people who
   want steady work Be clear about expectations
 
 ### Managing People
@@ -1280,15 +1255,14 @@ Now that you have help, you need to:
 
 Things are getting more complex with money. You need to:
 
-- • Set up QuickBooks or similar accounting software Save money for taxes
+- Set up QuickBooks or similar accounting software Save money for taxes
 - Check your bank account daily
-- • Keep track of all expenses Start planning for bigger expenses Your Daily Life at Stage 2
+- Keep track of all expenses Start planning for bigger expenses Your Daily Life at Stage 2
   Your typical day might include:
 - Serving existing customers
 - Marketing for new customers
 - Managing part-time help
-- •
-- • Handling money Fixing problems Improving your product/service Talking to potential
+- Handling money Fixing problems Improving your product/service Talking to potential
   customers
 
 ### Common Feelings at This Stage
@@ -1296,7 +1270,7 @@ Things are getting more complex with money. You need to:
 - Overwhelmed by all the moving parts
 - Excited about growth
 - Worried about consistency
-- • Proud of becoming a “real” business Stressed about managing others
+- Proud of becoming a “real” business Stressed about managing others
 - Concerned about money flow
 
 ### Signs You’Re Doing It Well
@@ -1321,16 +1295,12 @@ Things are getting more complex with money. You need to:
 Keep Quality High
 
 - Never sacrifice quality for speed
-- •
 - Fix problems immediately Learn from mistakes Keep improving Stay Organized
-- •
-- • Use simple systems Track everything Keep good records Stay on top of taxes Manage People
+- Use simple systems Track everything Keep good records Stay on top of taxes Manage People
   Well
-- •
-- • Be clear about expectations Pay people properly Provide good training Show appreciation
+- Be clear about expectations Pay people properly Provide good training Show appreciation
   Watch the Money
-- •
-- • Track every dollar. Check your bank account daily.
+- Track every dollar. Check your bank account daily.
 
 Save for taxes. Make a separate account if you have to.
 
@@ -1341,7 +1311,7 @@ Keep personal and business money separate.
 Keep Marketing
 
 - Market every day
-- • Try new methods Track what works
+- Try new methods Track what works
 - Do more of what works (volume)
 
 ### Graduating From Stage
@@ -1437,36 +1407,30 @@ and focus on them.
 
 ### Products & Customers
 
-- •
-- • You’ve said yes to anyone who would pay, and now your product is pulled in too many
+- You’ve said yes to anyone who would pay, and now your product is pulled in too many
   directions You need to choose a specific type of customer to focus on You need to update
   your product to serve just those ideal customers You might need to raise your prices to
   match your specialized service Marketing & Sales
-- •
-- • You’re getting too many unqualified leads (people who aren’t right for your business)
+- You’re getting too many unqualified leads (people who aren’t right for your business)
   You need to create better free content to attract the right people Your sales team isn’t
   following up with leads quickly enough You need to start tracking basic sales numbers like
   how many calls you make and how many people buy
 
 ### Customer Service
 
-- •
-- • You have no way to measure if customers are happy You need to start tracking customer
+- You have no way to measure if customers are happy You need to start tracking customer
   satisfaction Customer information is scattered everywhere You need a proper system (CRM)
   to keep track of customer notes and interactions Tech and Tools
-- •
-- • Your new team isn’t using all the tools properly You need to get everyone on the same
+- Your new team isn’t using all the tools properly You need to get everyone on the same
   platforms You need to protect passwords and data You need project management and team chat
   tools People and HR
-- •
-- • You’re wasting time interviewing people who aren’t right for the job You need to learn
+- You’re wasting time interviewing people who aren’t right for the job You need to learn
   how to interview properly and check references Employees don’t know basic rules about time
   off, dress code, etc.
 
 You need to create an employee handbook with basic policies Money Matters
 
-- •
-- • You keep getting surprised by “one-time” expenses You’re learning that running a
+- You keep getting surprised by “one-time” expenses You’re learning that running a
   business costs more than you thought You need proper profit and loss statements You need
   basic business insurance
 
@@ -1477,9 +1441,9 @@ to graduate from Stage 4: Choose Your Focus
 
 - Figure out who your best customers are
 - Change your product to serve them better
-- • Stop trying to please everyone Be willing to say “no” to customers who aren’t a good fit
+- Stop trying to please everyone Be willing to say “no” to customers who aren’t a good fit
   Get Organized
-- • Set up proper systems for tracking sales Keep all customer information in one place
+- Set up proper systems for tracking sales Keep all customer information in one place
 - Make sure everyone uses the same tools
 - Create basic rules and policies Start Measuring Things
 - Track how many leads turn into sales
@@ -1618,36 +1582,30 @@ and focus on them.
 
 ### Products & Customers
 
-- •
-- • You’ve said yes to anyone who would pay, and now your product is pulled in too many
+- You’ve said yes to anyone who would pay, and now your product is pulled in too many
   directions You need to choose a specific type of customer to focus on You need to update
   your product to serve just those ideal customers You might need to raise your prices to
   match your specialized service Marketing & Sales
-- •
-- • You’re getting too many unqualified leads (people who aren’t right for your business)
+- You’re getting too many unqualified leads (people who aren’t right for your business)
   You need to create better free content to attract the right people Your sales team isn’t
   following up with leads quickly enough You need to start tracking basic sales numbers like
   how many calls you make and how many people buy
 
 ### Customer Service
 
-- •
-- • You have no way to measure if customers are happy You need to start tracking customer
+- You have no way to measure if customers are happy You need to start tracking customer
   satisfaction Customer information is scattered everywhere You need a proper system (CRM)
   to keep track of customer notes and interactions Tech and Tools
-- •
-- • Your new team isn’t using all the tools properly You need to get everyone on the same
+- Your new team isn’t using all the tools properly You need to get everyone on the same
   platforms You need to protect passwords and data You need project management and team chat
   tools People and HR
-- •
-- • You’re wasting time interviewing people who aren’t right for the job You need to learn
+- You’re wasting time interviewing people who aren’t right for the job You need to learn
   how to interview properly and check references Employees don’t know basic rules about time
   off, dress code, etc.
 
 You need to create an employee handbook with basic policies Money Matters
 
-- •
-- • You keep getting surprised by “one-time” expenses You’re learning that running a
+- You keep getting surprised by “one-time” expenses You’re learning that running a
   business costs more than you thought You need proper profit and loss statements You need
   basic business insurance
 
@@ -1658,9 +1616,9 @@ to graduate from Stage 4: Choose Your Focus
 
 - Figure out who your best customers are
 - Change your product to serve them better
-- • Stop trying to please everyone Be willing to say “no” to customers who aren’t a good fit
+- Stop trying to please everyone Be willing to say “no” to customers who aren’t a good fit
   Get Organized
-- • Set up proper systems for tracking sales Keep all customer information in one place
+- Set up proper systems for tracking sales Keep all customer information in one place
 - Make sure everyone uses the same tools
 - Create basic rules and policies Start Measuring Things
 - Track how many leads turn into sales
@@ -1755,13 +1713,12 @@ Products and Customers Sales and Service Tech and Tools People and HR Money Matt
 
 ### Products & Customers
 
-- •
 - Your biggest headache is that you can’t fix everything customers complain about You have
   to pick the ONE thing that bothers customers the most and fix just that Your leads
   (potential customers) aren’t buying as quickly because they don’t know you as well
 - You need to start sending emails and creating content to build trust over time Sales and
   Service
-- • You’re wasting time talking to people who aren’t serious about buying You need to make a
+- You’re wasting time talking to people who aren’t serious about buying You need to make a
   list of what makes someone a “good” potential customer
 - New customers often feel lost when they start using your product/service
 - You need to create a proper way to welcome and guide new customers
@@ -1770,16 +1727,14 @@ Products and Customers Sales and Service Tech and Tools People and HR Money Matt
 
 - You probably bought too many different software tools thinking you’d use them all
 - Now you need to figure out which ones you actually need and cancel the rest
-- • You should try to extend free trials or get discounts on the tools you keep You need a
+- You should try to extend free trials or get discounts on the tools you keep You need a
   basic system to track your sales pipeline People and HR
-- •
-- • It’s hard to find good people to hire You need to learn how to write good job
+- It’s hard to find good people to hire You need to learn how to write good job
   descriptions and review resumes properly You’re probably not handling employee taxes
   correctly You need to get a payroll service to handle taxes and fees properly
 
 ### Customer Service
 
-- •
 - People are getting paid informally (which isn’t good) You need to set up proper payroll
   processing You need basic bookkeeping to track money coming in and going out
 - You need to manage invoices and payments properly
@@ -1791,10 +1746,9 @@ the business. Here’s what you need to do to graduate from Stage 3: Fix Your Bi
 First
 
 - Don’t try to fix everything at once
-- •
 - Find the #1 thing customers complain about Fix that one thing really well Then move on to
   the next biggest problem Get Your Money In Order
-- • Set up proper payroll for employees Start using basic accounting software
+- Set up proper payroll for employees Start using basic accounting software
 - Make sure you’re tracking all money coming in and going out
 - Have a system for managing bills and getting paid Help Your Team Help You
 - Write down how you do important tasks
@@ -1803,7 +1757,7 @@ First
 - Check their work to make sure it’s done right Make Your Customers Happy
 - Create a proper way to welcome new customers
 - Make sure they know how to use your product/service
-- • Help them get results quickly Keep in touch with them regularly
+- Help them get results quickly Keep in touch with them regularly
 
 ### The Bottom Line
 
@@ -1877,28 +1831,24 @@ Customers Tech and Data People and HR Money Matters
 ### Products & Sales
 
 - Customers have nothing else to buy from you after their first purchase
-- •
-- • You need to connect customer service with product development You need to make something
+- You need to connect customer service with product development You need to make something
   new to sell to existing customers Sales people are overpromising and causing refunds and
   bad reviews You need to create sales materials and record customer calls for training
   Marketing and Customers
 - Getting qualified leads is getting expensive
 - Your marketing needs to be more targeted
 - Customer support is inconsistent - different people give different answers
-- • You need a proper playbook for customer service You need a plan for moving customers to
+- You need a proper playbook for customer service You need a plan for moving customers to
   higher-level products Tech and Data
 - Employees are using their personal computers and software
 - When people leave, they take company information with them
-- •
 - You need company-owned computers and software You need a way to track leads and customers
   You need dashboards to show important numbers People and HR
-- •
 - It’s hard to find managers and higher-level employees You should promote good employees
   from within when possible You’re firing people incorrectly and could get in trouble You
   need proper termination policies You need ways to encourage employee referrals Money
   Matters
-- •
-- • You don’t know how much money you can reinvest in growth You need a real budget You need
+- You don’t know how much money you can reinvest in growth You need a real budget You need
   simple financial forecasting You need to track tax write-offs better
 
 ### What Success Looks Like at Stage
@@ -1915,10 +1865,9 @@ Here’s what you need to do: Create Your Second Product
 - Give employees company equipment
 - Set up proper systems Improve Customer Experience
 - Create consistent customer service
-- • Train everyone to give the same answers Record customer calls for training
+- Train everyone to give the same answers Record customer calls for training
 - Create a path for customers to buy more Fix the Money Side
 - Make a real budget
-- •
 - Track spending better Plan for future expenses Save money for growth
 
 ### The Bottom Line
@@ -1943,11 +1892,9 @@ things well.
 ### But It’S Worth It Because:
 
 - Making a second product is hard
-- •
 - You’re still fixing problems with the first product Everything needs to become more
   professional You need to spend money to grow
-- •
-- • You can sell more to existing customers You reduce risk by having multiple products You
+- You can sell more to existing customers You reduce risk by having multiple products You
   build a stronger, more valuable company You create paths for future growth
 
 ### Remember
@@ -1958,7 +1905,7 @@ The key to Stage 5 is balance. You need to keep your
 
 You need to stay profitable while investing in growth. You
 
-- • Price it well (usually higher than their first product) Keep the first product running
+- Price it well (usually higher than their first product) Keep the first product running
   smoothly while need to keep current customers happy while attracting developing the new
   one new ones.
 
@@ -1967,7 +1914,7 @@ to grow balance. The ones that succeed usually: even bigger.
 
 If you can master this balancing act, you’ll have
 
-- • Start small with their second product Test it with their best customers
+- Start small with their second product Test it with their best customers
 
 ### Do You Want To Scale To The Next Step?
 
@@ -2063,28 +2010,24 @@ Customers Tech and Data People and HR Money Matters
 ### Products & Sales
 
 - Customers have nothing else to buy from you after their first purchase
-- •
-- • You need to connect customer service with product development You need to make something
+- You need to connect customer service with product development You need to make something
   new to sell to existing customers Sales people are overpromising and causing refunds and
   bad reviews You need to create sales materials and record customer calls for training
   Marketing and Customers
 - Getting qualified leads is getting expensive
 - Your marketing needs to be more targeted
 - Customer support is inconsistent - different people give different answers
-- • You need a proper playbook for customer service You need a plan for moving customers to
+- You need a proper playbook for customer service You need a plan for moving customers to
   higher-level products Tech and Data
 - Employees are using their personal computers and software
 - When people leave, they take company information with them
-- •
 - You need company-owned computers and software You need a way to track leads and customers
   You need dashboards to show important numbers People and HR
-- •
 - It’s hard to find managers and higher-level employees You should promote good employees
   from within when possible You’re firing people incorrectly and could get in trouble You
   need proper termination policies You need ways to encourage employee referrals Money
   Matters
-- •
-- • You don’t know how much money you can reinvest in growth You need a real budget You need
+- You don’t know how much money you can reinvest in growth You need a real budget You need
   simple financial forecasting You need to track tax write-offs better
 
 ### What Success Looks Like at Stage
@@ -2101,10 +2044,9 @@ Here’s what you need to do: Create Your Second Product
 - Give employees company equipment
 - Set up proper systems Improve Customer Experience
 - Create consistent customer service
-- • Train everyone to give the same answers Record customer calls for training
+- Train everyone to give the same answers Record customer calls for training
 - Create a path for customers to buy more Fix the Money Side
 - Make a real budget
-- •
 - Track spending better Plan for future expenses Save money for growth
 
 ### The Bottom Line
@@ -2129,11 +2071,9 @@ things well.
 ### But It’S Worth It Because:
 
 - Making a second product is hard
-- •
 - You’re still fixing problems with the first product Everything needs to become more
   professional You need to spend money to grow
-- •
-- • You can sell more to existing customers You reduce risk by having multiple products You
+- You can sell more to existing customers You reduce risk by having multiple products You
   build a stronger, more valuable company You create paths for future growth
 
 ### Remember
@@ -2144,7 +2084,7 @@ The key to Stage 5 is balance. You need to keep your
 
 You need to stay profitable while investing in growth. You
 
-- • Price it well (usually higher than their first product) Keep the first product running
+- Price it well (usually higher than their first product) Keep the first product running
   smoothly while need to keep current customers happy while attracting developing the new
   one new ones.
 
@@ -2153,7 +2093,7 @@ to grow balance. The ones that succeed usually: even bigger.
 
 If you can master this balancing act, you’ll have
 
-- • Start small with their second product Test it with their best customers
+- Start small with their second product Test it with their best customers
 
 ### Do You Want To Scale To The Next Step?
 
@@ -2219,36 +2159,30 @@ and focus on them.
 
 ### Products & Customers
 
-- •
-- • You’ve said yes to anyone who would pay, and now your product is pulled in too many
+- You’ve said yes to anyone who would pay, and now your product is pulled in too many
   directions You need to choose a specific type of customer to focus on You need to update
   your product to serve just those ideal customers You might need to raise your prices to
   match your specialized service Marketing & Sales
-- •
-- • You’re getting too many unqualified leads (people who aren’t right for your business)
+- You’re getting too many unqualified leads (people who aren’t right for your business)
   You need to create better free content to attract the right people Your sales team isn’t
   following up with leads quickly enough You need to start tracking basic sales numbers like
   how many calls you make and how many people buy
 
 ### Customer Service
 
-- •
-- • You have no way to measure if customers are happy You need to start tracking customer
+- You have no way to measure if customers are happy You need to start tracking customer
   satisfaction Customer information is scattered everywhere You need a proper system (CRM)
   to keep track of customer notes and interactions Tech and Tools
-- •
-- • Your new team isn’t using all the tools properly You need to get everyone on the same
+- Your new team isn’t using all the tools properly You need to get everyone on the same
   platforms You need to protect passwords and data You need project management and team chat
   tools People and HR
-- •
-- • You’re wasting time interviewing people who aren’t right for the job You need to learn
+- You’re wasting time interviewing people who aren’t right for the job You need to learn
   how to interview properly and check references Employees don’t know basic rules about time
   off, dress code, etc.
 
 You need to create an employee handbook with basic policies Money Matters
 
-- •
-- • You keep getting surprised by “one-time” expenses You’re learning that running a
+- You keep getting surprised by “one-time” expenses You’re learning that running a
   business costs more than you thought You need proper profit and loss statements You need
   basic business insurance
 
@@ -2259,9 +2193,9 @@ to graduate from Stage 4: Choose Your Focus
 
 - Figure out who your best customers are
 - Change your product to serve them better
-- • Stop trying to please everyone Be willing to say “no” to customers who aren’t a good fit
+- Stop trying to please everyone Be willing to say “no” to customers who aren’t a good fit
   Get Organized
-- • Set up proper systems for tracking sales Keep all customer information in one place
+- Set up proper systems for tracking sales Keep all customer information in one place
 - Make sure everyone uses the same tools
 - Create basic rules and policies Start Measuring Things
 - Track how many leads turn into sales
@@ -2745,28 +2679,24 @@ Customers Tech and Data People and HR Money Matters
 ### Products & Sales
 
 - Customers have nothing else to buy from you after their first purchase
-- •
-- • You need to connect customer service with product development You need to make something
+- You need to connect customer service with product development You need to make something
   new to sell to existing customers Sales people are overpromising and causing refunds and
   bad reviews You need to create sales materials and record customer calls for training
   Marketing and Customers
 - Getting qualified leads is getting expensive
 - Your marketing needs to be more targeted
 - Customer support is inconsistent - different people give different answers
-- • You need a proper playbook for customer service You need a plan for moving customers to
+- You need a proper playbook for customer service You need a plan for moving customers to
   higher-level products Tech and Data
 - Employees are using their personal computers and software
 - When people leave, they take company information with them
-- •
 - You need company-owned computers and software You need a way to track leads and customers
   You need dashboards to show important numbers People and HR
-- •
 - It’s hard to find managers and higher-level employees You should promote good employees
   from within when possible You’re firing people incorrectly and could get in trouble You
   need proper termination policies You need ways to encourage employee referrals Money
   Matters
-- •
-- • You don’t know how much money you can reinvest in growth You need a real budget You need
+- You don’t know how much money you can reinvest in growth You need a real budget You need
   simple financial forecasting You need to track tax write-offs better
 
 ### What Success Looks Like at Stage
@@ -2783,10 +2713,9 @@ Here’s what you need to do: Create Your Second Product
 - Give employees company equipment
 - Set up proper systems Improve Customer Experience
 - Create consistent customer service
-- • Train everyone to give the same answers Record customer calls for training
+- Train everyone to give the same answers Record customer calls for training
 - Create a path for customers to buy more Fix the Money Side
 - Make a real budget
-- •
 - Track spending better Plan for future expenses Save money for growth
 
 ### The Bottom Line
@@ -2811,11 +2740,9 @@ things well.
 ### But It’S Worth It Because:
 
 - Making a second product is hard
-- •
 - You’re still fixing problems with the first product Everything needs to become more
   professional You need to spend money to grow
-- •
-- • You can sell more to existing customers You reduce risk by having multiple products You
+- You can sell more to existing customers You reduce risk by having multiple products You
   build a stronger, more valuable company You create paths for future growth
 
 ### Remember
@@ -2826,7 +2753,7 @@ The key to Stage 5 is balance. You need to keep your
 
 You need to stay profitable while investing in growth. You
 
-- • Price it well (usually higher than their first product) Keep the first product running
+- Price it well (usually higher than their first product) Keep the first product running
   smoothly while need to keep current customers happy while attracting developing the new
   one new ones.
 
@@ -2835,7 +2762,7 @@ to grow balance. The ones that succeed usually: even bigger.
 
 If you can master this balancing act, you’ll have
 
-- • Start small with their second product Test it with their best customers
+- Start small with their second product Test it with their best customers
 
 ### What's Coming Next
 
@@ -3377,7 +3304,6 @@ more expensive to get customers. It’s like shouting in a crowded room - nobody
 attention anymore because there’s too much noise. The fix is to focus on building your brand
 (like Nike or Apple) instead of just selling products. This means:
 
-- •
 - Creating a clear, simple message about who you are Giving away valuable free stuff to
   build trust Getting associated with other trusted brands or people Sales Problems Your
   best salespeople aren’t closing as many deals as they used to. The fix is to send your
@@ -3399,8 +3325,7 @@ help but there’s no system for handling requests. It’s like having one handy
 fix everyone’s problems in a big apartment building with no way to organize who needs what.
 The fix is to:
 
-- •
-- • Get specialized software for each department Create a system for making IT requests Hire
+- Get specialized software for each department Create a system for making IT requests Hire
   more IT people if needed Create clear rules about what IT will and won’t do
 
 ### Recruiting Problems
@@ -3413,14 +3338,12 @@ the founder do a final check on important hires to make sure they’re right for
 HR Problems With so many employees, performance is suffering and people are starting to
 complain more. The fix is to:
 
-- •
-- • Get software to help train groups of new employees Create clear systems for managing
+- Get software to help train groups of new employees Create clear systems for managing
   performance Get insurance to protect against lawsuits Keep reinforcing what your company
   believes in Money Problems You’re paying full price for everything and not making any
   money on your spare cash. It’s like paying retail prices at stores when you could be
   getting wholesale discounts. The solution is to:
-- •
-- • Renegotiate prices with everyone who sells to you Put extra cash in accounts that earn
+- Renegotiate prices with everyone who sells to you Put extra cash in accounts that earn
   interest Get specialists to handle different money tasks (especially taxes) Do regular
   internal audits to make sure no money is being wasted
 
@@ -3437,7 +3360,7 @@ your business: trades” doesn’t work anymore. You need specialists—
 - Some tech people should only handle certain types of software And you want that heart
   specialist to focus only
 - Some finance people should only handle
-- • on hearts, not try to do everything certain types of money tasks
+- on hearts, not try to do everything certain types of money tasks
 
 ### The Bottom Line
 
@@ -3569,7 +3492,6 @@ more expensive to get customers. It’s like shouting in a crowded room - nobody
 attention anymore because there’s too much noise. The fix is to focus on building your brand
 (like Nike or Apple) instead of just selling products. This means:
 
-- •
 - Creating a clear, simple message about who you are Giving away valuable free stuff to
   build trust Getting associated with other trusted brands or people Sales Problems Your
   best salespeople aren’t closing as many deals as they used to. The fix is to send your
@@ -3591,8 +3513,7 @@ help but there’s no system for handling requests. It’s like having one handy
 fix everyone’s problems in a big apartment building with no way to organize who needs what.
 The fix is to:
 
-- •
-- • Get specialized software for each department Create a system for making IT requests Hire
+- Get specialized software for each department Create a system for making IT requests Hire
   more IT people if needed Create clear rules about what IT will and won’t do
 
 ### Recruiting Problems
@@ -3605,14 +3526,12 @@ the founder do a final check on important hires to make sure they’re right for
 HR Problems With so many employees, performance is suffering and people are starting to
 complain more. The fix is to:
 
-- •
-- • Get software to help train groups of new employees Create clear systems for managing
+- Get software to help train groups of new employees Create clear systems for managing
   performance Get insurance to protect against lawsuits Keep reinforcing what your company
   believes in Money Problems You’re paying full price for everything and not making any
   money on your spare cash. It’s like paying retail prices at stores when you could be
   getting wholesale discounts. The solution is to:
-- •
-- • Renegotiate prices with everyone who sells to you Put extra cash in accounts that earn
+- Renegotiate prices with everyone who sells to you Put extra cash in accounts that earn
   interest Get specialists to handle different money tasks (especially taxes) Do regular
   internal audits to make sure no money is being wasted
 
@@ -3629,7 +3548,7 @@ your business: trades” doesn’t work anymore. You need specialists—
 - Some tech people should only handle certain types of software And you want that heart
   specialist to focus only
 - Some finance people should only handle
-- • on hearts, not try to do everything certain types of money tasks
+- on hearts, not try to do everything certain types of money tasks
 
 ### The Bottom Line
 
@@ -3844,7 +3763,7 @@ change them, but you need new products to keep growing. It’s like having a res
 famous dish—changing it would upset regular customers, but you need new dishes to attract
 new customers. The solution is to either:
 
-- • Buy another company (M&A - Mergers & Acquisitions) Build something totally new (R&D -
+- Buy another company (M&A - Mergers & Acquisitions) Build something totally new (R&D -
   Research & Development) Either way, this is a big bet that will take at least a year to
   pay off.
 
@@ -3852,15 +3771,13 @@ Marketing Problems Two big problems are happening: 1) You can’t tell which mar
 working anymore—it’s like not knowing which fishing spot is giving you the most fish & 2)
 You have to be more careful about following rules and regulations. The fix is to:
 
-- •
-- • Focus on building your brand first, then selling Use multiple channels to reach
+- Focus on building your brand first, then selling Use multiple channels to reach
   customers Look at how all your marketing works together, not separately Create a process
   to make sure all marketing follows the rules Sales Problems Your salespeople are
   overwhelmed because there are too many different types of leads and products. Imagine
   having one waiter try to serve tables in five different restaurants—it doesn’t work. The
   solution is to:
-- •
-- • Have different salespeople specialize in different products Have different salespeople
+- Have different salespeople specialize in different products Have different salespeople
   for different types of customers Use different sales processes for different situations
   Sort leads by product or location
 
@@ -3869,11 +3786,9 @@ You have to be more careful about following rules and regulations. The fix is to
 Support for your newer products is breaking down because there’s too much volume. It’s like
 having a phone system that can’t handle all the incoming calls. The fix is to:
 
-- •
 - Have specialized customer service reps for different products Make training shorter and
   more focused Make the whole process more efficient Tech Problems Your old tech systems
   can’t handle the load anymore, and departments want specialized solutions. The fix is to:
-- •
 - Hire specialized tech people for different functions Update and separate your tech systems
   Maybe get new enterprise-level software (the big, expensive kind)
 
@@ -3882,17 +3797,14 @@ having a phone system that can’t handle all the incoming calls. The fix is to:
 The best people don’t respond to normal job postings anymore—they only want to talk to the
 founder/CEO. The solution is to have the founder:
 
-- •
 - Directly recruit the highest-level positions Sell them on the company’s vision and growth
   Be patient (this can take 6+ months) HR Problems Employee turnover is increasing, and you
   don’t have the right people to grow. Think of it like a sports team that keeps losing good
   players and can’t find replacements. The fix is strategic workforce planning:
-- •
 - Plan your organization’s structure Plan for people leaving Fill skill gaps Have backups
   for important roles Turn generalists into specialists Money Problems Your financial
   records aren’t good enough to convince others to give you money for big investments. The
   solution is to:
-- •
 - Get your books audited Talk to investment bankers Set up your company’s money structure
   properly Protect against big risks Maybe raise money for buying companies or growing
   faster
@@ -3918,10 +3830,9 @@ Everything is getting more complex
 - More types of customers
 - More departments to run
 - More rules to follow You need bigger solutions
-- •
-- • Enterprise-level software Specialized departments Professional management Better
+- Enterprise-level software Specialized departments Professional management Better
   financial systems You need to think bigger
-- • Long-term planning Big investments
+- Long-term planning Big investments
 - Major acquisitions
 - New markets
 
@@ -4071,7 +3982,7 @@ change them, but you need new products to keep growing. It’s like having a res
 famous dish—changing it would upset regular customers, but you need new dishes to attract
 new customers. The solution is to either:
 
-- • Buy another company (M&A - Mergers & Acquisitions) Build something totally new (R&D -
+- Buy another company (M&A - Mergers & Acquisitions) Build something totally new (R&D -
   Research & Development) Either way, this is a big bet that will take at least a year to
   pay off.
 
@@ -4079,15 +3990,13 @@ Marketing Problems Two big problems are happening: 1) You can’t tell which mar
 working anymore—it’s like not knowing which fishing spot is giving you the most fish & 2)
 You have to be more careful about following rules and regulations. The fix is to:
 
-- •
-- • Focus on building your brand first, then selling Use multiple channels to reach
+- Focus on building your brand first, then selling Use multiple channels to reach
   customers Look at how all your marketing works together, not separately Create a process
   to make sure all marketing follows the rules Sales Problems Your salespeople are
   overwhelmed because there are too many different types of leads and products. Imagine
   having one waiter try to serve tables in five different restaurants—it doesn’t work. The
   solution is to:
-- •
-- • Have different salespeople specialize in different products Have different salespeople
+- Have different salespeople specialize in different products Have different salespeople
   for different types of customers Use different sales processes for different situations
   Sort leads by product or location
 
@@ -4096,11 +4005,9 @@ You have to be more careful about following rules and regulations. The fix is to
 Support for your newer products is breaking down because there’s too much volume. It’s like
 having a phone system that can’t handle all the incoming calls. The fix is to:
 
-- •
 - Have specialized customer service reps for different products Make training shorter and
   more focused Make the whole process more efficient Tech Problems Your old tech systems
   can’t handle the load anymore, and departments want specialized solutions. The fix is to:
-- •
 - Hire specialized tech people for different functions Update and separate your tech systems
   Maybe get new enterprise-level software (the big, expensive kind)
 
@@ -4109,17 +4016,14 @@ having a phone system that can’t handle all the incoming calls. The fix is to:
 The best people don’t respond to normal job postings anymore—they only want to talk to the
 founder/CEO. The solution is to have the founder:
 
-- •
 - Directly recruit the highest-level positions Sell them on the company’s vision and growth
   Be patient (this can take 6+ months) HR Problems Employee turnover is increasing, and you
   don’t have the right people to grow. Think of it like a sports team that keeps losing good
   players and can’t find replacements. The fix is strategic workforce planning:
-- •
 - Plan your organization’s structure Plan for people leaving Fill skill gaps Have backups
   for important roles Turn generalists into specialists Money Problems Your financial
   records aren’t good enough to convince others to give you money for big investments. The
   solution is to:
-- •
 - Get your books audited Talk to investment bankers Set up your company’s money structure
   properly Protect against big risks Maybe raise money for buying companies or growing
   faster
@@ -4145,10 +4049,9 @@ Everything is getting more complex
 - More types of customers
 - More departments to run
 - More rules to follow You need bigger solutions
-- •
-- • Enterprise-level software Specialized departments Professional management Better
+- Enterprise-level software Specialized departments Professional management Better
   financial systems You need to think bigger
-- • Long-term planning Big investments
+- Long-term planning Big investments
 - Major acquisitions
 - New markets
 
@@ -4271,7 +4174,6 @@ more expensive to get customers. It’s like shouting in a crowded room - nobody
 attention anymore because there’s too much noise. The fix is to focus on building your brand
 (like Nike or Apple) instead of just selling products. This means:
 
-- •
 - Creating a clear, simple message about who you are Giving away valuable free stuff to
   build trust Getting associated with other trusted brands or people Sales Problems Your
   best salespeople aren’t closing as many deals as they used to. The fix is to send your
@@ -4293,8 +4195,7 @@ help but there’s no system for handling requests. It’s like having one handy
 fix everyone’s problems in a big apartment building with no way to organize who needs what.
 The fix is to:
 
-- •
-- • Get specialized software for each department Create a system for making IT requests Hire
+- Get specialized software for each department Create a system for making IT requests Hire
   more IT people if needed Create clear rules about what IT will and won’t do
 
 ### Recruiting Problems
@@ -4307,14 +4208,12 @@ the founder do a final check on important hires to make sure they’re right for
 HR Problems With so many employees, performance is suffering and people are starting to
 complain more. The fix is to:
 
-- •
-- • Get software to help train groups of new employees Create clear systems for managing
+- Get software to help train groups of new employees Create clear systems for managing
   performance Get insurance to protect against lawsuits Keep reinforcing what your company
   believes in Money Problems You’re paying full price for everything and not making any
   money on your spare cash. It’s like paying retail prices at stores when you could be
   getting wholesale discounts. The solution is to:
-- •
-- • Renegotiate prices with everyone who sells to you Put extra cash in accounts that earn
+- Renegotiate prices with everyone who sells to you Put extra cash in accounts that earn
   interest Get specialists to handle different money tasks (especially taxes) Do regular
   internal audits to make sure no money is being wasted
 
@@ -4331,7 +4230,7 @@ your business: trades” doesn’t work anymore. You need specialists—
 - Some tech people should only handle certain types of software And you want that heart
   specialist to focus only
 - Some finance people should only handle
-- • on hearts, not try to do everything certain types of money tasks
+- on hearts, not try to do everything certain types of money tasks
 
 ### The Bottom Line
 
