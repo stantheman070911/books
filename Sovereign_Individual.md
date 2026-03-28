@@ -2,7 +2,7 @@
 
 by James Dale Davidson & Lord William Rees-Mogg Simon & Schuster 1997
 
-# CHAPTER 1 THE TRANSITION IN THE YEAR 2000
+## CHAPTER 1 THE TRANSITION IN THE YEAR 2000
 
 "It feels like something big is about to happen: graphs show us the yearly growth of
 populations, atmospheric concentrations of carbon dioxide, Web addresses, and Mbytes per
@@ -38,7 +38,7 @@ Greek. We believe that a new stage in history-the age of the Sovereign Individua
 to be "unveiled." "Violence shall no more be heard in thy land, wasting nor destruction
 within thy borders." ISAIAH 60:18
 
-## The Fourth Stage Of Human Society
+### The Fourth Stage Of Human Society
 
 The theme of this book is the new revolution of power which is liberating individuals at the
 expense of the twentiethcentury nationstate. Innovations that alter the logic of violence in
@@ -135,7 +135,7 @@ societies take shape they will be as different from industrial societies as the 
 Aeschylus was from the world of the cave dwellers. to preserve many contemporary
 institutions impossible in
 
-## Prometheus Unbound: The Rise Of The Sovereign
+### Prometheus Unbound: The Rise Of The Sovereign
 
 INDIVIDUAL The coming transformation is both good news and bad. The good news is that the
 Information Revolution will liberate individuals as never before. For the first time, those
@@ -248,7 +248,7 @@ anywhere, governments that attempt to charge too much as the price of domicile w
 drive away their best customers. If our reasoning is correct, and we believe it is, the
 nationstate as we know it will not survive in anything like its present form.
 
-## The End Of Nations
+### The End Of Nations
 
 Changes that diminish the power of predominant institutions are both unsettling and
 dangerous. Just as monarchs, lords, popes, and potentates fought ruthlessly to preserve
@@ -298,6 +298,7 @@ be organized more and more outside of central control. Efforts to contain violen
 devolve in ways that depend more upon efficiency than magnitude of power.
 
 * Nomenklatunas are the entrenched elites that ruled the former Soviet Union and other
+
 state-run economies.
 
 History in Reverse The process by which the nationstate grew over the past five centuries
@@ -335,7 +336,7 @@ essentially be offshore funds at the discretion of their owner. This will have c
 consequences. The state has grown used to treating its taxpayers as a farmer treats his
 cows, keeping them in a field to be milked. Soon, the cows will have wings.
 
-## The Revenge of Nations
+### The Revenge of Nations
 
 Like an angry farmer, the state will no doubt take desperate measures at first to tether and
 hobble its escaping herd. It will employ covert and even violent means to restrict access to
@@ -372,7 +373,7 @@ the late, departed Soviet Union tried in vain to suppress access to personal com
 Xerox machines, western governments will seek to suppress the cybereconomy by totalitarian
 means.
 
-## Return Of The Luddites
+### Return Of The Luddites
 
 Such methods may prove popular among some population segments. The good news about
 individual liberation and autonomy will seem to be bad news to many who are not among the
@@ -505,7 +506,7 @@ The Don Quixote of the twenty-first century will not be a knight-errant struggli
 the glories of feudalism but a bureaucrat in a brown suit, a tax collector yearning for a
 citizen to audit.
 
-## Reviving Laws Of The March
+### Reviving Laws Of The March
 
 We seldom think of governments as competitive entities, except in the broadest sense, so the
 modern intuition about the range and possibilities of sovereignty has atrophied. In the
@@ -760,7 +761,7 @@ surprisingly little serious attention. Most political analysts and economists wr
 violence were a minor irritant, like a fly buzzing around a cake, and not the chef who baked
 it.
 
-## Another Megapolitical Pioneer
+### Another Megapolitical Pioneer
 
 In fact, there has been so little clear thinking about the role of violence in history that
 a bibliography of megapolitical analysis could be written on a single sheet of paper.
@@ -799,7 +800,7 @@ probably lavished one hundred times more attention on 0. J. Simpson than he has 
 microtechnologies that are poised to antiquate his job and subvert the political system he
 depends on for unemployment compensation.
 
-## The Vanity Of Wishes
+### The Vanity Of Wishes
 
 The tendency to overlook what is fundamentally important is not confined solely to the couch
 dweller watching television. Conventional thinkers of all shapes and sizes observe one of
@@ -1115,17 +1116,17 @@ new stage in Western civilization in the coming millennium.
 
 * Adam Smith died in 1790, Karl Marx in 1883.
 
-# CHAPTER 2
+## CHAPTER 2
 
 Metapolitical Transformations In
 
-## Historical Perspective
+### Historical Perspective
 
 "In history as in nature, birth and death are equally balanced"
 
 -Johan Huizinga3
 
-## The Waning Of The Modern World
+### The Waning Of The Modern World
 
 In our view, you are witnessing nothing less than the waning of the Modern Age.
 
@@ -1476,7 +1477,7 @@ mechanically as economists imagine, but they do respond. Costs and rewards matte
 in external conditions that raise the rewards or lower the costs of certain behavior will
 lead to more of that behavior, other things being equal.
 
-## Incentives Matter
+### Incentives Matter
 
 The fact that people tend to respond to costs and rewards is an essential element of
 forecasting. You can say with a high degree of confidence that if you drop a hundred-dollar
@@ -1601,7 +1602,7 @@ They also help inform the market distribution of income. As economic historian F
 so clearly put it, how violence is organized and controlled plays a large role in
 determining "what uses are made of scarce resources.
 
-## A Crash Course In Megapolitics
+### A Crash Course In Megapolitics
 
 The concept of megapolitics is a powerful one. It helps illuminate some of the major
 mysteries of history: how governments rise and fall and what types of institutions they
@@ -1840,7 +1841,7 @@ power of empires. Other things being equal, the more widely dispersed key techno
 the more 40 widely dispersed power will tend to be, and the smaller the optimum scale of
 government.
 
-## The Speed Of Megapolitical Change
+### The Speed Of Megapolitical Change
 
 While technology is by far the most important factor today, and apparently growing more so,
 all four major megapolitical factors have played a role in determining the scale at which
@@ -1957,9 +1958,9 @@ continues to side with humanity, technology will continue to grow in prominence 
 leading megapolitical variable. It was not the first great megapolitical always such,
 however, as a review of transformation, the Agricultural Revolution, clearly shows.
 
-# CHAPTER 3
+## CHAPTER 3
 
-## East Of Eden
+### East Of Eden
 
 The Agricultural Revolution and the Sophistication of Violence 'And the Lord said unto Cain,
 Where is Abel, thy brother? And he said, I know not: Am I my brothers' keeper? And he said,
@@ -2710,7 +2711,7 @@ feudalism, the Church contributed significantly to improving the productivity of
 economy. It was an essential institution, well fitted to the needs of agrarian society at
 the close of the Dark Ages.
 
-## Vulnerability to Violence
+### Vulnerability to Violence
 
 In "thirty or forty years of violent disturbances, the feudal revolution of the year 1000,"
 40 like the fall of Rome five centuries earlier, was a unique event, caused by a complex
@@ -2729,7 +2730,7 @@ the innovations of the agricultural revolution. The expulsion from the Garden of
 seen as a figurative account of the transformation of society from foraging to farming, from
 a free life with food picked from nature's bounty with little work to a life of hard labor.
 
-## Paradise Lost
+### Paradise Lost
 
 Farming set humanity on an entirely new course. The first farmers truly planted the seeds of
 civilization. From their toil came cities, armies, arithmetic, astronomy, dungeons, wine and
@@ -2769,9 +2770,9 @@ William Rees-
 
 Mogg Simon & Schuster 1997
 
-# CHAPTER 4
+## CHAPTER 4
 
-## The Last Days Of Politics
+### The Last Days Of Politics
 
 Parallels Between the Senile Decline of the Holy Mother Church and the Nanny State "I also
 believe-and hope-that politics and economics will cease to be as important in the future as
@@ -2858,7 +2859,7 @@ the temporal, had exhausted its possibilities.
 Its end was inevitable long before Luther nailed his 95 theses on the church door at
 Wittenberg.
 
-## A Secular Reformation
+### A Secular Reformation
 
 We believe that the reaction against saturation politics is following a similar path.
 
@@ -2917,7 +2918,7 @@ that they must compete like corporations for income, charging no more for their 
 than they are worth to the people who pay for them. The full implications of this change are
 all but unimaginable.
 
-## Then And Now
+### Then And Now
 
 Something similar might have been said five hundred years ago, at the turn of the fifteenth
 century. Then as now, Western civilization stood at the threshold of a momentous
@@ -3049,7 +3050,7 @@ very survival of individuals depended upon the willingness of others to fulfill 
 promises of military service under conditions of duress. It was obviously crucial that those
 promises be dependable.
 
-## Before Nationality
+### Before Nationality
 
 Unlike today, the concept of nationality played little or no role in establishing
 sovereignty in the Middle Ages. Monarchs, as well as some princes of the Church and powerful
@@ -3262,9 +3263,9 @@ used to separate medieval from modern history, serves as well as any other divid
 for in the perspective of world history, Columbus' voyage symbolizes the beginning of a new
 relationship' between Western Europe and the rest of the world."27
 
-## Frederic C. Lane
+### Frederic C. Lane
 
-## The Birth Of The Industrial Age
+### The Birth Of The Industrial Age
 
 Many of the keenest minds of the fifteenth century totally missed one of the more important
 developments in history, one that began under their eyes. The eclipse of feudalism marked
@@ -3385,7 +3386,7 @@ suited illiteracy. Ideas conveyed by symbols in wood-cuts were accessible to an 
 population. By contrast, the advent of printing in the modern period led to the development
 of causal connections, employing the scientific method, for a literate population.
 
-## A Parallel For Today
+### A Parallel For Today
 
 Medieval society, seemingly so stable and secure in its beliefs in the middle of the
 fifteenth century, was rapidly transformed. Its predominant institution, the Church, saw its
@@ -3447,7 +3448,7 @@ They were obliged to shoulder a disproportionate cost of outfitting the tables a
 endless feasts and holy days (holidays), as well as paying to support an extravagant Church
 bureaucracy.
 
-## Counterproductive Regulation
+### Counterproductive Regulation
 
 At the end of the fifteenth century, the Church largely controlled the regulatory powers
 that have since been assumed by governments. The Church dominated important areas of law,
@@ -3576,7 +3577,7 @@ Besides they give a Priest (t amend his fee) the pryfit (of a whore, or two or t
 
 Methinkes it must he a had Divintie that with the Stewes hath such affinitie.44
 
-## Fifteenth-Century English Ballad
+### Fifteenth-Century English Ballad
 
 Hatred of Church Leaders Little wonder that the common opinion of the late fifteenth century
 despised the higher and lower clergy, much as common opinion in highly politicized societies
@@ -3617,7 +3618,7 @@ out of the Tiber River on June 15, l497.
 The leadership of the late-medieval Church was as corrupt as the leadership of the
 nationstate today. "Today I have twice become a father Gods' blessing on it."50
 
-## Rodolph Acricola,
+### Rodolph Acricola,
 
 on hearing that his concubine had given birth to a son on the day he was elected abbot.
 
@@ -3649,7 +3650,7 @@ festivals, even Christmas night," were spent "in debauchery, playing at cards, s
 and blaspheming." When 'admonished for these lapses, the common people "plead the example of
 the nobility and the clergy, who behave in like manner with impunity."53
 
-## Piety and Compassion
+### Piety and Compassion
 
 The piety that rationalized the saturation of society by organized religion in the late
 Middle Ages served the same purpose as the "compassion" that is meant to justify the
@@ -3679,7 +3680,7 @@ When St. Elizabeth of Hungary was lying in state, "a crowd of worshippers came a
 tore strips of the linen enveloping her face; they cut off the hair, the nails, even the
 nipples." 57
 
-## Piety Without Virtue
+### Piety Without Virtue
 
 The medieval mind saw the saints and their relics as part of the arsenal of faith in a world
 that was colder in winter, darker at night, and more desperate in the face of disease than
@@ -3698,7 +3699,7 @@ sincerity necessarily began to flag. As Huizinga put it, "Religion penetrating a
 in life means a constant blending of the spheres of holy and of profane thought. Holy things
 will become too common to be deeply felt."59 And so it was.
 
-## Downsizing The Church
+### Downsizing The Church
 
 By the end of the fifteenth century, the Church was not only as corrupt as the nationstate
 today; it was also a major drag on economic growth. The Church engrossed large amounts of
@@ -3941,15 +3942,15 @@ politicians and bureaucrats, in a society that places politics at the center of 
 The end of the fifteenth century was a time of disillusion, confusion, pessimism, and
 despair. A time much like now.
 
-# Chapter 5
+## Chapter 5
 
-## The Life And Health Of The Nationstate
+### The Life And Health Of The Nationstate
 
 Democracy and Nationalism as Resource Strategies in the Age of Violence "Most important of
 all, success in war depends on having enough money to provide whatever the enterprise
 needs." 1 ROBERT DE BALSAC, 1502
 
-## The Rubble Of History
+### The Rubble Of History
 
 On November 9 and 10, 1989, television broadcast to the world scenes of exuberant East
 Berliners dismantling the Berlin Wall with sledgehammers.
@@ -4075,7 +4076,7 @@ This requires that the taxes imposed upon the most productive citizens of the cu
 countries be priced at supermonopoly rates, hundreds or even thousands of times higher than
 the actual cost of the services that governments provide in return.
 
-## The Life And Death Of The Nationstate
+### The Life And Death Of The Nationstate
 
 The fall of the Berlin Wall was not just a visible symbol of the death of Communism. It was
 a defeat for the entire world system of nationstates and a triumph of efficiency and
@@ -4154,7 +4155,7 @@ other systems of sovereignty dwindle to insignificance while the great struggle 
 power at the end of the Industrial Age saw mass democracies lined up against state socialist
 systems?
 
-## Unimpeded Control
+### Unimpeded Control
 
 If our theory of megapolitics is correct, the answer is easy. It is rather like asking why
 sumo wrestlers tend to be fat. The answer is that a lean sumo wrestler, however impressive
@@ -4208,7 +4209,7 @@ seeing that a fraternal twin has died of old age. The same megapolitical revolut
 killed Communism is also likely to undermine and destroy democratic welfare states as we
 have known them in the twentieth century.
 
-## Who Controls Government?
+### Who Controls Government?
 
 The key to this unorthodox conclusion lies in recognizing where the control of democratic
 government is lodged. It is an issue that is not as simple as it may seem. In the modern
@@ -4576,7 +4577,9 @@ larger army.
 Against ordinary individuals, who were not in a position to act in concert with millions of
 other ordinary individuals, the central authorities were to prove irresistibly powerful
 everywhere. But the king of Poland lacked the option of directly taxing his citizens in
+
 1760. He had to deal through the lords, wealthy merchants, and other notables, who were a
+
 small, cohesive group. They could and did act in concert to keep the king from commandeering
 their resources without their consent. Given that the Polish nobility had far more troops
 than he did, the king was in no position to insist.
@@ -4876,7 +4879,7 @@ legislature more as an obstacle to their wellbeing than as an expression of thei
 
 In 1994, real economic growth in Peru reached 12.9 percent, the highest on the planet.
 
-## Deflation of Political Promises
+### Deflation of Political Promises
 
 We saw Peru's turmoil less as a throwback to the dictatorships of the past than as an early
 installment of a broader transition crisis. You can expect to see crises of misgovernment in
@@ -4907,9 +4910,9 @@ centuries. If our analysis is correct, the organization of society is bound to c
 reflect growing diseconomies of scale in the employment of violence. The boundaries within
 which the future must lie have been redrawn.
 
-# CHAPTER 6
+## CHAPTER 6
 
-## The Megapolitics Of The Information
+### The Megapolitics Of The Information
 
 AGE The Triumph of Efficiency over Power "...it is computerized information, not manpower or
 mass production that increasingly drives the US. economy and that will win wars in a world
@@ -5092,7 +5095,7 @@ have more free time for storytelling than even those guys over at the lake who c
 fish." As right as he was about the importance of complexity, Pagels overlooked the most
 basic fact of all. When the logic of violence changes, society changes.
 
-## The Logic Of Violence
+### The Logic Of Violence
 
 To see how and why, it is necessary to focus on several facets of megapolitics that are
 seldom brought to your attention. These are issues that were explored by historian Frederic
@@ -5176,7 +5179,7 @@ even before they exist.
 
 They will make for a far different world.
 
-## Exploitation Of The Capitalists By The Workers
+### Exploitation Of The Capitalists By The Workers
 
 The character of technology through most of the twentieth century made the forcible seizure
 of a factory, or a sit-down strike, a hard tactic for owners or managers to 116 counter. As
@@ -5230,7 +5233,7 @@ rationalization and make-believe that disguises the true megapolitical foundatio
 systematic extortion. If you take the rationalizations at face value, you are unlikely to
 grasp what is really going on.
 
-## Deciphering The Logic Of Extortion
+### Deciphering The Logic Of Extortion
 
 To recognize the megapolitical implications of the current shift to the Information Age, you
 have to strip away the cant and focus on the real logic of violence in society.
@@ -5253,7 +5256,7 @@ ability of workers to coerce their employers into paying above-market wages depe
 the same megapolitical conditions that allowed governments to extract 40 percent or more of
 the economy's output in taxes.
 
-## Workplace Extortion Before the Twentieth Century
+### Workplace Extortion Before the Twentieth Century
 
 The rise and fall of union extortion of the capitalists can be readily explained by the
 changing megapolitics of the production process. In 1776, when Adam Smith published The
@@ -5778,7 +5781,7 @@ all in awe, they are in that condition which is called war: and such a war as is
 man, against every man wherein men live without other security than what their own strength
 and their own inventions shall furnish them withal" THOMAS HOBBES
 
-## Monopoly and Anarchy
+### Monopoly and Anarchy
 
 This is why anarchy, or "the war of all against all," as Hobbes described it, has seldom
 been a satisfactory state of affairs. Local competition in the use of violence has usually
@@ -5903,9 +5906,9 @@ other; they are two sides of the same monopoly. If one disappears the other auto
 follows; the monopoly rule may sometimes be shaken more strongly on one side than on the
 other" 3
 
-## Norbert Blias
+### Norbert Blias
 
-## The Evolution Of Protection
+### The Evolution Of Protection
 
 Lane developed an argument that we have misappropriated for our purposes in imagining how
 the Information Age may unfold. He argued that the history of Western economies since the
@@ -5981,7 +5984,7 @@ governments."40 Since successful merchants are more likely to reinvest their pro
 consume them, the higher profits of merchants in that stage in history led to
 self-reinforcing growth.
 
-## The Factory Age
+### The Factory Age
 
 Lane identifies the passage from the third to the fourth stage with the emergence of
 technological and industrial innovations as more important factors in earning profits than
@@ -6112,7 +6115,7 @@ For the same reasons that Lane noted in observing that no government has ever be
 monopolize violence on the sea, it is even less likely that a government could successfully
 monopolize an infinite realm without physical boundaries.
 
-## Competition Without Anarchy
+### Competition Without Anarchy
 
 In the past, when conditions made it difficult for any single violence-wielding entity to
 establish a monopoly, the results were anarchy and plunder. The Information Age, however,
@@ -6300,11 +6303,11 @@ functioning of a cybereconomy will depend. “Modern armies are so dependent on 
 that it is possible to blind and deafen them in order to achieve victory without fighting in
 the conventional sense."4
 
-## Col. Alan Campen,
+### Col. Alan Campen,
 
 U.S.A.F (Ret.)
 
-## Superpowers Of Virtual Warfare
+### Superpowers Of Virtual Warfare
 
 The assumptions of the nationstate at war will make less and less megapolitical sense as the
 importance of information in warfare increases. Because it has no physical existence,
@@ -6425,11 +6428,11 @@ done before. "The Sovereign Individual"
 
 by James Dale Davidson & Lord William Rees-Mogg Simon & Schuster 1997
 
-# Chapter 7
+## Chapter 7
 
-## Transcending Locality
+### Transcending Locality
 
-## The Emergence of the Cybereconomy
+### The Emergence of the Cybereconomy
 
 "The real issue is control. The Internet is too widespread to be easily dominated by any
 single government. By creating a seamless global-economic zone, antisovereign and
@@ -6463,7 +6466,7 @@ organization of the world. "It is today possible, to a greater extent than at an
 the worlds' history, for a company to locate anywhere, to use resources from anywhere to
 produce a product that can be sold anywhere." MILTON FRIEDMAN
 
-## The Tyranny Of Place
+### The Tyranny Of Place
 
 The fact that the fading industrial era's first stab at conceiving the information economy
 is to think of it in terms of a gigantic public works project tells you how grounded our
@@ -6578,7 +6581,7 @@ conclusion."6 ARTHUR C.
 
 CLARKE
 
-## The Error Of Minimal Expectations
+### The Error Of Minimal Expectations
 
 The geographic tether on imagination is still so tight that some experts examining the
 Internet in 1995 have concluded that it has little commercial potential and almost no
@@ -6627,7 +6630,7 @@ tyranny of place. The new technology creates for the first time an infinite, non
 realm for economic activity. It opens an option to explore the new frontiers of the
 cybereconomy, to "think globally and act globally." This chapter explains why.
 
-## Beyond Locality
+### Beyond Locality
 
 The processing and use of information is rapidly replacing and modifying physical products
 as the most important source of profit. This has major consequences.
@@ -6678,7 +6681,7 @@ devolve, The structure of firms will change, and so will the nature of work and 
 This outline of the stages of the Information Revolution is only the barest sketch of what
 could be the most far-reaching economic transformation event.
 
-## The Globalization Of Commerce
+### The Globalization Of Commerce
 
 In the Information Age, most current jurisdictional advantages will be eroded rapidly by
 technology. New types of advantages will emerge. Falling communications costs have already
@@ -6719,7 +6722,7 @@ Simultaneous with the service, vendors will be able to debit accounts loaded on 
 computers in much the way that France Telecom debits the "smart cards" employed in Paris
 phone boxes.
 
-## The Phone Becomes a Bank
+### The Phone Becomes a Bank
 
 The difference is that in the near future, you will be able to earn credits to your account
 with all manner of transactions and carry your phone box with you.
@@ -6808,7 +6811,7 @@ Argentina, and Liechtenstein. If any of the jurisdictions attempt to withdraw 15
 authority or seize the assets of depositors, the assets will automatically be transferred to
 another jurisdiction at the speed of light.
 
-## Qualitative Advances
+### Qualitative Advances
 
 Many of the transactions you soon will be able to perform in cyberspace would have been
 impossible in the Industrial Age, and not simply because they cross a language barrier.
@@ -6870,7 +6873,7 @@ hospital, will take only half an hour, and may not require hospitalization at al
 the surgeon and the patient may never even be in the same room. But what will this do to
 hospitals and surgeons?
 
-## Fewer Microsurgeons Doing More
+### Fewer Microsurgeons Doing More
 
 There will be a revolution in surgery. In training, a third of young surgeons have failed to
 acquire the skills needed for microsurgery. A third are just able to do it, and a third
@@ -6927,7 +6930,7 @@ lower risks of failure, the cybereconomy will flourish even more rapidly. "The f
 policy of the welfare state requires that there be no way for the owners of wealth to
 protect themselves." ALAN GREENSPAN
 
-## The Devaluation Of Compulsion
+### The Devaluation Of Compulsion
 
 In almost every competitive area, including most of the world's multitrilliondollar
 investment activity, the migration of transactions into cyberspace will be driven by an
@@ -7111,7 +7114,7 @@ and annul it”
 
 From An English Court Decision, 1604
 
-## The Death Of Seigniorage
+### The Death Of Seigniorage
 
 Governments will not only lose their power to tax many forms of income and capital; they are
 also destined to lose their power of compulsion over money. In the past, megapolitical
@@ -7243,7 +7246,9 @@ you from the power of the state. Earlier, we cited the dreary record of the worl
 nationstates in maintaining the value of their currencies over the past half century. No
 currency has suffered a smaller loss from inflation since World War II than the German mark.
 Yet even so, 71 percent of its value vanished between January 1, 1949, and the end of June
+
 1995. The world reserve currency during this period, the U.S. dollar, lost 84 percent of its
+
 value.'8 This is a measure of the wealth that governments expropriated by exploiting their
 territorial monopolies on legal tender. Note that there is no intrinsic necessity that
 currency depreciate or that the nominal cost of living rise every year. To the contrary.
@@ -7325,7 +7330,7 @@ opportunities that will nevertheless command only microroyalty payments.
 One day you will be able to replay the third game of the 1969 World Series, and pay
 microroyalties to the players whose images are used to make your virtual reality seem real.
 
-## Eradicating Inflation
+### Eradicating Inflation
 
 Such possibilities notwithstanding, surely the most momentous consequence of the new digital
 money will be the end of inflation and the de-leverage of the financial system. The economic
@@ -7510,9 +7515,9 @@ pain of death. If it becomes impossible for politicians to obtain resources to r
 the public may respond in a rational way and forget about politics, just as well-intentioned
 people ceased organizing marches of penitents when the Middle Ages came to an end.
 
-# CHAPTER 8
+## CHAPTER 8
 
-## The End Of Egalitarian Economics
+### The End Of Egalitarian Economics
 
 The Revolution in Earnings Capacity in a World Without Jobs "God is not mocked: for
 whatsoever a man soweth, that shall he also reap.” GALATIANS 6:7 Great changes in the
@@ -7545,7 +7550,7 @@ Because the marginal value generated by superlative performance will be so huge,
 distribution of earnings capacity throughout the entire global economy will take much the
 shape it does now in the performance professions like athletics and opera.
 
-## A Magnitude Beyond Pareto'S Law
+### A Magnitude Beyond Pareto'S Law
 
 Pareto's law says that 80 percent of the benefit will depend on or go to 20 percent of those
 engaged. This may be approximately true, though, more strikingly, 1 percent of the
@@ -7611,7 +7616,7 @@ shaped different nations in different ways.
 The Factory Age produced one shape, and the Information Age is producing another, less
 violent, and therefore more elitist and less egalitarian than the one it is replacing.
 
-## Ammon'S Turnip
+### Ammon'S Turnip
 
 In the late nineteenth century a number of economists, of whom William Stanley Jevons was
 the most distinguished in England, started to develop mathematical economics. One of the
@@ -7659,7 +7664,7 @@ of high talent and of genius above the broad mass of mediocrity… The number of
 gifted is at all events so small that it is impossible that 'many' such can have been kept
 back the incompleteness of social institutions." OTTO AMMON lower classes through in
 
-## Traits and Incomes
+### Traits and Incomes
 
 Ammon then turns to the distribution of incomes. Of course, the statistics of the 1890s were
 much less adequate than they would be now, but German bureaucracy was already well
@@ -7703,7 +7708,7 @@ spot market. " Yet it is a ,fact acknowledged officially but quietly, that most 
 unemployed youngsters have no qualifications whatsoever..." 6 CLIVE JENKINS AND BARRIE
 SHERMAN
 
-## Fewer People Will Do More Work
+### Fewer People Will Do More Work
 
 We can take the simple four-dice distribution of human ability and suppose that people could
 score in the Factory Age with a set of 4 x 2 or above. That would mean that over 95 percent
@@ -7766,7 +7771,7 @@ skills, including entrepreneurship and investment. Yet the feudal hundred-to-one
 set to return. For better or worse, the societies of the twenty-first century are likely to
 be more unequal than those we have lived in during the twentieth.
 
-## Most People Will Gain From The Death Of Politics
+### Most People Will Gain From The Death Of Politics
 
 It is unlikely that the egalitarian economy and the nations it supports can disappear
 without a crisis. While a crisis by definition can last only for a short while, we
@@ -7796,9 +7801,9 @@ inability to organize on a large scale.
 anywhere in the world who is capable of doing the same job. There are lots of them and many
 of them are hungry."8 ANDREW S. GROVE,
 
-## President, Intel Corp.
+### President, Intel Corp.
 
-## Shifting Locational Advantages
+### Shifting Locational Advantages
 
 Because there will no longer be rising returns to violence, there will be no advantage to
 living under a government that could capture them. Oncecompetent governments will no longer
@@ -7826,7 +7831,7 @@ incomes of poor people in poor countries by subsidizing incompetent governments.
 issue we consider in more depth in analyzing the impact of the Information Revolution on
 morality.
 
-## A Century of Rising Income Inequality
+### A Century of Rising Income Inequality
 
 During the industrial period, the factor that contributed most to determining the ordinary
 person's lifetime income was the political jurisdiction in which he happened to reside.
@@ -7878,9 +7883,9 @@ period. "The indigenous characteristics of poor countries are strikingly inhospi
 effective large-scale organization, especially to large-scale organizations that have to
 operate (as governments do) over a large geographical area."
 
-## Mancur Olson
+### Mancur Olson
 
-## Diseconomies Of Scale And Retarded Growth
+### Diseconomies Of Scale And Retarded Growth
 
 As Mancur Olson has demonstrated, backwardness in the twentieth century was not due to lack
 of capital or specialized skills per se. In "Diseconomies of Scale and Development," an
@@ -8152,7 +8157,7 @@ the Pacific Northwest of the United States. Residents of Alaska, Washington, Ore
 and Montana would find themselves at a distinct disadvantage in competition with Alberta and
 British Columbia as independent sovereignties.
 
-## After The Nationstate
+### After The Nationstate
 
 In the place of nationstates you will see, at first, smaller jurisdictions at the provincial
 level, and ultimately, smaller sovereignties, enclaves of various kinds like medieval
@@ -8258,7 +8263,7 @@ power in America today: the big city-that big set of industrial cities that now 
 -support systems-some 360 billion of direct subsidies from all the rest of us every year Big
 cities are leftover baggage from the industrial era."'17 -
 
-## George Gilder
+### George Gilder
 
 A peculiar irony of the reemergence of micro-sovereignties or "city-states" is that it may
 coincide with the emptying out of many cities. The large city was largely an artifact of
@@ -8364,7 +8369,7 @@ And it will bypass restraints of trade imposed by local licensing procedures.
 Consequently, profit margins are likely to fall in any field where local price anomalies can
 be eroded by additional information and competition.
 
-## New Organizational Imperatives
+### New Organizational Imperatives
 
 The cybereconomy will significantly differ from the industrial economy in the way its
 participants interact. Information technology will dissipate many of the long-term
@@ -8720,9 +8725,9 @@ As we explore next, whether these developments can or should proceed in the face
 opposition from legions of losers will be among the more Important controversies of the
 Information Age.
 
-# CHAPTER 9
+## CHAPTER 9
 
-## Nationalism, Reaction, And The New
+### Nationalism, Reaction, And The New
 
 LUDDITES "Nationalism, of course, is intrinsically absurd. Why should the accident of
 fortune or misfortune of birth as an American, Albanian, Scot, or Fiji islander impose
@@ -8750,7 +8755,7 @@ transcends existing political and ethnic boundaries."2 As the world "becomes sma
 communications improve, the accidental and "intrinsically absurd" claims of nations and
 nationalism are bound to weaken.
 
-## The Great Transformation
+### The Great Transformation
 
 The trouble with this reasonable expectation is that all previous history suggests that it
 cannot be accommodated in a reasonable way. The transition it implies will involve a crisis.
@@ -8843,7 +8848,7 @@ States are burdened with multitrillion-dollar unfunded pension liabilities (comp
 per capita basis) that neither is likely to tame. Other leading nationstates face similarly
 bankrupting burdens.
 
-## Parallels Witii The Renaissance
+### Parallels Witii The Renaissance
 
 We previously outlined reasons for thinking that the collapse of the nanny state will have
 consequences closely parallelling those associated with the collapse of the institutional
@@ -9078,7 +9083,7 @@ particular nationstate that monopolized violence in the territory in which they 
 "Paradise is now shut and locked, barred by angels, so now we must go forward, around the
 world and see if somehow somewhere, there is a back-way in."
 
-## Heinrich Von Kleist
+### Heinrich Von Kleist
 
 ***Cuba only imposed an income tax in 1996 as an emergency measure in response to economic
 depression following the end of subsidies occasioned by the collapse of Communism in
@@ -9197,7 +9202,7 @@ of nationalists. Protection will be organized in new ways that cannot be parsed 
 sextant, a plumb line, or other early modern instruments in a surveyor's kit that demarcate
 territorial borders.
 
-## Invented Communities And Traditions
+### Invented Communities And Traditions
 
 The idea that humans must naturally place themselves in an "invented" community called a
 nation will come to be seen by the cosmopolitan elite as eccentric and unreasonable in the
@@ -9227,7 +9232,7 @@ continuing investment of imagination. There are no objective criteria to define 
 which group should be a "nation" and which should not. Nor, strictly speaking, are there
 "natural frontiers," as eminent historians Owen Lattimore and
 
-## C. R.
+### C. R.
 
 Whittaker have shown. "A major imperial boundary," Lattimore said, writing of imperial
 China, "is not merely a line dividing geographical regions and human societies. It also
@@ -9248,7 +9253,7 @@ boundaries between species or the physical distinctions between breeds of animal
 they are artifacts of past and ongoing efforts to project power. “A language is a dialect
 with an army and a navy” MARIO PEI
 
-## Languages As Artifacts Of Power
+### Languages As Artifacts Of Power
 
 Surprisingly, much the same can be said of languages. After centuries of nationstate
 dominance, the idea that "language" does not form an objective basis for distinguishing
@@ -9532,7 +9537,7 @@ course, almost every area will become multilingual. Local dialects will rise in 
 Propaganda from the center will lose much of its coherence as immigrants and speakers of
 minority tongues are emboldened to resist assimilation into the nation.
 
-## Military Mysticism
+### Military Mysticism
 
 Far from being objective communities, in the same sense that, for example,
 "hunting-gathering bands" are objective, nations are imagined out of a mysticism
@@ -9566,7 +9571,7 @@ kin, has required a whole rethinking of traditional notions of survival of the f
 the biological sciences. This has resulted in a growing conviction that natural selection
 does not ultimately operate on the individual” 42 R. PAUL SHAW AND YUWA WONG
 
-## Nationalism And Inclusive Fitness
+### Nationalism And Inclusive Fitness
 
 Our main focus in this book is on objective "megapolitical" factors that alter the costs and
 rewards of human choices. The underlying premise upon which the predictive power of the
@@ -9639,7 +9644,7 @@ is contained in less than 2 percent of the DNA in each species; slightly over 98
 their DNA is common to both, and some of it can be traced back to very primitive early
 organisms, far down the historic chain of development.
 
-## Genetic Inertia
+### Genetic Inertia
 
 Human cultures similarly contain elements that are universal, some of which are indeed
 inherited from prehuman ancestors. How we seek food, how we mate, how we form families, how
@@ -9678,9 +9683,9 @@ selection. Animals, in short, are nepotistic, i.e., they prefer kin over non-kin
 kin over distant kin. This may happen consciously as in humans, or more commonly
 unconsciously."5 PIERRE VAN
 
-## Den Berghe
+### Den Berghe
 
-## Genetically Influenced Motivational
+### Genetically Influenced Motivational
 
 FACTORS The biological perspective on human behavior was enhanced by the introduction of the
 concept of "inclusive fitness" in 1963 by W D. Hamilton in "The Evolution of Altruistic
@@ -9784,7 +9789,7 @@ isolated to closely related kin. And ironically, as we consider below, this may 
 the survival benefit that enabled those with less discriminate helping genes to endure all
 the millennia of unpleasantness until now.
 
-## Altruism and Genetic Inertia
+### Altruism and Genetic Inertia
 
 If, as we believe, the "selfish gene" thesis is an accurate approximation of what motivates
 human action, it would be too simple to suppose that the helping or sacrificial behavior it
@@ -9859,7 +9864,7 @@ arise.
 
 Soldiers around us are arming. On, on, 'tis our mother who cries. CHANT OF
 
-## French Soldiers
+### French Soldiers
 
 Bogus Kinship Consider the strong tendency of politicians everywhere to describe the state
 in terms borrowed from kinship The nation is "our fatherland" or "our motherland."
@@ -9888,7 +9893,7 @@ are common worldwide because they work. Nationalism,
 
 Reaction, and the New Luddites 271
 
-## Genetic Accounting
+### Genetic Accounting
 
 The imaginary character of these kinship links as far as the state is concerned is evidenced
 by the fact that they possess none of the degrees of variability that characterize actual
@@ -9948,7 +9953,7 @@ That very fact would tend to make assets held at long distance 222 more valuable
 not only be less exposed to envy, they would be more likely to be put beyond the reach of
 the most predatory group with which an individual must cope-his own nationstate.
 
-## Diseconomies of Nature and Nationalism
+### Diseconomies of Nature and Nationalism
 
 It is perhaps a mark of the importance of epigenesis in informing attitudes that so little
 notice has been taken of the ironies of in-group identification as it relates to the modern
@@ -10016,7 +10021,7 @@ They will no longer tend to think of themselves primarily as British or American
 be extranational residents of the whole world who just happen to abide in one or more of its
 localities.
 
-## The Cybereconomy And Our Genetic Inheritance
+### The Cybereconomy And Our Genetic Inheritance
 
 The hitch, however, is that this technological miracle and the economic miracle it
 implies-escaping the tyranny of place-depend upon the willingness of individuals to entrust
@@ -10092,7 +10097,7 @@ is the price of getting ahead."
 
 73 --Christopher Lasch
 
-## Escape From The Nationstate
+### Escape From The Nationstate
 
 Notwithstanding the firm grip the nationstate as the "in-group" has had on the modern
 imagination, able people who do not already doubt the utility of affiliating with a grossly
@@ -10170,7 +10175,7 @@ possess some globally marketable skill. These "losers" or "leftbehinds," as Thom
 Friedman describes them, will no doubt continue to identify their wellbeing with the
 political life of existing nationstates. 80
 
-## Most Political Agendas Will Be Reactionary
+### Most Political Agendas Will Be Reactionary
 
 Most of those who harbor an ardent political agenda, whether nationalist, environmentalist,
 or socialist, will rally to defend the wobbling nationstate as the twenty-first century
@@ -10333,7 +10338,7 @@ more complicated than just a fundamentalist takeover. It is what happens when wi
 globalization spins off more and more losers, when widening democratization gives them all a
 vote, while religious parties effectively exploit this coincidence to take power"87 THOMAS
 
-## L. Friedman
+### L. Friedman
 
 Who will the losers be in the Information Age? In general terms, the tax consumers will be
 losers. It is usually they who could not increase their wealth by moving to another
@@ -10469,7 +10474,7 @@ Individuals will take advantage of this ambiguity to desert their tax liabilitie
 beyond citizenship to become customers. They will negotiate private tax treaties 233 as
 customers, along the lines now available in Switzerland, as analyzed in
 
-# Chapter 8. A typical private tax treaty negotiated with the French-speaking
+## Chapter 8. A typical private tax treaty negotiated with the French-speaking
 
 Swiss cantons allows an individual or family to reside in exchange for a fixed annual tax
 payment of 50,000 Swiss francs (currently about $45,000). Note that this is not a flat-rate
@@ -10625,7 +10630,7 @@ revenues collected by the federal government.
 ... There will not be one cent left over for education, children’s programs, highways,
 national defense, or any other discretionary program. BIPARTISAN
 
-## U.S. Commission On Entitlement And Tax Reform
+### U.S. Commission On Entitlement And Tax Reform
 
 The flight of the wealthy from advanced welfare states will happen at just the wrong time
 demographically. Early in the twenty-first century, large aging populations in Europe and
@@ -10680,7 +10685,7 @@ between in the name of fear Great shifts in the arrangements of power have ordin
 produced-and have often depended onexceptional moments of collective violence."93 CHARLES
 TILLY
 
-## Violence In Perspective
+### Violence In Perspective
 
 There are at least two contending theories about what precipitates violence in conditions of
 change. Historian Charles Tilly summarizes one theory: "[T]he stimulus to collective
@@ -10807,7 +10812,7 @@ them, whether as major "trends" or "psychological themes," it is clear that a st
 reactionary sentiment in favor of nationalism and against the fall of borders and the
 deepening of markets is gathering its voice worldwide.
 
-## Multiculturalism And Victimization
+### Multiculturalism And Victimization
 
 In its twilight, with a faltering capacity to redeem promises of something for nothing from
 an empty pocket, the welfare state found it expedient to foster new myths of discrimination.
@@ -10887,7 +10892,7 @@ miscarry. The poor, unskilled majority were unlikely to be long attracted to a c
 promised to destroy machinery that offered them jobs and also raised their living standards
 by lowering the cost of items they needed, such as warm clothing and bread.
 
-## Higher Incomes for the Unskilled
+### Higher Incomes for the Unskilled
 
 Over time, industrial and agricultural automation was attractive to the have-nots because it
 created earnings opportunities for them and lowered their cost of living. New tools allowed
@@ -11090,7 +11095,7 @@ decade. The number of criminal explosions and attempts went from 1,103 in 1985 t
 1994.... [I]n small towns and suburban neighborhoods, as well [as] among inner-city street
 gangs, there has been a proliferation of a sort of garden variety bomber." 111
 
-## Defense Becomes a Private Good
+### Defense Becomes a Private Good
 
 Notwithstanding the penal taxes imposed by nationstates as a price of protection, they are
 unlikely to provide it effectively in the years to come. The falling scale of violence
@@ -11173,7 +11178,7 @@ In this respect, competition between jurisdictions in providing public goods wil
 similar impact to that observed in other sectors of life. Competition usually improves
 customer satisfaction.
 
-## Competition And Anarchy
+### Competition And Anarchy
 
 It is important to bear in mind that the competition between jurisdictions that we
 anticipate is not mainly competition among organizations employing violence in the same
@@ -11374,9 +11379,9 @@ taught to bleed for. Whatever the change in megapolitical conditions or resultin
 institutions, they will probably remain important in the imaginations of persons who came of
 age, as we did, in the twentieth century.
 
-# Chapter 10
+## Chapter 10
 
-## The Twilight Of Democracy
+### The Twilight Of Democracy
 
 "Democratic political Systems are a recent affair in historical terms. They had a brief
 existence in Greece and Rome, afterward reemerging in the 18th century, fewer than 200 years
@@ -11410,7 +11415,7 @@ vulnerable large contingents of infantry are, even when nestled in trenches and 
 fortifications. So why has democracy appeared to flourish under these conditions as the
 twentieth century winds down?
 
-## Democracy, The Fraternal Twin Of Communism?
+### Democracy, The Fraternal Twin Of Communism?
 
 We offered a paradoxical explanation in Chapter 5, namely that democracy flourished as a
 fraternal twin of Communism precisely because it facilitated unimpeded control of resources
@@ -11750,7 +11755,7 @@ legitimately seize power in the nationstate. A system that routinely submits con
 the largest, most deadly enterprises on earth to the winner of popularity contests between
 charismatic demagogues is bound to suffer for it in the long run.
 
-## Pay Leaders to Do a Good Job
+### Pay Leaders to Do a Good Job
 
 A rational selection process, combined with a constructive incentive structure to reward
 positive leadership, would bring able people to the helm of government.
@@ -11778,7 +11783,7 @@ actually do upon assuming office.
 This is particularly difficult in that politicians and their handlers are becoming
 increasingly proficient packaging and manipulating the images they present to the public.
 
-## Commercialized Sovereignty
+### Commercialized Sovereignty
 
 We expect to see something new emerge to replace politics. While any of the possibilities we
 canvass above might be tried with some advantage, our expectation is not that politics will
@@ -11866,7 +11871,9 @@ school and sending them to another, to a much greater extent than is now possibl
 general they can now take this step only by changing their place of residence.
 
 For the rest, they can express their views only though cumbrous political channels.5 Albert
+
 0. Hirschman, speaking as a partisan of politics, took exception to Friedman's preference
+
 for "exit as the 'direct' way of expressing one's unfavorable views of an organization. A
 person less well trained in economics might naively suggest that the direct way of
 expressing one's views is to express them!" 16 Whether it is more direct or effective to
@@ -11930,7 +11937,7 @@ society in which the vast majority of Americans do not know that they do not hav
 they need to earn a living in our increasingly technological society and international
 marketplace." RICHARD RILEY;
 
-## U.S. Secretary Of Education,
+### U.S. Secretary Of Education,
 
 AMERICA” IN "ADULT LITERACY IN Ninety Million Alzheimer's Patients?
 
@@ -11979,7 +11986,7 @@ reproduction of computer networks, satellites, modems, databases and the public 
 17 Massed armies will mean little in such a world. Efficiency will mean more than ever
 before. Because microtechnology creates a new dimension in protection, as we explored in
 
-# Chapter 6 and elsewhere, individuals for the first time in human existence will
+## Chapter 6 and elsewhere, individuals for the first time in human existence will
 
 be able to create and protect assets that lie entirely outside the realm of any territorial
 monopoly on violence. These assets, individual government's therefore, will be highly
@@ -12016,7 +12023,7 @@ tax rates and adjust the terms of taxation to more civilized standards. Rather t
 depending upon legislatures to enact acceptable tax regimes, Sovereign Individuals in the
 future will be able to negotiate acceptable, customized policy packages by private treaty.
 
-## Offending The True Believers
+### Offending The True Believers
 
 Of course, we do not contend for a moment that much of this will be popular.
 
@@ -12070,7 +12077,7 @@ are to find the standards of moral conduct, and it is reason, and reason alone, 
 give them their authority." In this sense, any attempt to impose laws upon society through
 legislation would be like trying to alter geometry by legislation.
 
-## Legislation as Sacrilege
+### Legislation as Sacrilege
 
 For very different reasons, a similar resistance to "lawmaking" prevailed through much of
 the medieval period. As John B. Morrall writes, "[F]or the Germans, law was something which
@@ -12154,7 +12161,7 @@ which will highly emphasize honor and rectittude in deploying resources 270 outs
 of the state. We can predict that such advice will not be read with pleasure by E. J.
 Dionne, Jr., and the other living social democrats.
 
-## Policy Set by Customers
+### Policy Set by Customers
 
 This will be especially true early in the transition, when most jurisdictions will still be
 lumbered with the necessity of formulating policies whose advocates can attract popular
@@ -12206,7 +12213,7 @@ They will recoil from the prospect that income and capital taxation would truly 
 resources out of anyone who appears to be prosperous, such as "presumptive taxation" and
 outright holding of wealthy persons to ransom.
 
-## Community Property
+### Community Property
 
 Hints of what is to come are near the surface as we write. Early evidence that the capacity
 of governments to control international markets is slipping away offends those who believe
@@ -12385,7 +12392,7 @@ outside directors nominated by pension plans. Equally, we doubt that the rationa
 of sovereignty services in the Information Age will care whether Singapore is a mass
 democracy or a proprietorship of Lee Kwan Yew.
 
-# CHAPTER 11
+## CHAPTER 11
 
 MORALITY AND CRIME IN THE "NATURAL ECONOMY" OF THE INFORMATION AGE "Corruption... is far
 more widespread and universal than previously thought.
@@ -12450,7 +12457,7 @@ than is commonly supposed. Many will have other motivations, including shoring u
 for a faltering system, that they will place ahead of honestly informing you. They will see
 little and explain less.
 
-## Beyond Reality
+### Beyond Reality
 
 As artificial reality and computer game technologies continue to improve, you'll even be
 able to order a nightly news report that simulates the news you would like to hear. Want to
@@ -12537,7 +12544,7 @@ A central theme we have wrestled with in this book is how changing technology an
 the "natural economy," an important strand of behavior is what biologists call "interference
 competition."
 
-## Interference Competition
+### Interference Competition
 
 "Interference competitors," as Jack Hirshleifer put it, "gain and maintain control
 
@@ -12557,7 +12564,7 @@ individual will strike a balance between lawful and unlawful means of acquiring
 resourcesbetween production and exchange on the one hand and theft, fraud and extortion on
 the other." 5
 
-## Mugging In The Information Age
+### Mugging In The Information Age
 
 Michelle R. Garfinkel and Stergios Skaperdas explore this in a useful book on violence,
 crime, and politics, The Political Economy of Conflict and Appropriation: "Individuals and
@@ -12966,7 +12973,7 @@ odium attaches to crime. The Sicilian Mafia, for example, along with many drug d
 employ local labor at inflated rates, command respect and popular support on their home
 turf.
 
-## The Moral Order And Its Enemies
+### The Moral Order And Its Enemies
 
 All strong societies have a strong moral basis. Any study of the history of economic
 development shows the close relationship between moral and economic factors. Countries and
@@ -13861,11 +13868,11 @@ Fasten your seat belts.
 
 Appendix 1:
 
-## Implications And Strategies
+### Implications And Strategies
 
 "Of all 36 ways to get out of trouble, the best way is - leave."
 
-## Chinese Proverb
+### Chinese Proverb
 
 The argument of this book has many unorthodox implications for achieving financial
 independence in the Information Age. Among the more important: 1.
@@ -14019,7 +14026,7 @@ Industrial Era, particularly in its waning years.
 
 Footnotes
 
-# Chapter 1. The Transition of the Year 2000: The Fourth Stage of Human Society
+## Chapter 1. The Transition of the Year 2000: The Fourth Stage of Human Society
 
 1.
 
@@ -14081,7 +14088,7 @@ Quoted in S. B. Saul, The Myth 0f the Great Depression (London: Macmillan, 1985)
 Oswald Spengler, The Decline of the West, trans. Charles Francis Atkinson, quoted in I. F.
 Clark, The Pattern ofExpectation, 1644-2001 (London: Jonathan Cape, 1979), p. 220.
 
-# Chapter 2. Megapolitical Transformations in Historic Perspective 1.
+## Chapter 2. Megapolitical Transformations in Historic Perspective 1.
 
 Huizinga, op. cit., p.7. 2.
 
@@ -14139,7 +14146,7 @@ p.6. 22.
 Chris Scarre, ed., Past Worlds: The Times Atlas of Archaeology 314 (New York: Random House,
 1995), p.58.
 
-# Chapter 3. East of Eden: The Agricultural Revolution and the Sophistication of
+## Chapter 3. East of Eden: The Agricultural Revolution and the Sophistication of
 
 Violence 1.
 
@@ -14239,7 +14246,7 @@ Oxford University Press, 1993), p.178. 43.
 
 Boyden, op. ciL, p. 118.
 
-# Chapter 4. The Last Days of Politics: Parallels Between the Senile Decline of the
+## Chapter 4. The Last Days of Politics: Parallels Between the Senile Decline of the
 
 Holy Mother Church and the Nanny State I.
 
@@ -14388,7 +14395,7 @@ Ibid., p.27. 69.
 
 Ibid., p.22.
 
-# Chapter 5. The Life and Death of the NationState: Democracy and Nationalism
+## Chapter 5. The Life and Death of the NationState: Democracy and Nationalism
 
 as Resource Strategies in the Age of Violence 1.
 
@@ -14442,7 +14449,7 @@ Ibid. 22.
 
 Ibid., p.6.
 
-# Chapter 6. The Megapolitics of the Information Age:
+## Chapter 6. The Megapolitics of the Information Age:
 
 The Triumph of Efficiency over Power 1.
 
@@ -14577,7 +14584,7 @@ Kelly, op. cit., p.19. 48.
 George Melloan, "Welfare State Reform Is Mostly Mythological," The Wall Street Journal.
 October 14, 1996, p. A19.
 
-# Chapter 7. Transcending Locality: The Emergence of the Cybereconomy John
+## Chapter 7. Transcending Locality: The Emergence of the Cybereconomy John
 
 Perry Barlow, "Thinking Locally, Acting Globally," Time, January 15, 1996, p.57. 2.
 
@@ -14633,7 +14640,7 @@ Davidson and Rees-Mogg, op. cit., p.203. 24.
 
 Lane, "Economic Consequences of Organized Violence," op. ciL, p.413.
 
-# Chapter 8. The End of Egalitarian Economics:
+## Chapter 8. The End of Egalitarian Economics:
 
 The Revolution in Earnings Capacity in a World Without Jobs 1.
 
@@ -14731,7 +14738,7 @@ Ibid., p.58. 36.
 
 Abu-Lughod, op. cit., p.186.
 
-# Chapter 9. Nationalism, Reaction, and the New Luddites
+## Chapter 9. Nationalism, Reaction, and the New Luddites
 
 1.
 
@@ -15025,7 +15032,7 @@ Ibid., p.16. 119.
 
 Ibid.
 
-# Chapter 10. The Twilight ofDemocracy
+## Chapter 10. The Twilight ofDemocracy
 
 1.
 

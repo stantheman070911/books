@@ -11,15 +11,10 @@ Every attempt is made to present Naval in his own words. However, there are a fe
 points.
 
 - The transcripts have been edited for clarity and brevity (multiple times).
-
 - Not all sources are primary (some excerpts are from other writers quoting Naval).
-
 - I can’t be 100 percent certain of every source’s authenticity.
-
 - Concepts and interpretations change over time, medium, and context.
-
 - Please verify phrasing with a primary source before citing Naval from this text.
-
 - Please interpret generously.
 
 By definition, everything in this book is taken out of context. Interpretations will change over time. Read and interpret generously. Understand the original intent may be different than your interpretation in a different time, medium, format, and context.
@@ -116,21 +111,13 @@ those, as you will get all the bathwater with the baby.
 I take Naval seriously because he:
 
 - Questions nearly everything
-
 - Can think from first principles
-
 - Tests things well
-
 - Is good at not fooling himself
-
 - Changes his mind regularly
-
 - Laughs a lot
-
 - Thinks holistically
-
 - Thinks long-term
-
 - And…doesn’t take himself too goddamn seriously.
 
 That last one is important.
@@ -224,31 +211,18 @@ Be well,
 ## Timeline of Naval Ravikant
 
 - 1974 - Born in Delhi, India
-
 - 1985 - Age 9 - Moved from New Delhi to Queens, NY
-
 - 1989 - Age 14 - Attended Stuyvesant High School
-
 - 1995 - Age 21 - Graduated Dartmouth (studied computer science and economics)
-
 - 1999 - Age 25 - Founder/CEO of Epinions
-
 - 2001 - Age 27 - Venture Partner at August Capital
-
 - 2003 - Age 29 - Founder of Vast.com, a classified ad marketplace
-
 - 2005 - Age 30 - Is called “Radioactive Mud” in Silicon Valley
-
 - 2007 - Age 32 - Founded Hit Forge, a small VC fund originally conceived as an incubator
-
 - 2007 - Age 32 - Launched VentureHacks blog
-
 - 2010 - Age 34 - Launched AngelList
-
 - 2010 - Age 34 - Invested in Uber
-
 - 2012 - Age 36 - Lobbied Congress to get the JOBS Act passed
-
 - 2018 - Age 43 - Is named “Angel Investor of the Year”
 
 ## Now, Here Is Naval in His Own Words…
@@ -297,15 +271,15 @@ anything.
 I can only inspire you and maybe give you a few hooks so you can remember. [77] Live, on
 Twitter, it’s Naval (applause ensues…) On May 18th, 2007
 
-# Part I: Wealth
+## Part I: Wealth
 
 How to get rich without getting lucky.
 
-## Building Wealth
+### Building Wealth
 
 Making money is not a thing you do—it’s a skill you learn.
 
-## Understand How Wealth Is Created
+### Understand How Wealth Is Created
 
 I like to think that if I lost all my money and you dropped me on a random street in any
 English-speaking country, within five or ten years I’d be wealthy again because it’s just a
@@ -491,7 +465,7 @@ out how to scale it. [78] BECOME THE BEST IN THE WORLD AT WHAT YOU DO.
 
 KEEP REDEFINING WHAT YOU DO UNTIL THIS IS TRUE.
 
-## Find and Build Specific Knowledge
+### Find and Build Specific Knowledge
 
 Sales skills are a form of specific knowledge.
 
@@ -518,16 +492,11 @@ you noticed. Your mother or your best friend growing up would know.
 Examples of what your specific knowledge could be:
 
 - Sales skills
-
 - Musical talents, with the ability to pick up any instrument
-
 - An obsessive personality: you dive into things and remember them quickly
-
 - Love for science fiction: you were into reading sci-fi, which means you absorb a lot of
   knowledge very quickly
-
 - Playing a lot of games, you understand game theory pretty well
-
 - Gossiping, digging into your friend network. That might make you into a very interesting
   journalist.
 
@@ -641,7 +610,7 @@ things. It’s usually things you’re obsessed about. [74] .
 
 PLAY LONG-TERM GAMES.
 
-## Play Long-Term Games with Long-Term People
+### Play Long-Term Games with Long-Term People
 
 You said, “All the returns in life, whether in wealth, relationships, or knowledge, come
 from compound interest.” How does one know if they’re earning compound interest?
@@ -721,7 +690,7 @@ to you—go all-in and forget about the rest. [10] INTENTIONS DON’T MATTER.
 
 ACTIONS DO.
 
-## Take on Accountability
+### Take on Accountability
 
 Embrace accountability and take business risks under your own name. Society will reward you
 with responsibility, equity, and leverage.
@@ -752,7 +721,7 @@ broader things. It made me a little nervous because I was doing it under my own 
 There were definitely people in the industry who sent me messages through the backchannel
 like, “What are you doing?
 
-## You’re ending your career. This is stupid.”
+### You’re ending your career. This is stupid.”
 
 I kind of just went with it. I took a risk. Same with crypto. Early on, I took a risk. But
 when you put your name out there, you take a risk with certain things. You also get to reap
@@ -772,9 +741,9 @@ failures as long as you were honest and made a high-integrity effort.
 There’s not really that much to fear in terms of failure, and so people should take on a lot
 more accountability than they do. [78]
 
-## Knowledge
+### Knowledge
 
-## Build or Buy Equity in a Business
+### Build or Buy Equity in a Business
 
 If you don’t own a piece of a business, you don’t have a path towards financial freedom.
 
@@ -823,7 +792,7 @@ But usually, the real wealth is created by starting your own companies or even b
 In an investment firm, they’re buying equity. These are the routes to wealth. It doesn’t
 come through the hours. [78]
 
-## Find a Position of Leverage
+### Find a Position of Leverage
 
 We live in an age of infinite leverage, and the economic rewards for genuine intellectual
 curiosity have never been higher. [11] Following your genuine intellectual curiosity is a
@@ -1089,7 +1058,7 @@ Stay out of things that could cause you to lose all of your capital, all of your
 Don’t gamble everything on one go. Instead, take rationally optimistic bets with big
 upsides. [78]
 
-## Get Paid for Your Judgment
+### Get Paid for Your Judgment
 
 Choosing what kinds of jobs, careers, or fields you get into and what sort of deals you’re
 willing to take from your employer will give you much more free time. Then, you don’t have
@@ -1127,7 +1096,7 @@ leverage. [2] SOLVE VIA ITERATION.
 
 THEN GET PAID VIA REPETITION.
 
-## Prioritize and Focus
+### Prioritize and Focus
 
 I’ve encountered plenty of bad luck along the way. The first little fortune I made I
 instantly lost in the stock market. The second little fortune I made, or should have made, I
@@ -1282,7 +1251,7 @@ ready to be entrepreneurs, but long-term, where did we come up with this idea th
 logical thing to do is for everybody to work for somebody else? It is a very hierarchical
 model. [14]
 
-## Find Work That Feels Like Play
+### Find Work That Feels Like Play
 
 Humans evolved as hunters and gatherers where we all worked for ourselves. It’s only at the
 beginning of agriculture we became more hierarchical. The Industrial Revolution and
@@ -1439,7 +1408,7 @@ an infrastructure to prevent early promotion. [76] For someone who is early in t
 network you’re going to build. Think about who you will work with and what those people are
 going on to do. [76]
 
-## How to Get Lucky
+### How to Get Lucky
 
 Why do you say, “Get rich without getting lucky”?
 
@@ -1552,7 +1521,7 @@ warn them. By the way, nobody changes. Then I just distance myself from them. I 
 of my life. I just have this saying inside my head: “The closer you want to get to me, the
 better your values have to be.” [4]
 
-## Be Patient
+### Be Patient
 
 One thing I figured out later in life is generally (at least in the tech business in Silicon
 Valley), great people have great outcomes. You just have to be patient. Every person I met
@@ -1629,11 +1598,11 @@ Let’s get them all fit and healthy.
 
 Then, let’s get them all happy. [77] Amazing how many people confuse wealth and wisdom.
 
-## Building Judgment
+### Building Judgment
 
 There’s no shortcut to smart.
 
-## Judgment
+### Judgment
 
 If you want to make the maximum amount of money possible, if you want to get rich over your
 life in a deterministically predictable way, stay on the bleeding edge of trends and study
@@ -1660,7 +1629,7 @@ heading in matters more than how fast you move, especially with leverage. Pickin
 direction you’re heading in for every decision is far, far more important than how much
 force you apply. Just pick the right direction to start walking in, and start walking. [1]
 
-## How to Think Clearly
+### How to Think Clearly
 
 “Clear thinker” is a better compliment than “smart.”
 
@@ -1749,9 +1718,9 @@ Cynicism is easy. Mimicry is easy.
 
 Optimistic contrarians are the rarest breed.
 
-## Optimists
+### Optimists
 
-## Shed Your Identity to See Reality
+### Shed Your Identity to See Reality
 
 Our egos are constructed in our formative years—our first two decades. They get constructed
 by our environment, our parents, society. Then, we spend the rest of our life trying to make
@@ -1759,7 +1728,7 @@ our ego happy. We interpret anything new through our ego: “How do I change the
 world to make it more how I would like it to be?” [8] “Tension is who you think you should
 be.
 
-## Relaxation is who you are.”
+### Relaxation is who you are.”
 
 —Buddhist saying You absolutely need habits to function. You cannot solve every problem in
 life as if it is the first time it’s thrown at you. We accumulate all these habits. We put
@@ -1804,7 +1773,7 @@ TENSION IS WHO YOU THINK YOU SHOULD BE.
 
 RELAXATION IS WHO YOU ARE.
 
-## Learn the Skills of Decision-Making
+### Learn the Skills of Decision-Making
 
 The classical virtues are all decision-making heuristics to make one optimize for the long
 term rather than for the short term. [11] Self-serving conclusions should have a higher bar.
@@ -1860,7 +1829,7 @@ life. I love the blog Farnam Street because it really focuses on helping you be 
 accurate, an overall better decision-maker. Decision-making is everything. [4] The more you
 know, the less you diversify.
 
-## Collect Mental Models
+### Collect Mental Models
 
 During decision-making, the brain is a memory prediction machine.
 
@@ -1882,7 +1851,7 @@ It’s cool, it’s inspirational for a moment, maybe you’ll make a nice poste
 then you forget it and move on. Mental models are really just compact ways for you to recall
 your own knowledge. [78]
 
-## Evolution
+### Evolution
 
 I think a lot of modern society can be explained through evolution. One theory is
 civilization exists to answer the question of who gets to mate. If you look around, from a
@@ -1896,7 +1865,7 @@ solve this problem.
 Evolution, thermodynamics, information theory, and complexity have explanatory and
 predictive power in many aspects of life. [11]
 
-## Inversion
+### Inversion
 
 I don’t believe I have the ability to say what is going to work.
 
@@ -1904,7 +1873,7 @@ Rather, I try to eliminate what’s not going to work. I think being successful 
 not making mistakes. It’s not about having correct judgment. It’s about avoiding incorrect
 judgments. [4]
 
-## Complexity Theory
+### Complexity Theory
 
 I was really into complexity theory back in the mid-90s. The more I got into it, the more I
 understand the limits of our knowledge and the limits of our prediction capability.
@@ -1912,14 +1881,14 @@ Complexity has been super helpful to me. It has helped me come to a system that 
 the face of ignorance. I believe we are fundamentally ignorant and very, very bad at
 predicting the future. [4]
 
-## Economics
+### Economics
 
 Microeconomics and game theory are fundamental. I don’t think you can be successful in
 business or even navigate most of our modern capitalist society without an extremely good
 understanding of supply-and-demand, labor-versus-capital, game theory, and those kinds of
 things. [4] Ignore the noise. The market will decide.
 
-## Principal-Agent Problem
+### Principal-Agent Problem
 
 To me, the principal-agent problem is the single most fundamental problem in microeconomics.
 If you do not understand the principal-agent problem, you will not know how to navigate your
@@ -1941,7 +1910,7 @@ understand this. We’re attracted to principals, and we all bond with principal
 media and modern society spend a lot of time brainwashing you about needing an agent, an
 agent being important, and the agent being knowledgeable. [12]
 
-## Compound Interest
+### Compound Interest
 
 Compound interest—most of you should know it in the finance context. If you don’t, crack
 open a microeconomics textbook.
@@ -1958,7 +1927,7 @@ compound rate of 20 percent per month, it can very, very quickly stack up to hav
 of users. Sometimes, even the founders of these companies are surprised by how large the
 business scales. [10]
 
-## Basic Math
+### Basic Math
 
 I think basic mathematics is really underrated. If you’re going to make money, if you’re
 going to invest money, your basic math should be really good. You don’t need to learn
@@ -1967,7 +1936,7 @@ business. But you want arithmetic, probability, and statistics. Those are extrem
 important. Crack open a basic math book, and make sure you are really good at multiplying,
 dividing, compounding, probability, and statistics.
 
-## Black Swans
+### Black Swans
 
 There’s a new branch of probability statistics, which is really around tail events. Black
 swans are extreme probabilities.
@@ -1975,14 +1944,14 @@ swans are extreme probabilities.
 Again, I have to refer back to Nassim Taleb, who I think is one of the greatest
 philosopher-scientists of our times. He’s really done a lot of pioneering work on this.
 
-## Calculus
+### Calculus
 
 Calculus is useful to know, to understand the rates of change and how nature works. But it’s
 more important to understand the principles of calculus—where you’re measuring the change in
 small discrete or small continuous events. It’s not important you solve integrals or do
 derivations on demand, because you’re not going to need to in the business world.
 
-## Falsifiability
+### Falsifiability
 
 Least understood, but the most important principle for anyone claiming “science” on their
 side—falsifiability. If it doesn’t make falsifiable predictions, it’s not science. For you
@@ -1995,13 +1964,9 @@ time. [4] IF YOU CAN’T DECIDE, THE ANSWER IS NO.
 If I’m faced with a difficult choice, such as:
 
 - Should I marry this person?
-
 - Should I take this job?
-
 - Should I buy this house?
-
 - Should I move to this city?
-
 - Should I go into business with this person?
 
 If you cannot decide, the answer is no. And the reason is, modern society is full of
@@ -2026,7 +1991,7 @@ If you find yourself creating a spreadsheet for a decision with a list of yes’
 pros and cons, checks and balances, why this is good or bad…forget it. If you cannot decide,
 the answer is no. [10]
 
-## Run Uphill
+### Run Uphill
 
 Simple heuristic: If you’re evenly split on a difficult decision, take the path more painful
 in the short term.
@@ -2062,7 +2027,7 @@ What are the most efficient ways to build new mental models?
 Read a lot—just read. [2] Reading science, math, and philosophy one hour per day will likely
 put you at the upper echelon of human success within seven years.
 
-## Learn to Love to Read
+### Learn to Love to Read
 
 (Specific recommendations for books, blogs, and more are in “Naval’s Recommended Reading”
 section.) The genuine love for reading itself, when cultivated, is a superpower. We live in
@@ -2291,17 +2256,17 @@ These things cannot be bought.
 
 They must be earned.
 
-# Part II: Happiness
+## Part II: Happiness
 
 The three big ones in life are wealth, health, and happiness.
 
 We pursue them in that order, but their importance is reverse.
 
-## Learning Happiness
+### Learning Happiness
 
 Don’t take yourself so seriously. You’re just a monkey with a plan.
 
-## Happiness Is Learned
+### Happiness Is Learned
 
 Ten years ago, if you would have asked me how happy I was, I would have dismissed the
 question. I didn’t want to talk about it.
@@ -2446,7 +2411,7 @@ And it works.
 You can very slowly but steadily and methodically improve your happiness baseline, just like
 you can improve your fitness. [10]
 
-## Happiness Is a Choice
+### Happiness Is a Choice
 
 Happiness, love, and passion…aren’t things you find—they’re choices you make.
 
@@ -2460,7 +2425,7 @@ We accept the voice in our head as the source of all truth. But all of it is mal
 every day is new. Memory and identity are burdens from the past preventing us from living
 freely in the present. [3]
 
-## Happiness Requires Presence
+### Happiness Requires Presence
 
 At any given time, when you’re walking down the streets, a very small percentage of your
 brain is focused on the present. The rest is planning the future or regretting the past.
@@ -2482,7 +2447,7 @@ It’s something you can achieve moment to moment, and you can be enlightened to
 percent every single day. [5] What if this life is the paradise we were promised, and we’re
 just squandering it?
 
-## Happiness Requires Peace
+### Happiness Requires Peace
 
 Are happiness and purpose interconnected?
 
@@ -2523,7 +2488,7 @@ time.
 It’s someone who effortlessly interprets events in such a way that they don’t lose their
 innate peace.
 
-## Every Desire Is a Chosen Unhappiness
+### Every Desire Is a Chosen Unhappiness
 
 I think the most common mistake for humanity is believing you’re going to be made happy
 because of some external circumstance. I know that’s not original. That’s not new. It’s
@@ -2576,7 +2541,7 @@ three at once.
 
 By the time people realize they have enough money, they’ve lost their time and their health. [8]
 
-## Success Does Not Earn Happiness
+### Success Does Not Earn Happiness
 
 Happiness is being satisfied with what you have.
 
@@ -2663,7 +2628,7 @@ are unlimited external problems.
 
 The only way to actually get peace on the inside is by giving up this idea of problems. [77]
 
-## Envy Is the Enemy of Happiness
+### Envy Is the Enemy of Happiness
 
 I don’t think life is that hard. I think we make it hard. One of the things I’m trying to
 get rid of is the word “should.” Whenever the word “should” creeps up in your mind, it’s
@@ -2716,7 +2681,7 @@ else. I’m perfectly happy being me.
 
 By the way, even that is under my control. To be happy being me. It’s just there are no social rewards for it. [4]
 
-## Happiness Is Built by Habits
+### Happiness Is Built by Habits
 
 My most surprising discovery in the last five years is that peace and happiness are skills.
 These are not things you are born with. Yes, there is a genetic range. And a lot of it is
@@ -2824,7 +2789,7 @@ It’s just like learning calculus.
 You decide it’s important to you. You prioritize it above everything else. You read
 everything on the topic. [7]
 
-## Happiness Habits
+### Happiness Habits
 
 I have a series of tricks I use to try and be happier in the moment. At first, they were
 silly and difficult and required a lot of attention, but now some of them have become second
@@ -2862,7 +2827,7 @@ optimistic. [11] Politics, academia, and social status are all zero-sum games.
 Positive-sum games create positive people. [11] Increase serotonin in the brain without
 drugs: Sunlight, exercise, positive thinking, and tryptophan. [11]
 
-## Changing Habits:
+### Changing Habits:
 
 Pick one thing. Cultivate a desire. Visualize it.
 
@@ -2879,7 +2844,7 @@ Self-discipline is a bridge to a new self-image.
 Bake in the new self-image. It’s who you are—now. [11] First, you know it. Then, you
 understand it. Then, you can explain it. Then, you can feel it. Finally, you are it.
 
-## Find Happiness in Acceptance
+### Find Happiness in Acceptance
 
 In any situation in life, you always have three choices: you can change it, you can accept
 it, or you can leave it.
@@ -2984,7 +2949,7 @@ So enjoy yourself. Do something positive. Project some love.
 
 Make someone happy. Laugh a little bit. Appreciate the moment. And do your work. [8]
 
-## Saving Yourself
+### Saving Yourself
 
 Doctors won’t make you healthy.
 
@@ -3002,7 +2967,7 @@ Ultimately, you have to take responsibility.
 
 Save yourself.
 
-## Choosing to Be Yourself
+### Choosing to Be Yourself
 
 A lot of what goes on today is what many of you are doing right now—beating yourself up and
 scribbling notes and saying, “I need to do this, and I need to do that, and I need to do…”
@@ -3030,7 +2995,7 @@ decision frameworks built on what other people are doing. You’re never going t
 You’ll never be good at being somebody else. [4] To make an original contribution, you have
 to be irrationally obsessed with something.
 
-## Choosing to Care for Yourself
+### Choosing to Care for Yourself
 
 My number one priority in life, above my happiness, above my family, above my work, is my
 own health. It starts with my physical health. Second, it’s my mental health. Third, it’s my
@@ -3074,7 +3039,7 @@ yes. Yes to sugar. Yes to staying in this relationship. Yes to alcohol. Yes to d
 yes, yes. Our bodies don’t know how to say no. [8] When everyone is sick, we no longer
 consider it a disease.
 
-## Diet
+### Diet
 
 Outside of math, physics, and chemistry, there isn’t much “settled science.” We’re still
 arguing over what the optimal diet is.
@@ -3127,7 +3092,7 @@ medicine and nutrition, subtract before you add. [11] My trainer sends me photos
 meals, and it reminds me we are all flavor addicts. [11] World’s simplest diet: The more
 processed the food, the less one should consume.
 
-## Exercise
+### Exercise
 
 The harder the workout, the easier the day.
 
@@ -3173,7 +3138,7 @@ same is true of saving up for a rainy day.
 The same is true of how you approach your relationships. If you make the easy choices right
 now, your overall life will be a lot harder. [4] FOR THE MIND.
 
-## Meditation + Mental Strength
+### Meditation + Mental Strength
 
 An emotion is our evolved biology predicting the future impact of a current event. In modern
 settings, it’s usually exaggerated or wrong.
@@ -3447,7 +3412,7 @@ Showering is accidental meditation.
 
 Sitting quietly is direct meditation.
 
-## Choosing to Build Yourself
+### Choosing to Build Yourself
 
 The greatest superpower is the ability to change yourself.
 
@@ -3553,7 +3518,7 @@ It takes time for great products to emerge as you polish away, polish away, poli
 Impatience with actions, patience with results. As Nivi said, inspiration is perishable.
 When you have inspiration, act on it right then and there. [78]
 
-## Choosing to Grow Yourself
+### Choosing to Grow Yourself
 
 I don’t believe in specific goals. Scott Adams famously said, “Set up systems, not goals.”
 Use your judgment to figure out what kinds of environments you can thrive in, and then
@@ -3658,7 +3623,7 @@ math. You just have to know basic statistics, arithmetic, etc.
 
 You should know statistics and probability forwards and backwards and inside out. [8]
 
-## Choosing to Free Yourself
+### Choosing to Free Yourself
 
 The hardest thing is not doing what you want—it’s knowing what you want.
 
@@ -3678,7 +3643,7 @@ looking for “freedom to.” [4] Advice to my younger self: “Be exactly who y
 
 Holding back means staying in bad relationships and bad jobs for years instead of minutes.
 
-## Freedom From Expectations
+### Freedom From Expectations
 
 I don’t measure my effectiveness at all. I don’t believe in self-measurement. I feel like
 this is a form of self-discipline, self-punishment, and self-conflict. [1] If you hurt other
@@ -3708,7 +3673,7 @@ It’s not your problem. If you are happy, it makes other people happy. If you�
 people will ask you how you became happy and they might learn from it, but you are not
 responsible for making other people happy. [10]
 
-## Freedom From Anger
+### Freedom From Anger
 
 What is anger? Anger is a way to signal as strongly as you can to the other party you’re
 capable of violence. Anger is a precursor to violence.
@@ -3718,14 +3683,14 @@ you make with yourself to be in physical and mental and emotional turmoil until 
 changes. [1] Anger is its own punishment. An angry person trying to push your head below
 water is drowning at the same time.
 
-## Freedom From Employment
+### Freedom From Employment
 
 People who live far below their means enjoy a freedom that people busy upgrading their
 lifestyles can’t fathom. [11] Once you’ve truly controlled your own fate, for better or for
 worse, you’ll never let anyone else tell you what to do. [11] A taste of freedom can make
 you unemployable.
 
-## Freedom From Uncontrolled Thinking
+### Freedom From Uncontrolled Thinking
 
 A big habit I’m working on is trying to turn off my “monkey mind.” When we’re children,
 we’re pretty blank slates. We live very much in the moment. We essentially just react to our
@@ -3762,12 +3727,12 @@ meditating, and exercising… Up against armies of scientists and statisticians 
 abundant food, screens, and medicine into junk food, clickbait news, infinite porn, endless
 games, and addictive drugs.
 
-## Philosophy
+### Philosophy
 
 The real truths are heresies. They cannot be spoken. Only discovered, whispered, and perhaps
 read.
 
-## The Meanings of Life
+### The Meanings of Life
 
 A really unbounded, big question: what is the meaning and purpose of life?
 
@@ -3839,11 +3804,11 @@ mathematics, or creating a family—you actually accelerate the heat death of th
 
 You’re pushing us towards this point where we end up as one thing. [4]
 
-## Live by Your Values
+### Live by Your Values
 
 What are your core values?
 
-## I’ve never fully enumerated them, but a few examples:
+### I’ve never fully enumerated them, but a few examples:
 
 Honesty is a core, core, core value. By honesty, I mean I want to be able to just be me. I
 never want to be in an environment or around people where I have to watch what I say. If I
@@ -3892,7 +3857,7 @@ Universe moves from being in your body into the child’s body. That changes you
 
 Your values inherently become a lot less selfish. [4]
 
-## Rational Buddhism
+### Rational Buddhism
 
 The older the question, the older the answers.
 
@@ -3941,7 +3906,7 @@ How do you define wisdom?
 Understanding the long-term consequences of your actions. [11] If wisdom could be imparted
 through words alone, we’d all be done here.
 
-## The Present Is All We Have
+### The Present Is All We Have
 
 There is actually nothing but this moment. No one has ever gone back in time, and no one has
 ever been able to successfully predict the future in any way that matters. Literally, the
@@ -3963,7 +3928,7 @@ perishable—act on it immediately.
 
 INSPIRATION IS PERISHABLE, ACT ON IT IMMEDIATELY.
 
-## Bonus
+### Bonus
 
 The democratization of technology allows anyone to be a creator, entrepreneur, scientist.
 The future is brighter.
@@ -3972,19 +3937,19 @@ It’s statistically likely there are more advanced alien civilizations out ther
 
 Hopefully, they’re good environmentalists and find us cute.
 
-## Naval’s Recommended Reading
+### Naval’s Recommended Reading
 
 The truth is, I don’t read for self-improvement. I read out of curiosity and interest. The
 best book is the one you’ll devour.
 
-## Books
+### Books
 
 (Since there are so many links in this section, you may prefer a digital copy. Go to
 Navalmanack.com to get a digital version of this chapter for your convenience.) Read enough,
 and you become a connoisseur. Then you naturally gravitate more toward theory, concepts,
 nonfi ction.
 
-## Nonfiction
+### Nonfiction
 
 The Beginning of Inﬁ nity: Explanations That Transform the World by David Deutsch Not the
 easiest read, but it made me smarter. [79] Sapiens: A Brief History of Humankind by Yuval
@@ -4001,11 +3966,8 @@ everything of his, and reread everything of his. [4] Open the camera on your pho
 over this image.
 
 - Genome: The Autobiography of a Species in 23 Chapters
-
 - The Red Queen: Sex and the Evolution of Human Nature
-
 - The Origins of Virtue: Human Instincts and the Evolution of Cooperation
-
 - The Evolution of Everything: How New Ideas Emerge Skin in the Game by Nassim Taleb The
   best book I read in 2018, I highly recommend it. Lots of great ideas in there. Lots of
   good mental models and Open the camera on your phone and hover over this image.
@@ -4070,7 +4032,9 @@ Evolution of Cooperation by Robert Axelrod. [11]
 
 Everything by Jed McKenna Jed spits raw truth. His style may be off-putting, but the
 dedication to truth is unparalleled. [79] Theory of Everything (The Enlightened Perspective)
+
 - Dreamstate Trilogy Jed McKenna’s Notebook Jed Talks #1 and #2 Everything by Kapil Gupta,
+
 MD Kapil recently became a personal advisor and coach to me, and this comes from a person
 who doesn’t believe in coaches. [79] A Master’s Secret Whispers: For those who abhor noise
 and seek The Truth…about life and living Direct Truth: Uncompromising, non-prescriptive
@@ -4154,7 +4118,7 @@ answer to how to approach the major problems in life. I recommend The Prophet to
 whether you’re religious or not. Whether you are Christian, Hindu, Jewish, or atheist. I
 think it’s a beautiful book, and it’s worth reading. [7]
 
-#### Science Fiction
+### Science Fiction
 
 I started with comic books and sci-fi. Then I was into history and news. Then into
 psychology, popular science, technology.
@@ -4259,7 +4223,7 @@ end up nutritionally, financially, and morally bankrupt.
 
 ### Other Recommendations
 
-## Twitter accounts like:
+### Twitter accounts like:
 
 @AmuseChimp (my all-time favorite Twitter account) @mmay3r @nntaleb Art De Vany (on
 Facebook) Genius is here, just unevenly distributed. [4] Must-read. (Twitter thread on
@@ -4282,7 +4246,7 @@ the board. It’s just an old-timer essay on how to do great work. It reminds me
 what Richard Feynman used to say, although I think Hamming has put it more eloquently than
 almost anywhere else I’ve seen. [74]
 
-## Naval’s Writing
+### Naval’s Writing
 
 ### Life Formulas I (2008)
 
@@ -4290,71 +4254,43 @@ These are notes to myself. Your frame of reference, and therefore your calculati
 vary. These are not definitions—these are algorithms for success. Contributions are welcome.
 
 - Happiness = Health + Wealth + Good Relationships
-
 - Health = Exercise + Diet + Sleep
-
 - Exercise = High Intensity Resistance Training + Sports +
-
 - Rest
-
 - Diet = Natural Foods + Intermittent Fasting + Plants
-
 - Sleep = No alarms + 8–9 hours + Circadian rhythms
-
 - Wealth = Income + Wealth * (Return on Investment)
-
 - Income = Accountability + Leverage + Specific Knowledge
-
 - Accountability = Personal Branding + Personal Platform
-
 - + Taking Risk?
-
 - Leverage = Capital + People + Intellectual Property
-
 - Specific Knowledge = Knowing how to do something society cannot yet easily train other
   people to do
-
 - Return on Investment = “Buy-and-Hold” + Valuation + Margin of Safety [72]
 
-## Naval’s Rules (2016)
+### Naval’s Rules (2016)
 
 - Be present above all else.
-
 - Desire is suffering. (Buddha)
-
 - Anger is a hot coal you hold in your hand while waiting to throw it at someone else.
   (Buddha)
-
 - If you can’t see yourself working with someone for life, don’t work with them for a day.
-
 - Reading (learning) is the ultimate meta-skill and can be traded for anything else.
-
 - All the real benefits in life come from compound interest.
-
 - Earn with your mind, not your time.
-
 - 99 percent of all effort is wasted.
-
 - Total honesty at all times. It’s almost always possible to be honest and positive.
-
 - Praise specifically, criticize generally. (Warren Buffett)
-
 - Truth is that which has predictive power.
-
 - Watch every thought. (Ask “Why am I having this thought?”)
-
 - All greatness comes from suffering.
-
 - Love is given, not received.
-
 - Enlightenment is the space between your thoughts. (Eckhart Tolle)
-
 - Mathematics is the language of nature.
-
 - Every moment has to be complete in and of itself. [5] Health, love, and your mission, in
   that order. Nothing else matters.
 
-## Next on Naval
+### Next on Naval
 
 If you loved this book, there are many ways to dive deeper into Naval. I am publishing
 “Navalmanack” shorts on Navalmanack. com. These are sections that were edited out of the
@@ -4376,16 +4312,11 @@ in Naval’s more specific insights on:
 Naval continues to create and share great insights:
 
 - On Twitter: Twitter.com/Naval
-
 - On his podcast: Naval
-
 - On his website: https://nav.al/ The most popular of Naval’s material at the time of
   writing:
-
 - Naval podcast episodes compilation:How to Get Rich
-
 - Interview on The Knowledge Project
-
 - Interview on Joe Rogan Podcast Readwise.io has generously created a collection of excerpts
   of this book, available through Readwise.io/naval. You will receive a weekly email with
   key excerpts from this book to keep the concepts top-of-mind long after you’ve finished
@@ -4394,13 +4325,13 @@ Naval continues to create and share great insights:
 If you love the illustrations by Jack Butcher, you can find more of his illustrations of
 Naval’s ideas on Navalmanack.com and more of his work at VisualizeValue.com.
 
-## Appreciation
+### Appreciation
 
 There is so much to be grateful for, and so many people to be grateful to. I am overwhelmed
 with happiness when I consider all of the people who contributed pieces of themselves to
 create this book. I feel a rising, inflating warmth of gratitude for all of you.
 
-## Here is my written Oscars speech of thanks and appreciation:
+### Here is my written Oscars speech of thanks and appreciation:
 
 I’m extremely grateful to Naval for trusting a stranger from the internet to create a book
 out of his words. This all started with a half-assed tweet, and became something great
@@ -4457,13 +4388,9 @@ share this book came directly out of a deep appreciation for the life-changing i
 similar books, a few I’d like to name specifically:
 
 - Poor Charlie’s Almanack edited by Peter Kaufman (of Charlie Munger’s work)
-
 - Zero to One by Blake Masters (of Peter Thiel’s work)
-
 - Seeking Wisdom (and others) by Peter Bevelin (of Buffett and Munger’s work)
-
 - Berkshire Hathaway Letters to Shareholders edited by Max Olson (of Buffett’s work)
-
 - Principles by Ray Dalio (and team) I am grateful to the team at Scribe, for being early
   and earnest supporters of this book. Zach Obront provides fantastic advice, and Hal
   Clifford is a patient and persistent editor.
@@ -4482,7 +4409,7 @@ encouraged me throughout this project. My DMs overflow with kind words and eager
 I appreciate every gesture. Your energy helped pull me through the thousand hours it took to
 create this for you.
 
-## Sources
+### Sources
 
 [1] Ravikant, Naval. “Naval Ravikant Was Live.” Periscope, January 20, 2018. https://
 www.pscp.tv/w/1eaKbqrWloRxX. [2] Ravikant, Naval. “Naval Ravikant Was Live.” Periscope,
@@ -4578,7 +4505,6 @@ https://startupboy.com/2010/12/01/funding-markets-develop-in-reverse/. [23] Nivi
       Angel.” Dartmouth Alumni Magazine, Winter 2014. https://
       dartmouthalumnimagazine.com/articles/avenging-angel. [39] Babak, Nivi. “AngelList New
       Employee Reading List.” Venture Hacks, October 26,
-
 2013. https://venturehacks.com/articles/reading. [40] Babak, Nivi. “Things We Care About at
       AngelList.” Venture Hacks, October 11, 2013. http://venturehacks.com/articles/care.
       [41] Rivlin, Gary. “Founders of Web Site Accuse Backers of Cheating Them.” The New
@@ -4609,7 +4535,6 @@ https://startupboy.com/2010/12/01/funding-markets-develop-in-reverse/. [23] Nivi
       me/post/49363486516/connect-the-dots. [53] “Naval Ravikant.” Angel.
       https://angel.co/naval. [54] Babak, Nivi. “Welcoming the Kauffman Foundation.” Venture
       Hacks, October 5,
-
 2010. http://venturehacks.com/articles/kauffman. [55] “Introducing CoinList.” Medium,
       October 20, 2017. https://medium.com/@ coinlist/introducing-coinlist-16253eb5cdc3.
       [56] Hochstein, Marc. “Most Influential in Blockchain 2017 #4: Naval Ravikant.”
@@ -4658,7 +4583,7 @@ YouTube video, 2:11:56. https://www.youtube.com/watch?v=3qHkcs3kG44. [78] Ravika
 Ravikant, Naval. Original content created for this book, September 2019. [80] Jorgenson,
 Eric. Original content written for this book, June 2019.
 
-## About the Author
+### About the Author
 
 ERIC JORGENSON is a product strategist and writer. In 2011, he joined the founding team of
 Zaarly, a company dedicated to helping homeowners find accountable service providers they

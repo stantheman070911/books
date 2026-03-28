@@ -17,12 +17,9 @@ transcripts, tweets, and interviews over his entire life to date. The body of th
 comes directly from him. On this, a few important points:
 
 - Transcripts have been edited for clarity, brevity, and flow multiple times.
-
 - Given potential for fakes, edits, and misquotes, I can’t be certain of every source’s
   authenticity.
-
 - Please verify phrasing with a primary source before citing Elon from this book.
-
 - Please interpret generously.
 
 Everything in this book is taken out of context. To create this book, I recontextualized
@@ -184,11 +181,8 @@ ideas that work.
 This book has four parts:
 
 1. Pursue Purpose: The foundations of a unique life
-
 2. Ultra Hardcore Work: Mindsets and principles for achieving the barely possible
-
 3. Building Companies: Stories and strategies from PayPal, Tesla, and SpaceX
-
 4. On Behalf of Humanity: How you can be part of elevating the future of humanity The first
    half is filled with principles and tactics Elon uses to guide his life and build his
    companies. I guarantee you will get valuable ideas in the first few pages.
@@ -217,12 +211,12 @@ It is impossible until you understand it, and then it becomes trivial.”
 
 Now, here is Elon in his own words…
 
-# Part I: Pursue Purpose
+## Part I: Pursue Purpose
 
 I don’t mind if my legacy is accurate or inaccurate, as long as I die feeling I’ve done the
 right thing for the future of Consciousness.2
 
-## Living a Purposeful Life
+### Living a Purposeful Life
 
 You can choose to be not ordinary.
 
@@ -230,7 +224,7 @@ You can choose not to conform to the conventions taught by your parents.
 
 It’s possible for ordinary people to choose to be extraordinary.3
 
-## Be Useful
+### Be Useful
 
 Don’t aspire to glory; aspire to work.4 The measure of success in my life is: “How many
 useful things can I get done?”
@@ -271,7 +265,7 @@ become productive contributors to society. I’m also hopeful they will do thing
 engineering, writing books, or just in some way, adding more than they take from the
 world.15 A useful life is worth having lived.16
 
-## Fight For The Future
+### Fight For The Future
 
 Fight for the things that make you excited about the future.
 
@@ -323,7 +317,7 @@ to do, I’m not sure why you would do anything else. We want to maximize the ha
 population, propagate into the future as far as possible, and understand the nature of
 reality. Everything else follows from that.28 Remember the future.29
 
-## Obsess For Success
+### Obsess For Success
 
 Doing something I enjoy, which is useful for other people—that gives me satisfaction.30 I
 didn’t aspire to create companies as a kid. I just liked computers. Don’t start a company
@@ -350,7 +344,7 @@ other people will love, it’s much easier to sacrifice the time and effort. If 
 work out, you won’t regret it.38 My way of dealing with mental problems is to make sure you
 really care about what you’re doing—and take the pain.39
 
-## Start Before The World Is Ready
+### Start Before The World Is Ready
 
 We say the things we believe, even when sometimes those things we believe are delusional.40
 When you’re building a radically new product, people don’t know they want it yet, because
@@ -364,7 +358,7 @@ you’re doing is important. In the beginning, very few people will believe in y
 you’re doing. Over time, as you make progress, evidence will build. More and more people
 will start to believe.
 
-## Create More Than You Consume
+### Create More Than You Consume
 
 Examine your beliefs of the economy.
 
@@ -393,7 +387,7 @@ you.
 It’s much better to work on adding to the economic pie. Create more than you consume.47
 Create more than you consume.
 
-## Work Like Hell
+### Work Like Hell
 
 I am wired for war.48 Q: Why doesn’t the world have more Elon Musks?
 
@@ -431,7 +425,7 @@ have a drink on the beach. Now, I realize I should have had a drink with the tea
 beach…that would have been fine.61 If heat death will inevitably end the universe, it
 actually is all about the journey.62
 
-## Feel The Fear; Do It Anyway
+### Feel The Fear; Do It Anyway
 
 Look fear straight in the eye and it will disappear.
 
@@ -468,7 +462,7 @@ optimism or pessimism. Fuck that.
 
 We’re going to get it done.66 I definitely emboldened over time.67
 
-## Seek The Nature Of The Universe
+### Seek The Nature Of The Universe
 
 I don’t know the meaning of life. I don’t think we can answer that question well…yet.68 We
 must expand humanity and consciousness to the point where we are able to answer that
@@ -516,7 +510,7 @@ universe and understand the meaning of life. As just one example, we have to get
 moon and build a science base there. I think we could learn a lot about the nature of the
 universe.79
 
-## Think Like a Physicist
+### Think Like a Physicist
 
 I try to be hyperrational.
 
@@ -525,7 +519,7 @@ should try to do.
 
 These things just don’t seem that crazy to me.80
 
-## Obsess Over Truth
+### Obsess Over Truth
 
 Start somewhere. Then be prepared to question your assumptions, fix what you did wrong, and
 adapt to reality.81 I am obsessed with truth. Obsessed.82 If you’re going to come up with a
@@ -570,7 +564,7 @@ to do that. Wishful thinking is innate in the human brain. You want things to be
 wish them to be, so you tend to filter out information you shouldn’t.92 That’s why I always
 assume we’re losing, even when it looks like we might win.93
 
-## First-Principles Thinking
+### First-Principles Thinking
 
 Q: Where does first-principles thinking come from?
 
@@ -669,7 +663,7 @@ other rockets cost?” That is reasoning by analogy, but it really doesn’t ill
 true potential is.116 The first-principles approach is a good way to figure out
 counterintuitive solutions. It was a helpful thing to learn.117
 
-## Thinking In Limits
+### Thinking In Limits
 
 Another good physics tool is thinking about things “in the limit.” Take a particular idea
 and imagine scaling it to a very large or very small number. How do things change?118 The
@@ -732,11 +726,11 @@ in physics.133 At SpaceX especially, we often consider what’s possible within 
 my team says something is impossible, I try to open their minds to new potential solutions
 by asking, “What would it take?”134
 
-## It Is OK to Be Wrong, Just Don't
+### It Is OK to Be Wrong, Just Don't
 
 BE CONFIDENT AND WRONG.
 
-## Aspire To Be Less Wrong
+### Aspire To Be Less Wrong
 
 The mental tools of physics are powerful. They tell us to assume we’re wrong and that our
 goal is to be less wrong. Aspire to be less wrong. I don’t think you’re going to succeed
@@ -797,11 +791,11 @@ have an aerospace degree. I just read a lot of books and talked to a lot of peop
 to people from different walks of life, in different industries, professions, and skills.
 Try to learn as much as possible. Search for meaning.151
 
-## The Value of Engineering
+### The Value of Engineering
 
 I spend 80 percent of my time on engineering.152
 
-## Engineering Is Magic
+### Engineering Is Magic
 
 Engineering is, for all intents and purposes, magic, and who wouldn’t want to be a
 magician?153 Q: What drew you to engineering?
@@ -854,7 +848,7 @@ Science is discovering the essential truths about what exists in the universe.
 
 Engineering is about creating things that have never existed before.165
 
-## Engineering Wins Wars
+### Engineering Wins Wars
 
 In Sun Tzu’s The Art of War, there is no chapter on technology.
 
@@ -915,7 +909,7 @@ first to be certain of it.
 There isn’t a better example of a super weapon—anyone who gets it wins.181 Play to win, or
 don’t play at all.182
 
-## Engineering Creates Value
+### Engineering Creates Value
 
 My mind feels like a wild storm. I have a fountain of ideas. I have more ideas than I could
 possibly execute. Innovation is not the problem. Execution is the problem.183 There is never
@@ -936,17 +930,17 @@ easy, they would do it.185 The idea of going to Mars is not hard; that’s irrel
 
 Getting to Mars is the hard part.
 
-# Part II: Ultra Hardcore Work
+## Part II: Ultra Hardcore Work
 
 To those who quietly help advance the causes we mutually believe in, knowing advancing the
 cause is the only reward: thank you.186
 
-## What It Takes
+### What It Takes
 
 If conventional thinking makes your mission impossible, then unconventional thinking is
 necessary.187
 
-## Take Responsibility
+### Take Responsibility
 
 I am CEO of these companies because I feel I’m responsible for them, not because it’s the
 best thing for my quality of life.188 I want to emphasize that sometimes—in fact, most of
@@ -969,7 +963,7 @@ you’ve got a lot of smart people working super hard to minimize the probabilit
 it’s still there. And it’s quite significant.193 Given the options, I prefer to learn from
 success.194
 
-## Earn Deep Understanding
+### Earn Deep Understanding
 
 I wanted to know how the universe works and how the economy works. So, I studied physics and
 economics. You need to be able to bring a lot of people together to create something.
@@ -995,7 +989,7 @@ cave to some money guy. I encounter CEOs who don’t know the details of their t
 that’s ridiculous to me.201 To make the right decisions, you need to understand something at
 a detailed level.202
 
-## Sleep On The Factory Floor
+### Sleep On The Factory Floor
 
 I’ve done many many stretches of one-hundred-hour weeks— true one-hundred-hour weeks,
 sleeping roughly six hours per day. I would not recommend that. That’s for emergencies, not
@@ -1018,7 +1012,7 @@ willing to take that level of pain, I can do it too.”206 It was a world of hur
 wake up smelling like oil and iron filings. It was rough. But I was asking people to really
 go all out. I can’t expect them to go all out if I’m not doing the same.207
 
-## Frontline Leadership
+### Frontline Leadership
 
 Think about war. Do you want the general in some ivory tower or on the front lines? The
 troops fight harder if they see the general on the front lines. Nobody bleeds for the prince
@@ -1057,7 +1051,7 @@ learning (RL) loop.
 You want to have a strong RL loop, which means internalizing responsibility and minimizing
 ego.215 Do whatever the task is, whether grand or humble.216
 
-## Adversity Forges Strength
+### Adversity Forges Strength
 
 There is a great quote from Winston Churchill: “If you’re going through hell, keep
 going.”217 Q: Do you think overcoming challenges is something innate in your personality?
@@ -1101,7 +1095,7 @@ People worried about words have never been punched in the face.
 Once you’ve been punched in the face, real hard, right on the nose—you’ll take any words
 over that.228 Adversity shaped me. My pain threshold became very high.229
 
-## Eat Glass And Stare Into The Abyss
+### Eat Glass And Stare Into The Abyss
 
 When starting a company, usually the beginning is fun.
 
@@ -1141,14 +1135,14 @@ people fear starting a company too much.
 What’s the worst that could happen? You’re not gonna starve to death; you’re not gonna die
 of exposure—really, what’s the worst that could happen?238
 
-## Building Exceptional Teams
+### Building Exceptional Teams
 
 The most important thing is to attract great people.
 
 Whether you are creating a company or joining a company, find an amazing group that you
 really respect.239
 
-## A Group With A Goal
+### A Group With A Goal
 
 A company is just a bunch of people coming together to create a product or service. There’s
 no such thing as “a business,” just a group pursuing a goal.240 How talented and hardworking
@@ -1179,7 +1173,7 @@ on PowerPoint. If you have an actual demonstration, even in primitive form, it i
 effective in convincing people.249 Fundamentally, if you don’t have a compelling product at
 a compelling price, you don’t have a great company.250
 
-## Create A Culture Of Builders
+### Create A Culture Of Builders
 
 I consider one of my core responsibilities as CEO is to have an environment where great
 engineers can flourish.251 I don’t think I manage smart people; they manage themselves.
@@ -1224,7 +1218,7 @@ a greater degree than anywhere else.260 Tesla has been like a whole series of st
 far almost all have been quite successful, so we must be doing something right.261 Only
 exceptional performance constitutes a passing grade.262
 
-## Recruit For Exceptional Ability
+### Recruit For Exceptional Ability
 
 When hiring, I look for evidence of exceptional ability, or at least exceptional aspiration.
 
@@ -1260,7 +1254,7 @@ answers.
 
 A person who was not responsible for that accomplishment will not know the details.267
 
-## Retain Only Special Forces
+### Retain Only Special Forces
 
 I worked very hard to collect the right expertise when starting SpaceX. I tried hard to find
 a great chief engineer for the rocket, but good chief engineers wouldn’t join and there is
@@ -1295,7 +1289,7 @@ When hiring, look for people with the right attitude.
 
 Skills can be taught. Attitude changes require a brain transplant.
 
-## Feedback Over Feelings
+### Feedback Over Feelings
 
 Physics does not care about hurt feelings. It cares about whether you got the rocket
 right.277 All bad news should be given loudly and often. Good news can be said quietly and
@@ -1317,11 +1311,11 @@ think it’s a real weakness to want to be liked. A real weakness.
 
 And I do not have that.281
 
-## Designing the Organization
+### Designing the Organization
 
 It must be okay for people to talk directly and make the right thing happen.282
 
-## Remove Organizational Boundaries
+### Remove Organizational Boundaries
 
 In any product, you can see the errors in the organization’s structure. They will manifest
 themselves in the product.
@@ -1409,7 +1403,7 @@ workers replied. “Okay,” I said, “Let’s try four millimeters.”
 
 It worked.291
 
-## Simple Communication
+### Simple Communication
 
 Don’t use acronyms or nonsense words for objects, software, or processes. In general,
 anything that requires an explanation inhibits communication. We don’t want people to have
@@ -1437,7 +1431,7 @@ or Merlin 1C-Sea Level. But they need to be kept to a minimum.292 The most simpl
 straightforward, low-ego terms are generally best. You want to close the loop on reality
 hard.293
 
-## Innovation Needs Permission To Fail
+### Innovation Needs Permission To Fail
 
 Failure is essentially irrelevant unless it is catastrophic.294 Failure is essentially
 irrelevant unless it is catastrophic.
@@ -1494,7 +1488,7 @@ It will hurt the first fifty times.
 
 When you get used to losing, you will play each game with less emotion.309
 
-## Simplicity Wins
+### Simplicity Wins
 
 Never use a cruise missile to kill a fly; just use a flyswatter.310 Every decision we made
 in early SpaceX designs has been with simplicity in mind. Simplicity both improves
@@ -1553,7 +1547,7 @@ three hundred robots. You want fewer things, not more.322 It’s easy to say “
 it’s very difficult to do it.323 It’s easy to say ‘simplify’ but it’s very difficult to do
 it
 
-## The Algorithm
+### The Algorithm
 
 I became a broken record on The Algorithm. But it’s helpful to say it to an annoying degree.
 
@@ -1561,13 +1555,9 @@ I have everyone at my companies rigorously implement a fivestep process for engi
 call it The Algorithm. I’ll list the steps, then explain. The order is very important.
 
 1. Make your requirements less dumb.
-
 2. Try very hard to delete the part or process.
-
 3. Simplify or optimize.
-
 4. Accelerate.
-
 5. Automate.
 
 Q: Why is the order of the steps so important?
@@ -1586,9 +1576,7 @@ Finally, I asked the battery safety team, “What the hell are these mats for? F
 protection?”
 
 - They said, “No, they’re for noise and vibration.”
-
 - I said, “But…you’re the battery team.”
-
 - So I asked the noise vibration analysis team, “What’s the mat for?”
 
 They said fire safety. It was like being in a Dilbert cartoon. I feel like I’m in a Dilbert
@@ -1686,11 +1674,11 @@ building just to remove all that equipment.328 Always wait until the end of desi
 process—after you have questioned all the requirements and deleted unnecessary parts—before
 you introduce automation.329
 
-## Maniacal Urgency
+### Maniacal Urgency
 
 A maniacal sense of urgency is our operating principle.330
 
-## Don't Waste Time
+### Don't Waste Time
 
 Excessive meetings are the blight of big companies and almost always get worse over time.
 Get rid of all large meetings, unless you’re certain they are providing value to the whole
@@ -1702,7 +1690,7 @@ Meeting frequency should drop rapidly once the urgent matter is resolved.
 Walk out of a meeting or drop off a call as soon as it is obvious you aren’t adding value.
 It is not rude to leave; it is rude to make someone stay and waste their time.
 
-## Speed Is Both Offense And Defense
+### Speed Is Both Offense And Defense
 
 The only true currency is time.331 The best offense and defense is speed. The SR-71
 Blackbird is a military plane with almost no defense except acceleration.
@@ -1734,7 +1722,7 @@ million-dollar impact. That is insane. If Tesla is doing $2 billion a week in re
 that’s about $300 million a day, seven days a week. There are many instances where a
 half-hour meeting improved the company’s financial outcome by $100 million.339
 
-## Do Things In Parallel
+### Do Things In Parallel
 
 Everything is measured in terms of time. What is the time risk associated with something?
 
@@ -1786,7 +1774,7 @@ myself.345 Now called Colossus, it is currently the largest AI training platform
 world. It was constructed in 122 days. Ninetytwo days later, it had been doubled to two
 hundred thousand GPUs.346
 
-## Set Aggressive Timelines
+### Set Aggressive Timelines
 
 I often tell the Tesla team: “It’s okay to scrap equipment or money. It’s not okay to scrap
 time.”347 When I was interviewing for a vice president of machining, I explained I was
@@ -1839,11 +1827,11 @@ come true eventually. For radical technology predictions, the point is not that 
 years late, but that it happened at all. That’s the more important part.356 I may be a
 little optimistic, but I always deliver.357
 
-## We Must Make Stuff
+### We Must Make Stuff
 
 Manufacturing is underrated. It’s hard.358
 
-## The Real Work
+### The Real Work
 
 Some people have an absurd view of the economy as a magic thing that just produces stuff.
 
@@ -1873,7 +1861,7 @@ Making cars is an honest day’s living, that’s for sure. Making anything or p
 valuable service like good entertainment, good information—these are valuable things to
 do.362 I’ve got mad respect for the makers of things.363
 
-## The Factory Is The Product
+### The Factory Is The Product
 
 The biggest epiphany I had building Tesla is what really matters is the machine that builds
 the machines—the factory.364 To accelerate a sustainable future, Tesla had to scale up
@@ -1895,7 +1883,7 @@ cybernetic collective with ten thousand things going wrong and you’ve got to s
 Fast. If you don’t solve problems fast enough, the factory doesn’t go. A big factory burns a
 huge amount of money every minute you aren’t making a product.368
 
-## Attack The Constraint
+### Attack The Constraint
 
 Designing a rocket is trivial.
 
@@ -1920,7 +1908,7 @@ goes into the production system than the product itself.376 Especially for a pro
 new technology. The difficulty of manufacturing is proportionate to the amount of new
 technology in the product.377
 
-## Manufacturing Is The Moat
+### Manufacturing Is The Moat
 
 Two things define manufacturing competitiveness: economies of scale and technology. If you
 maximize your level of technology and maximize your level of scale, this is obviously going
@@ -1942,13 +1930,13 @@ no and the sixth said maybe. I said, “I’ll take that as a yes.”379 Prototy
 fun. Reaching volume production with a reliable product at an affordable price is
 excruciatingly difficult.380
 
-# Part III: Building Companies
+## Part III: Building Companies
 
 Q: What fuels your creativity?
 
 ### Pressure. Necessity.
 
-## Becoming a Founder
+### Becoming a Founder
 
 You want to embark on something where success is certain to be one of the possible
 outcomes.382 Q: What was the path to starting your first company?
@@ -2024,7 +2012,7 @@ don’t need a lot of tooling and equipment to get started. Software you can jus
 yourself. It’s not capital intensive. Starting something software-related as your first
 company is much, much easier.402
 
-## Starting Zip2
+### Starting Zip2
 
 When we first started Zip2, our ambitions were quite low: make enough money to pay rent.403
 Q: When did you start your first company?
@@ -2043,7 +2031,9 @@ classified ads.
 
 It was, to the best of my knowledge, the first map and directions on the internet. There may
 still be some patents—or maybe they lapsed at this point. (Note from Eric: there is, patent
-#5944769.407) The whole initial code base I wrote myself because there wasn’t anyone else.
+
+## 5944769.407) The whole initial code base I wrote myself because there wasn’t anyone else.
+
 It was just me.408 I was twenty-four at the time and only had a few thousand dollars saved.
 I convinced my brother to join, and he brought about five thousand dollars, which was a lot
 for us. For the first few months, we only had one computer. When the website wasn’t working,
@@ -2106,7 +2096,7 @@ X.com (which became PayPal). This was early 1999, and there were a lot of opport
 remaining on the internet.423 I’ve always wanted to push my chips back on the table or play
 the next level of the game. I’m not good at sitting back.424
 
-## Going All In, Again (Zip2 Earnings into PayPal)
+### Going All In, Again (Zip2 Earnings into PayPal)
 
 It was frustrating.
 
@@ -2166,7 +2156,7 @@ CEO. I said, “Great, I don’t want to be CEO.” I had no desire to be a CEO.
 chores…being CEO sucks. He also told me, “Dude, you should not invest basically everything
 except your house and car in your startup.”434 I kept the chips on the table.435
 
-## Listen Well, Correct Fast
+### Listen Well, Correct Fast
 
 The initial thought with X.com was to create a conglomeration of financial services, so you
 have one place where all your financial service needs could be seamlessly integrated and
@@ -2218,7 +2208,7 @@ negative feedback, and solicit it, particularly from friends.
 
 It's incredibly helpful.
 
-## Unite And Conquer
+### Unite And Conquer
 
 What matters to me is winning, and not in a small way.442 Around the same time I was
 starting X, another company formed called Confinity, which was Peter Thiel, Max Levchin,
@@ -2278,7 +2268,7 @@ The FTC was trying to shut us down. Visa, MasterCard, and eBay were all trying t
 shut down. There were a lot of battles.454 It was a close call. We came close to dying in
 2000 and 2001.455
 
-## From Exile To Exit
+### From Exile To Exit
 
 I was away for two weeks and the management team decided I wasn’t the right guy to run the
 company.
@@ -2324,7 +2314,7 @@ I haven’t spent my winnings.
 
 I’m going to put almost all of it back into a new game.463
 
-## Building Tesla
+### Building Tesla
 
 Accelerating the removal of hydrocarbons from the crust and placing them in the atmosphere
 is unwise.
@@ -2333,7 +2323,7 @@ This is one of the biggest problems of the twentyfirst century.
 
 Hopefully this transition to sustainable energy occurs before it’s too late.464
 
-## The Mission To Protect The Planet
+### The Mission To Protect The Planet
 
 There’s no way we can conserve our way to a good future. We have to make energy
 sustainable.465 Q: Why is the mission of Tesla so important to you?
@@ -2412,7 +2402,7 @@ use of sustainable energy, so we can imagine far into the future and life is sti
 That’s what “sustainable” means. It’s not some silly hippie thing—it matters for
 everyone.480
 
-## Going All In, Again (PayPal Earnings into Tesla)
+### Going All In, Again (PayPal Earnings into Tesla)
 
 When you have a big technology change, it tends to come from new companies.481 A lot of
 entrepreneurial talent and financing goes to the internet. Other sectors like automotive,
@@ -2434,7 +2424,7 @@ maybe $30 million. SolarCity…actually went really well.487 I ended up putting 
 into Solar City, $70 million into Tesla, and $100 million into SpaceX. I literally had to
 borrow money for rent. It was a close call.488
 
-## Building The First Prototype
+### Building The First Prototype
 
 I first realized all vehicles would be electric in the early nineties, way before Tesla
 started. I was studying physics in my sophomore year in college; it was obvious to me even
@@ -2493,7 +2483,7 @@ prepared to question your assumptions, fix what you did wrong, and adapt to real
 most important thing is to start somewhere, be prepared to question your assumptions, fix
 what you did wrong, and adapt to reality.
 
-## Becoming Tesla’s CEO
+### Becoming Tesla’s CEO
 
 The actual error was me trying to have my cake and eat it too: I just wanted to work on the
 technology and the product. I thought someone else could be the CEO and run the business,
@@ -2520,7 +2510,7 @@ the business stuff because you have to do the business stuff. If you don’t do 
 stuff, somebody else could do it for you and then you could be in trouble.503 I have a habit
 of biting off more than I can chew and just sitting there with chipmunk cheeks.504
 
-## Sequenced Strategy Of Tesla
+### Sequenced Strategy Of Tesla
 
 Tesla is focused on making electric cars more affordable, which is tough. You need high
 volume to make cars affordable. When we started, other car companies made a lot more cars,
@@ -2532,9 +2522,7 @@ new product, the first thing engineers try to do is make it work. After you make
 then you optimize and optimize and optimize.507 The master plan was:
 
 1. Build a sports car.
-
 2. Use that money to build an affordable car.
-
 3. Use that money to build an even more affordable car. (While doing above, also provide
    zero-emission electric power generation options.)508 We had to start off with step one,
    because it was all I could afford with what I made from PayPal. I thought our chances of
@@ -2566,7 +2554,7 @@ one hundred years—is reaching volume production without going bankrupt. That i
 hard thing. The last American car company to reach volume production without going bankrupt
 was Chrysler. That was in the 1920s.516
 
-## Keeping Tesla Alive
+### Keeping Tesla Alive
 
 Tesla is alive by the skin of its teeth. So is SpaceX.
 
@@ -2619,7 +2607,7 @@ face off—like right there and the foam is spattering on you.522 For a while al
 think was, “We need to live. How do we live?”523 At both SpaceX and Tesla in 2008, if we’d
 paid our suppliers on time we would have gone bankrupt immediately.524
 
-## The Edge Of Sanity
+### The Edge Of Sanity
 
 Q: How do you prioritize with so many things going on at once?
 
@@ -2659,7 +2647,7 @@ on Earth.
 I can tell you how every damn part in that car is made. That’s what happens when you live in
 the factory for three years.532
 
-## A Whole New Kind Of Car Company
+### A Whole New Kind Of Car Company
 
 Ultimately, what we induce other companies to do will have a greater impact than the cars we
 make ourselves.533 Q: A Tesla is a very different product, but how different is Tesla as a
@@ -2730,7 +2718,7 @@ bananas.
 
 If you’re trying to make a perfect product, attention to detail is essential.547
 
-## Give People More For Less
+### Give People More For Less
 
 Revolutionizing industries is not for the faint of heart.548 Q: How do you think about
 iterating through products to reach a mass market?
@@ -2787,7 +2775,7 @@ soft, the press-and-click won’t stick; if it’s too hard, you can’t get it 
 something that is a tiny fraction of a millimeter accurate and it’s a low-cost plastic toy.
 If LEGO can be that precise, so can a car.559
 
-## The Battle Of Public Perception
+### The Battle Of Public Perception
 
 It should puzzle you that a Tesla crash resulting in a broken ankle is front-page news, yet
 the many thousands of people who die in US auto accidents each year get almost no
@@ -2821,7 +2809,7 @@ Tesla, like most electric cars, is over 500 percent less likely to catch fire th
 combustion engine cars, which carry massive amounts of highly flammable fuel. Why is this
 never mentioned?570
 
-## Founding SolarCity
+### Founding SolarCity
 
 Q: How did SolarCity fit into the vision for Tesla?
 
@@ -2868,7 +2856,7 @@ sustainable energy. When Tesla was ready to scale Powerwall (our home battery fo
 storage) and SolarCity was ready to provide a differentiated solar system for energy
 generation, the time had come to bring them together.576
 
-## Building SpaceX
+### Building SpaceX
 
 Building mass-market electric cars was inevitable.
 
@@ -2876,7 +2864,7 @@ It would have happened without me.
 
 But becoming a space-faring civilization is not inevitable.577
 
-## The Only One Crazy Enough For Space
+### The Only One Crazy Enough For Space
 
 I’ve always been optimistic. If I wasn’t optimistic, I wouldn’t be attempting all these
 crazy things. I must be pathologically optimistic, I suppose.578 The origin of SpaceX was
@@ -2915,7 +2903,7 @@ exploration. It’s fundamental to the psyche.
 
 Once people realized, “There is a way to do this,” we got a lot of support.587
 
-## I Expected To Lose Everything
+### I Expected To Lose Everything
 
 When something is important enough, you do it even if the odds are not in your favor.588
 When I started them, I guessed both SpaceX and Tesla each had a probability of less than 10
@@ -3034,7 +3022,7 @@ build Starship, the successor to Saturn V rocket, a superheavy-lift vehicle that
 used for setting up a moon base or doing a Mars mission. That is our holy grail
 objective.610
 
-## Rockets From First Principles
+### Rockets From First Principles
 
 I was trying to figure out if there was something fundamentally superexpensive about
 rockets.611 Q: How did you determine whether your vision for SpaceX had the potential to
@@ -3087,7 +3075,7 @@ I didn’t really know how to start a rocket company.
 
 The first three launches failed. I did not hit the bull’s-eye.623
 
-## Keeping SpaceX Alive
+### Keeping SpaceX Alive
 
 SpaceX is in this for the long haul and, come hell or high water, we are going to make this
 work.624 I thought if we couldn’t get to orbit within three failures, we deserved to die.
@@ -3121,7 +3109,7 @@ today.” We’ll live a little bit longer. I just felt relief.636 But it was sh
 were still in a tough position. It was not like we had customers lined up. Even the fourth
 launch working wasn’t enough to succeed. We also needed a big contract to keep us alive.637
 
-## Landing NASA Contracts
+### Landing NASA Contracts
 
 After the successful launch, as I was scrambling to fundraise for Tesla in 2008, NASA called
 out of the blue to tell me SpaceX had won a contract. I couldn’t believe it. I screamed, “I
@@ -3150,7 +3138,7 @@ both worked, NASA said, “What about astronaut transport?” They put out a big
 awarded two contracts for astronaut transport, one to Boeing and one to SpaceX. Now, we
 transport astronauts to and from the space station.642
 
-## You Have To Blow Things Up
+### You Have To Blow Things Up
 
 The first goal is to make the damn thing work— we’ll optimize it later.
 
@@ -3218,7 +3206,7 @@ again.
 Maybe once or twice—if we’re lucky.649 Eliminate what isn’t necessary to solve the key
 problem.650
 
-## Building The Just Barely Possible
+### Building The Just Barely Possible
 
 I was told many times rocket reusability was impossible.651 One of the hardest engineering
 problems known to man is making a reusable orbital rocket.
@@ -3311,7 +3299,7 @@ reliable rockets. RRRR.
 
 Space pirates.677
 
-## Optimizing For Mass To Mars
+### Optimizing For Mass To Mars
 
 The thing we optimize for at SpaceX is cost per ton to orbit.
 
@@ -3365,17 +3353,17 @@ is really trying to achieve.
 What we’ve done so far is good; it’s better. But it has been evolutionary—not yet
 revolutionary. We need the revolutionary thing to work.689
 
-# Part IV: On Behalf of Humanity
+## Part IV: On Behalf of Humanity
 
 There is something special—far more rewarding than money—about working with an epic team to
 make breakthroughs.690
 
-## Building Our Future
+### Building Our Future
 
 I can’t emphasize this enough: As long as we push hard and are not complacent, the future is
 going to be great.691
 
-## Companies Are Philanthropy
+### Companies Are Philanthropy
 
 If you care about the reality of goodness instead of the perception of it, philanthropy is
 extremely difficult.
@@ -3409,7 +3397,7 @@ Earth. I care about the reality of goodness, not the perception of it.
 What I see all over the place is people who care about looking good while doing evil. Fuck
 them.697 I care about reality. Perception be damned.698
 
-## Companies Create Wealth For All
+### Companies Create Wealth For All
 
 I don’t disrupt something for the sake of disrupting it. My focus is making a product that
 improves quality of life for people.699 If the output is more valuable than the inputs, that
@@ -3460,7 +3448,7 @@ You increased the standard of living of the country and perhaps of the world.
 Work on things that you find interesting, fulfilling, and that contribute some good to the
 rest of society.
 
-## Companies To Start
+### Companies To Start
 
 Work on things that you find interesting, fulfilling, and that contribute some good to the
 rest of society.712 Q: What are some areas you see where people could build important new
@@ -3527,7 +3515,7 @@ it.726 Go do it. Just go out there and do it. People are far too afraid to try. 
 biggest reason for failure. Don’t be afraid to fail. Just go.727 If you don’t push for
 radical breakthroughs, you’re not going to get radical outcomes.728
 
-## Companies Drive Progress
+### Companies Drive Progress
 
 The rate of innovation is not constant. This year, we’re either going to increase the rate
 of innovation or it will slow down.729 Some people think technology automatically gets
@@ -3556,14 +3544,14 @@ urgency, things will be fine.732 If you want the future to be good, you must mak
 Take action to make it good, and it will be.733 If you want the future to be good, you must
 make it so.
 
-## The Age of Abundance
+### The Age of Abundance
 
 AI and robotics will bring about what might be termed “the age of abundance.”
 
 Other people have used this word, and that is my prediction: It will be an age of abundance
 for everyone.734
 
-## The End Of Scarcity
+### The End Of Scarcity
 
 People get confused sometimes; they think an economy is money. Money is just a database.
 
@@ -3601,7 +3589,7 @@ two humanoid robots per person or more, maybe ten for every one. Well in excess 
 billion humanoid robots. At volume production, a humanoid robot will cost less than a
 car.743
 
-## Exponential Intelligence
+### Exponential Intelligence
 
 Computing power is going to be crazy. The big change is the cost of computing power, not so
 much the circuit density (known as Moore’s Law). If you look at dollars per instruction,
@@ -3623,7 +3611,7 @@ event horizon of the black hole that is artificial superintelligence. Over a twe
 thirty-year time frame, things could be transformed beyond belief. We probably won’t
 recognize society in thirty years.748
 
-## Upgrading The Human Mind
+### Upgrading The Human Mind
 
 The internet is a great leveler for information and education. You can learn anything online
 for free.749 The internet is a great leveler for information and education.
@@ -3719,7 +3707,7 @@ and radar. That’s a superpower situation.
 Augmenting intelligence, senses, and bandwidth dramatically—that’s going to happen at some
 point.769
 
-## The Last Human Drivers
+### The Last Human Drivers
 
 It’s crazy to let people drive a two-ton death machine manually.
 
@@ -3776,12 +3764,9 @@ it may be the biggest asset value increase in history…overnight.784 So, in sho
 Plan Part Deux is:
 
 - Create stunning solar roofs with seamlessly integrated battery storage.
-
 - Expand the electric vehicle product line to address all major segments.
-
 - Develop a self-driving capability that is ten times safer than manual via massive fleet
   learning.
-
 - Enable your car to make money for you when you aren’t using it.785 I can’t say enough
   about the profundity of full self-driving. It will be one of the biggest changes in
   history. It’s not just some feature; it is as profound as electrification. We already have
@@ -3793,7 +3778,7 @@ historically megarevolutionary product. It will transform everything. This is th
 that makes Tesla a ten-trillion-dollar company. People will be talking about this moment in
 a hundred years.787
 
-## Sustainable Abundance
+### Sustainable Abundance
 
 We’re accelerating the world’s transition to sustainable abundance.788 In Tesla’s Master
 Plan, Part 3, the thing we wanted to convey, more importantly than anything else, is that
@@ -3814,14 +3799,10 @@ sustainableenergy civilization.789 A fully electrified and sustainable economy i
 reach through the actions in this paper:
 
 1. Repower the existing grid with renewables
-
 2. Switch to electric vehicles 3. Switch to heat pumps in residential, business, and
    industry
-
 4. Electrify high-temperature heat delivery and hydrogen production
-
 5. Sustainably fuel planes and boats
-
 6. Manufacture the sustainable energy economy Our models show the electrified and
    sustainable future is technically feasible and requires less investment and less material
    extraction than continuing today’s unsustainable energy economy.790 The tools we make at
@@ -3835,7 +3816,7 @@ skills to accomplish whatever they imagine. Everyone deserves access to these op
 and technological growth can help ensure that each of us is able to maximize our most
 limited resource: time.
 
-## Our Existential Risks
+### Our Existential Risks
 
 Don’t worry about it.
 
@@ -3845,7 +3826,7 @@ Because if you worry about it, ironically, it will be okay.
 
 It will be a self-unfulfilling prophecy.791
 
-## This Is The Best Time To Be Alive
+### This Is The Best Time To Be Alive
 
 Q: What period of history would you prefer to live in the most?
 
@@ -3893,7 +3874,7 @@ quite a few important problems to solve.802 We should view our civilization as m
 fragile than we think.803 We must keep civilization going onward and upward as much as
 possible and try to minimize the civilizational threats that occur.804
 
-## World War III
+### World War III
 
 I’m not predicting a world war anytime soon. But given enough time, it will likely happen.
 This has been our pattern in the past. In the last century we had two massive world wars,
@@ -3940,7 +3921,7 @@ enough of a seed of human civilization to revive civilization and shorten the le
 dark age.810 Asimov’s Zeroth Law: Take the set of actions most likely to support the
 humanity of the future.811
 
-## Regulation Accumulation
+### Regulation Accumulation
 
 Be cautious about the gradual creep of regulations and bureaucracy.812 Humans die, but the
 laws they created don’t.813 The early auto industry was a hotbed of innovation at the
@@ -4007,7 +3988,7 @@ every year. This is a problem.824 Eventually, we’re like Gulliver, tied down b
 little strings. You can’t move. No single one of those strings is the issue. The problem is
 there are a million of them.825 We lose our freedom, one regulation at a time.826
 
-## Unsustainable Energy
+### Unsustainable Energy
 
 Generating sustainable energy is the biggest environmental issue that we face.827 I’m much
 less of a climate alarmist than people might think.
@@ -4052,7 +4033,7 @@ we can to a solar electric economy. The faster we get there, the better it is fo
 world.835 We could probably have a civilization that is a hundred times as energy intensive
 as we currently have it.836
 
-## Misaligned Artificial Superintelligence
+### Misaligned Artificial Superintelligence
 
 I’ve never seen any technology grow as fast as AI, and I’ve seen a lot of technology.837
 We’re quite close to digital superintelligence, which will be smarter than any human at
@@ -4125,7 +4106,7 @@ it.853 AI mirrors the mistakes of its creators.854 AI mirrors the MISTEAKS of it
 
 AI mirrors the
 
-## Mistakes
+### Mistakes
 
 of its creators.
 
@@ -4173,7 +4154,7 @@ We may enable people to walk again, which would be wild.
 
 Even full-body reanimation. Jesus-level stuff.862
 
-## Population Collapse
+### Population Collapse
 
 A low birth rate is a slow death for a civilization.863 Most historians overlook the role of
 low birth rates in the decline of civilizations.864 Will Durant has it correct in The Story
@@ -4260,7 +4241,7 @@ kids than anything else in my life. I’m not saying that’s the main reason to
 should have them anyway, but my kids are certainly the greatest source of joy in my life.891
 We should increase the population of Earth, not decrease it.892 Go forth and multiply.893
 
-## Asteroids And Comets
+### Asteroids And Comets
 
 A big rock will hit Earth eventually. We currently have no defense.894 If you think truly
 long term, you realize eventually there will be some natural disaster—even if it is not made
@@ -4278,7 +4259,7 @@ ability to stop small asteroids. Large asteroids and comets are still a danger.
 There’s always some risk of this occurring. The probable lifespan of all forms of life is
 much greater if we’re a multiplanet and ultimately a multistellar civilization.897
 
-## Becoming Multiplanetary
+### Becoming Multiplanetary
 
 The window of opportunity is open right now to make life multiplanetary.
 
@@ -4286,7 +4267,7 @@ We cannot count on it being open for a long time.
 
 We need to take advantage while this window is open.898
 
-## Becoming Multiplanetary Is an Evolutionary-Scale Event
+### Becoming Multiplanetary Is an Evolutionary-Scale Event
 
 Deciding what is important through the lens of history is a good way to distinguish what
 seems important now from what is truly important over the long term.899 If we get to Mars
@@ -4360,7 +4341,7 @@ There’s a pretty substantial bifurcation in our future: We’re either out the
 stars on many planets or confined to Earth until some eventual extinction.913 This is the
 first moment in 4.5 billion years that it has been possible to extend life beyond Earth.914
 
-## If You Love Life, Protect It
+### If You Love Life, Protect It
 
 I’ve read a lot of history, including the darkest, worst parts of it. Despite all that, I
 still love humanity. This is why I care about us becoming a multiplanet species, a
@@ -4396,7 +4377,7 @@ Think of us being a multiplanet species as taking out insurance for life itself.
 
 Life insurance, for life.925
 
-## The Gateway To Mars
+### The Gateway To Mars
 
 What started off as basically a sandbar in the middle of nowhere is now Starbase, Texas. We
 named it “The Gateway to Mars,” because this is where we’re going to develop the technology
@@ -4497,7 +4478,7 @@ just want to have flags and footprints on Mars for fifty years, like we did with
 To pass the great filter of existing only on one planet, we need to truly become a
 multiplanet species.951
 
-## Building The New World
+### Building The New World
 
 Attendance is not mandatory here. It’ll be dangerous and people might die.
 
@@ -4531,7 +4512,7 @@ atmosphere and water ice, which is CO2 plus H2O, so plenty of raw material to ma
 rockets need: CH4 (methane) and O22 (oxygen). Rocket fuel is easy to create on Mars, and in
 many other parts of the solar system.963 In the beginning, people would live in glass domes.
 
-## Over time, we’d terraform Mars and make it like
+### Over time, we’d terraform Mars and make it like
 
 Mars is cold, but if we warm it up we’ll get liquid water. Mars would have an ocean roughly
 a mile deep on 40 percent of the planet once we warm it up. That’s a lot of water. A lot of
@@ -4579,7 +4560,7 @@ be an explosion of opportunity for entrepreneurs, because our new world will nee
 from iron foundries to pizza joints. This includes everything you can imagine, like starting
 the first Italian restaurant on Mars. That would be cool, and somebody’s gotta do it.974
 
-## Colonizing The Galaxy
+### Colonizing The Galaxy
 
 Earth is the cradle of humanity. We cannot stay in the cradle forever.
 
@@ -4619,87 +4600,58 @@ Imagination is the limit.
 
 Go out there and create some magic.982
 
-## Bonus
+### Bonus
 
-## The 69 Core Musk Methods
+### The 69 Core Musk Methods
 
 These were selected as some of the fundamental ideas that make Elon and his companies
 successful. They have been edited or paraphrased into short, memorable maxims.
 
 1. You are capable of more than you think. 2. It’s possible for ordinary people to choose to
    be extraordinary.
-
 3. You can teach yourself anything. Read widely; talk to experts.
-
 4. Assume you’re wrong. Aspire to be less wrong.
-
 5. Internalize responsibility.
-
 6. If we don’t make stuff, there is no stuff.
-
 7. Creating products and services creates wealth.
-
 8. A useful life is worth having lived.
-
 9. Don’t aspire to glory; aspire to work. 10. Take actions that increase the odds of the
    future being good. 11. Every day, we either increase the rate of innovation or it slows
    down.
-
 12. Work on what is just becoming possible. 13. Don’t wait for the world to want it. If it
     should obviously exist, go build it.
-
 14. Build what no one else is building.
-
 15. As you move forward, allies will assemble around you.
-
 16. Prototypes are proof. 17. Start somewhere, question assumptions, and adapt to reality.
     18. Reason from fundamentals, not from what others are doing.
-
 19. “The magic-wand number.” See the theoretically perfect and work toward it. 20. “Know the
     idiot index.” Understand the cost of components.
-
 21. The Algorithm: Question Requirements → Try to Delete the Part or Process → Simplify →
     Accelerate → Automate. 22. For critical items, have meetings every twenty-four hours to
     run The Algorithm and check progress from yesterday. 23. Stay as close to the actual
     work as possible. Do not separate yourself from the pain of your decisions.
-
 24. All requirements should be treated as recommendations.
-
 25. The only fixed laws are the laws of physics. 26. The best part is no part; the best
     process is no process.
-
 27. Simplicity creates both reliability and low cost. 28. Find the design necessity of every
     part and every process.
-
 29. Overdelete and add back the absolutely necessary.
-
 30. Push for radical breakthroughs. 31. Be proactive. You will never win unless you take
     charge of setting the strategy.
-
 32. A maniacal sense of urgency is our operating principle. 33. A factory moving at twice
     the speed of another factory is basically equivalent to two factories.
-
 34. Attack the bottleneck. If you have 9,999 things that are working and one that isn’t,
     that one sets the overall production rate. 35. You’ll move as fast as your least-lucky
     or least-competent supplier.
-
 36. Do things in parallel.
-
 37. Give teams one key metric to focus on. Video games without a score are boring.
-
 38. Separating design, engineering, and manufacturing is a recipe for dysfunction.
-
 39. Speed of innovation is what matters. 40. Beat competitors on speed, quality, and cost,
     not anticompetitive behavior.
-
 41. Test the absurd. When something seems impossible, ask: “What would it take?”
-
 42. Money is not the constraint. Exceptional engineers are.
-
 43. Get everyone thinking like the chief engineer.
-
 44. Get a clear, direct feedback loop with reality.
-
 45. Always be smashing your ego. Ensure ability > ego. 46. Ask, “Is this effort resulting in
     a better product or service?”
 
@@ -4707,137 +4659,88 @@ If not, stop.
 
 47. Good taste is learnable. Train yourself to notice what makes something beautiful. 48.
     Physics doesn’t care about hurt feelings. Make the rocket fly.
-
 49. Empathy is not an asset.
-
 50. Use simple, clear, humble terms.
-
 51. Go directly to the source of information.
-
 52. When hiring, look for evidence of exceptional ability.
-
 53. Combine engineering and financial fluency.
-
 54. To truly lead the product, lead the company.
-
 55. Lead from the front. Sleep on the factory floor. 56. Physically move yourself to
     wherever the problem is immediately.
-
 57. All bad news should be given loudly and often. Good news can be said quietly and once.
     58. Failure is essentially irrelevant unless it is catastrophic.
-
 59. Fear of failure is the biggest cause of failure.
-
 60. Feel the fear and do it anyway.
-
 61. Double down. Push your chips back in. 62. Work like hell. Like every waking hour. Go
     ultra hardcore.
-
 63. Make sure you really care about what you’re doing—and take the pain. 64. We should not
     be afraid of doing something important just because some amount of tragedy is likely to
     occur.
-
 65. When something is important enough, do it even if the odds are not in your favor.
-
 66. Don’t ever give up. You’d have to be dead or completely incapacitated.
-
 67. Play life like a game.
-
 68. Go ultra hardcore.
-
 69. Humor is a differentiator.
 
-## Timeline of Elon Musk
+### Timeline of Elon Musk
 
 This is not comprehensive, and focuses on his entrepreneurial efforts. All ages are
 approximate.
 
 - 1971—Born June 28; grew up in Pretoria, South Africa.983
-
 - 1984 (AGE 12)—Created his first video game, called Blast
-
 - 1989 (AGE 17)—Emigrated from South Africa to Canada, worked odd jobs on farms.985
-
 - 1990 (AGE 18)—Attended Queen’s University in Ontario.986
-
 - 1992 (AGE 20)—Transferred to University of Pennsylvania, studied physics and
   engineering.987
-
 - 1994 (AGE 23)—Completed two internships: Pinnacle research working on high energy density
   capacitors for electric cars,988 and a video game company (ironically) called Rocket
   Science.989
-
 - 1995 (AGE 24)—Moved to California. Enrolled in Stanford’s physics PhD program, but
   deferred. Started Zip2, building software for maps, directories, and publishing online.990
-
 - 1999 (AGE 28)—Sold Zip2 for $307 million cash to Compaq (who owned AltaVista). Personal
   proceeds of ~$22 million.991
-
 - 1999 (AGE 28)—Started X.com, investing $12 million of his money.992
-
 - 2000 (AGE 29)—X.com merged with Confinity (founded by Peter Thiel, Max Levchin, and Luke
   Nosek) to form Pay-
-
 - 2001 (AGE 30)—Contracted malaria while on a safari in South Africa. Almost died.994
-
 - 2002 (AGE 31)—Sold PayPal to eBay for $1.5 billion. Personal proceeds after tax were
   ~$170million.995 Founded SpaceX.996
-
 - 2004 (AGE 33)—Invested $6.5 million in Tesla Motors, leading the Series A.997
-
 - 2005 (AGE 34)—Invested millions more into Tesla Motors, leading the Series B.998
-
 - 2006 (AGE 35)—Invested more millions into Tesla Motors, coleading Series C.999
-
 - 2008 (AGE 37)—Falcon becomes the first privately developed rocket to reach orbit.1000
-
 - 2008 (AGE 37)—Invested more than $15 million, the remainder of his net worth, into Tesla
   Motors, leading the Series D. Became CEO of Tesla.1001
-
 - 2012 (AGE 41)—First sale of the new Tesla Model S.1002
-
 - 2014 (AGE 43)—Co-founded Astra Nova, an online nonprofit school.1003
-
 - 2015 (AGE 44)—First reusable orbital rocket booster landed by SpaceX.1004
-
 - 2015 (AGE 44)—Co-founded a nonprofit called OpenAI.1005
-
 - 2016 (AGE 45)—Co-founded Neuralink.1006
-
 - 2017 (AGE 46)—First Tesla Model 3 delivered.1007
-
 - 2017 (AGE 46)—SpaceX achieved world’s first successful flight of a reused rocket.1008
-
 - 2020 (AGE 49)—First crewed SpaceX flight carries astronauts to the International Space
   Station.1009
-
 - 2021 (AGE 50)—Becomes richest person in the world (for the first time).1010 Named Time
   Person of the Year.1011
-
 - 2022 (AGE 51)—Acquired Twitter (now called X) for $44 billion.
-
 - 2023 (AGE 53)—Founded xAI to advance AI development, competing with OpenAI.
-
 - 2023 (AGE 53)—FDA approved Neuralink for human trials.
-
 - 2024 (AGE 54)—First human receives Neuralink brain implant.1012
-
 - 2024 (AGE 54)—Starship’s first-stage booster is caught by launch tower “chopsticks.”
-
 - 2025 (AGE 55)—Created a city called Starbase, Texas.1013
-
 - 2025 (AGE 55)—Net worth exceeded $500 billion in October, the first person to do so.1014
 
-## Elon’s Recommended Reading
+### Elon’s Recommended Reading
 
 Expose yourself to as many smart people as possible. Read a lot of books.1015
 
-## Books
+### Books
 
 (Since there are so many links in this section, you may prefer a digital version. Go to
 ElonMuskBook.org to get a digital version of this chapter.)
 
-## Fiction
+### Fiction
 
 The Hitchhiker’s Guide to the Galaxy by Douglas Adams This is in fact a book of philosophy,
 disguised as a silly humor book. If you read it from the standpoint of “Wow, this is an
@@ -4873,7 +4776,7 @@ counterpoint to communism and useful as such, but should be tempered with kindne
 Fault in Our Stars by John Green I must admit to liking The Fault in Our Stars. Sad,
 romantic, and beautifully named.1027
 
-## Sciences
+### Sciences
 
 If the Universe Is Teeming with Aliens…Where Is Everybody? by Stephen Webb Read it when it
 came out. Great book.1028 The Big Picture: On the Origins of Life, Meaning, and the Universe
@@ -4888,7 +4791,7 @@ Scientists Obscured the Truth on Issues from Tobacco Smoke to Climate Change by 
 Oreskes The same people who tried to deny smoking deaths are denying climate change.1031
 What We Owe the Future by William MacAskill This is a close match for my philosophy.1032
 
-## Rocket Science And Engineering
+### Rocket Science And Engineering
 
 Liftoff: Early Days of SpaceX by Eric Berger This book is accurate.1033 Ignition!: An
 Informal History of Liquid Rocket Propellants by John Drury Clark One of my favorite books
@@ -4897,7 +4800,7 @@ Engines by Dieter K. Huzel Structures: Or Why Things Don’t Fall Down by J. E. 
 book on structural design. It is really, really good if you want a primer on structural
 design.1035
 
-## History
+### History
 
 Learn the lessons of history so we do not repeat the mistakes of the past.
 
@@ -4950,7 +4853,7 @@ figure out what really was the cause of victory in any particular case as oppose
 one side or another claims is the reason. Both the victory and what caused the war.1051
 Man’s Search for Meaning by Victor E. Frankl
 
-## AI and Machine Learning
+### AI and Machine Learning
 
 Life 3.0: Being Human in the Age of Artificial Intelligence by
 
@@ -4971,7 +4874,7 @@ and Aaron
 Written by three experts in the field, Deep Learning is the only comprehensive book on the
 subject.1056
 
-## Business And Economics
+### Business And Economics
 
 Screw Business as Usual: Turning Capitalism into a Force for Good by Richard Branson I liked
 Screw Business as Usual a lot. This approach should be taken to heart by all, as it really
@@ -4993,7 +4896,7 @@ Sense by Gad Saad The Parasitic Mind is great. He’s got a book on happiness as
 is also quite good. I’m a big fan of Gad Saad.1062 A Woman Makes a Plan: Advice for a
 Lifetime of Adventure, Beauty, and Success by Maye Musk My mom wrote a book. ♥️1063
 
-## Want More?
+### Want More?
 
 There are many ways to dive more deeply into Elon’s ideas. Go to ElonMuskBook.org for bonus
 chapters, audiobooks, interviews, and more.
@@ -5008,7 +4911,7 @@ illustrations and much more of his work at VisualizeValue.com.
 To learn about similar ideas, concepts, technologies, companies, and investments, join my
 email list at EJorgenson.com and subscribe to the podcast Smart Friends.
 
-## Appreciation
+### Appreciation
 
 There are always more names in the back of the book than there are on the front. Thank you
 to all who generously gave their time, expertise, wisdom, and skill to create this book.
@@ -5076,13 +4979,9 @@ inspired this book. My drive to create and share this book came out of a deep ap
 for the life-changing impact of similar books, a few of which I’d like to name specifically:
 
 - Poor Charlie’s Almanack by Peter Kaufman (of Charlie Munger’s work)
-
 - Zero to One by Blake Masters (of Peter Thiel’s work)
-
 - Seeking Wisdom (and others) by Peter Bevelin (of Buffett and Munger’s work)
-
 - Berkshire Hathaway Letters to Shareholders by Max Olson (of Buffett’s work)
-
 - Principles by Ray Dalio (and team) I am grateful for the support of many friends and
   strangers online who supported and encouraged me throughout this project. My DMs overflow
   with kind words and eager inquiries.
@@ -5090,7 +4989,7 @@ for the life-changing impact of similar books, a few of which I’d like to name
 I appreciate every gesture. Your energy helped pull me through the thousand-plus hours it
 took to create this for you.
 
-## About the Author
+### About the Author
 
 ERIC JORGENSON writes and podcasts about technology, startups, and crafting a bright future.
 His blog has educated and entertained more than one million readers since 2014. Eric invests
@@ -5100,7 +4999,7 @@ people and translated into fortyplus languages to date, and The Anthology of Bal
 lives in Kansas City with his brilliant wife, Jeannine and son, Archer. Join the author’s
 email list for more good ideas and special projects at EJorgenson.com.
 
-## Sources
+### Sources
 
 Elon Musk (@elonmusk), X (formerly Twitter) account, https://x.com/elonmusk. “Elon Musk:
 ‘10X Every 6 Months,” Farzad, April 8, 2024, YouTube video, 32:28, https://www.
@@ -5237,7 +5136,7 @@ https://www.youtube.com/watch?v=kzlUyrccbos. “Candid Interview with Tesla CEO,
 (Updated),” Milken Institute, July 12, 2013, YouTube video, 50:39, https://www.youtube.com/
 watch?v=T55CcN5c5as.
 
-## Peterson and Musk, “Dr. Peterson x Elon Musk.”
+### Peterson and Musk, “Dr. Peterson x Elon Musk.”
 
 “Clean Tech Summit 2011: IPO Spotlight with Elon Musk,” IBF: International Business Forum,
 February 3, 2011, YouTube video, 44:34, https://www.youtube.com/watch?v=hTBZGWEzR_E. 93 Musk
@@ -5271,15 +5170,10 @@ Boring.” “The Future We're Building—and Boring.” “The Future We're Bui
 and Musk, “Lex Fridman Podcast #252.”
 
 - Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - 128 Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - 129 Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - 130 Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - 132 Fridman and Musk, “Lex Fridman Podcast #252.”
 
 “Birthrate Threat,” WELT Documentary. 134 Eric Berger, Liftoff: Elon Musk and the Desperate
@@ -5295,7 +5189,8 @@ comments/2rgsan/i_am_elon_musk_ceocto_of_a_rocket_company_ama/. “Bill Gates an
 Baidu. “Candid Interview with Tesla CEO,” Vator.
 
 Fridman and Musk, “Lex Fridman Podcast #252.” 142 Fridman and Musk, “Lex Fridman Podcast
-#252.”
+
+## 252.”
 
 ### “Elon Musk: 10X Every 6 Months.”
 
@@ -5337,23 +5232,14 @@ December 13, 2021, YouTube video, 1:41:46, https://www. youtube.com/watch?v=T_Fa
 Fridman and Musk, “Lex Fridman Podcast #252.” 170 Carlin and Musk, “Engineering Victory.”
 
 - Carlin and Musk, “Engineering Victory.”
-
 - Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - 173 Carlin and Musk, “Engineering Victory.”
-
 - 174 Carlin and Musk, “Engineering Victory.”
-
 - Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - 176 Carlin and Musk, “Engineering Victory.”
-
 - Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - 180 Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - 182 Fridman and Musk, “Lex Fridman Podcast #438.”
 
 “Elon Musk on Advertisers, Trust and the ‘Wild Storm’ in His Mind | DealBook Summit 2023,”
@@ -5934,7 +5820,9 @@ SpaceX's Starfactory.” 662 Dodd, “First Look Inside SpaceX's Starfactory.”
 ### “Elon Musk: 10X Every 6 Months.”
 
 “Elon Musk SpaceX Update, Starship Flight 3.” 665 Fridman and Musk, “Lex Fridman Podcast
-#438.” “Elon Musk SpaceX Update, Starship Flight 3.” 667 Dodd, “First Look Inside SpaceX's
+
+## 438.” “Elon Musk SpaceX Update, Starship Flight 3.” 667 Dodd, “First Look Inside SpaceX's
+
 Starfactory.” 668 Dodd, “First Look Inside SpaceX's Starfactory.” “Elon Musk’s NEW EPIC
 Rant!,” Matt Pocius on Tesla Stock & Money, June 16, 2024, YouTube video, 42:43,
 https://www.youtube.com/watch?v=dRZUt6tu8bw. “Elon Musk,” Code Conference 2016. 671 Peter H.
@@ -6017,7 +5905,9 @@ the Future.” 760 Urban, “Neuralink and the Brain's Magical Future.” “Elo
 Rant.” “Elon Musk: Digital Superintelligence,” Y Combinator. 763 Urban, “Neuralink and the
 Brain's Magical Future.” 764 Urban, “Neuralink and the Brain's Magical Future.” 765 Urban,
 “Neuralink and the Brain's Magical Future.” 766 Fridman and Musk, “Lex Fridman Podcast
-#438.” “Elon Musk: Digital Superintelligence,” Y Combinator. 768 Fridman and Musk, “Lex
+
+## 438.” “Elon Musk: Digital Superintelligence,” Y Combinator. 768 Fridman and Musk, “Lex
+
 Fridman Podcast #438.” “Elon Musk: Digital Superintelligence,” Y Combinator. 770 Fridman and
 Musk, “Lex Fridman Podcast #18.” “Elon Musk,” Full Send Podcast. 772 Fridman and Musk, “Lex
 Fridman Podcast #18.” 773 Fridman and Musk, “Lex Fridman Podcast #18.” “The Future We're
@@ -6059,20 +5949,28 @@ Musk, “Lex Fridman Podcast #252.” 798 Peterson and Musk, “Dr. Peterson x E
 War, AI, Aliens, Politics, Physics, Video Games, and Humanity | Lex Fridman Podcast #400,”
 Lex Fridman, November 9, 2023, YouTube video, 2:16:46,
 https://www.youtube.com/watch?v=JN3KPFbWCy8. 807 Fridman and Musk, “Lex Fridman Podcast
-#400.” 808 Fridman and Musk, “Lex Fridman Podcast #400.” 809 Fridman and Musk, “Lex Fridman
+
+## 400.” 808 Fridman and Musk, “Lex Fridman Podcast #400.” 809 Fridman and Musk, “Lex Fridman
+
 Podcast #400.” “Elon Musk Answers Your Questions,” SXSW 2018. “Elon Musk Answers Your
 Questions,” SXSW 2018. “Elon Musk on Tesla, SpaceX,” WSJ. 813 Fridman and Musk, “Lex Fridman
 Podcast #252.” “CHM Revolutionaries: An Evening with Elon Musk.” “Elon Musk on Advertisers,”
 DealBook Summit 2023. “Elon Musk on Advertisers,” DealBook Summit 2023. “Elon Musk on
 Advertisers,” DealBook Summit 2023. 818 Peterson and Musk, “Dr. Peterson x Elon Musk.” 819
 Peterson and Musk, “Dr. Peterson x Elon Musk.” 820 Fridman and Musk, “Lex Fridman Podcast
-#438.” 821 Fridman and Musk, “Lex Fridman Podcast #252.” 822 Fridman and Musk, “Lex Fridman
+
+## 438.” 821 Fridman and Musk, “Lex Fridman Podcast #252.” 822 Fridman and Musk, “Lex Fridman
+
 Podcast #438.” “Elon Musk on Tesla, SpaceX,” WSJ. 824 Fridman and Musk, “Lex Fridman Podcast
-#252.” 825 Fridman and Musk, “Lex Fridman Podcast #438.” “CHM Revolutionaries: An Evening
+
+## 252.” 825 Fridman and Musk, “Lex Fridman Podcast #438.” “CHM Revolutionaries: An Evening
+
 with Elon Musk.” “Jeff Skoll Talks with Elon and Kimbal Musk.” “Birthrate Threat,” WELT
 Documentary. “Birthrate Threat,” WELT Documentary. “Birthrate Threat,” WELT Documentary. 831
 Fridman and Musk, “Lex Fridman Podcast #252.” 832 Fridman and Musk, “Lex Fridman Podcast
-#252.” “Birthrate Threat,” WELT Documentary. 834 Musk (@elonmusk), X account. “Birthrate
+
+## 252.” “Birthrate Threat,” WELT Documentary. 834 Musk (@elonmusk), X account. “Birthrate
+
 Threat,” WELT Documentary.
 
 ### 836 Musk, “Caltech Commencement Speech.”
@@ -6082,7 +5980,8 @@ Superintelligence,” Y Combinator. 839 Fridman and Musk, “Lex Fridman Podcast
 Urban, “Neuralink and the Brain's Magical Future.” 841 Rogan and Musk, “JRE #2054.” 842
 Urban, “Neuralink and the Brain's Magical Future.” “Elon Musk: Digital Superintelligence,” Y
 Combinator. 844 Fridman and Musk, “Lex Fridman Podcast #438.” 845 Rogan and Musk, “JRE
-#1470.”
+
+## 1470.”
 
 ### “Elon Musk: 10X Every 6 Months.”
 
@@ -6097,7 +5996,9 @@ the Brain's Magical Future.” “Elon Musk,” Full Send Podcast. “Elon Musk,
 “Elon Musk on How to Save the Human Race at #2024 Milken Conference,” Electron media group,
 inc., May 7, 2024, YouTube video, 40:34, https://www.youtube.com/ watch?v=s5o5m7LP6YY. 865
 Fridman and Musk, “Lex Fridman Podcast #438.” 866 Fridman and Musk, “Lex Fridman Podcast
-#438.” 867 Fridman and Musk, “Lex Fridman Podcast #438.” 868 Fridman and Musk, “Lex Fridman
+
+## 438.” 867 Fridman and Musk, “Lex Fridman Podcast #438.” 868 Fridman and Musk, “Lex Fridman
+
 Podcast #438.” 869 Fridman and Musk, “Lex Fridman Podcast #438.” 870 Peterson and Musk, “Dr.
 Peterson x Elon Musk.” 871 Peterson and Musk, “Dr. Peterson x Elon Musk.” “Elon Musk on How
 to Save the Human Race,” Milken Conference. “Elon Musk,” Full Send Podcast. “Elon Musk,”
@@ -6145,9 +6046,7 @@ youtube.com/watch?v=smK9dgdTl40.
 ### “Elon Musk: 10X Every 6 Months.”
 
 - 913 Khan and Musk, “CEO of Tesla Motors and SpaceX.”
-
 - 914 Fridman and Musk, “Lex Fridman Podcast #252.”
-
 - 915 Fridman and Musk, “Lex Fridman Podcast #252.”
 
 “Elon Musk: Digital Superintelligence,” Y Combinator. 917 Return to Space. 918 Musk
@@ -6163,7 +6062,9 @@ Conference.
 ### 924 Musk, “Caltech Commencement Speech.”
 
 925 Fridman and Musk, “Lex Fridman Podcast #252.” “Elon Musk SpaceX Update at Starbase,” May
+
 2025. “Elon Musk SpaceX Update, Starship Flight 3.” “Elon Musk at TED2022.” “Elon Musk
+
 SpaceX Update, Starship Flight 3.”
 
 ### “Elon Musk: 10X Every 6 Months.”
@@ -6172,7 +6073,9 @@ SpaceX Update, Starship Flight 3.”
 
 932 Rogan and Musk, “JRE #1609.” “Elon Musk SpaceX Update at Starbase,” May 2025. 934
 Fridman and Musk, “Lex Fridman Podcast #438.” “Elon Musk SpaceX Update at Starbase,” May
+
 2025. “Elon Musk SpaceX Update at Starbase,” May 2025. “Elon Musk SpaceX Update, Starship
+
 Flight 3.” “Elon Musk SpaceX Update at Starbase,” May 2025. “Elon Musk SpaceX Update,
 Starship Flight 3.”
 
@@ -6183,7 +6086,9 @@ Future.” 943 Musk (@elonmusk), X account. “Elon Musk SpaceX Update at Starba
 “Elon Musk SpaceX Update, Starship Flight 3.” 946 Musk (@elonmusk), X account. 947 Fridman
 and Musk, “Lex Fridman Podcast #252.” 948 Khan and Musk, “CEO of Tesla Motors and SpaceX.”
 949 Urban, “SpaceX Will Colonize Mars, Part 2.” “Elon Musk SpaceX Update at Starbase,” May
+
 2025. “Elon Musk,” Full Send Podcast. “Elon Musk Answers Your Questions,” SXSW 2018. “Elon
+
 Musk SpaceX Update at Starbase,” May 2025. 954 Rogan and Musk, “JRE #1609.” “Elon Musk,”
 Full Send Podcast. “Elon Musk,” Full Send Podcast. 957 Rogan and Musk, “JRE #1609.” “Jeff
 Skoll Talks with Elon and Kimbal Musk.” “Elon Musk SpaceX Update, Starship Flight 3.” “Elon
