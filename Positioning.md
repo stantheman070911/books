@@ -2,7 +2,7 @@
 
 By Al Ries & Jack Trout
 
-# New Foreword to the Marketing Classic
+## New Foreword to the Marketing Classic
 
 For years, all of us in marketing taught our students to build a marketing plan around the
 “four Ps”—Product, Price, Place, and Promotion.
@@ -60,7 +60,7 @@ differentiation in the marketplace.
 
 Philip Kotler, Ph.D. Kellogg Graduate School of Management Northwestern University
 
-# Introduction
+## Introduction
 
 “What we have here is a failure to communicate.”
 
@@ -76,7 +76,7 @@ believe any problem can be solved if only the parties sit down and talk.
 Unlikely. Today, communication itself is the problem. We have become the world’s first
 overcommunicated society. Each year, we send more and receive less.
 
-## A new approach to communication
+### A new approach to communication
 
 This book has been written about a new approach to communication called positioning. And
 most of the examples are from the most difficult of all forms of communication—advertising.
@@ -102,7 +102,7 @@ people have difficulty understanding how powerful it is.
 Every successful politician practices positioning. So do Procter & Gamble and Johnson &
 Johnson.
 
-## Positioning defined
+### Positioning defined
 
 Positioning starts with a product. A piece of merchandise, a service, a company, an
 institution, or even a person. Perhaps yourself.
@@ -121,7 +121,7 @@ mind.
 Positioning is the first body of thought that comes to grips with the difficult problem of
 getting heard in our overcommunicated society.
 
-## How positioning got started
+### How positioning got started
 
 If one word can be said to have marked the course of advertising in the past decade, the
 word is “positioning.”
@@ -156,7 +156,7 @@ With good reason.
 Anyone can use positioning strategy to get ahead in the game of life. And look at it this
 way: If you don’t understand and use the principles, your competitors undoubtedly will.
 
-# Chapter 1: What positioning is all about
+## Chapter 1: What positioning is all about
 
 How did a hard-sell concept like positioning become so popular in a business noted for its
 creativity?
@@ -177,7 +177,7 @@ and more difficult. If not impossible.
 The basic approach of positioning is not to create something new and different, but to
 manipulate what’s already up there in the mind, to retie the connections that already exist.
 
-## Today’s marketplace is no longer responsive to the strategies that
+### Today’s marketplace is no longer responsive to the strategies that
 
 worked in the past. There are just too many products, too many companies, and too much
 marketing noise.
@@ -186,7 +186,7 @@ The question most frequently asked by positioning skeptics is, “Why?”
 
 Why do we need a new approach to advertising and marketing?
 
-## The overcommunicated society
+### The overcommunicated society
 
 The answer is that we have become an overcommunicated society. The percapita consumption of
 advertising in America today is $376.62 a year. (That compares with $16.87 in the rest of
@@ -217,7 +217,7 @@ about. (Which is why “news” is an effective advertising approach.) But the a
 cannot tolerate being told he or she is wrong. Mind-changing is the road to advertising
 disaster.
 
-## The oversimplified mind
+### The oversimplified mind
 
 The only defense a person has in our overcommunicated society is an oversimplified mind.
 
@@ -239,7 +239,7 @@ Furthermore, what we receive is influenced by the nature of our overcommunicated
 “Glittering generalities” have become a way of life in our overcommunicated society. We
 oversimplify because that’s the only way to cope.
 
-## Technically, we are capable of increasing the volume of communication
+### Technically, we are capable of increasing the volume of communication
 
 at least tenfold. We’re experimenting with direct television broadcasting from satellites.
 Every home would have 100 channels or so to choose from. North American Philips has just
@@ -251,7 +251,7 @@ prospect cope with complexity that so overwhelms the mind that the average react
 wealth of information today is to tighten the intake valve? To accept less and less of what
 is so freely available? Communication itself is the communication problem.
 
-## The oversimplified message
+### The oversimplified message
 
 The best approach to take in our overcommunicated society is the oversimplified message.
 
@@ -305,7 +305,7 @@ the view from the outside looking in?
 
 By turning the process around, by focusing on the prospect rather than the product, you simplify the selection process. You also learn principles and concepts that can greatly increase your communication effectiveness.
 
-# Chapter 2: The assault on the mind
+## Chapter 2: The assault on the mind
 
 As a nation we have fallen in love with the concept of “communication.” (In some grade
 schools “show and tell” is now being called “communication.”) We don’t always appreciate the
@@ -336,7 +336,7 @@ contains some 500,000 words. To read it all, at an average reading speed of 300 
 minute, would take almost 28 hours. Not only would your Sunday be shot, but also a good part
 of the rest of the week too.
 
-## How much is getting through?
+### How much is getting through?
 
 Take television. A medium barely 35 years old. A powerful and pervasive medium, television
 didn’t replace radio or newspapers or magazines. Each of the three older media is bigger and
@@ -349,9 +349,7 @@ Ninety-eight percent of all American homes have at least one television set. (A 
 two or more.)
 
 - Ninety-six percent of all television households can receive four or more
-
 - TV stations. (A third can receive ten or more.)
-
 - The average American family watches television more than 7 hours a
 
 day. (More than 51 hours a week.)
@@ -414,9 +412,7 @@ off if communication doesn’t take place. At least until you are ready to posit
 for the long term. You never get a second chance to make a first impression.
 
 - What do the following names mean to you: Camaro, Cavalier, Celebrity,
-
 - Chevette, Citation, Corvette, and Monte Carlo?
-
 - Automobile model names, right? Would you be surprised to learn that
 
 these are all Chevrolet models?
@@ -486,7 +482,7 @@ fact, the product explosion could get worse. In Europe they are building super-s
 (called hypermarkets) with room for several times as many products. Biggs in Cincinnati, the
 first hypermarket in America, stocks 60,000 products.
 
-## The packaged-goods industry obviously expects the proliferation to
+### The packaged-goods industry obviously expects the proliferation to
 
 continue. Those scratch marks on the side of most grocery boxes, the Universal Product Code,
 represent 10 digits. (Your social security number has only 9. And the system is designed to
@@ -547,7 +543,7 @@ But the professionals who are opposed to advertising say it downgrades their pro
 it does. To advertise effectively today, you have to get off your pedestal and put your ear
 to the ground. You have to get on the same wavelength as the prospect.
 
-# Chapter 3: Getting into the mind
+## Chapter 3: Getting into the mind
 
 In our overcommunicated society, the paradox is that nothing is more important than
 communication. With communication going for you, anything is possible. Without it, nothing
@@ -565,13 +561,9 @@ The easy way into the mind The easy way to get into a person’s mind is to be f
 demonstrate the validity of this principle by asking yourself a few simple questions.
 
 - What’s the name of the first person to fly solo across the North Atlantic?
-
 - Charles Lindbergh, right?
-
 - Now, what’s the name of the second person to fly solo across the North
-
 - Atlantic?
-
 - Not so easy to answer, is it? What’s the name of the first person to walk on the moon? Neil
 
 Armstrong, of course.
@@ -818,7 +810,7 @@ after year. Lowenbrau, on the other hand, gave up the struggle and became a dome
 Strange things have been happening in American advertising. It’s becoming less poetic—and
 more effective.
 
-# Chapter 4: Those little ladders in your head
+## Chapter 4: Those little ladders in your head
 
 To better understand what your message is up against, let’s take a closer look at the
 ultimate objective of all communication: the human mind.
@@ -892,7 +884,7 @@ If our mental storage bowl is too small to handle questions like these, how in t
 we going to keep track in our mind of all those brand names which have been multiplying like
 rabbits over the years?
 
-## Thirty years ago the six leading cigarette companies between them
+### Thirty years ago the six leading cigarette companies between them
 
 offered the American smoker 17 different brands. Today they sell more than 175. (A vending
 machine built to hold all these brands would have to be 30 feet long.) “Modelitus” has
@@ -1028,7 +1020,7 @@ Avis in sales, Avis will appreciate the value of the No. 2 concept it lost.
 If you want to be successful today, you can’t ignore the competitor’s position. Nor can you
 walk away from your own. In the immortal words of Joan Didion, “Play it as it lays.”
 
-# Chapter 5: You can’t get there from here
+## Chapter 5: You can’t get there from here
 
 There’s an old story about a traveler who asked a farmer for directions to a nearby town.
 
@@ -1195,7 +1187,7 @@ If one can understand the role of positioning in the computer industry, then one
 transfer this knowledge to almost any other situation. What works for computers will also
 work for cars and for colas. Or vice versa.
 
-# Chapter 6: Positioning of a leader
+## Chapter 6: Positioning of a leader
 
 Companies like Avis and Seven-Up found viable alternative positions to marketing leaders.
 
@@ -1435,7 +1427,7 @@ product or service as a competitor rather than as an opportunity.
 Sometimes a name change will help bridge the gap from one era to the next. By broadening the
 name, you can allow the company to make the mental transition.
 
-## Sales Management changed its name to Sales & Marketing Management
+### Sales Management changed its name to Sales & Marketing Management
 
 to encompass the fast-growing function of marketing. At some point in the future the
 publication could drop the other shoe and change again. To Marketing Management.
@@ -1466,7 +1458,7 @@ topic.
 Leaders can also benefit by broadening the range of applications for their products. Arm &
 Hammer has done a good job in promoting the use of baking soda in the refrigerator.
 
-## The Florida Citrus Commission promotes orange juice, the largest-
+### The Florida Citrus Commission promotes orange juice, the largest-
 
 selling fruit drink, for lunch snacks, with meals, etc. “It isn’t just for breakfast
 anymore,” say the commercials.
@@ -1482,7 +1474,7 @@ Leaders are in the best position to exploit opportunities as they arise.
 Leaders should constantly use the power of their leadership to keep far ahead of the
 competition.
 
-# Chapter 7: Positioning of a follower
+## Chapter 7: Positioning of a follower
 
 What works for a leader doesn’t necessarily work for a follower. Leaders can often cover a
 competitive move and retain their leadership.
@@ -1499,7 +1491,7 @@ It’s not enough to be better than the competitor. You must introduce your prod
 someone else has a chance to establish leadership. With a more massive advertising and
 promotion launch. And a better name. (More on this point later.)
 
-## Yet the opposite normally occurs. The me-too company wastes valuable
+### Yet the opposite normally occurs. The me-too company wastes valuable
 
 time on improving the product. Then the launch is made with a smaller advertising budget
 than the leader’s. And then the new product is given the house name, because that’s the easy
@@ -1663,7 +1655,7 @@ the hundreds of millions.
 Another possibility is the heavy-user position. “The one beer to have when you’re having
 more than one” positioned Schaefer as the brand for the heavy beer drinker.
 
-## The factory creneau
+### The factory creneau
 
 One common mistake in looking for creneaus is filling a hole in the factory rather than one
 in the mind.
@@ -1742,7 +1734,7 @@ specific niche in the market. Even if you lose a few doing so.
 Today the everybody trap may keep you afloat if you’re already in office or already own a
 substantial share of market. But it’s deadly if you want to build a position from nowhere.
 
-# Chapter 8: Repositioning the competition
+## Chapter 8: Repositioning the competition
 
 There comes a time when you can’t find a creneau. With hundreds of variations in each
 product category on the market, the chances of finding an open hole today are very slim.
@@ -1785,9 +1777,7 @@ Conflict, even personal conflict, can build a reputation overnight. Where would 
 have been without Richard Nixon?
 
 - For that matter, where would Richard Nixon have been without Alger
-
 - Hiss?
-
 - And Ralph Nader got famous not by saying anything about Ralph Nader
 
 but by going out and attacking the world’s largest corporation singlehandedly.
@@ -1999,7 +1989,7 @@ conventional “brag and boast.”
 
 Done honestly and fairly, it keeps the competition on their toes.
 
-# Chapter 9: The power of the name
+## Chapter 9: The power of the name
 
 The name is the hook that hangs the brand on the product ladder in the prospect’s mind. In
 the positioning era, the single most important marketing decision you can make is what to
@@ -2045,7 +2035,7 @@ select names that are almost, but not quite, generic. If once in a while you go 
 track into generic territory, so be it. No world champion driver has made it to the top
 without spinning out a few times.
 
-## A strong, generic-like, descriptive name will block your me-too
+### A strong, generic-like, descriptive name will block your me-too
 
 competitors from muscling their way into your territory. A good name is the best insurance
 for long-term success. People is a brilliant name for the gossip-column magazine. It’s a
@@ -2147,7 +2137,7 @@ Everyone knows that butter is made from milk. But what’s margarine made from? 
 origin of the product is hidden, the prospect assumes there must be something basically
 wrong with margarine.
 
-## Bringing the product out of the closet
+### Bringing the product out of the closet
 
 The first step in overcoming negative reactions is to bring the product out of the closet.
 To deliberately polarize the situation by using a negative name like soy butter.
@@ -2206,7 +2196,7 @@ Two psychology professors, Dr. Herbert Harari and Dr. John W.
 McDavid, were trying to find out why elementary school students made fun of classmates with
 unusual names.
 
-## So they experimented with different names attributed to compositions
+### So they experimented with different names attributed to compositions
 
 supposedly written by fourth and fifth graders. Two sets of names, in particular, illustrate
 the principle.
@@ -2223,9 +2213,7 @@ What about famous people with odd first names? Hubert Humphrey and Adlai Stevens
 example. Both losers to men with the popular names of Richard and Dwight.
 
 - What if Richard Humphrey had run against Hubert Nixon? Would
-
 - America have elected a Hubert Nixon?
-
 - Jimmy, Jerry, Richard, Lyndon, John, Dwight, Harry, Franklin. Not since
 
 Herbert have we had a “loser” name in the White House.
@@ -2297,9 +2285,7 @@ not the name that gets Eastern into trouble. It’s the poor service, the food, 
 handling, the surly flight attendants.” The perception is the reality.
 
 - What do you think of Piedmont Airlines? How about Ozark Airlines?
-
 - And what about Allegheny?
-
 - Allegheny, of course, has thrown in the towel and become USAir. Even
 
 North Central and Southern gave up and merged to become Republic Airlines. Both airlines are
@@ -2399,7 +2385,7 @@ Continental Oil, Continental Telephone, Continental Grain, and Continental Illin
 me Continental on the phone.” In Manhattan alone, there are 235 listings in the telephone
 directory starting with Continental.
 
-# Chapter 10: The no-name trap
+## Chapter 10: The no-name trap
 
 “I’m going to L.A.,” the corporate executive will say. “And then I have to make a trip to
 New York.” Why is Los Angeles often called L.A., but New York is seldom called N.Y.? “I
@@ -2488,7 +2474,7 @@ list. The results show the value of a name.
 The average awareness of the “initial” companies was 49 percent. The average awareness of a
 matched group of “name” companies was 68 percent, 19 percentage points higher.
 
-## What drives big companies into committing corporate suicide? For one
+### What drives big companies into committing corporate suicide? For one
 
 thing, the top executives have seen the company’s initials on internal memos for so long
 they just naturally assume that everybody knows good old VF. Then, too, they misread the
@@ -2606,9 +2592,7 @@ In our initial-happy society, the first question the mind normally asks itself i
 those initials stand for?”
 
 - The mind sees the letters AT&T and says, “Ah, American Telephone &
-
 - Telegraph.”
-
 - But what reply does the mind get when it sees TRW? Obviously, there
 
 are a fair number of people who remember the Thompson Ramo Wooldridge Corporation. And TRW
@@ -2693,7 +2677,7 @@ is 48 pages away where it has to compete with seven other companies that incorpo
 their names. (Following standard rules of alphabetizing a list of names, the phone company
 puts all initial names up front.)
 
-## Take USM Corporation, for example. In the Manhattan telephone
+### Take USM Corporation, for example. In the Manhattan telephone
 
 directory, there are seven pages of listings starting with “US.” So you ought to be able to
 find USM somewhere between US Luggage & Leather Products and US News & World Report.
@@ -2708,7 +2692,7 @@ will do the job you want done.
 
 With a good name, your positioning job is going to be a lot easier.
 
-# Chapter 11: The free-ride trap
+## Chapter 11: The free-ride trap
 
 Take a product called Alka-Seltzer Plus. Let’s see if we can visualize how Alka-Seltzer Plus
 might have gotten its name.
@@ -2746,7 +2730,7 @@ plastics.
 
 RCA is in satellite communications, solid-state electronics, and rent-acars.
 
-## Many people pooh-pooh the conglomerate. Companies should “stick to
+### Many people pooh-pooh the conglomerate. Companies should “stick to
 
 their knitting,” they say. But conglomerates have provided the capital to sustain vigorous
 competition in the marketplace. If it weren’t for the conglomerates, we would be a nation of
@@ -2803,7 +2787,7 @@ makes clothes “white.” Cheer makes them “whiter than white.” And Bold ma
 With fewer brands Procter & Gamble does twice as much business and makes five times as much
 profit as Colgate-Palmolive.
 
-## While it’s fashionable on Madison Avenue these days to pooh-pooh
+### While it’s fashionable on Madison Avenue these days to pooh-pooh
 
 Procter & Gamble advertising, it’s interesting to note that Procter & Gamble makes more
 money every year than all of America’s 6000 advertising agencies combined.
@@ -2894,7 +2878,7 @@ well-known company with an established product. “In the future everyone will b
 
 When your 15 minutes arrive, make the most of every second.
 
-# Chapter 12: The line-extension trap
+## Chapter 12: The line-extension trap
 
 When the marketing history of the past decade is written, the single most significant trend
 will have to be line extension. That is, taking the name of an established product and using
@@ -2918,7 +2902,7 @@ customers will buy Dial deodorants.
 
 Notice, however, how the rationale changes when the line extension is in the same category.
 
-## Bayer “invented” aspirin and marketed the leading brand of analgesic
+### Bayer “invented” aspirin and marketed the leading brand of analgesic
 
 for many years. The people at Bayer couldn’t fail to notice the progress made by the
 “anti-aspirin” approach used by Tylenol.
@@ -2993,7 +2977,7 @@ to buy the DieHard will be able to make the connection. But it’s better to est
 position in the prospect’s mind first and then worry about how to establish a retail
 connection later.
 
-## In positioning, the shortest distance between two points is not
+### In positioning, the shortest distance between two points is not
 
 necessarily the best strategy. The obvious name isn’t always the best name. Inside-out
 thinking is the biggest barrier to success. Outside-in thinking is the best aid.
@@ -3037,7 +3021,7 @@ to Protein 21 shampoo.
 A number of years ago the Mennen company introduced a combination shampoo/conditioner called
 Protein 21, which rapidly carved out a 13 percent share of the shampoo market.
 
-## Then Mennen hit the line-extension lure. In rapid succession, the
+### Then Mennen hit the line-extension lure. In rapid succession, the
 
 company introduced Protein 21 hairspray in regular and extra hold, scented and unscented.
 Also Protein 21 conditioner (in two formulas) and Protein 21 concentrate. And to make sure
@@ -3133,7 +3117,7 @@ Finally the Union Carbide people gave up and decided to copy the Duracell approa
 Eveready alkaline power cell became the Energizer which finally is giving Duracell a run for
 its money.
 
-## Line extension seems so intuitively right that company after company
+### Line extension seems so intuitively right that company after company
 
 falls into the trap. Examples are not hard to find. They’re a saga of opportunities missed.
 
@@ -3265,7 +3249,7 @@ Johnson’s baby shampoo.
 
 By promoting the mildness of the product to the adult market, the company has made Johnson’s baby shampoo one of the leading brands of adult shampoo.
 
-## Notice the characteristics of this broadening-the-base strategy. Same
+### Notice the characteristics of this broadening-the-base strategy. Same
 
 product, same package, same label. Only the application has changed. If Johnson & Johnson
 had line-extended the product and introduced Johnson’s adult shampoo, the product would not
@@ -3286,7 +3270,7 @@ Arm & Hammer, the baking soda deodorant?
 
 Very little. As Phyllis Diller says, “It only works if you’re standing in the refrigerator.”
 
-# Chapter 13: When line extension can work
+## Chapter 13: When line extension can work
 
 Line extension is popular. No doubt about it.
 
@@ -3367,7 +3351,9 @@ diapers.
 
 Also Pierre Cardin wine. In both red and white, of course. And Chanel for Men. “Two” seems
 to be a popular line-extension concept. We have Alka-2, Dial 2, Sominex 2, as well as Jaws
+
 2. (Almost never has a motion picture sequel generated as much business as the original.)
+
 Even advertising agencies have jumped into twos. Ogilvy & Mather 2, Doyle Dane Bernbach 2,
 N. W. Ayer 2, and Grey 2, to name a few twos.
 
@@ -3573,7 +3559,7 @@ products?
 Sure, but only at the expense of sacrificing its valuable pineapple franchise. And with the
 added disadvantage of being the last to line-extend.
 
-## Rules of the road
+### Rules of the road
 
 We call line extension a “trap,” not a mistake. Line extension can work if.… But it’s a big
 if. If your competitors are foolish. If your volume is small.
@@ -3599,7 +3585,7 @@ should not bear the house name.
 Commodity products such as chemicals should. 5. Distribution. Off-the-shelf items should not
 bear the house name. Items sold by sales reps should.
 
-# Chapter 14: Positioning a company: Xerox
+## Chapter 14: Positioning a company: Xerox
 
 You can position anything. A person, a product, a politician. Even a company.
 
@@ -3768,7 +3754,7 @@ You can’t change what’s in the prospect’s mind.
 Start using copiers. They could be your strongest asset. An asset in a strategic war with
 IBM and AT&T.
 
-## The “third-leg” strategy
+### The “third-leg” strategy
 
 It’s a way for Xerox to take advantage of its heritage. As with many strategies, it’s
 helpful to step back and get a sense of what has been going on in the marketplace.
@@ -3805,7 +3791,7 @@ a communication leg with the addition of voice mail and facsimile equipment.
 The typewriter leg of IBM becomes an input or processing leg with the addition of computers,
 workstations, and networks. The question is what will Xerox add to the copier leg?
 
-## Some “cross-log” difficulties
+### Some “cross-log” difficulties
 
 There’s a good deal of evidence that the merging of legs is not the way of the future.
 History points to the difficulty of many “cross-leg” activities. Take Xerox vs. IBM. (1)
@@ -3875,7 +3861,7 @@ position.
 Lasography says new and different, and the business world loves things that are new and
 different.
 
-## Lasography sounds like a basic technology somehow related to
+### Lasography sounds like a basic technology somehow related to
 
 xerography. In other words, it connects with Xerox’s last big technology. Lasography from
 Xerox, the company that’s perceived to be in the “ography” business.
@@ -3888,7 +3874,7 @@ include the next generation of products.
 In the positioning game you can’t sit still. You must constantly be alert to keep your
 position targeted to today’s problems and today’s markets.
 
-# Chapter 15: Positioning a country: Belgium
+## Chapter 15: Positioning a country: Belgium
 
 With the advent of relatively inexpensive airfare, we’re fast becoming a world of tourists.
 
@@ -3916,7 +3902,7 @@ Sabena was using classic airline strategy. Sell the food and the service. “Do 
 bon vivant to fly Sabena?” said a typical ad. But all the terrific food in the world won’t
 induce you to fly an airline that isn’t going where you want to go.
 
-## Position the country, not the airline
+### Position the country, not the airline
 
 Sabena’s most productive strategy was obviously not to position the airline but to position
 the country. In other words, do what KLM had done for Amsterdam.
@@ -3927,7 +3913,7 @@ place you traveled through to get to somewhere else.
 Furthermore, there’s a moral here that shines through loud and clear. Whether you’re selling
 colas, companies, or countries. Out of mind, out of business.
 
-## Most Americans knew very little about Belgium. They thought Waterloo
+### Most Americans knew very little about Belgium. They thought Waterloo
 
 was a suburb of Paris and the most important product of Belgium was waffles. Many didn’t
 even know where the country was. “If it’s Tuesday, this must be Belgium,” was the title of a
@@ -4002,7 +3988,7 @@ The ad that resulted was headlined, “In beautiful Belgium, there are five Amst
 illustration was comprised of five beautiful four-color pictures of Belgium’s three-star
 cities.
 
-## This advertisement generated an enormous number of inquiries about a
+### This advertisement generated an enormous number of inquiries about a
 
 country many travelers had seen only through the train window as they traveled from
 Amsterdam to Paris.
@@ -4053,7 +4039,7 @@ airline, or a country.
 
 In a constantly changing political environment, this is difficult to accomplish.
 
-# Chapter 16: Positioning an island: Jamaica
+## Chapter 16: Positioning an island: Jamaica
 
 When Edward Seaga replaced socialist Michael Manley as Jamaican prime minister, he
 proclaimed an open door for capitalist investment.
@@ -4142,7 +4128,7 @@ tourists with flowers at the airport.
 Jamaica has beautiful flowers and this gesture, above all, would say that Jamaica is a
 friendly place as well as a beautiful one.
 
-## Benefits of the “Hawaiian” position
+### Benefits of the “Hawaiian” position
 
 “The Hawaii of the Caribbean” provides a quick visual analogy. Jamaica doesn’t have the
 luxury of building that visual image over the years. Transferring Hawaii’s mental picture
@@ -4165,7 +4151,7 @@ person who gets involved in every detail and agonizes over every issue.”
 
 Presumably he is still agonizing over this one.
 
-# Chapter 17: Positioning a product: Milk Duds
+## Chapter 17: Positioning a product: Milk Duds
 
 The brand is Milk Duds, a product of Switzer Clark. Milk Duds is a candy product that comes
 in a little yellow and brown box. It had a reputation as a “movie” candy for teenagers, but
@@ -4191,12 +4177,12 @@ the average 10-year-old kid might be vaguely aware of the brand.
 
 For most 10-year-olds, the candy urge immediately conjures up the concept of candy bars.
 
-## Candy bars like Hersheys, Nestlés, Mounds, Almond Joys, Reeses,
+### Candy bars like Hersheys, Nestlés, Mounds, Almond Joys, Reeses,
 
 Snickers, Milky Ways. Put there, of course, by the millions of dollars’ worth of advertising
 spent on these and other candy bar brands.
 
-# Chapter 8: Repositioning the competition
+## Chapter 8: Repositioning the competition
 
 Since Milk Duds was getting only a small fraction of that kind of advertising money, it
 would have been hopeless to try to build a separate identity for the brand. The only way to
@@ -4249,7 +4235,7 @@ If there is one important lesson to be learned from the Milk Duds example, it’
 solution to a positioning problem is usually found in the prospect’s mind, not in the
 product.
 
-# Chapter 18: Positioning a service: Mailgram
+## Chapter 18: Positioning a service: Mailgram
 
 What’s the difference between the positioning of a product (like Milk Duds) and the
 positioning of a service (like Western Union’s Mailgram)? Not much, especially from a
@@ -4392,7 +4378,7 @@ the minute the strategy was changed, volume declined.
 Your problem is not just one of developing a good strategy. Equally important is the courage
 you will need to keep hammering at the same theme, year after year.
 
-# Chapter 19: Positioning a Long Island bank
+## Chapter 19: Positioning a Long Island bank
 
 Like Western Union, banks sell a service and not a product. Unlike a Mailgram, however,
 which is a national service, banking is still a regional service.
@@ -4450,13 +4436,9 @@ reasons were concerned, the situation was bleak for the Long Island Trust. Prosp
 them last on all four attributes.
 
 - Many branches
-
 - Full range of services
-
 - Quality of service
-
 - Large capital
-
 - The positions were reversed, however, when the attributes concerned
 
 Long Island itself.
@@ -4465,7 +4447,7 @@ Here is how the respondents ranked the six banks on the Long Island attributes.
 
 Helps Long Island residents
 
-## Helps Long Island economy
+### Helps Long Island economy
 
 When the attributes concerned Long Island, the Long Island Trust Company went right to the
 top. A not too surprising result, considering the power of the name.
@@ -4532,7 +4514,7 @@ You might think that a bank promoting the area that it serves is an obvious idea
 
 But the best positioning ideas are so simple and obvious that most people overlook them.
 
-# Chapter 20: Positioning a New Jersey bank
+## Chapter 20: Positioning a New Jersey bank
 
 The bank is United Jersey with 116 branches in the state of New Jersey.
 
@@ -4587,10 +4569,12 @@ key aspects.
 A. Exploit the only real weakness of the big metropolitan New York banks: their slow
 reaction time.
 
-## B. Encourage United Jersey management to make sure the bank’s
+### B. Encourage United Jersey management to make sure the bank’s
 
 performance matches the advertising’s promise. That took the form of seven key commitments.
+
 1. Decentralized decisions. United Jersey pushed decision making down to the local level.
+
 (One of their lending teams can approve a $10 million loan, and that team meets daily.) In
 10 commercial banking centers throughout the state, other officers on site can make business
 loans quickly. 2. Cross training. United Jersey trains its people in all their banking
@@ -4615,7 +4599,7 @@ Advertising the fast-moving bank When the bank’s performance matched the promi
 advertising was going to make, the advertising started to make the promises. Focusing on the
 weakness of the competition, naturally.
 
-## Each television spot contrasted United Jersey bankers with their
+### Each television spot contrasted United Jersey bankers with their
 
 counterparts at the whimsically named “Lethargic National Bank.” In one spot, approval for a
 business loan at Lethargic National seemed to take forever. A second spot showed a Lethargic
@@ -4646,7 +4630,7 @@ People don’t sit on things.”
 The essence of a good positioning strategy is that it transcends every aspect of a company.
 You know you have a winner when you run it up the corporate flagpole and everybody salutes.
 
-# Chapter 21: Positioning a ski resort: Stowe
+## Chapter 21: Positioning a ski resort: Stowe
 
 There are over a thousand “name” ski areas in America. Since the mind of the average skier
 can hold only a fraction of those names, the problem of positioning a ski resort can be
@@ -4678,7 +4662,7 @@ One was Stowe, Vermont. The others were: Aspen, Colorado; Courchevel, France; Ja
 Wyoming; Kitzbühel, Austria; Portillo, Chile; St. Christoph, Austria; St. Moritz,
 Switzerland; Sun Valley, Idaho; and Vail, Colorado. (Not a bad list.)
 
-## The positioning advertisements for Stowe used shoulder patches to
+### The positioning advertisements for Stowe used shoulder patches to
 
 illustrate the ski areas. “Of the world’s top 10 ski resorts,” said the ad, “only one is in
 the East.” “You don’t have to go to the Alps or the Andes or even to the Rockies to
@@ -4711,7 +4695,7 @@ people can be led by one kind of authority or even the most minimal signs of aut
 put up a sign on the road, Delaware Closed Today,” reported Mr. Funt. “Motorists didn’t
 question it. Instead they asked, ‘Is Jersey open?’”
 
-# Chapter 22: Positioning the Catholic Church
+## Chapter 22: Positioning the Catholic Church
 
 This book could have been written about religion just as well as about advertising.
 
@@ -4738,7 +4722,7 @@ While much effort had been expended in improving techniques, the programs lacked
 central theme or any continuity. (An especially serious problem in an era of electronic
 overcommunication.)
 
-## It was like General Motors with no overall corporate advertising
+### It was like General Motors with no overall corporate advertising
 
 programs. All communication came from the local dealers. Some of it good, much of it bad.
 
@@ -4817,7 +4801,7 @@ man to listen to the words of his Son, the Beloved (Matt. 17:23).
 Then Christ, as he departed from earth, instructed his followers to go and teach all nations
 what they had heard from him (Matt. 28:19).
 
-## Teacher of the word
+### Teacher of the word
 
 It’s apparent from the Scriptures that Christ saw the role of the Church as “teacher of the
 word.”
@@ -4895,7 +4879,7 @@ Catholics?
 
 Don’t hold your breath.
 
-# Chapter 23: Positioning yourself and your career
+## Chapter 23: Positioning yourself and your career
 
 If positioning strategies can be used to promote a product, why can’t they be used to
 promote yourself?
@@ -5179,7 +5163,7 @@ strongest. The best jockey doesn’t win the race.
 The jockey that wins the race is usually the one with the best horse. So pick yourself a
 horse to ride and then ride it for all it’s worth.
 
-# Chapter 24: Positioning your business
+## Chapter 24: Positioning your business
 
 How do you get started on a positioning program?
 
@@ -5275,7 +5259,7 @@ Notice what happens when you fail to deal with the competition. Bristol- Myers s
 million to launch Nuprin, and American Home Products spent $40 million to launch Advil. Both
 products contain ibuprofen, an analgesic new to America.
 
-## But both campaigns failed to reposition Tylenol, the dominant headache
+### But both campaigns failed to reposition Tylenol, the dominant headache
 
 remedy on the market. As a result, neither product has been able to carve out more than a
 tiny market share.
@@ -5409,7 +5393,7 @@ Not true. Advertising agencies can’t spin straw into gold. If they could, they
 straw-spinning business and not the advertising business. Today, creativity is dead. The
 name of the game on Madison Avenue is positioning.
 
-# Chapter 25: Playing the positioning game
+## Chapter 25: Playing the positioning game
 
 Some people have trouble playing the positioning game because they are hung up on words.
 
@@ -5490,7 +5474,7 @@ Years ago a successful product might live 50 years or more before fading away. T
 product’s life cycle is much shorter. Sometimes it can be measured in months instead of
 years.
 
-## New products, new services, new markets, even new media are
+### New products, new services, new markets, even new media are
 
 constantly being born. They grow to adulthood and then slide to oblivion. And a new cycle
 starts again.
@@ -5653,7 +5637,7 @@ markets.
 The geographic roll-out is one way. You build the product in one market and then move on to
 another. From east to west. Or vice versa.
 
-## The demographic roll-out is another. Philip Morris built Marlboro into
+### The demographic roll-out is another. Philip Morris built Marlboro into
 
 the No. 1 cigarette on college campuses long before it became the No. 1 brand nationwide.
 
@@ -5668,7 +5652,7 @@ supermarkets.
 You need a global outlook Don’t overlook the importance of worldwide thinking. A company
 that keeps its eye on Tom, Dick, and Harry is going to miss Pierre, Hans, and Yoshio.
 
-## Marketing is rapidly becoming a worldwide ballgame. A company that
+### Marketing is rapidly becoming a worldwide ballgame. A company that
 
 owns a position in one country now finds that it can use that position to wedge its way into
 another. IBM has some 60 percent of the German computer market. Is this fact surprising? It
@@ -5736,7 +5720,7 @@ strategy, 58 Diversification, 130–131 Ethics, 67–69 Everybody trap, 60 Free�
 House names, 124–125 Human mind (see Mind) Inside–out thinking, 101–102, 199 Jamaica,
 143–147 Jewelry, 56
 
-## Leaders, market (see Market leaders) Line extension:
+### Leaders, market (see Market leaders) Line extension:
 
 advantages of, 115–116 bartender test for, 119–120 disadvantages of, 116–118 examples of,
 103–112 and inside–out thinking, 101–102, 199 list test for, 118–119 and outside–in

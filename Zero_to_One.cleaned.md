@@ -4,47 +4,30 @@
 
 By Peter Thiel with Blake Masters
 
-# Preface: Zero to One
+## Preface: Zero to One
 
 ### Contents
 
-### 1 The Challenge of the Future
+- 1 The Challenge of the Future
+- 2 Party Like It’s
+- 3 All Happy Companies Are Different
+- 4 The Ideology of Competition
+- 5 Last Mover Advantage
+- 6 You Are Not a Lottery Ticket
+- 7 Follow the Money
+- 8 Secrets
+- 9 Foundations
+- 10 The Mechanics of Mafia
+- 11 If You Build It, Will They Come?
+- 12 Man and Machine
+- 13 Seeing Green
+- 14 The Founder’s Paradox
+- Conclusion: Stagnation or Singularity?
+- Acknowledgments
+- Illustration Credits
+- Index
 
-### 2 Party Like It’s
-
-### 3 All Happy Companies Are Different
-
-### 4 The Ideology of Competition
-
-### 5 Last Mover Advantage
-
-### 6 You Are Not a Lottery Ticket
-
-### 7 Follow the Money
-
-### 8 Secrets
-
-### 9 Foundations
-
-### 10 The Mechanics of Mafia
-
-11 If You Build It, Will They Come?
-
-### 12 Man and Machine
-
-### 13 Seeing Green
-
-### 14 The Founder’s Paradox
-
-# Conclusion: Stagnation or Singularity?
-
-### Acknowledgments
-
-### Illustration Credits
-
-### Index
-
-## Preface
+### Preface
 
 EVERY MOMENT IN BUSINESS happens only once. The next Bill Gates will not build an operating
 system. The next Larry Page or Sergey Brin won’t make a search engine. And the next Mark
@@ -96,7 +79,7 @@ circulated far beyond the campus, and in Zero to One I have worked with him to r
 notes for a wider audience. There’s no reason why the future should happen only at Stanford,
 or in college, or in Silicon Valley.
 
-## The Challenge of the Future
+### The Challenge of the Future
 
 WHENEVER I INTERVIEW someone for a job, I like to ask this question: “What important truth
 do very few people agree with you on?”
@@ -107,7 +90,7 @@ definition agreed upon. And it’s psychologically difficult because anyone tryi
 must say something she knows to be unpopular. Brilliant thinking is rare, but courage is in
 even shorter supply than genius.
 
-## Most commonly, I hear answers like the following:
+### Most commonly, I hear answers like the following:
 
 “Our educational system is broken and urgently needs to be fixed.”
 
@@ -130,7 +113,7 @@ future exactly, but we know two things: it’s going to be different, and it mus
 today’s world. Most answers to the contrarian question are different ways of seeing the
 present; good answers are as close as we can come to looking into the future.
 
-## Zero to One: THE FUTURE OF PROGRESS
+### Zero to One: THE FUTURE OF PROGRESS
 
 When we think about the future, we hope for a future of progress. That progress can take one
 of two forms. Horizontal or extensive progress means copying things that work—going from 1
@@ -194,7 +177,7 @@ our parents were wrong to imagine a better future—they were only wrong to expe
 something automatic. Today our challenge is to both imagine and create the new technologies
 that can make the 21st century more peaceful and prosperous than the 20th.
 
-## STARTUP THINKING
+### STARTUP THINKING
 
 New technology tends to come from new ventures—startups. From the Founding Fathers in
 politics to the Royal Society in science to Fairchild Semiconductor’s “traitorous eight” in
@@ -216,7 +199,7 @@ questions you must ask and answer to succeed in the business of doing new things
 follows is not a manual or a record of knowledge but an exercise in thinking. Because that
 is what a startup has to do: question received ideas and rethink business from scratch.
 
-## PARTY LIKE IT’S
+### PARTY LIKE IT’S
 
 OUR CONTRARIAN QUESTION—What important truth do very few people agree with you on?—is
 difficult to answer directly. It may be easier to start with a preliminary: what does
@@ -239,7 +222,7 @@ crash of 1929, and the lessons learned afterward define and distort almost all t
 about technology today. The first step to thinking clearly is to question what we think we
 know about the past.
 
-## A QUICK HISTORY OF THE ’90S
+### A QUICK HISTORY OF THE ’90S
 
 The 1990s have a good image. We tend to remember them as a prosperous, optimistic decade
 that happened to end with the internet boom and bust. But many of those years were not as
@@ -275,7 +258,7 @@ $438 million. By spring of ’98, each company’s stock had more than quadruple
 questioned earnings and revenue multiples higher than those for any non-internet company. It
 was easy to conclude that the market had gone crazy.
 
-## This conclusion was understandable but misplaced. In December ’96—
+### This conclusion was understandable but misplaced. In December ’96—
 
 more than three years before the bubble actually burst—Fed chairman Alan Greenspan warned
 that “irrational exuberance” might have “unduly escalated asset values.” Tech investors were
@@ -305,7 +288,7 @@ The Old Economy couldn’t handle the challenges of globalization. Something nee
 work—and work in a big way—if the future was going to be better at all. By indirect proof,
 the New Economy of the internet was the only way forward.
 
-## MANIA: SEPTEMBER 1998–MARCH
+### MANIA: SEPTEMBER 1998–MARCH
 
 Dot-com mania was intense but short—18 months of insanity from September 1998 to March 2000.
 It was a Silicon Valley gold rush: there was money everywhere, and no shortage of exuberant,
@@ -322,7 +305,7 @@ anti-business model where they lost money as they grew. But it’s hard to blame
 dancing when the music was playing; irrationality was rational given that appending “.com”
 to your name could double your value overnight.
 
-## PAYPAL MANIA
+### PAYPAL MANIA
 
 When I was running PayPal in late 1999, I was scared out of my wits—not because I didn’t
 believe in our company, but because it seemed like everyone else in the Valley was ready to
@@ -359,13 +342,13 @@ tried to return the money, they wouldn’t tell me where to send it.) That March
 financing round bought us the time we needed to make PayPal a success. Just as we closed the
 deal, the bubble popped.
 
-## LESSONS LEARNED
+### LESSONS LEARNED
 
 ’Cause they say 2,000 zero zero party over, oops! Out of time!
 
 So tonight I’m gonna party like it’s 1999!
 
-## —PRINCE
+### —PRINCE
 
 The NASDAQ reached 5,048 at its peak in the middle of March 2000 and then crashed to 3,321
 in the middle of April. By the time it bottomed out at 1,114 in October 2002, the country
@@ -379,7 +362,7 @@ Globalization replaced technology as the hope for the future. Since the ’90s m
 bricks to clicks” didn’t work as hoped, investors went back to bricks (housing) and BRICs
 (globalization). The result was another bubble, this time in real estate.
 
-## The entrepreneurs who stuck with Silicon Valley learned four big lessons
+### The entrepreneurs who stuck with Silicon Valley learned four big lessons
 
 from the dot-com crash that still guide business thinking today:
 
@@ -416,11 +399,8 @@ And yet the opposite principles are probably more
 ### correct:
 
 1. It is better to risk boldness than triviality.
-
 2. A bad plan is better than no plan.
-
 3. Competitive markets destroy profits.
-
 4. Sales matters just as much as product.
 
 It’s true that there was a bubble in technology. The late ’90s was a time of hubris: people
@@ -438,9 +418,9 @@ madness of crowds by dogmatically rejecting them. Instead ask yourself: how much
 know about business is shaped by mistaken reactions to past mistakes? The most contrarian
 thing of all is not to oppose the crowd but to think for yourself.
 
-## ALL HAPPY COMPANIES ARE
+### ALL HAPPY COMPANIES ARE
 
-## DIFFERENT
+### DIFFERENT
 
 THE BUSINESS VERSION of our contrarian question is: what valuable company is nobody
 building? This question is harder than it looks, because your company could create a lot of
@@ -486,7 +466,7 @@ premised on the accumulation of capital, but under perfect competition all profi
 competed away. The lesson for entrepreneurs is clear: if you want to create and capture
 lasting value, don’t build an undifferentiated commodity business.
 
-## LIES PEOPLE TELL
+### LIES PEOPLE TELL
 
 How much of the world is actually monopolistic? How much is truly competitive? It’s hard to
 say, because our common conversation about these matters is so confused. To the outside
@@ -504,7 +484,7 @@ the truth.
 
 Monopolists lie to protect themselves. They know that bragging about their
 
-## Monopoly Lies
+### Monopoly Lies
 
 great monopoly invites being audited, scrutinized, and attacked. Since they very much want
 their monopoly profits to continue unmolested, they tend to do whatever they can to conceal
@@ -535,7 +515,7 @@ consumer tech is a $964 billion market globally, Google owns less than 0.24% of 
 from relevance, let alone monopoly. Framing itself as just another tech company allows
 Google to escape all sorts of unwanted attention.
 
-## Competitive Lies
+### Competitive Lies
 
 Non-monopolists tell the opposite lie: “we’re in a league of our own.”
 
@@ -577,7 +557,7 @@ group of hackers to catch the shark that killed his friend. That has definitely 
 done before. But, like the lack of British restaurants in Palo Alto, maybe that’s a good
 thing.
 
-## Non-monopolists exaggerate their distinction by defining their market as
+### Non-monopolists exaggerate their distinction by defining their market as
 
 ### the intersection of various smaller markets:
 
@@ -602,12 +582,12 @@ chairman Eric Schmidt’s testimony at a 2011
 
 have a multitude of options to access information.
 
-## Or, translated from PR-speak to plain English:
+### Or, translated from PR-speak to plain English:
 
 Google is a small fish in a big pond. We could be swallowed whole at any time. We are not
 the monopoly that the government is looking for.
 
-## RUTHLESS PEOPLE
+### RUTHLESS PEOPLE
 
 The problem with a competitive business goes beyond lack of profits.
 
@@ -633,7 +613,7 @@ non-monopolists can’t. In perfect competition, a business is so focused on tod
 that it can’t possibly plan for a long-term future. Only one thing can allow a business to
 transcend the daily brute struggle for survival: monopoly profits.
 
-## MONOPOLY CAPITALISM
+### MONOPOLY CAPITALISM
 
 So, a monopoly is good for everyone on the inside, but what about everyone on the outside?
 Do outsized profits come at the expense of the rest of society? Actually, yes: profits come
@@ -700,7 +680,7 @@ is unhappy in its own way.” Business is the opposite. All happy companies are 
 each one earns a monopoly by solving a unique problem. All failed companies are the same:
 they failed to escape competition.
 
-## THE IDEOLOGY OF COMPETITION
+### THE IDEOLOGY OF COMPETITION
 
 ### CREATIVE MONOPOLY means new products that benefit everybody and
 
@@ -757,7 +737,7 @@ spent my entire career taking depositions or drafting other people’s business 
 of creating anything new. It’s hard to say how much would be different, but the opportunity
 costs were enormous. All Rhodes Scholars had a great future in their past.
 
-## WAR AND PEACE
+### WAR AND PEACE
 
 ### Professors downplay the cutthroat culture of academia, but managers never
 
@@ -844,7 +824,7 @@ with it.
 
 ### is
 
-## Other
+### Other
 
 ### times, rivalry
 
@@ -906,7 +886,7 @@ This advice can be hard to follow because pride and honor can get in the
 
 ### way. Hence Hamlet:
 
-## Exposing what is mortal and unsure
+### Exposing what is mortal and unsure
 
 To all that fortune, death, and danger dare, Even for an eggshell. Rightly to be great
 
@@ -923,7 +903,7 @@ it’s disastrous in business. If you can recognize competition as a destructive
 of a sign of value, you’re already more sane than most. The next chapter is about how to use
 a clear head to build a monopoly business.
 
-## LAST MOVER ADVANTAGE
+### LAST MOVER ADVANTAGE
 
 ESCAPING COMPETITION will give you a monopoly, but even a monopoly is only a great business
 if it can endure in the future. Compare the value of the New York Times Company with
@@ -991,7 +971,7 @@ should be asking: will this business still be around a decade from now? Numbers 
 tell you the answer; instead you must think critically about the qualitative characteristics
 of your business.
 
-## CHARACTERISTICS OF MONOPOLY
+### CHARACTERISTICS OF MONOPOLY
 
 What does a company with large cash flows far into the future look like? Every monopoly is
 unique, but they usually share some combination of the following characteristics:
@@ -1121,12 +1101,12 @@ Jobs returned to Apple, he didn’t just make Apple a cool place to work; he sla
 lines to focus on the handful of opportunities for 10x improvements. No technology company
 can be built on branding alone.
 
-## BUILDING A MONOPOLY
+### BUILDING A MONOPOLY
 
 Brand, scale, network effects, and technology in some combination define a monopoly; but to
 get them to work, you need to choose your market carefully and expand deliberately.
 
-## Start Small and Monopolize
+### Start Small and Monopolize
 
 Every startup is small at the start. Every monopoly dominates a large share of its market.
 Therefore, every startup should start with a very small market. Always err on the side of
@@ -1154,7 +1134,7 @@ hard to ever reach that 1%. And even if you do succeed in gaining a small footho
 have to be satisfied with keeping the lights on: cutthroat competition means your profits
 will be zero.
 
-## Scaling Up
+### Scaling Up
 
 Once you create and dominate a niche market, then you should gradually expand into related
 and slightly broader markets. Amazon shows how it can be done. Jeff Bezos’s founding vision
@@ -1188,7 +1168,7 @@ Sequencing markets correctly is underrated, and it takes discipline to expand gr
 most successful companies make the core progression —to first dominate a specific niche and
 then scale to adjacent markets—a part of their founding narrative.
 
-## Don’t Disrupt
+### Don’t Disrupt
 
 Silicon Valley has become obsessed with “disruption.” Originally, “disruption” was a term of
 art to describe how a firm can use new technology to introduce a low-end product at low
@@ -1229,7 +1209,7 @@ more business than we took. The overall dynamic was net positive, unlike Napster
 negative-sum struggle with the U.S. recording industry. As you craft a plan to expand to
 adjacent markets, don’t disrupt: avoid competition as much as possible.
 
-## THE LAST WILL BE FIRST
+### THE LAST WILL BE FIRST
 
 You’ve probably heard about “first mover advantage”: if you’re the first entrant into a
 market, you can capture significant market share while competitors scramble to get started.
@@ -1242,7 +1222,7 @@ long-term vision. In this one particular at least, business is like chess. Grand
 Raúl Capablanca put it well: to succeed, “you must study the endgame before everything
 else.”
 
-## YOU ARE NOT A LOTTERY TICKET
+### YOU ARE NOT A LOTTERY TICKET
 
 THE MOST CONTENTIOUS question in business is whether success comes from luck or skill.
 
@@ -1254,7 +1234,7 @@ success to an “incredible planetary alignment” and jokes that it was “half
 timing, and the rest brains.” Bill Gates even goes so far as to claim that he “was lucky to
 be born with certain skills,” though it’s not clear whether that’s actually possible.
 
-## Perhaps
+### Perhaps
 
 ### these guys are being strategically humble. However,
 
@@ -1333,11 +1313,11 @@ You can also expect the future to be either better or worse than the present.
 
 ### it. Combining
 
-## Optimists welcome
+### Optimists welcome
 
 ### possibilities yields four views:
 
-## Indefinite Pessimism
+### Indefinite Pessimism
 
 Every culture has a myth of decline from some golden age, and almost all peoples throughout
 history have been pessimists. Even today pessimism still dominates huge parts of the world.
@@ -1351,7 +1331,7 @@ don’t get worse. The indefinite pessimist can’t know whether the inevitable 
 fast or slow, catastrophic or gradual. All he can do is wait for it to happen, so he might
 as well eat, drink, and be merry in the meantime: hence Europe’s famous vacation mania.
 
-## Definite Pessimism
+### Definite Pessimism
 
 A definite pessimist believes the future can be known, but since it will be bleak, he must
 prepare for it. Perhaps surprisingly, China is probably the most definitely pessimistic
@@ -1376,7 +1356,7 @@ but they pay less attention to the wealthy Chinese trying hard to get their mone
 country. Poorer Chinese just save everything they can and hope it will be enough. Every
 class of people in China takes the future deadly seriously.
 
-## Definite Optimism
+### Definite Optimism
 
 To a definite optimist, the future will be better than the present if he plans and works to
 make it better. From the 17th century through the 1950s and ’60s, definite optimists led the
@@ -1429,7 +1409,7 @@ become archaic curiosities.
 In the 1950s, Americans thought big plans for the future were too important to be left to
 experts.
 
-## Indefinite Optimism
+### Indefinite Optimism
 
 After a brief pessimistic phase in the 1970s, indefinite optimism has dominated American
 thinking ever since 1982, when a long bull market began and finance eclipsed engineering as
@@ -1474,9 +1454,9 @@ importance of planning. Gladwell at first appears to be making a contrarian crit
 myth of the self-made businessman, but actually his own account encapsulates the
 conventional view of a generation.
 
-## OUR INDEFINITELY OPTIMISTIC WORLD
+### OUR INDEFINITELY OPTIMISTIC WORLD
 
-## Indefinite Finance
+### Indefinite Finance
 
 While a definitely optimistic future would need engineers to design underwater cities and
 settlements in space, an indefinitely optimistic future calls for more bankers and lawyers.
@@ -1493,13 +1473,10 @@ entrepreneurs sell their company. What do they do with the money? In a financial
 it unfolds like this:
 
 - The founders don’t know what to do with it, so they give it to a large bank.
-
 - The bankers don’t know what to do with it, so they diversify by spreading it across a
   portfolio of institutional investors.
-
 - Institutional investors don’t know what to do with their managed capital, so they
   diversify by amassing a portfolio of stocks.
-
 - Companies try to increase their share price by generating free cash flows. If they do,
   they issue dividends or buy back shares and the cycle repeats.
 
@@ -1508,7 +1485,7 @@ an indefinite world, people actually prefer unlimited optionality; money is more
 than anything you could possibly do with it. Only in a definite future is money a means to
 an end, not the end itself.
 
-## Indefinite Politics
+### Indefinite Politics
 
 Politicians have always been officially accountable to the public at election time, but
 today they are attuned to what the public thinks at every moment. Modern polling enables
@@ -1528,7 +1505,7 @@ increase discretionary spending we’d need definite plans to solve specific pro
 according to the indefinite logic of entitlement spending, we can make things better just by
 sending out more checks.
 
-## Indefinite Philosophy
+### Indefinite Philosophy
 
 You can see the shift to an indefinite attitude not just in politics but in the political
 philosophers whose ideas underpin both left and right.
@@ -1562,7 +1539,7 @@ because almost everyone shares their common indefinite attitude. In philosophy, 
 and business, too, arguing over process has become a way to endlessly defer making concrete
 plans for a better future.
 
-## Indefinite Life
+### Indefinite Life
 
 Our ancestors sought to understand and extend the human lifespan. In the 16th century,
 conquistadors searched the jungles of Florida for a Fountain of Youth. Francis Bacon wrote
@@ -1661,7 +1638,7 @@ of all for an indefinite optimist: why should you expect your own business to su
 without a plan to make it happen? Darwinism may be a fine theory in other contexts, but in
 startups, intelligent design works best.
 
-## THE RETURN OF DESIGN
+### THE RETURN OF DESIGN
 
 What would it mean to prioritize design over chance? Today, “good design” is an aesthetic
 imperative, and everybody from slackers to yuppies carefully “curates” their outward
@@ -1693,7 +1670,7 @@ than 10 minutes. We’re obviously not going to sell here.” Mark saw where he 
 company, and Yahoo! didn’t. A business with a good definite plan will always be underrated
 in a world where people see the future as random.
 
-## YOU ARE NOT A LOTTERY TICKET
+### YOU ARE NOT A LOTTERY TICKET
 
 We have to find our way back to a definite future, and the Western world needs nothing short
 of a cultural revolution to do it.
@@ -1708,7 +1685,7 @@ A startup is the largest endeavor over which you can have definite mastery. You 
 agency not just over your own life, but over a small and important part of the world. It
 begins by rejecting the unjust tyranny of Chance. You are not a lottery ticket.
 
-## FOLLOW THE MONEY
+### FOLLOW THE MONEY
 
 MONEY MAKES MONEY. “For whoever has will be given more, and they will have an abundance.
 Whoever does not have, even what they have will be taken from them” (Matthew 25:29). Albert
@@ -1745,7 +1722,7 @@ to deal with venture capital, but everyone needs to know exactly one thing that 
 capitalists struggle to understand: we don’t live in a normal world; we live under a power
 law.
 
-## THE POWER LAW OF VENTURE CAPITAL
+### THE POWER LAW OF VENTURE CAPITAL
 
 Venture capitalists aim to identify, fund, and profit from promising early-stage companies.
 They raise money from institutions and wealthy people, pool it into a fund, and invest in
@@ -1780,7 +1757,7 @@ others. If you focus on diversification instead of single-minded pursuit of the 
 companies that can become overwhelmingly valuable, you’ll miss those rare companies in the
 first place.
 
-## This graph shows
+### This graph shows
 
 ### the stark reality versus
 
@@ -1822,7 +1799,7 @@ strategy, venture investing starts to look a lot like buying lottery tickets. An
 think that you’re playing the lottery, you’ve already psychologically prepared yourself to
 lose.
 
-## WHY PEOPLE DON’T SEE THE POWER LAW
+### WHY PEOPLE DON’T SEE THE POWER LAW
 
 Why would professional VCs, of all people, fail to see the power law? For one thing, it only
 becomes clear over time, and even technology investors too often live in the present.
@@ -1858,7 +1835,7 @@ They generate annual revenues equivalent to an astounding 21% of GDP. Indeed, th
 largest tech companies were all venture-backed. Together those 12 companies are worth more
 than $2 trillion, more than all other tech companies combined.
 
-## WHAT TO DO WITH THE POWER LAW
+### WHAT TO DO WITH THE POWER LAW
 
 The power law is not just important to investors; rather, it’s important to everybody
 because everybody is an investor. An entrepreneur makes a major investment just by spending
@@ -1911,7 +1888,7 @@ denies the power law to accurately frame your decisions for you, so what’s mos
 rarely obvious. It might even be secret. But in a power law world, you can’t afford not to
 think hard about where your actions will fall on the curve.
 
-## SECRETS
+### SECRETS
 
 EVERY ONE OF TODAY’S most famous and familiar ideas was once unknown and unsuspected. The
 mathematical relationship between a triangle’s sides, for example, was secret for millennia.
@@ -1965,7 +1942,6 @@ least some of his goals.” He
 ### divided human goals into three groups:
 
 1. Goals that can be satisfied with minimal effort;
-
 2. Goals that can be satisfied with serious effort; and 3. Goals that cannot be satisfied,
    no matter how much effort one makes.
 
@@ -2048,7 +2024,7 @@ unorthodox ideas seriously today, and the mainstream sees that as a sign of prog
 be glad that there are fewer crazy cults now, yet that gain has come at great cost: we have
 given up our sense of wonder at secrets left to be discovered.
 
-## THE WORLD ACCORDING TO CONVENTION
+### THE WORLD ACCORDING TO CONVENTION
 
 How must you see the world if you don’t believe in secrets? You’d have to believe we’ve
 already solved all great questions. If today’s conventions are correct, we can afford to be
@@ -2105,7 +2081,7 @@ abandoned the search for technological secrets, HP obsessed over gossip. As a re
 late 2012 HP was worth just $23 billion—not much more than it was worth in 1990, adjusting
 for inflation.
 
-## THE CASE FOR SECRETS
+### THE CASE FOR SECRETS
 
 You can’t find secrets without looking for them. Andrew Wiles demonstrated this when he
 proved Fermat’s Last Theorem after 358 years of fruitless inquiry by other
@@ -2145,7 +2121,7 @@ simplicity—is itself an argument for secrets. If insights that look so element
 retrospect can support important and valuable businesses, there must remain many great
 companies still to start.
 
-## HOW TO FIND SECRETS
+### HOW TO FIND SECRETS
 
 There are two kinds of secrets: secrets of nature and secrets about people. Natural secrets
 exist all around us; to find them, one must study some undiscovered aspect of the physical
@@ -2190,7 +2166,7 @@ more to learn: we know more about the physics of faraway stars than we know abou
 nutrition. It won’t be easy, but it’s not obviously impossible: exactly the kind of field
 that could yield secrets.
 
-## WHAT TO DO WITH SECRETS
+### WHAT TO DO WITH SECRETS
 
 If you find a secret, you face a choice: Do you tell anyone? Or do you keep it to yourself?
 
@@ -2198,7 +2174,7 @@ It depends on the secret: some are more dangerous than others. As Faust
 
 ### tells Wagner:
 
-## The few who knew what might be learned,
+### The few who knew what might be learned,
 
 ### Foolish enough to put their whole heart on show,
 
@@ -2215,16 +2191,16 @@ entrepreneurs know this: every great business is built around a secret that’s 
 the outside. A great company is a conspiracy to change the world; when you share your
 secret, the recipient becomes a fellow conspirator.
 
-## As Tolkien wrote in The Lord of the Rings:
+### As Tolkien wrote in The Lord of the Rings:
 
-## The Road goes ever on and on
+### The Road goes ever on and on
 
 Down from the door where it began.
 
 Life is a long journey; the road marked out by the steps of previous travelers has no end in
 sight. But later on in the tale, another verse appears:
 
-## Still round the corner there may wait
+### Still round the corner there may wait
 
 ### A new road or a secret gate,
 
@@ -2238,7 +2214,7 @@ Towards the Moon or to the Sun.
 
 The road doesn’t have to be infinite after all. Take the hidden paths.
 
-## FOUNDATIONS
+### FOUNDATIONS
 
 EVERY GREAT COMPANY is unique, but there are a few things that every business must get right
 at the beginning. I stress this so often that friends have teasingly nicknamed it “Thiel’s
@@ -2267,7 +2243,7 @@ made. It may take a crisis on the order of bankruptcy before anybody will even t
 correct them. As a founder, your first job is to get the first things right, because you
 cannot build a great company on a flawed foundation.
 
-## FOUNDING MATRIMONY
+### FOUNDING MATRIMONY
 
 When you start something, the first and most crucial decision you make is whom to start it
 with. Choosing a co-founder is like getting married, and founder conflict is just as ugly as
@@ -2291,7 +2267,7 @@ Technical abilities and complementary skill sets matter, but how well the founde
 other and how well they work together matter just as much. Founders should share a
 prehistory before they start a company together—otherwise they’re just rolling dice.
 
-## OWNERSHIP, POSSESSION, AND CONTROL
+### OWNERSHIP, POSSESSION, AND CONTROL
 
 It’s not just founders who need to get along. Everyone in your company needs to work well
 together. A Silicon Valley libertarian might say you could solve this problem by restricting
@@ -2310,14 +2286,12 @@ separate roles to play; it’s also why founders’ and investors’ claims on a
 formally defined. You need good people who get along, but you also need a structure to help
 keep everyone aligned for the long term.
 
-## To anticipate likely sources of misalignment in any company, it’s useful to
+### To anticipate likely sources of misalignment in any company, it’s useful to
 
 ### distinguish between three concepts:
 
 - Ownership: who legally owns a company’s equity?
-
 - Possession: who actually runs the company on a day-to-day basis?
-
 - Control: who formally governs the company’s affairs?
 
 A typical startup allocates ownership among founders, employees, and investors. The managers
@@ -2379,7 +2353,7 @@ all; it merely provides cover for whatever microdictator actually runs the organ
 you want that kind of free rein from your board, blow it up to giant size. If you want an
 effective board, keep it small.
 
-## ON THE BUS OR OFF THE BUS
+### ON THE BUS OR OFF THE BUS
 
 As a general rule, everyone you involve with your company should be involved full-time.
 Sometimes you’ll have to break this rule; it usually makes sense to hire outside lawyers and
@@ -2391,7 +2365,7 @@ avoided, because misalignment can creep in whenever colleagues aren’t together
 the same place, every day. If you’re deciding whether to bring someone on board, the
 decision is binary. Ken Kesey was right: you’re either on the bus or off the bus.
 
-## CASH IS NOT KING
+### CASH IS NOT KING
 
 For people to be fully committed, they should be properly compensated.
 
@@ -2424,7 +2398,7 @@ the future. A cash bonus is slightly better than a cash salary—at least it’s
 job well done. But even so-called incentive pay encourages short-term thinking and value
 grabbing. Any kind of cash is more about the present than the future.
 
-## VESTED INTERESTS
+### VESTED INTERESTS
 
 Startups don’t need to pay high salaries because they can offer something better: part
 ownership of the company itself. Equity is the one form of compensation that can effectively
@@ -2460,7 +2434,7 @@ commitment to increasing your company’s value in the future. Equity can’t cr
 incentives, but it’s the best way for a founder to keep everyone in the company broadly
 aligned.
 
-## EXTENDING THE FOUNDING
+### EXTENDING THE FOUNDING
 
 Bob Dylan has said that he who is not busy being born is busy dying. If he’s right, being
 born doesn’t happen at just one moment—you might even continue to do it somehow, poetically
@@ -2475,7 +2449,7 @@ stops. If you get the founding moment right, you can do more than create a valua
 you can steer its distant future toward the creation of new things instead of the
 stewardship of inherited success. You might even extend its founding indefinitely.
 
-## THE MECHANICS OF MAFIA
+### THE MECHANICS OF MAFIA
 
 START WITH A THOUGHT EXPERIMENT: what would the ideal company culture look like? Employees
 should love their work. They should enjoy going to the office so much that formal business
@@ -2493,7 +2467,7 @@ buzzwords. “Company culture” doesn’t exist apart from the company itself: 
 culture; every company is a culture. A startup is a team of people on a mission, and a good
 culture is just what that looks like on the inside.
 
-## BEYOND PROFESSIONALISM
+### BEYOND PROFESSIONALISM
 
 The first team that I built has become known in Silicon Valley as the “PayPal Mafia” because
 so many of my former colleagues have gone on to help each other start and invest in
@@ -2526,7 +2500,7 @@ successful in our careers even beyond PayPal. So we set out to hire people who w
 actually enjoy working together. They had to be talented, but even more than that they had
 to be excited about working specifically with us. That was the start of the PayPal Mafia.
 
-## RECRUITING CONSPIRATORS
+### RECRUITING CONSPIRATORS
 
 Recruiting is a core competency for any company. It should never be outsourced. You need
 people who are not just skilled on paper but who will work together cohesively after they’re
@@ -2565,7 +2539,7 @@ irreplaceable work on a unique problem alongside great people. You probably can�
 Google of 2014 in terms of compensation or perks, but you can be like the Google of 1999 if
 you already have good answers about your mission and team.
 
-## WHAT’S UNDER SILICON VALLEY’S HOODIES
+### WHAT’S UNDER SILICON VALLEY’S HOODIES
 
 From the outside, everyone in your company should be different in the same way.
 
@@ -2590,7 +2564,7 @@ individuals instead of governments. For the company to work, it didn’t matter 
 looked like or which country they came from, but we needed every new hire to be equally
 obsessed.
 
-## DO ONE THING
+### DO ONE THING
 
 On the inside, every individual should be sharply distinguished by her work.
 
@@ -2615,7 +2589,7 @@ ecosystem, and factional strife makes it vulnerable to outside threats. Internal
 like an autoimmune disease: the technical cause of death may be pneumonia, but the real
 cause remains hidden from plain view.
 
-## OF CULTS AND CONSULTANTS
+### OF CULTS AND CONSULTANTS
 
 In the most intense kind of organization, members hang out only with other members. They
 ignore their families and abandon the outside world. In exchange, they experience strong
@@ -2639,9 +2613,9 @@ You’re not going to learn those kinds of secrets from consultants, and you don
 worry if your company doesn’t make sense to conventional professionals. Better to be called
 a cult— or even a mafia.
 
-## IF YOU BUILD IT, WILL THEY
+### IF YOU BUILD IT, WILL THEY
 
-## COME?
+### COME?
 
 EVEN THOUGH SALES is everywhere, most people underrate its importance.
 
@@ -2664,7 +2638,7 @@ Valley, where engineers are biased toward building cool stuff rather than sellin
 customers will not come just because you build it. You have to make that happen, and it’s
 harder than it looks.
 
-## NERDS VS. SALESMEN
+### NERDS VS. SALESMEN
 
 The U.S. advertising industry collects annual revenues of $150 billion and employs more than
 600,000 people. At $450 billion annually, the U.S. sales industry is even bigger. When they
@@ -2692,7 +2666,7 @@ being done. If anything, people overestimate the relative difficulty of science 
 engineering, because the challenges of those fields are obvious. What nerds miss is that it
 takes hard work to make sales look easy.
 
-## SALES IS HIDDEN
+### SALES IS HIDDEN
 
 All salesmen are actors: their priority is persuasion, not sincerity. That’s why the word
 “salesman” can be a slur and the used car dealer is our archetype of shadiness. But we only
@@ -2738,7 +2712,7 @@ mere chance. It’s better to think of distribution as something essential to th
 your product. If you’ve invented something new but you haven’t invented an effective way to
 sell it, you have a bad business—no matter how good the product.
 
-## HOW TO SELL A PRODUCT
+### HOW TO SELL A PRODUCT
 
 Superior sales and distribution by itself can create a monopoly, even with no product
 differentiation. The converse is not true. No matter how strong your product—even if it
@@ -2753,7 +2727,7 @@ have to spend to make a sale—and the more it makes sense to spend it. Distribu
 
 ### can be plotted on a continuum:
 
-## Complex Sales
+### Complex Sales
 
 If your average sale is seven figures or more, every detail of every deal requires close
 personal attention. It might take months to develop the right relationships. You might make
@@ -2788,7 +2762,7 @@ they’ll rarely be comfortable signing a deal completely out of scale with what
 before. Once you have a pool of reference customers who are successfully using your product,
 then you can begin the long and methodical work of hustling toward ever bigger deals.
 
-## Personal Sales
+### Personal Sales
 
 Most sales are not particularly complex: average deal sizes might range between $10,000 and
 $100,000, and usually the CEO won’t have to do all the selling himself. The challenge here
@@ -2821,7 +2795,7 @@ doctors). More than 5 million people already use the service each month, and if 
 continue to scale its network to include a majority of practitioners, it will become a
 fundamental utility for the U.S. health care industry.
 
-## Distribution Doldrums
+### Distribution Doldrums
 
 ### In between personal sales (salespeople obviously required) and traditional
 
@@ -2838,7 +2812,7 @@ medium-sized businesses don’t use tools that bigger firms take for granted. It
 small business proprietors are unusually backward or that good tools don’t exist:
 distribution is the hidden bottleneck.
 
-## Marketing and Advertising
+### Marketing and Advertising
 
 Marketing and advertising work for relatively low-priced products that have mass appeal but
 lack any method of viral distribution. Procter & Gamble can’t afford to pay salespeople to
@@ -2876,7 +2850,7 @@ William Shatner (the actor who played Kirk) in a famous series of TV spots, it w
 them. But by then Priceline was a major player. No early-stage startup can match big
 companies’ advertising budgets. Captain Kirk truly is in a league of his own.
 
-## Viral Marketing
+### Viral Marketing
 
 A product is viral if its core functionality encourages users to invite their friends to
 become users too. This is how Facebook and PayPal both grew quickly: every time someone
@@ -2911,7 +2885,7 @@ terrible, these merchants were extremely enthusiastic early adopters. Once PayPa
 this segment and became the payments platform for eBay, there was no catching up—on eBay or
 anywhere else.
 
-## The Power Law of Distribution
+### The Power Law of Distribution
 
 One of these methods is likely to be far more powerful than every other for any given
 business: distribution follows a power law of its own. This is counterintuitive for most
@@ -2922,7 +2896,7 @@ work: poor sales rather than bad product is the most common cause of failure. If
 just one distribution channel to work, you have a great business. If you try for several but
 don’t nail one, you’re finished.
 
-## Selling to Non-Customers
+### Selling to Non-Customers
 
 Your company needs to sell more than its product. You must also sell your company to
 employees and investors. There is a “human resources” version of the lie that great products
@@ -2941,7 +2915,7 @@ press can help attract investors and employees. Any prospective employee worth h
 do his own diligence; what he finds or doesn’t find when he googles you will be critical to
 the success of your company.
 
-## EVERYBODY SELLS
+### EVERYBODY SELLS
 
 Nerds might wish that distribution could be ignored and salesmen banished to another planet.
 All of us want to believe that we make up our own minds, that sales doesn’t work on us. But
@@ -2949,7 +2923,7 @@ it’s not true. Everybody has a product to sell— no matter whether you’re a
 founder, or an investor. It’s true even if your company consists of just you and your
 computer. Look around. If you don’t see any salespeople, you’re the salesperson.
 
-## MAN AND MACHINE
+### MAN AND MACHINE
 
 AS MATURE INDUSTRIES stagnate, information technology has advanced so rapidly that it has
 now become synonymous with “technology” itself. Today, more than 1.5 billion people enjoy
@@ -2981,7 +2955,7 @@ premise is wrong: computers are complements for humans, not substitutes. The mos
 businesses of coming decades will be built by entrepreneurs who seek to empower people
 rather than try to make them obsolete.
 
-## SUBSTITUTION VS. COMPLEMENTARITY
+### SUBSTITUTION VS. COMPLEMENTARITY
 
 Fifteen years ago, American workers were worried about competition from cheaper Mexican
 substitutes. And that made sense, because humans really can substitute for each other. Today
@@ -2991,7 +2965,7 @@ fear technology in the near future because they see it as a replay of the global
 the near past. But the situations are very different: people compete for jobs and for
 resources; computers compete for neither.
 
-## Globalization Means Substitution
+### Globalization Means Substitution
 
 When Perot warned about foreign competition, both George H. W. Bush and Bill Clinton
 preached the gospel of free trade: since every person has a relative strength at some
@@ -3011,7 +2985,7 @@ supply of basic calories, they want more of them to come from pork instead of ju
 The convergence of desire is even more obvious at the top: all oligarchs have the same taste
 in Cristal, from Petersburg to Pyongyang.
 
-## Technology Means Complementarity
+### Technology Means Complementarity
 
 Now think about the prospect of competition from computers instead of competition from human
 workers. On the supply side, computers are far more different from people than any two
@@ -3021,7 +2995,7 @@ situations. We’re less good at making sense of enormous amounts of data. Compu
 exactly the opposite: they excel at efficient data processing, but they struggle to make
 basic judgments that would be simple for any human.
 
-## In 2012, one of
+### In 2012, one of
 
 substitution projects.
 
@@ -3047,7 +3021,7 @@ for resources. Properly understood, technology is the one way for us to escape c
 in a globalizing world. As computers become more and more powerful, they won’t be
 substitutes for humans: they’ll be complements.
 
-## COMPLEMENTARY BUSINESSES
+### COMPLEMENTARY BUSINESSES
 
 ### Complementarity between computers and humans isn’t just a macro-scale
 
@@ -3065,7 +3039,7 @@ bogus transactions in real time. But it quickly became clear that this approach 
 work either: after an hour or two, the thieves would catch on and change their tactics. We
 were dealing with an adaptive enemy, and our software couldn’t adapt in response.
 
-## The fraudsters’ adaptive evasions fooled our automatic detection
+### The fraudsters’ adaptive evasions fooled our automatic detection
 
 algorithms, but we found that they didn’t fool our human analysts as easily. So Max and his
 engineers rewrote the software to take a hybrid approach: the computer would flag the most
@@ -3142,7 +3116,7 @@ creates value for the hundreds of millions of professionals who use it to manage
 personal brands. If LinkedIn had tried to simply replace recruiters with technology, they
 wouldn’t have a business today.
 
-## The Ideology of Computer Science
+### The Ideology of Computer Science
 
 Why do so many people miss the power of complementarity? It starts in school. Software
 engineers tend to work on projects that replace human efforts because that’s what they’re
@@ -3205,7 +3179,7 @@ exhaustive: there is room in between for sane people to build a vastly better wo
 decades ahead. As we find new ways to use computers, they won’t just get better at the kinds
 of things people already do; they’ll help us to do what was previously unimaginable.
 
-## SEEING GREEN
+### SEEING GREEN
 
 AT THE START of the 21st century, everyone agreed that the next big thing was clean
 technology. It had to be: in Beijing, the smog had gotten so bad that people couldn’t see
@@ -3271,7 +3245,7 @@ It’s hard to know exactly why any particular cleantech company failed, since a
 them made several serious mistakes. But since any one of those mistakes is enough to doom
 your company, it’s worth reviewing cleantech’s losing scorecard in more detail.
 
-## THE ENGINEERING QUESTION
+### THE ENGINEERING QUESTION
 
 A great technology company should have proprietary technology an order of magnitude better
 than its nearest substitute. But cleantech companies rarely produced 2x, let alone 10x,
@@ -3292,7 +3266,7 @@ if your system really is 20% better on net for the customer who buys it, people 
 to exaggerated claims that you’ll be met with skepticism when you try to sell it. Only when
 your product is 10x better can you offer the customer transparent superiority.
 
-## THE TIMING QUESTION
+### THE TIMING QUESTION
 
 ### Cleantech entrepreneurs worked hard to convince themselves that their
 
@@ -3313,7 +3287,7 @@ mid-2000s to suggest impending liftoff. Entering a slow-moving market can be a g
 strategy, but only if you have a definite and realistic plan to take it over. The failed
 cleantech companies had none.
 
-## THE MONOPOLY QUESTION
+### THE MONOPOLY QUESTION
 
 In 2006, billionaire technology investor John Doerr announced that “green is the new red,
 white and blue.” He could have stopped at “red.” As Doerr himself said, “Internet-sized
@@ -3360,7 +3334,7 @@ submarket if it’s fictional, and huge markets are highly competitive, not high
 Most cleantech founders would have been better off opening a new British restaurant in
 downtown Palo Alto.
 
-## THE PEOPLE QUESTION
+### THE PEOPLE QUESTION
 
 Energy problems are engineering problems, so you would expect to find nerds running
 cleantech companies. You’d be wrong: the ones that failed were run by shockingly
@@ -3379,7 +3353,7 @@ but if he actually looks like a salesman, he’s probably bad at sales and worse
 
 ### Solyndra CEO Brian Harrison; Tesla Motors CEO Elon Musk
 
-## THE DISTRIBUTION QUESTION
+### THE DISTRIBUTION QUESTION
 
 ### Cleantech companies effectively courted government and investors, but they
 
@@ -3414,7 +3388,7 @@ successfully, but the other obstacles we were not able to
 
 ### overcome.”
 
-## THE DURABILITY QUESTION
+### THE DURABILITY QUESTION
 
 Every entrepreneur should plan to be the last mover in her particular market. That starts
 with asking yourself: what will the world look like 10 and 20 years from now, and how will
@@ -3424,7 +3398,7 @@ Few cleantech companies had a good answer. As a result, all their obituaries res
 other. A few months before it filed for bankruptcy in 2011, Evergreen Solar explained its
 decision to close one of its U.S. factories:
 
-## Solar manufacturers in China have received considerable
+### Solar manufacturers in China have received considerable
 
 government and financial support.… Although [our] production costs … are now below
 originally planned levels and lower than most western manufacturers, they are still much
@@ -3457,7 +3431,7 @@ natural gas, and gas prices had fallen more than 70% since 2008, devastating mos
 energy business models. Fracking may not be a durable energy solution, either, but it was
 enough to doom cleantech companies that didn’t see it coming.
 
-## THE SECRET QUESTION
+### THE SECRET QUESTION
 
 ### Every cleantech company justified itself with conventional truths about the
 
@@ -3475,7 +3449,7 @@ beginnings to bankruptcy court very quickly. Each of the casualties had describe
 bright futures using broad conventions on which everybody agreed. Great companies have
 secrets: specific reasons for success that other people don’t see.
 
-## THE MYTH OF SOCIAL ENTREPRENEURSHIP
+### THE MYTH OF SOCIAL ENTREPRENEURSHIP
 
 Cleantech entrepreneurs aimed for more than just success as most businesses define it. The
 cleantech bubble was the biggest phenomenon—and the biggest flop—in the history of “social
@@ -3500,7 +3474,7 @@ business to profit by monopolizing a new market. The best projects are likely to
 overlooked, not trumpeted by a crowd; the best problems to work on are often the ones nobody
 else even tries to solve.
 
-## TESLA: 7 FOR
+### TESLA: 7 FOR
 
 Tesla is one of the few cleantech companies started last decade to be thriving today. They
 rode the social buzz of cleantech better than anyone, but they got the seven questions
@@ -3531,7 +3505,7 @@ expensive Model S, and now Tesla owns the luxury electric sedan market, too. The
 than 20,000 sedans in 2013 and now Tesla is in prime position to expand to broader markets
 in the future.
 
-## TEAM. Tesla’s CEO is the consummate engineer and salesman, so
+### TEAM. Tesla’s CEO is the consummate engineer and salesman, so
 
 it’s not surprising that he’s assembled a team that’s very good at both. Elon describes his
 staff this way: “If you’re at Tesla, you’re choosing to be at the equivalent of Special
@@ -3567,7 +3541,7 @@ Tesla Roadster.
 themselves, Tesla built a unique brand around the secret that cleantech was even more of a
 social phenomenon than an environmental imperative.
 
-## ENERGY 2.0
+### ENERGY 2.0
 
 Tesla’s success proves that there was nothing inherently wrong with cleantech. The biggest
 idea behind it is right: the world really will need new sources of energy. Energy is the
@@ -3605,7 +3579,7 @@ a power source for remote islands, or maybe build modular reactors for quick dep
 military installations in hostile territories. Paradoxically, the challenge for the
 entrepreneurs who will create Energy 2.0 is to think small.
 
-## THE FOUNDER’S PARADOX
+### THE FOUNDER’S PARADOX
 
 OF THE SIX PEOPLE who started PayPal, four had built bombs in high school. Five were just 23
 years old—or younger. Four of us had been born outside the United States. Three had escaped
@@ -3622,14 +3596,14 @@ Ken Howery fit the stereotype of a privileged American childhood: he was PayPal�
 Scout. But Kenny’s peers thought he was crazy to join the rest of us and make just one-third
 of the salary he had been offered by a big bank. So even he wasn’t entirely normal.
 
-## The PayPal Team in
+### The PayPal Team in
 
 Are all founders unusual people? Or do we just tend to remember and exaggerate whatever is
 most unusual about them? More important, which personal traits actually matter in a founder?
 This chapter is about why it’s more powerful but at the same time more dangerous for a
 company to be led by a distinctive individual instead of an interchangeable manager.
 
-## THE DIFFERENCE ENGINE
+### THE DIFFERENCE ENGINE
 
 Some people are strong, some are weak, some are geniuses, some are dullards —but most people
 are in the middle. Plot where everyone falls and you’ll see
@@ -3703,7 +3677,7 @@ looking like a zombie with horns coming out of her head: Gaga must therefore be 
 self-manufactured myth. Then again, what kind of person would do this to herself? Certainly
 nobody normal. So perhaps Gaga really was born that way.
 
-## WHERE KINGS COME FROM
+### WHERE KINGS COME FROM
 
 Extreme founder figures are not new in human affairs. Classical mythology is full of them.
 Oedipus is the paradigmatic insider/outsider: he was abandoned as an infant and ended up in
@@ -3740,7 +3714,7 @@ in fine clothes and feast royally until your brief reign ended and they cut your
 These are the roots of monarchy: every king was a living god, and every god a murdered king.
 Perhaps every modern king is just a scapegoat who has managed to delay his own execution.
 
-## AMERICAN ROYALTY
+### AMERICAN ROYALTY
 
 Celebrities are supposedly “American royalty.” We even grant titles to our favorite
 performers: Elvis Presley was the king of rock. Michael Jackson was the king of pop. Britney
@@ -3810,7 +3784,7 @@ already deprived his company of the full engagement of its founder, and Microsof
 era of relative stagnation. Today Gates is better known as a philanthropist than a
 technologist.
 
-## THE RETURN OF THE KING
+### THE RETURN OF THE KING
 
 Just as the legal attack on Microsoft was ending Bill Gates’s dominance, Steve Jobs’s return
 to Apple demonstrated the irreplaceable value of a company’s founder. In some ways, Steve
@@ -3862,9 +3836,9 @@ the crowd’s worship—or jeering —for the truth. The single greatest danger 
 to become so certain of his own myth that he loses his mind. But an equally insidious danger
 for every business is to lose all sense of myth and mistake disenchantment for wisdom.
 
-## Conclusion
+### Conclusion
 
-## Stagnation Or Singularity?
+### Stagnation Or Singularity?
 
 IF EVEN THE MOST FARSIGHTED founders cannot plan beyond the next 20 to 30 years, is there
 anything to say about the very distant future? We don’t know anything specific, but we can
@@ -3965,7 +3939,7 @@ The illustrations in this book were drawn by Matt Buck, based on the
 
 14.2: Sean Parker, Aaron Fulkerson, flickr user Roebot, used under CC BY-
 
-## SA
+### SA
 
 ### 14.3: Elvis Presley, Michael Ochs Archives/Getty Images
 
@@ -3976,11 +3950,8 @@ The illustrations in this book were drawn by Matt Buck, based on the
 ### 14.4: Elvis Presley, Tom Wargacki/WireImage
 
 - 14.4: Michael Jackson, David LEFRANC/Gamma-Rapho via Getty Images
-
 - 14.4: Britney Spears, New York Daily News Archive via Getty Images
-
 - 14.5: Janis Joplin, Albert B. Grossman and David Gahr/Getty Images
-
 - 14.5: Jim Morrison, Elektra Records and CBS via Getty Images
 
 ### 14.5: Kurt Cobain, Frank Micelotta/Stringer/Getty Images
@@ -4001,33 +3972,33 @@ The illustrations in this book were drawn by Matt Buck, based on the
 
 Page numbers in italics refer to illustrations.
 
-## Abound Solar
+### Abound Solar
 
-## Accenture
+### Accenture
 
 advertising, 3.1, 11.1, 11.2, 11.3
 
-## Afghanistan
+### Afghanistan
 
-## Airbnb
+### Airbnb
 
 ### airline industry
 
-## Allen, Paul
+### Allen, Paul
 
 Amazon, 2.1, 5.1, 5.2, 6.1, 12.1
 
-## Amundsen, Roald
+### Amundsen, Roald
 
-## Andreessen, Horowitz
+### Andreessen, Horowitz
 
-## Andreessen, Marc
+### Andreessen, Marc
 
-## Anna Karenina (Tolstoy)
+### Anna Karenina (Tolstoy)
 
 ### antitrust
 
-## Apollo Program
+### Apollo Program
 
 Apple, 4.1, 5.1, 5.2, 6.1, 14.1
 
@@ -4035,29 +4006,29 @@ Apple, 4.1, 5.1, 5.2, 6.1, 14.1
 
 ### monopoly profits of
 
-## Aristotle
+### Aristotle
 
-## Army Corps of Engineers
+### Army Corps of Engineers
 
-## AT&T
+### AT&T
 
-## Aztecs
+### Aztecs
 
-## Baby Boomers
+### Baby Boomers
 
-## Bacon, Francis
+### Bacon, Francis
 
-## Bangladesh
+### Bangladesh
 
-## Barnes & Noble
+### Barnes & Noble
 
-## Beijing
+### Beijing
 
-## Bell Labs
+### Bell Labs
 
-## Berlin Wall
+### Berlin Wall
 
-## Better Place
+### Better Place
 
 Bezos, Jeff, 5.1, 6.1
 
@@ -4073,17 +4044,17 @@ biotech startups, 6.1, 6.2
 
 ### board of directors
 
-## Bostrom, Nick
+### Bostrom, Nick
 
 Box, 9.1, 11.1
 
-## Boyle, Robert
+### Boyle, Robert
 
 ### branding
 
-## Branson, Richard
+### Branson, Richard
 
-## Brin, Sergey
+### Brin, Sergey
 
 ### bubbles
 
@@ -4091,13 +4062,13 @@ financial, 2.1, 8.1
 
 ### see also specific bubbles
 
-## Buffett, Warren
+### Buffett, Warren
 
 bureaucracy, prf.1, 1.1, 9.1 Bush, George H. W., 2.1, 12.1 Bush, George W.
 
 ### business:
 
-## Darwinian metaphors in
+### Darwinian metaphors in
 
 value of
 
@@ -4111,13 +4082,13 @@ capitalism, and competition, 3.1, 8.1 cash flows, 5.1, 5.2, 5.3
 
 ### celebrities
 
-## Centers for Disease Control and Prevention
+### Centers for Disease Control and Prevention
 
-## Central Intelligence Agency (CIA)
+### Central Intelligence Agency (CIA)
 
-## CEO compensation
+### CEO compensation
 
-## Chen, Steve
+### Chen, Steve
 
 China, 1.1, 6.1, 12.1, 13.1
 
@@ -4139,13 +4110,13 @@ cleantech bubble, 13.1, 13.2, 13.3
 
 ### clean technology
 
-## Clinton, Bill
+### Clinton, Bill
 
 ### cloud computing
 
-## Cobain, Kurt
+### Cobain, Kurt
 
-## Cohen, Stephen
+### Cohen, Stephen
 
 ### companies:
 
@@ -4155,7 +4126,7 @@ cleantech bubble, 13.1, 13.2, 13.3
 
 ### company culture
 
-## Compaq
+### Compaq
 
 ### compensation
 
@@ -4182,11 +4153,11 @@ computers, 12.1, 12.2
 
 ### computer science, ideology of
 
-## Confinity
+### Confinity
 
 Congress, U.S., 6.1, 11.1, 13.1
 
-## Constitutional Convention
+### Constitutional Convention
 
 ### consultants
 
@@ -4205,23 +4176,23 @@ conventional truths, 8.1, 8.2
 cults, 8.1, 10.1 Customer Acquisition Cost (CAC), 11.1, 11.2 Customer Lifetime Value (CLV),
 11.1, 11.2
 
-## Daimler
+### Daimler
 
-## Darwin, Charles
+### Darwin, Charles
 
-## Deep Blue
+### Deep Blue
 
 definite optimism, 6.1, 6.2 definite pessimism, 6.1, 6.2
 
-## Dell, Michael
+### Dell, Michael
 
-## Department of Motor Vehicles (DMV)
+### Department of Motor Vehicles (DMV)
 
 ### design
 
-## DeskJet 500C
+### DeskJet 500C
 
-## DiCaprio, Leonardo
+### DiCaprio, Leonardo
 
 ### disruption
 
@@ -4231,25 +4202,25 @@ distribution, 11.1, 11.2, 11.3, 11.4
 
 ### at Tesla
 
-## Doerr, John
+### Doerr, John
 
-## Doohan, James
+### Doohan, James
 
-## Dorsey, Jack
+### Dorsey, Jack
 
 dot-com crash, 4.1, 4.2 dot-com mania, 2.1, 2.2
 
 ### lessons learned from
 
-## Dow Jones Industrial Average
+### Dow Jones Industrial Average
 
-## Dunn, Patricia
+### Dunn, Patricia
 
-## Dylan, Bob
+### Dylan, Bob
 
 Earnhardt, Dale, Jr.
 
-## East Asian financial crises
+### East Asian financial crises
 
 eBay, 4.1, 5.1, 5.2, 5.3, 9.1, 10.1, 11.1
 
@@ -4259,25 +4230,25 @@ eBay, 4.1, 5.1, 5.2, 5.3, 9.1, 10.1, 11.1
 
 ### efficient markets
 
-## Einstein, Albert
+### Einstein, Albert
 
 electric cars, 13.1, 13.2
 
-## Ellison, Larry
+### Ellison, Larry
 
 ### email
 
-## Emerson, Ralph Waldo
+### Emerson, Ralph Waldo
 
-## Empire State Building
+### Empire State Building
 
-## Energy Conversion Devices
+### Energy Conversion Devices
 
 Energy Department, U.S.
 
-## Energy Innovations
+### Energy Innovations
 
-## Engels, Friedrich
+### Engels, Friedrich
 
 ### entitlement spending
 
@@ -4287,11 +4258,11 @@ entrepreneurs, 3.1, 5.1, 6.1, 6.2, 7.1, 10.1
 
 ### entrepreneurship, serial
 
-## Epicurus
+### Epicurus
 
 ### equity compensation
 
-## Eroom’s law
+### Eroom’s law
 
 ### ethics
 
@@ -4299,7 +4270,7 @@ entrepreneurs, 3.1, 5.1, 6.1, 6.2, 7.1, 10.1
 
 Europe, 2.1, 6.1
 
-## European Central Bank
+### European Central Bank
 
 Evergreen Solar, 13.1, 13.2
 
@@ -4309,17 +4280,17 @@ Evergreen Solar, 13.1, 13.2
 
 extinction, bm1.1, bm1.2 Facebook, prf.1, 5.1, 6.1, 6.2, 7.1, 11.1, 14.1
 
-## Fairchild Semiconductor
+### Fairchild Semiconductor
 
-## Fanning, Shawn
+### Fanning, Shawn
 
-## Faust
+### Faust
 
 Federal Bureau of Investigation (FBI), 8.1, 12.1, 14.1
 
-## Fermat, Pierre de
+### Fermat, Pierre de
 
-## Fermat’s Last Theorem
+### Fermat’s Last Theorem
 
 ### finance, indefinite
 
@@ -4329,11 +4300,11 @@ financial bubbles, 2.1, 8.1
 
 ### flatness
 
-## Fleming, Alexander
+### Fleming, Alexander
 
 Forbes, 12.1, 12.2
 
-## Ford
+### Ford
 
 ### fossil fuels
 
@@ -4353,7 +4324,7 @@ founders, 14.1, bm1.1
 
 Founders Fund, 7.1, 7.2, 9.1, 11.1, 13.1
 
-## Fountain of Youth
+### Fountain of Youth
 
 ### fracking
 
@@ -4374,9 +4345,7 @@ controlling of
 ### four possible patterns for
 
 - Gaga, Lady, 14.1, 14.2
-
 - Gates, Bill, prf.1, 6.1, 6.2, 6.3, 14.1
-
 - General Motors, 9.1, 13.1
 
 ### genius
@@ -4391,63 +4360,63 @@ Gladwell, Malcolm, 6.1, 6.2, 6.3 globalization, 1.1, 1.2, 2.1, 2.2, 2.3, 8.1, 12
 
 ### goals
 
-## Golden Gate Bridge
+### Golden Gate Bridge
 
 Google, 3.1, 3.2, 3.3, 4.1, 5.1, 7.1, 10.1, 12.1, 12.2 as monopoly, 3.1, 3.2
 
 ### motto of
 
-## Google Translate
+### Google Translate
 
-## Gore, Al
+### Gore, Al
 
 ### government, indefinite
 
-## Great Depression
+### Great Depression
 
 Greenspan, Alan, 2.1, 8.1
 
-## Gross, Bill
+### Gross, Bill
 
-## Groupon
+### Groupon
 
 ### Guardian, 12.1
 
-## Hamlet
+### Hamlet
 
 Harrison, Brian, 13.1
 
-## Hegel, Georg Wilhelm Friedrich
+### Hegel, Georg Wilhelm Friedrich
 
-## Hendrix, Jimi
+### Hendrix, Jimi
 
-## Hewlett, Bill
+### Hewlett, Bill
 
-## Hewlett-Packard
+### Hewlett-Packard
 
 ### hipsterdom
 
-## Hitchhiker’s Guide to the Galaxy, The
+### Hitchhiker’s Guide to the Galaxy, The
 
-## Hoffman, Reid
+### Hoffman, Reid
 
 ### horizontal progress
 
 housing bubble, 2.1, 8.1
 
-## Howery, Ken
+### Howery, Ken
 
-## HP Services
+### HP Services
 
-## Hughes, Howard
+### Hughes, Howard
 
-## Hurley, Chad
+### Hurley, Chad
 
-## Hyundai
+### Hyundai
 
 ### IBM, 3.1, 12.1
 
-## Igor
+### Igor
 
 ### incentive pay
 
@@ -4461,27 +4430,27 @@ incrementalism, 8.1, 14.1
 
 indefinite optimism, 6.1, 6.2 indefinite pessimism, 6.1, 6.2
 
-## India
+### India
 
-## Indonesia
+### Indonesia
 
 information technology, 1.1, 6.1, 12.1
 
-## Informix
+### Informix
 
 innovation, prf.1, 3.1
 
 ### insider trading
 
-## Instagram
+### Instagram
 
-## Intel
+### Intel
 
 internet, 2.1, 2.2 internet bubble, 2.1, 2.2, 2.3, 8.1, 13.1
 
-## Interstate Highway System
+### Interstate Highway System
 
-## Intuit
+### Intuit
 
 ### investment
 
@@ -4489,49 +4458,49 @@ iPad, 5.1, 14.1 iPhone, 3.1, 4.1, 5.1, 14.1 iPod, 6.1, 14.1
 
 ### irrational exuberance
 
-## Italy
+### Italy
 
-## IT startups
+### IT startups
 
-## Ivan, Hurricane
+### Ivan, Hurricane
 
-## Jackson, Michael
+### Jackson, Michael
 
-## Japan
+### Japan
 
-## Jennings, Ken
+### Jennings, Ken
 
-## Jennings, Peter
+### Jennings, Peter
 
 Jeopardy!
 
 Jobs, Steve, 5.1, 5.2, 6.1, 6.2, 14.1
 
-## Jones, Jim
+### Jones, Jim
 
-## Joplin, Janis
+### Joplin, Janis
 
 ### justice
 
 Justice Department, U.S.
 
-## Kaczynski, Ted
+### Kaczynski, Ted
 
-## Karim, Jawed
+### Karim, Jawed
 
 Karp, Alex, 11.1, 12.1
 
-## Kasparov, Garry
+### Kasparov, Garry
 
-## Katrina, Hurricane
+### Katrina, Hurricane
 
-## Kennedy, Anthony
+### Kennedy, Anthony
 
-## Kesey, Ken
+### Kesey, Ken
 
-## Kessler, Andy
+### Kessler, Andy
 
-## Kurzweil, Ray
+### Kurzweil, Ray
 
 last mover, 11.1, 13.1
 
@@ -4539,7 +4508,7 @@ last mover, 11.1, 13.1
 
 lean startup, 2.1, 6.1, 6.2 Levchin, Max, 4.1, 10.1, 12.1, 14.1
 
-## Levie, Aaron
+### Levie, Aaron
 
 ### lifespan
 
@@ -4547,29 +4516,29 @@ lean startup, 2.1, 6.1, 6.2 Levchin, Max, 4.1, 10.1, 12.1, 14.1
 
 LinkedIn, 5.1, 10.1, 12.1
 
-## Loiseau, Bernard
+### Loiseau, Bernard
 
-## Long-Term Capital Management (LTCM)
+### Long-Term Capital Management (LTCM)
 
-## Lord of the Rings (Tolkien)
+### Lord of the Rings (Tolkien)
 
 luck, 6.1, 6.2, 6.3, 6.4
 
-## Lucretius
+### Lucretius
 
-## Lyft
+### Lyft
 
-## MacBook
+### MacBook
 
 ### machine learning
 
-## Madison, James
+### Madison, James
 
-## Madrigal, Alexis
+### Madrigal, Alexis
 
-## Manhattan Project
+### Manhattan Project
 
-## Manson, Charles
+### Manson, Charles
 
 ### manufacturing
 
@@ -4579,15 +4548,15 @@ luck, 6.1, 6.2, 6.3, 6.4
 
 Marx, Karl, 4.1, 6.1, 6.2, 6.3 Masters, Blake, prf.1, 11.1
 
-## Mayer, Marissa
+### Mayer, Marissa
 
-## Medicare
+### Medicare
 
-## Mercedes-Benz
+### Mercedes-Benz
 
 MiaSolé, 13.1, 13.2
 
-## Michelin
+### Michelin
 
 Microsoft, 3.1, 3.2, 3.3, 4.1, 5.1, 14.1
 
@@ -4595,7 +4564,7 @@ Microsoft, 3.1, 3.2, 3.3, 4.1, 5.1, 14.1
 
 ### mobile credit card readers
 
-## Mogadishu
+### Mogadishu
 
 monopoly, monopolies, 3.1, 3.2, 3.3, 5.1, 7.1, 8.1
 
@@ -4611,9 +4580,9 @@ sales and
 
 ### of Tesla
 
-## Morrison, Jim
+### Morrison, Jim
 
-## Mosaic browser
+### Mosaic browser
 
 ### music recording industry
 
@@ -4623,65 +4592,65 @@ Musk, Elon, 4.1, 6.1, 11.1, 13.1, 13.2, 13.3 Napster, 5.1, 14.1
 
 ### NASDAQ, 2.1, 13.1
 
-## National Security Agency (NSA)
+### National Security Agency (NSA)
 
 ### natural gas
 
 ### natural secrets
 
-## Navigator browser
+### Navigator browser
 
-## Netflix
+### Netflix
 
-## Netscape
+### Netscape
 
-## NetSecure
+### NetSecure
 
 network effects, 5.1, 5.2 New Economy, 2.1, 2.2 New York Times, 13.1, 14.1
 
-## New York Times
+### New York Times
 
-## Nietzsche, Friedrich
+### Nietzsche, Friedrich
 
-## Nokia
+### Nokia
 
 nonprofits, 13.1, 13.2 Nosek, Luke, 9.1, 14.1
 
-## Nozick, Robert
+### Nozick, Robert
 
 ### nutrition
 
 Oedipus, 14.1, 14.2
 
-## OfficeJet
+### OfficeJet
 
-## OmniBook
+### OmniBook
 
 ### online pet store market
 
-## Oracle
+### Oracle
 
-## Outliers (Gladwell)
+### Outliers (Gladwell)
 
 ### ownership
 
-## Packard, Dave
+### Packard, Dave
 
-## Page, Larry
+### Page, Larry
 
 Palantir, prf.1, 7.1, 10.1, 11.1, 12.1 PalmPilots, 2.1, 5.1, 11.1
 
-## Pan, Yu
+### Pan, Yu
 
-## Panama Canal
+### Panama Canal
 
-## Pareto, Vilfredo
+### Pareto, Vilfredo
 
-## Pareto principle
+### Pareto principle
 
 Parker, Sean, 5.1, 14.1
 
-## Part-time employees
+### Part-time employees
 
 ### patents
 
@@ -4700,9 +4669,9 @@ future cash flows of
 
 ### “PayPal Mafia”
 
-## PCs
+### PCs
 
-## Pearce, Dave
+### Pearce, Dave
 
 ### penicillin
 
@@ -4710,7 +4679,7 @@ perfect competition, 3.1, 3.2
 
 ### equilibrium of
 
-## Perkins, Tom
+### Perkins, Tom
 
 ### perk war
 
@@ -4736,7 +4705,7 @@ planning, 2.1, 6.1, 6.2
 
 ### progress without
 
-## Plato
+### Plato
 
 politics, 6.1, 11.1
 
@@ -4758,15 +4727,15 @@ power law, 7.1, 7.2, 7.3
 
 ### of venture capital
 
-## Power Sellers (eBay)
+### Power Sellers (eBay)
 
-## Presley, Elvis
+### Presley, Elvis
 
 ### Priceline.com
 
-## Prince
+### Prince
 
-## Procter & Gamble
+### Procter & Gamble
 
 profits, 2.1, 3.1, 3.2, 3.3 progress, 6.1, 6.2
 
@@ -4780,15 +4749,15 @@ proprietary technology, 5.1, 5.2, 13.1
 
 ### public relations
 
-## Pythagoras
+### Pythagoras
 
-## Q-Cells
+### Q-Cells
 
-## Rand, Ayn
+### Rand, Ayn
 
 Rawls, John, 6.1, 6.2
 
-## Reber, John
+### Reber, John
 
 ### recession, of mid-1990
 
@@ -4804,17 +4773,17 @@ resources, 12.1, bm1.1 restaurants, 3.1, 3.2, 5.1
 
 ### risk aversion
 
-## Romeo and Juliet (Shakespeare)
+### Romeo and Juliet (Shakespeare)
 
-## Romulus and Remus
+### Romulus and Remus
 
-## Roosevelt, Theodore
+### Roosevelt, Theodore
 
-## Royal Society
+### Royal Society
 
-## Russia
+### Russia
 
-## Sacks, David
+### Sacks, David
 
 sales, 2.1, 11.1, 13.1
 
@@ -4824,21 +4793,21 @@ as hidden to non-customers
 
 ### personal
 
-## Sandberg, Sheryl
+### Sandberg, Sheryl
 
-## San Francisco Bay Area
+### San Francisco Bay Area
 
 ### savings
 
 ### scale, economies of
 
-## Scalia, Antonin
+### Scalia, Antonin
 
 ### scaling up
 
 ### scapegoats
 
-## Schmidt, Eric
+### Schmidt, Eric
 
 search engines, prf.1, 3.1, 5.1 secrets, 8.1, 13.1
 
@@ -4856,19 +4825,19 @@ case for finding of looking for
 
 Shakespeare, William, 4.1, 7.1
 
-## Shark Tank
+### Shark Tank
 
-## Sharma, Suvi
+### Sharma, Suvi
 
-## Shatner, William
+### Shatner, William
 
-## Siebel, Tom
+### Siebel, Tom
 
-## Siebel Systems
+### Siebel Systems
 
 Silicon Valley, 1.1, 2.1, 2.2, 2.3, 5.1, 5.2, 6.1, 7.1, 10.1, 11.1
 
-## Silver, Nate
+### Silver, Nate
 
 Simmons, Russel, 10.1, 14.1
 
@@ -4878,35 +4847,33 @@ smartphones, 1.1, 12.1
 
 ### social entrepreneurship
 
-## Social Network, The
+### Social Network, The
 
 social networks, prf.1, 5.1
 
-## Social Security
+### Social Security
 
 ### software engineers
 
 software startups, 5.1, 6.1 solar energy, 13.1, 13.2, 13.3, 13.4
 
-## Solaria
+### Solaria
 
 Solyndra, 13.1, 13.2, 13.3, 13.4, 13.5
 
-## South Korea
+### South Korea
 
 ### space shuttle
 
 SpaceX, prf.1, 10.1, 11.1
 
-## Spears, Britney
+### Spears, Britney
 
 - SpectraWatt, 13.1, 13.2
-
 - Spencer, Herbert, 6.1, 6.2
-
 - Square, 4.1, 6.1
 
-## Stanford Sleep Clinic
+### Stanford Sleep Clinic
 
 startups, prf.1, 1.1, 5.1, 6.1, 6.2, 7.1
 
@@ -4920,7 +4887,7 @@ and staff of target market for uniform of
 
 ### steam engine
 
-## Stoppelman, Jeremy
+### Stoppelman, Jeremy
 
 ### string theory
 
@@ -4928,7 +4895,7 @@ and staff of target market for uniform of
 
 substitution, complementarity vs.
 
-## Suez Canal
+### Suez Canal
 
 ### tablet computing
 
@@ -4936,7 +4903,7 @@ substitution, complementarity vs.
 
 technology, prf.1, 1.1, 1.2, 2.1, 2.2, 2.3
 
-## American fear of
+### American fear of
 
 complementarity and globalization and
 
@@ -4948,33 +4915,33 @@ complementarity and globalization and
 
 Tesla Motors, 10.1, 13.1, 13.2
 
-## Thailand
+### Thailand
 
-## Theory of Justice, A (Rawls)
+### Theory of Justice, A (Rawls)
 
-## Timberlake, Justin
+### Timberlake, Justin
 
-## Time magazine
+### Time magazine
 
 Tolkien, J.R.R.
 
-## Tolstoy, Leo
+### Tolstoy, Leo
 
 ### Tom Sawyer (char.)
 
-## Toyota
+### Toyota
 
-## Tumblr
+### Tumblr
 
-## 27 Club
+### 27 Club
 
 Twitter, 5.1, 6.1
 
-## Uber
+### Uber
 
-## Unabomber
+### Unabomber
 
-## VCs, rules of
+### VCs, rules of
 
 ### “veil of ignorance”
 
@@ -4988,51 +4955,51 @@ venture fund, J-curve of successful, 7.1
 
 ### viral marketing
 
-## Virgin Atlantic Airways
+### Virgin Atlantic Airways
 
-## Virgin Group
+### Virgin Group
 
-## Virgin Records
+### Virgin Records
 
-## Wagner
+### Wagner
 
-## Wall Street Journal
+### Wall Street Journal
 
-## Warby Parker
+### Warby Parker
 
-## Watson
+### Watson
 
 ### web browsers
 
-## Western Union
+### Western Union
 
-## White, Phil
+### White, Phil
 
-## Wiles, Andrew
+### Wiles, Andrew
 
-## Wilson, Andrew
+### Wilson, Andrew
 
-## Winehouse, Amy
+### Winehouse, Amy
 
-## World Wide Web
+### World Wide Web
 
-## Xanadu
+### Xanadu
 
 ### X.com
 
 Yahoo!, 2.1, 3.1, 3.2, 5.1, 6.1
 
-## Yammer
+### Yammer
 
-## Yelp
+### Yelp
 
 YouTube, 10.1, 12.1
 
-## ZocDoc
+### ZocDoc
 
 Zuckerberg, Mark, prf.1, 5.1, 6.1, 14.1
 
-## Zynga
+### Zynga
 
 Peter Thiel is an entrepreneur and investor. He started PayPal in 1998, led it as CEO, and
 took it public in 2002, defining a new era of fast and secure online commerce. In 2004 he

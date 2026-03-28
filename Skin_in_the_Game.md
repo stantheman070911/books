@@ -6,407 +6,208 @@ By Nassim Nicholas Taleb
 
 ## Contents
 
-# Book 1: Introduction
-
+- Book 1: Introduction
 - The Less Obvious Aspects of Skin in the Game
-
 - Prologue, Part 1: Antaeus Whacked
-
 - Libya After Antaeus
-
 - Ludis de Alieno Corio
-
 - Warlords Are Still Around
-
 - The Bob Rubin Trade
-
 - Systems Learn by Removing
-
 - Prologue, Part 2: A Brief Tour of Symmetry
-
 - I. From Hammurabi to Kant
-
 - Hammurabi in Paris
-
 - Silver Beats Gold
-
 - Fuhgedaboud Universalism
-
 - II. From Kant to Fat Tony
-
 - Crook, Fool, or Both
-
 - Causal Opacity and Preferences Revealed
-
 - Skin in the Game, but Not All the Time
-
 - III. Modernism
-
 - How to Beam Light on a Speaker
-
 - Simplicity
-
 - I Am Dumb Without Skin in the Game
-
 - Regulations vs. Legal Systems
-
 - IV. Soul in the Game
-
 - Artisans
-
 - A Caveat with Entrepreneurs
-
 - Arrogant Will Do
-
 - Citizenship de Plaisance
-
 - Heroes Were Not Library Rats
-
 - Soul in the Game and Some (Not Too Much) Protectionism
-
 - Skin in the Ruling
-
 - Prologue, Part 3: The Ribs of the Incerto
-
 - The Road
-
 - An Enhanced Detector
-
 - The Book Reviewers
-
 - Organization of the Book
-
 - Appendix: Asymmetries in Life and Things
-
-# Book 2: A First Look At Agency
-
-# Chapter 1. Why Each One Should Eat His Own Turtles: Equality in Uncertainty
-
+- Book 2: A First Look At Agency
+- Chapter 1. Why Each One Should Eat His Own Turtles: Equality in Uncertainty
 - A Customer Is Born Every Day
-
 - The Price of Corn in Rhodes
-
 - Equality in Uncertainty
-
 - Rav Safra and the Swiss
-
 - Members and Non-Members
-
 - Non Mihi non Tibi, sed Nobis (Neither Mine nor Yours, but Ours)
-
 - Are You on the Diagonal?
-
 - All (Literally) in the Same Boat
-
 - Talking One’s Book
-
 - A Short Visit to the Doctor’s Office
-
 - Next
-
-# Book 3: That Greatest Asymmetry
-
-# Chapter 2. The Most Intolerant Wins: The Dominance of the Stubborn Minority
-
+- Book 3: That Greatest Asymmetry
+- Chapter 2. The Most Intolerant Wins: The Dominance of the Stubborn Minority
 - Criminals with Peanut Allergies
-
 - Renormalization Group
-
 - The Veto
-
 - Lingua Franca
-
 - Genes vs. Languages
-
 - The One-Way Street of Religions
-
 - Decentralize, Again
-
 - Imposing Virtue on Others
-
 - Stability of the Minority Rule, a Probabilistic Argument
-
 - Popper-Goedel’s Paradox
-
 - Irreverence of Markets and Science
-
 - Unus sed Leo: Only One but a Lion
-
 - Summary and Next
-
 - Appendix to Book 3: A Few More Counterintuitive Things About the Collective
-
 - Zero-Intelligence Markets
-
-# Book 4: Wolves Among Dogs
-
-# Chapter 3. How to Legally Own Another Person
-
+- Book 4: Wolves Among Dogs
+- Chapter 3. How to Legally Own Another Person
 - To Own a Pilot
-
 - From the Company Man to the Companies Person
-
 - Coase’s Theory of the Firm
-
 - Complexity
-
 - A Curious Form of Slave Ownership
-
 - Freedom is Never Free
-
 - Wolves Among the Dogs
-
 - Loss Aversion
-
 - Waiting for Constantinople
-
 - Do Not Rock Bureaucristan
-
 - Next
-
-# Chapter 4. The Skin of Others in Your Game
-
+- Chapter 4. The Skin of Others in Your Game
 - A Mortgage and Two Cats
-
 - Finding Hidden Vulnerabilities
-
 - How to Put Skin in the Game of Suicide Bombers
-
 - Next
-
-# Book 5: Being Alive Means Taking Certain Risks
-
-# Chapter 5. Life in the Simulation Machine
-
+- Book 5: Being Alive Means Taking Certain Risks
+- Chapter 5. Life in the Simulation Machine
 - Jesus Was a Risk Taker
-
 - Pascal’s Wager
-
 - The Matrix
-
 - The Donald
-
 - Next
-
-# Chapter 6. The Intellectual Yet Idiot
-
+- Chapter 6. The Intellectual Yet Idiot
 - Where to Find a Coconut
-
 - Science and Scientism
-
 - Intellectual Yet Philistine
-
 - Never Gotten Drunk with Russians
-
 - To Conclude
-
 - Postscript
-
-# Chapter 7. Inequality and Skin in the Game
-
+- Chapter 7. Inequality and Skin in the Game
 - Inequality vs. Inequality
-
 - The Static and the Dynamic
-
 - Pikketism and the Revolt of the Mandarin Class
-
 - Cobbler Envies Cobbler
-
 - Inequality, Wealth, and Vertical Socialization
-
 - Empathy and Homophily
-
 - Data, Shmata
-
 - Ethics of Civil Service
-
 - Next
-
-# Chapter 8. An Expert Called Lindy
-
+- Chapter 8. An Expert Called Lindy
 - Who Is the “Real” Expert?
-
 - The Lindy of Lindy
-
 - Do We Need a Judge?
-
 - Tea with the Queen
-
 - Institutions
-
 - Against One’s Interest
-
 - Soul in the Game, Again
-
 - Science is Lindy-Prone
-
 - Empirical or Theoretic?
-
 - The Grandmother vs. the Researchers
-
 - A Brief Tour of Your Grandparents’ Wisdom
-
-# Book 6: Deeper Into Agency
-
-# Chapter 9. Surgeons Should Not Look Like Surgeons
-
+- Book 6: Deeper Into Agency
+- Chapter 9. Surgeons Should Not Look Like Surgeons
 - Looking the Part
-
 - The Green Lumber Fallacy
-
 - Best-Dressed Business Plan
-
 - A Bishop for Halloween
-
 - The Gordian Knot
-
 - Overintellectualization of Life
-
 - Another Business of Intervention
-
 - Gold and Rice
-
 - The Compensation
-
 - Education as Luxury Good
-
 - A BS Detection Heuristic
-
 - Real Gyms Don’t Look Like Gyms
-
 - Next
-
-# Chapter 10. Only the Rich Are Poisoned: The Preferences of Others
-
+- Chapter 10. Only the Rich Are Poisoned: The Preferences of Others
 - Venenum in Auro Bibitur
-
 - Large Funeral Homes
-
 - Conversation
-
 - Nonlinearity of Progress
-
 - Next
-
-# Chapter 11. Facta non Verba (Deeds Before Words)
-
+- Chapter 11. Facta non Verba (Deeds Before Words)
 - An Offer Very Hard to Refuse
-
 - The Assassins
-
 - Assassination as Marketing
-
 - Assassination as Democracy
-
 - The Camera for Skin in the Game
-
-# Chapter 12. The Facts Are True, the News Is Fake
-
+- Chapter 12. The Facts Are True, the News Is Fake
 - How to Disagree with Yourself
-
 - Information Doesn’t Like to Be Owned
-
 - The Ethics of Disagreement
-
 - Next
-
-# Chapter 13. The Merchandising of Virtue
-
+- Chapter 13. The Merchandising of Virtue
 - The Public and the Private
-
 - The Virtue Merchants
-
 - To Be or to Seem?
-
 - Simony
-
 - Virtue Is About Others and the Collective
-
 - Unpopular Virtue
-
 - Take Risk
-
-# Chapter 14. Peace, Neither Ink nor Blood
-
+- Chapter 14. Peace, Neither Ink nor Blood
 - Mars vs. Saturn
-
 - Where Are the Lions?
-
 - History Seen from the Emergency Room
-
 - Next
-
-# Book 7: Religion, Belief, And Skin In The Game
-
-# Chapter 15. They Don’t Know What They Are Talking About When They Talk
-
+- Book 7: Religion, Belief, And Skin In The Game
+- Chapter 15. They Don’t Know What They Are Talking About When They Talk
 - About Religion
-
 - Belief vs. Belief
-
 - Libertarianism and Church-Free Religions
-
 - Next
-
-# Chapter 16. No Worship Without Skin in the Game
-
-The Gods Do Not Like Cheap Signaling The Evidence
-
-# Chapter 17. Is the Pope Atheist?
-
-Religious in Words Next
-
-# Book 8: Risk And Rationality
-
-# Chapter 18. How to Be Rational About Rationality
-
+- Chapter 16. No Worship Without Skin in the Game
+- The Gods Do Not Like Cheap Signaling The Evidence
+- Chapter 17. Is the Pope Atheist?
+- Religious in Words Next
+- Book 8: Risk And Rationality
+- Chapter 18. How to Be Rational About Rationality
 - Ocular Deception
-
 - Ergodicity First
-
 - From Simon to Gigerenzer
-
 - Revelation of Preferences
-
 - What Is Religion About?
-
-“Tawk” and Cheap “Tawk” What Does Lindy Say?
-
-The Nondecorative in the Decorative
-
-# Chapter 19. The Logic of Risk Taking
-
+- “Tawk” and Cheap “Tawk” What Does Lindy Say?
+- The Nondecorative in the Decorative
+- Chapter 19. The Logic of Risk Taking
 - Ergodicity
-
 - Repetition of Exposures
-
 - Who Is “You”?
-
 - Courage and Precaution Aren’t Opposites
-
 - Rationality, Again
-
 - Love Some Risks
-
 - Naive Empiricism
-
 - Summary
+- Epilogue: What Lindy Told Me
+- Notes
+- Bibliography
+- Glossary
+- Technical Appendix
+- Acknowledgments
+- Follow Penguin
 
-## Epilogue: What Lindy Told Me
-
-## Notes
-
-## Bibliography
-
-## Glossary
-
-## Technical Appendix
-
-## Acknowledgments
-
-## Follow Penguin
-
-## By The Same Author
+### By The Same Author
 
 INCERTO, an luck, uncertainty, investigation of opacity, probability, human error, risk, and
 decision making when we don’t understand the world, expressed in the form of a personal
@@ -438,7 +239,7 @@ INCERTO’S TECHNICAL COMPANION, consisting of academic-style papers, miscellane
 
 Two men of courage: Ron Paul, a Roman among Greeks; Ralph Nader, Greco-Phoenician saint
 
-# Book 1
+## Book 1
 
 This book, while standalone, is a continuation of the Incerto collection, which is a
 combination of a) practical discussions, b) philosophical tales, and c) scientific and
@@ -489,7 +290,7 @@ risk science, the accountability of bureaucrats, probabilistic social justice, o
 theory, upright behavior, bull***t vendors, theology … I stop for now. contact between
 intellectuals reality, and
 
-## The Less Obvious Aspects Of Skin In The Game
+### The Less Obvious Aspects Of Skin In The Game
 
 A more correct (though more awkward) title of the book would have been: The Less Obvious
 Aspects of Skin in the Game: Those Hidden Asymmetries and Their Consequences. For I just
@@ -544,9 +345,7 @@ Let us first connect a few dots of the items in the list above with two vignette
 give the flavor of how the idea transcends categories.
 
 - Prologue, Part 1
-
 - Antaeus Whacked
-
 - Never run away from Mamma—I keep finding warlords—Bob Rubin and his trade—Systems like car accidents
 
 Antaeus was a giant, or rather a semi-giant of sorts, the literal son of Mother Earth, Gaea,
@@ -580,7 +379,7 @@ reasoning, something self-serving institutions have been very busy hiding from u
 
 Next, we will apply this to what is miscalled “policy making.”
 
-## Libya After Antaeus
+### Libya After Antaeus
 
 Second vignette. As I am writing these lines, a few thousand years later, Libya, the
 putative land of Antaeus, now has slave markets, as a result of a failed attempt at what is
@@ -634,7 +433,7 @@ defect: they compare the actions of the “dictator” to those of the prime min
 or Sweden, not to those of the local alternative. The third flaw is that they can’t forecast
 the evolution of those one helps by attacking, or the magnification one gets from feedback.
 
-## LUDIS DE ALIENO CORIO fn2
+### LUDIS DE ALIENO CORIO fn2
 
 And when a blowup happens, they invoke uncertainty, something called a Black Swan (a
 high-impact unexpected event), after a book by a (very) stubborn fellow, not realizing that
@@ -675,7 +474,7 @@ can.
 We will return to the “peacemaking” interventionistas, and examine how their peace processes
 create deadlocks, as with the Israeli-Palestinian problem.
 
-## Warlords Are Still Around
+### Warlords Are Still Around
 
 This idea of skin in the game is woven into history: historically, all warlords and
 warmongers were warriors themselves, and, with a few curious exceptions, societies were run
@@ -710,7 +509,7 @@ front line. Why? Because noblesse oblige; the very status of a lord has been tra
 derived from protecting others, trading personal risk for prominence—and they happened to
 still remember that contract. You can’t be a lord if you aren’t a lord.
 
-## The Bob Rubin Trade
+### The Bob Rubin Trade
 
 Some think that freeing ourselves from having warriors at the top means civilization and
 progress. It does not. Meanwhile, Bureaucracy is a construction by which a person is
@@ -741,7 +540,9 @@ stubborn author), and keep past income—what I have called the Bob Rubin trade.
 The Bob Rubin trade? Robert Rubin, a former Secretary of the United States Treasury, one of
 those who sign their names on the banknote you just used to pay for coffee, collected more
 than $120 million in compensation from Citibank in the decade preceding the banking crash of
+
 2008. When the bank, literally insolvent, was rescued by the taxpayer, he didn’t write any
+
 check—he invoked uncertainty as an excuse. Heads he wins, tails he shouts “Black Swan.” Nor
 did Rubin acknowledge that he transferred risk to taxpayers: Spanish grammar specialists,
 assistant schoolteachers, supervisors in tin can factories, vegetarian nutrition advisors,
@@ -762,7 +563,7 @@ hedge fund space, on the other hand, owner-operators have at least half of their
 in the funds, making them relatively more exposed than any of their customers, and they
 personally go down with the ship. the banks with
 
-## Systems Learn By Removing
+### Systems Learn By Removing
 
 Now, if you are going to highlight only one single section from this book, here is the one.
 The interventionista case is central to our story because it shows how absence of skin in
@@ -796,7 +597,7 @@ Returning to our interventionistas, we saw that people don’t learn so much fro
 other people’s—mistakes; rather it is the system that learns by selecting those less prone
 to a certain class of mistakes and eliminating others.
 
-## Systems learn by removing parts, via negativa. fn4
+### Systems learn by removing parts, via negativa. fn4
 
 Many bad pilots, as we mentioned, are currently in the bottom of the Atlantic, many
 dangerous bad drivers are in the local quiet cemetery with nice walkways bordered by trees.
@@ -811,12 +612,12 @@ symmetry.
 
 Prologue, Part 2
 
-## A Brief Tour of Symmetry
+### A Brief Tour of Symmetry
 
 Meta-experts judged by meta-meta-experts—Prostitutes, nonprostitutes, and amateurs—The
 French have this thing with Hammurabi—Dumas is always an exception
 
-## I. From Hammurabi To Kant
+### I. From Hammurabi To Kant
 
 the until Skin-in-the-game-style recent symmetry, intellectualization of life, had been
 implicitly considered the principal rule for organized society, even for any form of
@@ -829,7 +630,7 @@ resides in fixing imbalances and remedying such asymmetries.
 Let us briefly travel the road from Hammurabi to Kant, where the rule gets refined along
 with civilized life.
 
-## Hammurabi in Paris
+### Hammurabi in Paris
 
 Hammurabi’s law was posted on a basalt stele around 3,800 years ago in a central public
 place in Babylon, so every literate person could read it, or, rather, read it to others who
@@ -898,48 +699,48 @@ climb the ladder.
 
 TABLE 1 • EVOLUTION OF MORAL SYMMETRY
 
-## From Taleb And Sandis, 2016
+### From Taleb And Sandis, 2016
 
-## Hammurabi/Lex
+### Hammurabi/Lex
 
-## Talionis
+### Talionis
 
 “An eye for an eye, a tooth for a tooth” (Hammurabi, Exodus 21.24)
 
-## 15Th Law
+### 15Th Law
 
-## Of
+### Of
 
-## Holiness
+### Holiness
 
-## And
+### And
 
-## Justice
+### Justice
 
 “Love your neighbor as yourself” (Leviticus
 
-## 19.18)
+### 19.18)
 
-## Silver
+### Silver
 
-## Rule
+### Rule
 
-## Golden
+### Golden
 
-## Rule
+### Rule
 
-## Formula Of The
+### Formula Of The
 
-## Universal Law
+### Universal Law
 
 “Do unto others as you would have them do unto you” (Matthew
 
-## 7:12)
+### 7:12)
 
 “Act only in accordance with maxim that through which you can at the same time will that it
 will become a universal law.” (Kant
 
-## 1785: 4:421)
+### 1785: 4:421)
 
 Silver Beats Gold We rapidly go through the rules to the right of Hammurabi.
 
@@ -1013,7 +814,7 @@ steps too far—conflating the micro and the macro. Likewise the crux of the ide
 Swan was Platonification, missing central but hidden elements of a thing in the process of
 transforming it into an abstract construct, then causing a blowup.
 
-## Ii. From Kant To Fat Tony
+### Ii. From Kant To Fat Tony
 
 Let us move to the present, to the transactional, highly transactional present. In New
 Jersey, symmetry can simply mean, in Fat Tony’s terms: don’t give crap, don’t take crap. His
@@ -1042,7 +843,7 @@ Regulations, while appearing to be a remedy on paper, if anything, exacerbate th
 they facilitate risk-hiding. (the Spanish grammar specialists, Which brings us to what is
 known as the agency problem.
 
-## Crook, Fool, or Both
+### Crook, Fool, or Both
 
 One practical extension of the Silver Rule (as a reminder, it is the one that says Do not do
 to others what you don’t want them to do to you): Avoid taking advice from someone who gives
@@ -1066,7 +867,7 @@ people (including, again, the Spanish grammar specialists).
 Insurance companies have filters such as high deductibles and other methods to eliminate
 such imbalances.
 
-## The agency problem
+### The agency problem
 
 (or principal-agent problem) also manifests itself in the misalignment of interests in
 transactions: a vendor in a one-shot transaction does not have his interests aligned to
@@ -1081,7 +882,7 @@ foundation of evolution that systems get smart by elimination.
 There is another point: we may not know beforehand if an action is foolish—but reality
 knows.
 
-## Causal Opacity and Preferences Revealed fn3
+### Causal Opacity and Preferences Revealed fn3
 
 Let us now take the epistemological dimension of skin in the game to an even higher level.
 Skin in the game is about the real world, not appearances. As per Fat Tony’s motto: You do
@@ -1097,7 +898,7 @@ and a mafia made man. The doer wins by doing, not convincing. Entire fields (say
 and other social sciences) become themselves charlatanic because of the absence of skin in
 the game connecting them back to earth (while the participants argue about “science”).
 
-# Chapter 9 shows how they will develop elaborate rituals, titles,
+### Chapter 9 shows how they will develop elaborate rituals, titles,
 
 protocols, and formalities to hide this deficit.
 
@@ -1114,7 +915,7 @@ convincing a commitment (and much less reversible) than a verbal promise.
 As to forecasting, fuhgetaboud it: Forecasting (in words) bears no relation to speculation
 (in deeds).
 
-## I personally know rich horrible forecasters and poor “good”
+### I personally know rich horrible forecasters and poor “good”
 
 forecasters. Because what matters in life isn’t how frequently one is “right” about
 outcomes, but how much one makes when one is right. Being wrong, when it is not costly,
@@ -1173,11 +974,11 @@ survival. There are some risks we just cannot afford to take. And there are othe
 the type academics shun) that we cannot afford to not take. This dimension, which bears the
 name “ergodic,” is belabored in
 
-# Chapter 19.
+### Chapter 19.
 
 tell you,
 
-## Skin in the Game, but Not All the Time
+### Skin in the Game, but Not All the Time
 
 Skin in the game is an overall necessity, but let us not get carried away in applying it to
 everything in sight in its every detail, particularly when consequences are contained. There
@@ -1193,7 +994,7 @@ life—bakers, cobblers, plumbers, taxi drivers, accountants, tax advisors, garb
 collectors, dental cleaning assistants, carwash operators (not counting Spanish grammar
 specialists)—pay a price for their mistakes.
 
-## Iii. Modernism
+### Iii. Modernism
 
 While conforming to ancestral, ancient, and classical notions of justice, this book, relying
 on the same arguments of asymmetry, goes against a century and a half of modernistic
@@ -1232,7 +1033,7 @@ they need.
 Let us get more practical about the side effect of modernism: as things get more
 technological, there is a growing separation between the maker and the user.
 
-## How to Beam Light on a Speaker
+### How to Beam Light on a Speaker
 
 Those who give lectures to large audiences notice that they—and other speakers—are
 uncomfortable on the stage. The reason, it took me a decade to figure out, is that the stage
@@ -1278,7 +1079,7 @@ acceptance by making it more complicated than necessary. Further, there are side
 problems that grow nonlinearly with such branching-out complications. Worse:
 Non-skin-in-the-game people don’t get simplicity.
 
-## I Am Dumb Without Skin in the Game
+### I Am Dumb Without Skin in the Game
 
 Let us return to pathemata mathemata (learning through pain) and consider its reverse:
 learning through thrills and pleasure. People have two brains, one when there is skin in the
@@ -1330,7 +1131,7 @@ educational system, made by dweebs for dweebs.
 Many kids would learn to love mathematics if they had some investment in it, and, more
 crucially, they would build an instinct to spot its misapplications.
 
-## Regulations vs. Legal Systems
+### Regulations vs. Legal Systems
 
 There are two ways to make citizens safe from large predators, say, big powerful
 corporations. The first one is to enact regulations—but these, aside from restricting
@@ -1373,7 +1174,7 @@ you are robbing people of freedom. Some of us believe that freedom is one’s fi
 essential good. This includes the freedom to make mistakes (those that harm only you); it is
 sacred to the point that it must never be traded against economic or other benefits.
 
-## Iv. Soul In The Game
+### Iv. Soul In The Game
 
 Finally and centrally, skin in the game is about honor as an existential commitment, and
 risk taking (a certain class of risks) as a separation between man and machine and (some may
@@ -1477,7 +1278,7 @@ Academics can be artisans. Even those economists who, misunderstanding Adam Smit
 that humans are here to “seek maximization” of their income, express these ideas for free,
 and boast to not be into lowly commercial profit seeking, not seeing the contradiction.
 
-## A Caveat with Entrepreneurs
+### A Caveat with Entrepreneurs
 
 Entrepreneurs are heroes in our society. They fail for the rest of us. But owing to funding
 and current venture capital mechanisms, many people mistaken for entrepreneurs fail to have
@@ -1496,7 +1297,7 @@ assignment—or, better, company—you can now say about the deep Bob Rubin–st
 emerge: “It’s not my problem anymore.” The same happens when you sell out, so remember that:
 The skills at making things diverge from those at selling things.
 
-## Arrogant Will Do
+### Arrogant Will Do
 
 Products or companies that bear the owner’s name convey very valuable messages. They are
 shouting that they have something to lose. Eponymy indicates both a commitment to the
@@ -1505,7 +1306,7 @@ egomaniac for having his name on a mathematical finance technical journal (Wil�
 at the time of writing is undoubtedly the best. “Egomaniac” is good for the product. But if
 you can’t get “egomaniac,” “arrogant” will do.
 
-## Citizenship de Plaisance
+### Citizenship de Plaisance
 
 Many well-to-do people who come to live in the United States avoid becoming citizens while
 living here indefinitely. They have a permanent residence permit as a free option, as it is
@@ -1538,7 +1339,7 @@ would be making many more dollars. If wanted to lower taxes for myself, and I do
 obligated to fight for it, for both myself and the collective, other taxpayers, and to not
 run away.
 
-## Heroes Were Not Library Rats
+### Heroes Were Not Library Rats
 
 If you want to study classical values such as courage or learn about stoicism, don’t
 necessarily look for classicists. One is never a career academic without a reason. Read the
@@ -1557,7 +1358,7 @@ risks? It appears so. The most important chapter of the book, and conveniently t
 “The Logic of Risk Taking,” shows how some central elements of risks, while obvious to
 practitioners, can be missed by theoreticians for more than two centuries!
 
-## Soul in the Game and Some (Not Too Much) Protectionism
+### Soul in the Game and Some (Not Too Much) Protectionism
 
 Let us now apply these ideas to modern times. Recall the story of the architects separated
 from the real users. This extends to more general systemic effects, such as protectionism
@@ -1607,7 +1408,7 @@ comes with, literally, skin in the game.
 
 Prologue, Part 3
 
-## The Ribs of the Incerto
+### The Ribs of the Incerto
 
 Seven pages per sitting, seven pages annum is the perfect rate—Rereaders need rereviewers
 Now that we’ve outlined the main ideas, let us see how this discussion fits the rest of the
@@ -1627,7 +1428,7 @@ has an incentive to play the Bob Rubin risktransfer game. Given the number of pe
 to get on the money-making bus, there is a progressive accumulation of Black Swan risks in
 such systems. Then, boom, the systemic blowup happens. fn1
 
-## The Road
+### The Road
 
 We will be guided by what is most lively. The ethics side is straightforward, as part of the
 general Fat Tony–Isocrates asymmetry, and I have gone deeply into the matter thanks to a
@@ -1664,7 +1465,7 @@ with Semitic phonetics, sort of having some soul in the game. It may have delaye
 completion of this book, but, at least, when I mention Hammurabi, my conscience doesn’t make
 me feel I am faking anything.
 
-## An Enhanced Detector
+### An Enhanced Detector
 
 This book came after a deep—nonacademic—unplanned flirtation with mathematics. For after
 finishing Antifragile, I thought of retiring my pen for a while and settling into the
@@ -1689,7 +1490,7 @@ national park.
 
 It is under such an oversensitive bull***t detector that I have been writing this book.
 
-## The Book Reviewers
+### The Book Reviewers
 
 And since we are talking about books, I close this introductory section with that one thing
 I’ve learned from my time in that business. Many book reviewers are intellectually honest
@@ -1726,33 +1527,33 @@ map to the book (unless of course the author makes them accountable for misrepre
 fn3 Now, almost two decades after the first installment of the Incerto, I have established
 ways to interact directly with you, the reader.
 
-## Organization Of The Book
+### Organization Of The Book
 
-# Book 1 Was The Introduction We Just Saw, With Its Three Parts.
+## Book 1 Was The Introduction We Just Saw, With Its Three Parts.
 
-# Book 2, “A First Look At Agency,” Is A Deeper Exposition Of
+## Book 2, “A First Look At Agency,” Is A Deeper Exposition Of
 
 symmetry and agency in risk sharing, bridging commercial conflict of interest with general
 ethics. It also introduces us briefly to the notion of scaling and the difference between
 individual and collective, hence the limitations of globalism and universalism.
 
-# Book 3, “That Greatest Asymmetry,” Is About The Minority Rule
+## Book 3, “That Greatest Asymmetry,” Is About The Minority Rule
 
 by which a small segment of the population inflicts its preferences on the general
 population. The (short) appendix for Book 3 shows 1) how a collection of units doesn’t
 behave like a sum of units, but something with a mind of its own, and 2) the consequences of
 much of something called social “science.”
 
-# Book 4, “Wolves Among Dogs,” Deals With Dependence And,
+## Book 4, “Wolves Among Dogs,” Deals With Dependence And,
 
 let’s call a spade a spade, slavery in modern life: why employees exist because they have
 much more to lose than contractors. It also shows how, even if you are independent and have
 f*** you money, you are vulnerable if people you care about can be targeted by evil
 corporations and groups.
 
-# Book 5, “Being Alive Means Taking Certain Risks,” Shows In
+## Book 5, “Being Alive Means Taking Certain Risks,” Shows In
 
-# Chapter 5 how risk taking makes you look superficially less
+### Chapter 5 how risk taking makes you look superficially less
 
 attractive, but vastly more convincing. It clarifies the difference between life as real
 life and life as imagined in an experience machine, how Jesus had to be man, not quite god,
@@ -1768,20 +1569,20 @@ why plumbers are experts, but not clinical psychologists, why The New Yorker com
 experts are not themselves experts. The Lindy effect separates things that gain from time
 from those that are destroyed by it.
 
-# Book 6, “Deeper Into Agency,” Looks For Consequential Hidden
+## Book 6, “Deeper Into Agency,” Looks For Consequential Hidden
 
 asymmetries. Chapter 9 shows that, viewed from the standpoint of practice, the world is
 simpler and solid experts don’t look like actors playing the part. The chapter presents BS
 detection heuristics. Chapter 10 shows how rich people are suckers who fall prey to people
 complicating their lifestyle to sell them something.
 
-# Chapter 11 explains the difference between threats and real threats
+### Chapter 11 explains the difference between threats and real threats
 
 and shows how you can own an enemy by not killing him. Chapter 12 presents the agency
 problem of journalists: they will sacrifice truth and build a wrong narrative because of the
 necessity to please other journalists. Chapter 13 explains why virtue requires the
 
-## Internet or writing a check
+### Internet or writing a check
 
 risk taking, not the reputational risk reduction of playing white knight on some
 nongovernmental organization (NGO) who might help destroy the world. Chapter 14 explains the
@@ -1790,13 +1591,13 @@ than peace, leaving us with a deformed view of the past. History is also plagued
 probabilistic confusions. If we got rid of “peace” experts, the world would be safer and
 many problems would be solved organically. to
 
-# Book 7, “Religion, Belief, And Skin In The Game,” Explains
+## Book 7, “Religion, Belief, And Skin In The Game,” Explains
 
 creeds in terms of skin in the game and revealed preferences: how atheists are functionally
 indistinguishable from Christians, though not Salafi Muslims. Avoid the verbalistic:
 “religions” are not quite religions: some are philosophies, others are just legal systems.
 
-# Book 8, “Risk And Rationality,” Has The Two Central Chapters,
+## Book 8, “Risk And Rationality,” Has The Two Central Chapters,
 
 which I elected to leave for the end. There is no rigorous definition of rationality that is
 not related to skin in the game; it is all about actions, not verbs, thoughts, and tawk.
@@ -1808,28 +1609,26 @@ ergodicity, which was left hanging. Finally, the chapter outlines what we call t
 precautionary principle.
 
 - Appendix:
-
 - Asymmetries in Life and Things
-
 - TABLE 2 • ASYMMETRIES IN SOCIETY
 
-## Where We Left Off In Antifragile
+### Where We Left Off In Antifragile
 
-## No Skin In The Game
+### No Skin In The Game
 
 (Keeps upside, transfers downside to others, owns a hidden option at someone else’s expense)
 
-## Skin In The Game Of
+### Skin In The Game Of
 
-## Others, Or Soul In The
+### Others, Or Soul In The
 
-## Game
+### Game
 
 (Takes the downside on behalf of others, or for universal values)
 
-## Skin In The
+### Skin In The
 
-## Game
+### Game
 
 his (Keeps own downside, takes his or her own risk) Bureaucrats, policy wonks Citizens
 Saints, soldiers knights, warriors, Consultants, sophists Merchants, businessmen Prophets,
@@ -1846,13 +1645,13 @@ prizes, honors, ceremonies, medals, tea with the Queen of England, membership in
 handshake with Obama Highest—even only—award is death for one’s ideas or positions:
 Socrates, Jesus, Saint Catherine, Hypatia, Joan of Arc
 
-# Book 2
+## Book 2
 
-# Chapter 1
+### Chapter 1
 
 Why Each One Should Eat His Own Turtles:
 
-## Equality in Uncertainty
+### Equality in Uncertainty
 
 Taste of turtle—Where are the new customers?—Sharia and asymmetry— There are the Swiss, and
 other people—Rav Safra and the Swiss (but different Swiss) You who caught the turtles better
@@ -1867,9 +1666,9 @@ turtles to eat. Detecting that he was only invited to relieve them of the unwant
 forced them all to eat the turtles, thus establishing the principle that you need to eat
 what you feed others.
 
-## A Customer Is Born Every Day
+### A Customer Is Born Every Day
 
-## I have learned a lesson from my own naive experiences:
+### I have learned a lesson from my own naive experiences:
 
 Beware of the person who gives advice, telling you that a certain action on your part is
 “good for you” while it is also good for him, while the harm to you doesn’t directly affect
@@ -1940,7 +1739,7 @@ is born.”
 
 As the Romans were fully aware, one lauds merrily the merchandise to get rid of it. fn2
 
-## The Price Of Corn In Rhodes
+### The Price Of Corn In Rhodes
 
 So, “giving advice” as a sales pitch is fundamentally unethical— selling cannot be deemed
 advice. We can safely settle on that. You can give advice, or you can sell (by advertising
@@ -1994,7 +1793,7 @@ Indeed much of the work of investment banks in my day was to laws. And, regulati
 loopholes find play on the in counterintuitively, the more regulations, the easier it was to
 make money.
 
-## Equality In Uncertainty
+### Equality In Uncertainty
 
 Which brings us to asymmetry, the core concept behind skin in the game. The question
 becomes: to what extent can people in a transaction have an informational differential
@@ -2042,7 +1841,7 @@ fall under gharar, while the second case, that of a defective liquid, would.
 As we see, the problem of asymmetry is so complicated that different schools give different
 ethical solutions, so let us look at the Talmudic approach.
 
-## Rav Safra And The Swiss
+### Rav Safra And The Swiss
 
 Jewish ethics on the matter is closer to Antipater than Diogenes in its aims at
 transparency. Not only should there be transparency concerning the merchandise, but perhaps
@@ -2086,7 +1885,7 @@ the point: Sympathy for all would be tyranny for thee, my good neighbor.
 Nietzsche, by the way, is the one person Fat Tony (upon hearing his quotes) said he would
 never debate.
 
-## Members And Non-Members
+### Members And Non-Members
 
 For the exclusion of the “Swiss” from our ethical realm is not trivial. Things don’t “scale”
 and generalize, which is why I have trouble with intellectuals talking about abstract
@@ -2166,7 +1965,7 @@ just for you, as a unit. In reality, my skin lies in a broader set of people, on
 includes a family, a community, a tribe, a fraternity. But it cannot possibly be the
 universal.
 
-## Non Mihi Non Tibi, Sed Nobis (Neither Mine Nor Yours, But Ours)
+### Non Mihi Non Tibi, Sed Nobis (Neither Mine Nor Yours, But Ours)
 
 Let us get into the gut of Ostrom’s idea. The “tragedy of the commons,” as exposed by
 economists, is as follows—the commons being a collective property, say, a forest or fishing
@@ -2197,7 +1996,7 @@ The “public good” is something abstract, taken out of a textbook.
 We will see further in Chapter 19 that the “individual” is an illdefined entity. “Me” is
 more likely to be a group than a single person.
 
-## Are You On The Diagonal?
+### Are You On The Diagonal?
 
 A saying by the brothers Geoff and Vince Graham summarizes the ludicrousness of scale-free
 political universalism.
@@ -2218,7 +2017,7 @@ a federation.
 
 Let us next generalize to risk sharing.
 
-## All (Literally) In The Same Boat
+### All (Literally) In The Same Boat
 
 Greek is a language of precision; it has a word describing the opposite of risk transfer:
 risk sharing. Synkyndineo means “taking risks in maritime transactions. fn5 together,” which
@@ -2233,7 +2032,7 @@ Rhodia, Rhodian Law, after the mercantile Aegean island of Rhodes; the code is n
 extant but has been cited since antiquity. It stipulates that the risks and costs for
 contingencies are to be incurred equally, with no concern for responsibility.
 
-## Justinian’s code summarizes it:
+### Justinian’s code summarizes it:
 
 It is provided by the Rhodian Law that where merchandise is thrown overboard for the purpose
 of lightening a ship, what has been lost for the benefit of all must be made up by the
@@ -2249,7 +2048,7 @@ do in the meanwhile.
 
 Next, we discuss some distortions from the introduction of skin in the game.
 
-## Talking One’S Book
+### Talking One’S Book
 
 I went on television once to announce a newly published book and got stuck in the studio,
 drafted to become part of a roundtable with two journalists plus the anchor. The topic of
@@ -2280,7 +2079,7 @@ What I hope this book will do is show that the former is more important than the
 There is no problem if people have a conflict of interest if it is congruous with downside
 risk for themselves.
 
-## A Short Visit To The Doctor’S Office
+### A Short Visit To The Doctor’S Office
 
 like engineering, grounded The doctor doesn’t have the Antaeus problem: medicine, while
 wrapping the garment of science around it, is fundamentally apprenticeship-based and, in
@@ -2349,18 +2148,18 @@ system.
 Administrators everywhere on the planet, in all businesses and pursuits, and at all times in
 history, have been the plague.
 
-## Next
+### Next
 
 This chapter introduced us to the agency problem and risk sharing, seen from both a
 commercial and an ethical viewpoint, assuming the two can be disentangled. We also
 introduced the problem of scale. Next, we will try to get deeper into the hidden asymmetries
 that make aggregates strange animals.
 
-# Book 3
+## Book 3
 
-# Chapter 2
+### Chapter 2
 
-## The Most Intolerant Wins: The Dominance of the Stubborn Minority
+### The Most Intolerant Wins: The Dominance of the Stubborn Minority
 
 Why you don’t have to smoke in the smoking section—Your food choices on the fall of the
 Saudi king—How to prevent a friend from working too hard— Omar Sharif’s conversion—How to
@@ -2402,7 +2201,7 @@ Bourgeois Gentilhomme who suddenly discovers that he has been speaking in the pr
 these years without knowing it, I realized that I had been drinking kosher liquids without
 knowing it.
 
-## Criminals With Peanut Allergies
+### Criminals With Peanut Allergies
 
 A strange idea hit me. The kosher population represents less than three tenths of a percent
 of the residents of the United States. Yet, it appears that almost all drinks are kosher.
@@ -2412,7 +2211,7 @@ markers, separate aisles, separate different stocking sub-facilities. And the si
 that changes the total is as follows: A kosher (or halal) eater will never eat nonkosher (or
 nonhalal) food, but a nonkosher eater isn’t banned from eating kosher.
 
-## Or, rephrased in another domain:
+### Or, rephrased in another domain:
 
 A disabled person will not use the regular bathroom, but a nondisabled person will use the
 bathroom for disabled people.
@@ -2535,7 +2334,7 @@ Another example: do not think that the spread of automatic shifting cars is nece
 to a majority preference; it could just be because those who can drive manual shifts can
 always drive automatic, but the reverse is not true.
 
-## The method of analysis employed here
+### The method of analysis employed here
 
 is called a “renormalization group,” a powerful apparatus in mathematical physics that
 allows us to see how things scale up (or down). Let us examine it next—without mathematics.
@@ -2544,7 +2343,7 @@ FIGURE 2. Renormalization group, steps one through three (start from the top): F
 containing four boxes, with one of the boxes dark at step one, with successive applications
 of the minority rule.
 
-## Renormalization Group
+### Renormalization Group
 
 Figure 2 shows four boxes exhibiting what is called fractal selfsimilarity. Each box
 contains four smaller boxes. Each one of the four boxes will contain four boxes, and so all
@@ -2574,7 +2373,7 @@ swell the number of votes for the extreme party. Galam’s models produced a bev
 counterintuitive effects in political science—and his predictions have turned out to be way
 closer to real outcomes than the naive consensus.
 
-## The Veto
+### The Veto
 
 What we saw in the renormalization group was the “veto” effect, as a person in a group can
 steer choices. The advertising executive (and extremely bon vivant) Rory Sutherland
@@ -2609,7 +2408,7 @@ between Judaism and Islam, which one would you pick? Judaism, they replied. Then
 asked the Muslims: which of the two, Christianity or Judaism? Judaism, the Muslims said.
 Judaism it was; and the tribe converted.
 
-## Lingua Franca
+### Lingua Franca
 
 If a meeting is taking place in Germany in the Teutonic-looking conference room of a
 corporation that is sufficiently international or European, and one of the persons in the
@@ -2650,7 +2449,7 @@ language among French Canadians outside narrowly provincial areas, commented as 
 Canada, when we say bilingual, it is Englishit becomes speaking, and when we say
 French-speaking bilingual.”
 
-## Genes Vs. Languages
+### Genes Vs. Languages
 
 Looking at genetic data in the Eastern Mediterranean with my collaborator the geneticist
 Pierre Zalloua, we noticed that both invaders, Turks and Arabs, left few genes, and in the
@@ -2677,7 +2476,7 @@ neighbors were actually genetically close to one another. It has been recently s
 both ancient Greeks and Bronze Age Levantines share an Anatolian origin. It just happened
 that the languages diverged.
 
-## The One-Way Street Of Religions
+### The One-Way Street Of Religions
 
 In the same manner, the spread of Islam in the Near East, where Christianity was heavily
 entrenched (remember that it was born there), can be attributed to two simple asymmetries.
@@ -2763,7 +2562,7 @@ nineteenth century. They went on to impose the maximally intolerant rule in a ma
 was later imitated by ISIS. Every single accretion of Salafism seems to exist to accommodate
 the most intolerant of its branches.
 
-## Decentralize, Again
+### Decentralize, Again
 
 Another attribute of decentralization, and one the “intellectuals” opposing an exit of
 Britain from the European Union (Brexit) don’t get: if one needs, say, a 3 percent threshold
@@ -2775,7 +2574,7 @@ the reason the U.S.A. works so well. As I have been repeating to everyone who li
 are a federation, not a republic. To use the language of Antifragile, decentralization is
 convex to variations.
 
-## Imposing Virtue On Others
+### Imposing Virtue On Others
 
 This idea of one-sidedness can help us debunk a few more misconceptions. How do books get
 banned? Certainly not because they offend the average person—most persons are passive and
@@ -2820,7 +2619,7 @@ did. But it took seven or eight Poles to help one Jew. It took only one Pole, ac
 informer, to turn in a dozen Jews. Even is contestable, we can easily imagine bad outcomes
 stemming from a minority of bad agents. if such select Polish anti-Semitism
 
-## Stability Of The Minority Rule, A Probabilistic Argument
+### Stability Of The Minority Rule, A Probabilistic Argument
 
 Wherever you look across societies and histories, you tend to find the same general moral
 laws prevailing, with some, but not significant, variations: do not steal (at least not from
@@ -2854,7 +2653,7 @@ man opted for the first, not the second option. Simply, the majority rule leads 
 fluctuations around the average, with a high rate of survival. Not the minority rule. The
 minority rule produces lowvariance in outcomes.
 
-## Popper-Goedel’S Paradox
+### Popper-Goedel’S Paradox
 
 I was at a large, multi-table dinner party, the kind where you have to choose between the
 vegetarian risotto and the non-vegetarian option, when I noticed that my neighbor had his
@@ -2901,7 +2700,7 @@ the Silver Rule. It is not permissible to use “American values” or “Wester
 treating intolerant Salafism (which denies other peoples’ right to have their own religion).
 The West is currently in the process of committing suicide.
 
-## Irreverence Of Markets And Science
+### Irreverence Of Markets And Science
 
 Now consider markets. We can say that markets aren’t the sum of market participants, but
 price changes reflect the activities of the most motivated buyer and seller. Yes, the most
@@ -2935,7 +2734,7 @@ wrong. Had science operated by majority consensus, we would be still stuck in th
 Ages, and Einstein would have ended as he started, a patent clerk with fruitless side
 hobbies.
 
-## Unus Sed Leo: Only One But A Lion
+### Unus Sed Leo: Only One But A Lion
 
 Alexander said that it was preferable to have an army of sheep led by a lion than an army of
 lions led by a sheep. Alexander (or whoever produced this probably apocryphal saying)
@@ -2952,7 +2751,7 @@ the only thing that ever has,” wrote Margaret Mead. Revolutions are unarguably
 obsessive minority. And the entire growth of society, whether economic or moral, comes from
 a small number of people.
 
-## Summary And Next
+### Summary And Next
 
 So we summarize this chapter and link it to hidden asymmetries, the subtitle of the book.
 Society doesn’t evolve by consensus, voting, majority, committees, verbose meetings,
@@ -2964,7 +2763,7 @@ a bit more. Let us see next, after the Appendix.
 
 Appendix to Book 3
 
-## A Few More Counterintuitive Things About the Collective
+### A Few More Counterintuitive Things About the Collective
 
 Antifragile has been about the failure of the average to represent anything in the presence
 of nonlinearities and asymmetries similar to the minority rule. So let us go beyond: The
@@ -3030,7 +2829,7 @@ segregationism, and somethingism without merit. Using cellular automata, a techn
 to renormalization, the late Thomas Schelling showed a few decades ago how a neighborhood
 can be segregated without a single segregationist among its inhabitants.
 
-## Zero-Intelligence Markets
+### Zero-Intelligence Markets
 
 The underlying structure of reality matters much more than the participants, something
 policymakers fail to understand.
@@ -3055,11 +2854,11 @@ going; markets do.
 
 Leave people alone under a good structure and they will take care of things.
 
-# Book 4
+## Book 4
 
-# Chapter 3
+### Chapter 3
 
-## How to Legally Own Another Person
+### How to Legally Own Another Person
 
 Even the church had its hippies—Coase does not need math—Avoid lawyers during
 Oktoberfest—The expat life ends one day—People who have been employees are signaling
@@ -3108,7 +2907,7 @@ be whacked if the capo suspects a lack of allegiance, with a transitory stay in 
 a car—and a guaranteed presence of the boss at their funerals. For other professions, skin
 in the game comes in more subtle forms.
 
-## To Own A Pilot
+### To Own A Pilot
 
 Let us say that you own a small airline company. You are a very modern person; having
 attended many conferences and spoken to consultants, you believe that the traditional
@@ -3186,7 +2985,7 @@ of his personal freedom for nine hours every day, his ritualistic and punctual a
 office, his denying himself his own schedule, and his not having beaten up anyone on the way
 back home after a bad day. He is an obedient, housebroken dog.
 
-## From The Company Man To The Companies Person
+### From The Company Man To The Companies Person
 
 Even when an employee ceases to be an employee, he will remain diligent. The longer the
 person stays with a company, the more emotional investment they will have in staying, and,
@@ -3235,7 +3034,7 @@ people are no longer owned by a company but by something worse: the idea that th
 be employable. The employable person is embedded in an industry, with fear of upsetting not
 just their employer, but other potential employers. fn2
 
-## Coase’S Theory Of The Firm
+### Coase’S Theory Of The Firm
 
 Perhaps, by definition, an employable person is the one you will never find in a history
 book, because these people are designed to never leave their mark on the course of events.
@@ -3273,7 +3072,7 @@ or a freedman— and you do not need to rely on the mechanism of the law for tha
 You can be bankrupted by an irresponsible or dishonest steward who can divert your estate’s
 funds to Bithynia. A slave has more downside.
 
-## Complexity
+### Complexity
 
 Welcome to the modern world. In a world in which products are increasingly made by
 subcontractors with increasing degrees of specialization, employees are even more necessary
@@ -3283,7 +3082,7 @@ with lower inventories and more subcontractors, to run smoothly and things appea
 efficiently, but errors are costlier and delays are considerably longer than in the past.
 One single delay in the chain can stop the entire process.
 
-## A Curious Form Of Slave Ownership
+### A Curious Form Of Slave Ownership
 
 Slave ownership by companies has traditionally taken very curious forms. The best slave is
 someone you overpay and who knows it, terrified of losing his status. Multinational
@@ -3310,7 +3109,7 @@ The person is terrified when the big boss snubs him. Ninety-five percent of the 
 mind will be on company politics … which is exactly what the company wants. The big boss in
 the board room will have a supporter in the event of some intrigue.
 
-## Freedom Is Never Free
+### Freedom Is Never Free
 
 In the famous tale by Ahiqar, later picked up by Aesop (then again by La Fontaine), the dog
 boasts to the wolf all the contraptions of comfort and luxury he has, almost prompting the
@@ -3337,7 +3136,7 @@ people prefer to adopt puppies, not grown-up dogs; in many countries, unwanted d
 euthanized. A wolf is trained to survive. Employees abandoned by their employers, as we saw
 in the IBM story, cannot bounce back.
 
-## Wolves Among The Dogs
+### Wolves Among The Dogs
 
 There is a category of employees who aren’t slaves, but these represent a very small
 proportion of the pool. You can identify them as follows: they don’t give a f*** about their
@@ -3408,9 +3207,9 @@ course). Consider that English “manners” were imposed on the middle class as
 domesticating them, along with instilling in them the fear of breaking rules and violating
 social norms.
 
-## Loss Aversion
+### Loss Aversion
 
-## Take for now the following:
+### Take for now the following:
 
 What matters isn’t what a person has or doesn’t have; it is what he or she is afraid of
 losing.
@@ -3428,7 +3227,7 @@ David Petraeus was more vulnerable than a truck driver. The fellow couldn’t ev
 extramarital relationship. You can risk people’s lives, but you remain a slave. The entire
 structure of the civil service is organized that way.
 
-## Waiting For Constantinople
+### Waiting For Constantinople
 
 The exact obverse of the public-hotshot as slave is the autocrat.
 
@@ -3468,7 +3267,7 @@ This is not the case in modern times, as dictators, aware that their time might 
 indulge in pillaging the place and transferring assets to their Swiss bank accounts—as in
 the case of the Saudi Royal family.
 
-## Do Not Rock Bureaucristan
+### Do Not Rock Bureaucristan
 
 More generally: People whose survival depends on qualitative “job assessments” by someone of
 higher rank in an organization cannot be trusted for critical decisions.
@@ -3519,19 +3318,19 @@ were afraid of rocking the boat and contradicting the cronies.
 Now compare these policies to ones in which decision makers have skin in the game as a
 substitute for their annual “job assessment,” and you will picture a different world.
 
-## Next
+### Next
 
 Next, let’s talk about the Achilles’ heel of the free who is not so free.
 
-# Chapter 4
+### Chapter 4
 
-## The Skin of Others in Your Game
+### The Skin of Others in Your Game
 
 How to be a whistleblower—James Bond isn’t a Jesuit priest, but he is a bachelor—So are both
 Professor Moriarty and Sherlock Holmes—Total intelligence in the P.R. firm Ketchum—Putting
 the skin on terrorists
 
-## A Mortgage And Two Cats
+### A Mortgage And Two Cats
 
 Imagine working for a corporation that produces a (so far) hidden harm to the community, in
 concealing a cancer-causing property that kills thousands by an effect that is not (yet)
@@ -3610,7 +3409,7 @@ he was the target of large motor companies, raising a family with 2.2 kids and a
 But neither celibacy nor financial independence makes one unconditionally immune, as we see
 next.
 
-## Finding Hidden Vulnerabilities
+### Finding Hidden Vulnerabilities
 
 So far we have seen that the requirement of celibacy is enough evidence that society has,
 traditionally, been implicitly penalizing some layer of a collective for the actions of a
@@ -3679,7 +3478,7 @@ So far we have seen that the link between the individual and the collective is t
 interpret naively. So let us consider the classical situation of the terrorist who thinks he
 is immune to harm.
 
-## How To Put Skin In The Game Of Suicide Bombers
+### How To Put Skin In The Game Of Suicide Bombers
 
 Can someone punish a family for the crimes of an individual? The scriptures are
 self-contradictory—you can get both answers from the Old Testament. Exodus and Numbers show
@@ -3700,7 +3499,7 @@ society, but confronting threaten innocents) isn’t standard either. For we hav
 history terrorists (who faced a situation in which the perpetrator of a crime has a
 completely asymmetric payoff and upside from death itself. fn3
 
-## Hammurabi’s code actually makes
+### Hammurabi’s code actually makes
 
 such a provision, transferring liability across generations. For, on that same basalt stele
 surrounded by Korean selfie sticks, is written the following: “If the architect built a
@@ -3745,17 +3544,17 @@ collective. What I do not feel bad about is preventing the family of the perpetr
 terrorist acts from benefiting from those acts—many terrorist groups reward the families of
 suicide bombers, and this can be safely terminated without any ethical dilemma.
 
-## Next
+### Next
 
 In the last two chapters we examined the good and the bad of dependence and the constraints
 on our freedoms coming from skin in the game. Next, let us look at the thrills (of the right
 type) of risk taking.
 
-# Book 5
+## Book 5
 
-# Chapter 5
+### Chapter 5
 
-## Life in the Simulation Machine
+### Life in the Simulation Machine
 
 How to dress while reading Borges and Proust—There are many ways to convince with an ice
 pick—Councils of bickering bishops—Theosis—Why Trump will win (he actually did win) I once
@@ -3785,7 +3584,7 @@ had skin in the game.
 I met him again a few months later and, as I tried to shake hands with him, noticed a scar
 where the icepick had come out of his hand.
 
-## Jesus Was A Risk Taker
+### Jesus Was A Risk Taker
 
 This allowed me to finally figure out this business of the Trinity.
 
@@ -3814,7 +3613,7 @@ us mortals to access God and merge with him, become part of him, in order to par
 divine. That fusion is called theosis. The human nature of Christ makes the divine possible
 for all of us. fn1
 
-## Pascal’S Wager
+### Pascal’S Wager
 
 This argument (that real life is risk taking) reveals the theological weakness of Pascal’s
 wager, which stipulates that believing in the creator has a positive payoff in case he truly
@@ -3824,7 +3623,7 @@ can see that it proposes religion without skin in the game, making it a purely a
 sterile activity. But what applies to Jesus should also apply to other believers. We will
 see that, traditionally, there is no religion without some skin in the game.
 
-## The Matrix
+### The Matrix
 
 Philosophers, unlike the equally argumentative but vastly more sophisticated (and more
 colorfully dressed) bishops, don’t get the point with their experience machine thought
@@ -3854,7 +3653,7 @@ discuss at length in Chapter 19, along with ergodicity, the most powerful concep
 
 Next, let us consider the signaling benefits of overt flaws.
 
-## The Donald
+### The Donald
 
 I have a tendency to watch television with the sound off. When I saw Donald Trump in the
 Republican primary standing next to other candidates, I became certain he was going to win
@@ -3871,7 +3670,7 @@ signal skin in the game.
 
 And People can detect the difference between frontand back-office operators.
 
-## Next
+### Next
 
 Before we end, take some Fat Tony wisdom: always do more than you talk. And precede talk
 with action. For it will always remain that action without talk supersedes talk without
@@ -3881,9 +3680,9 @@ Otherwise you will resemble the person we expose in the next chapter (which hope
 offend many “intellectuals”), the insidious disease of modern times: back-office people
 (that is, support staff) acting as front-office ones (business generators).
 
-# Chapter 6
+### Chapter 6
 
-## The Intellectual Yet Idiot
+### The Intellectual Yet Idiot
 
 People who don’t have skin in the game—Lipid phobias—Teach a professor how to deadlift What
 we saw worldwide from 2014 to 2018, from India to the U.K. to the U.S., was a rebellion
@@ -3892,7 +3691,7 @@ journalists-insiders, that class of paternalistic semi-intellectual experts with
 League, Oxford-Cambridge or similar label-driven education who are telling the rest of us 1)
 what to do, 2) what to eat, 3) how to speak, 4) how to think, and … 5) whom to vote for.
 
-## Where To Find A Coconut
+### Where To Find A Coconut
 
 But the problem is the one-eyed following the blind: these selfdescribed members of the
 “intelligentsia” can’t find a coconut on Coconut Island, meaning they aren’t intelligent
@@ -3909,7 +3708,7 @@ entitled to rely on their own ancestral instincts and to listen to their grandmo
 Montaigne and such filtered classical knowledge), who have a better track record than these
 policymaking goons.
 
-## Science And Scientism
+### Science And Scientism
 
 Indeed, one can see that these academico-bureaucrats who feel entitled to run our lives
 aren’t even rigorous, whether in medical statistics or policymaking. They can’t tell science
@@ -3952,7 +3751,7 @@ surgery.
 
 The IYI also fails to naturally detect sophistry.
 
-## Intellectual Yet Philistine
+### Intellectual Yet Philistine
 
 The IYI subscribes to The New Yorker, a journal designed so philistines can learn to fake a
 conversation about evolution, neurosomething, cognitive biases, and quantum mechanics. He
@@ -3979,7 +3778,7 @@ Gaussianism, Salafism, dynamic stochastic equilibrium modeling, housing projects
 running, selfish genes, election-forecasting models, Bernie Madoff (pre-blowup), and
 p-values. But he is still convinced that his current position is right. fn1
 
-## Never Gotten Drunk With Russians
+### Never Gotten Drunk With Russians
 
 The IYI joins a club to get travel privileges; if he is a social scientist, he uses
 statistics without knowing how they are derived (like Steven Pinker and psycholophasters in
@@ -4001,14 +3800,14 @@ that had nothing to do with physics. there that The IYI likes to use buzzwords f
 philosophy of science when discussing unrelated phenomena; he goes two or three levels too
 theoretical for a given problem.
 
-## To Conclude
+### To Conclude
 
 The Intellectual Yet Idiot knows at any given point in time what his words or actions are
 doing to his reputation.
 
 But a much easier marker: he doesn’t even deadlift. fn2
 
-## Postscript
+### Postscript
 
 From the reactions to this chapter (which was posted before the presidential elections of
 2016), I discovered that the typical IYI has difficulty, when reading, in differentiating
@@ -4017,13 +3816,13 @@ between the satirical and the literal.
 Next, we stop the satirical and return to the main book with the sooooo misunderstood topic
 of economic inequality. By IYIs.
 
-# Chapter 7
+### Chapter 7
 
-## Inequality and Skin in the Game
+### Inequality and Skin in the Game
 
 The static and the dynamic—How to go bankrupt and be loved by the many —Piketty’s equals
 
-## Inequality Vs. Inequality
+### Inequality Vs. Inequality
 
 There is inequality and inequality.
 
@@ -4095,7 +3894,7 @@ another.
 Take also the two following remarks: True equality is equality in probability. and Skin in
 the game prevents systems from rotting.
 
-## The Static And The Dynamic
+### The Static And The Dynamic
 
 Visibly, a problem with economists (particularly those who never took risk) is that they
 have mental difficulties with things that move and are unable to consider that things that
@@ -4107,7 +3906,7 @@ paragraphs down, is indeed in my opinion the best marker separating a genuine sc
 understands something about the world from an academic hack who partakes of ritualistic
 paper writing.
 
-## A few definitions:
+### A few definitions:
 
 Static inequality is a snapshot view of inequality; it does not reflect what will happen to
 you in the course of your life.
@@ -4133,7 +3932,7 @@ mere income mobility.
 Mobility means that someone can become rich. The no-absorbingbarrier condition means that
 someone who is rich should never be certain to stay rich.
 
-## Now, even more mathematically,
+### Now, even more mathematically,
 
 Dynamic equality is what restores ergodicity, making time and ensemble probabilities
 substitutable.
@@ -4166,7 +3965,7 @@ ascent.
 
 And no downside for some means no upside for the rest.
 
-## PIKETTISM AND THE REVOLT OF THE MANDARIN CLASS fn7
+### PIKETTISM AND THE REVOLT OF THE MANDARIN CLASS fn7
 
 There is a class often called the Mandarins, after the fictionalized memoirs of the French
 author Simone de Beauvoir, named after the scholars of the Ming dynasty (the high Chinese
@@ -4240,7 +4039,7 @@ big deal out of Piketty here because the widespread enthusiasm for his book was
 representative of the behavior of that class of people who love to theorize and engage in
 false solidarity with the oppressed, while consolidating their privileges.
 
-## Cobbler Envies Cobbler
+### Cobbler Envies Cobbler
 
 The reason regular people are not as acrimonious as the “intellectuals” and bureaucrats is
 because envy does not travel long distance or cross many social classes. Envy does not
@@ -4269,7 +4068,7 @@ invisible to them. But, again, people can frame questions and portray enrichment
 as was done before the French Revolution, in which case the blue-collar class would ask,
 once again, for heads to roll. fn11
 
-## Inequality, Wealth, And Vertical Socialization
+### Inequality, Wealth, And Vertical Socialization
 
 If intellectuals are overly worried about inequality, it is because they tend to view
 themselves in hierarchical terms, and thus think that others do too. Furthermore, as if by
@@ -4293,7 +4092,7 @@ lifting weights with cockney speakers. The intelligentsia therefore feels entitl
 with the poor as a construct; one they created. Thus they become convinced that they know
 what is best for them.
 
-## Empathy And Homophily
+### Empathy And Homophily
 
 Recall the scaling problem, the idea that people’s ethical rules are not universal; they
 vary according to whether someone is “Swiss,” that is, an outsider or not.
@@ -4305,7 +4104,7 @@ self-insurance attribute—something that can only work for a limited number of 
 can’t be universalized: you take care of my progeny if they are ruined; I will take care of
 yours.
 
-## Data, Shmata
+### Data, Shmata
 
 Another lesson from Piketty’s ambitious volume: it was loaded with charts and tables. There
 is a lesson here: what we learn from professionals in the real world is that data is not
@@ -4342,7 +4141,7 @@ statistics isn’t about data but distillation, rigor, and avoiding being fooled
 randomness—but no matter, the general public and his stateworshipping IYI colleagues found
 it impressive (for a while). fn13
 
-## Ethics Of Civil Service
+### Ethics Of Civil Service
 
 Let us finish this discussion with an unfairness that is worse than inequality: the sore
 sight of back office, non-risk-takers getting rich from public service.
@@ -4394,7 +4193,7 @@ themselves from the largest bonus pool in history after the crisis, in 2010 (tha
 taxpayer money), and then got a multimillion-dollar job at a financial institution as his
 reward for good behavior.
 
-## Next
+### Next
 
 scholar of Portuguese There is a vicious domain-dependence of expertise: the electrician,
 irregular verbs, assistant dentist, colonoscopist, London cabby, and algebraic geometer are
@@ -4406,9 +4205,9 @@ decides who is and who is not an expert? Where is the metaexpert?
 Time is the expert. Or, rather, the temperamental and ruthless Lindy, as we see in the next
 chapter.
 
-# Chapter 8
+### Chapter 8
 
-## An Expert Called Lindy
+### An Expert Called Lindy
 
 She is the one and only expert—Don’t eat their cheesecake—Meta-experts judged by
 meta-meta-experts—Prostitutes, nonprostitutes, and amateurs Lindy is a deli in New York, now
@@ -4487,7 +4286,7 @@ Note that thanks to Lindy, no expert is the final expert anymore and we do not n
 meta-experts judging the expertise of experts one rank below them. We solve the “turtles all
 the way down” problem. fn1 Fragility is the expert, hence time and survival.
 
-## The Lindy Of Lindy
+### The Lindy Of Lindy
 
 The idea of the Lindy effect is itself Lindy-proof. The pre-Socratic thinker Periander of
 Corinth wrote, more than twenty-five hundred years ago: Use laws that are old but food that
@@ -4504,7 +4303,7 @@ youth.” He also wrote: “The Romans judged their political system by asking n
 made sense but whether it worked,” which is why, while dedicating this book, I called Ron
 Paul a Roman among Greeks.
 
-## Do We Need A Judge?
+### Do We Need A Judge?
 
 As I mentioned earlier in Prologue 3, I have held for most of my (sort of) academic career
 no more than a quarter position. A quarter is enough to have somewhere to go, particularly
@@ -4514,7 +4313,7 @@ department head one day came to me and emitted the warning: “Just as, when a b
 author you are judged by other businessmen and authors, here as an academic you are judged
 by other academics.
 
-## Life is about peer assessment.”
+### Life is about peer assessment.”
 
 It took me a while to overcome my disgust—I am still not fully familiar with the way
 non-risk-takers work; they actually don’t realize that others are not like them, and can’t
@@ -4541,7 +4340,7 @@ of future—not just present—others.
 
 And recall that, a free person does not need to win arguments— just win. fn2
 
-## Tea With The Queen
+### Tea With The Queen
 
 Peers devolve honors, memberships in academies, Nobels, invitations to Davos and similar
 venues, tea (and cucumber sandwiches) with the Queen, requests by rich name-droppers to
@@ -4558,7 +4357,7 @@ something wrong with you.
 
 Contemporary peers are valuable collaborators, not final judges. fn3
 
-## Institutions
+### Institutions
 
 In fact, there is something worse than peer-assessment: the bureaucratization of the
 activity creates a class of new judges: university administrators, who have no clue what
@@ -4606,7 +4405,7 @@ macroeconomists and post-colonial gender “experts.” And university education
 compete with professional training workshops: once upon a time, studying postcolonial
 theories could help one get a job other than serving French fries. No longer. to
 
-## Against One’S Interest
+### Against One’S Interest
 
 those The most convincing statements are those in which one stands to lose, ones in which
 one has maximal skin in the game; the most unconvincing ones are in which one patently (but
@@ -4622,7 +4421,7 @@ particularly if it entails costs and reputational harm for its author.
 Further, Someone with a high public presence who is controversial and takes risks for his
 opinion is less likely to be a bull***t vendor. fn4
 
-## Soul In The Game, Again
+### Soul In The Game, Again
 
 The deprostitutionalization of research will eventually be done as follows. Force people who
 want to do “research” to do it on their own time, that is, to derive their income from other
@@ -4645,7 +4444,7 @@ should be motivated and rewarded by honors and recognition. That’s not how it 
 Remember, science is a minority rule: a few will run it, others are just back-office
 clerks.)
 
-## Science Is Lindy-Prone
+### Science Is Lindy-Prone
 
 We said earlier that without skin in game, survival mechanisms are severely disrupted. This
 also applies to ideas.
@@ -4677,7 +4476,7 @@ also applies to superstitions that have crossed centuries because they led to so
 protective actions. More technically, an idea needs to be convex (antifragile), or at least
 bring about a beneficial reduction of fragility somewhere.
 
-## Empirical Or Theoretic?
+### Empirical Or Theoretic?
 
 Academics divide research into theoretical and empirical areas.
 
@@ -4696,7 +4495,7 @@ work manages to cross generations.
 
 Which brings me to the grandmother.
 
-## The Grandmother Vs. The Researchers
+### The Grandmother Vs. The Researchers
 
 If you hear advice from a grandmother or elders, odds are that it works 90 percent of the
 time. On the other hand, in part because of scientism and academic prostitution, in part
@@ -4724,14 +4523,14 @@ Vauvenargues, La Bruyère, Chamfort). Bossuet is a class on his own. One can use
 and Erasmus as a portal to the ancients: Montaigne was the popularizer of his day; Erasmus
 was the thorough compiler. “moralists” so-called
 
-## A Brief Tour Of Your Grandparents’ Wisdom
+### A Brief Tour Of Your Grandparents’ Wisdom
 
 Let us now close by sampling a few ideas that exist in both ancient lore and are sort of
 reconfirmed by modern psychology. These are sampled organically, meaning they are not the
 result of research but of what spontaneously comes to mind (remember this book is called
 Skin in the Game), then verified in the texts.
 
-## Cognitive dissonance (a psychological
+### Cognitive dissonance (a psychological
 
 theory by Leon Festinger about sour grapes, by which people, in order to avoid inconsistent
 beliefs, rationalize that, say, the grapes they can’t reach got to be sour). It is seen
@@ -4784,16 +4583,16 @@ then … come rest at ease.” Cynéas: “But you are already there; why take m
 Montaigne then cites the well-known passage in Lucretius’ De Rerum Natura (V, 1431) on how
 human nature knows no upper bound, as if to punish itself.
 
-# Book 6
+## Book 6
 
-# Chapter 9
+### Chapter 9
 
-## Surgeons Should Not Look Like Surgeons
+### Surgeons Should Not Look Like Surgeons
 
 Literature doesn’t look like literature—Donaldo hiring practitioners—The glory of
 bureaucracy—Teach a professor how to deadlift—Looking the part
 
-## Looking The Part
+### Looking The Part
 
 Say you had the choice between two surgeons of similar rank in the same department in some
 hospital. The first is highly refined in appearance; he wears silver-rimmed glasses, has a
@@ -4801,7 +4600,7 @@ thin build, delicate hands, measured speech, and elegant gestures. His hair is s
 well combed. He is the person you would put in a movie if you needed to impersonate a
 surgeon. His office for his prominently boasts undergraduate and medical schools.
 
-## Ivy League diplomas, both
+### Ivy League diplomas, both
 
 The second one looks like a butcher; he is overweight, with large hands, uncouth speech, and
 an unkempt appearance. His shirt is dangling from the back. No known tailor on the East
@@ -4853,13 +4652,13 @@ a pensive man with an ascot standing in front of wall-to-wall bookshelves.
 
 By the same reasoning, and flipping the arguments, skilled thieves at large should not look like thieves. Those who do are more likely to be in jail.
 
-## Next, we will get deeper into the following:
+### Next, we will get deeper into the following:
 
 In any type of activity or business divorced from the direct filter of skin in the game, the
 great majority of people know the jargon, play the part, and are intimate with the cosmetic
 details, but are clueless about the subject.
 
-## The Green Lumber Fallacy
+### The Green Lumber Fallacy
 
 The idea of this chapter is Lindy-compatible. Don’t think that beautiful apples taste
 better, goes the Latin saying. fn1 This is a subtler version of the common phrase “all that
@@ -4906,7 +4705,7 @@ Remarkably, after a while, I learned to effortlessly understand what Jimmy meant
 learned, in my early twenties, that the people you understand most easily were necessarily
 the bull***tters.
 
-## Best-Dressed Business Plan
+### Best-Dressed Business Plan
 
 imperfect subjunctives and references Literature should not look like literature. The author
 Georges Simenon worked as a teenager in journalism as an assistant to the famous French
@@ -4931,7 +4730,7 @@ it was to expand or allow the managers to cash out; funding was not the prime so
 creation. You don’t create a firm by creating a firm; nor do you do science by doing
 science.
 
-## A Bishop For Halloween
+### A Bishop For Halloween
 
 Which brings me back to social science. I have in many instances quickly jotted down ideas
 on a piece of paper, along with mathematical proofs, and posted them somewhere, planning to
@@ -4971,14 +4770,14 @@ of dignity. A bishop on rollerblades would no longer be a bishop. There is nothi
 with the decorative if it remains what it is, decorative, as remains true today. However,
 science and business must not be decorative.
 
-## Next, we examine the following points:
+### Next, we examine the following points:
 
 Just as the slick fellow in a Ferrari looks richer than the rumpled centimillionaire,
 scientism looks more scientific than real science.
 
 True intellect should not appear to be intellectual.
 
-## The Gordian Knot
+### The Gordian Knot
 
 Never pay for complexity of presentation when all you need is results.
 
@@ -4999,7 +4798,7 @@ it is much better to give him aspirin or recommend a good night’s sleep than d
 surgery, although the latter appears to be more “scientific.” But most “consultants” and
 others paid by the hour are not there yet.
 
-## Overintellectualization Of Life
+### Overintellectualization Of Life
 
 The researchers Gerd Gigerenzer and Henry Brighton contrast the approaches of the
 “rationalistic” school (in quotation marks, as there is little that is rational in these
@@ -5017,7 +4816,7 @@ heuristics used for specific purposes. The baseball player has no clue about the
 heuristic, but he goes with to another, nonintellectualizing, competitor. Likewise, as we
 will see in
 
-# Chapter 18, religious “beliefs” are simply mental heuristics that
+### Chapter 18, religious “beliefs” are simply mental heuristics that
 
 solve a collection of problems—without the agent really knowing how. Solving equations in
 order to make a decision isn’t a skill we humans can aspire to have—it is computationally
@@ -5026,7 +4825,7 @@ impossible.
 What we can rationally do is neutralize some harmful aspects of these heuristics, defang
 them so to speak. the game lose
 
-## Another Business Of Intervention
+### Another Business Of Intervention
 
 People who have always operated without skin in the game (or without their skin in the right
 game) seek the complicated and centralized, and avoid the simple like the plague.
@@ -5049,7 +4848,7 @@ complications.
 
 This also holds true when it comes to solutions that are profitable to technologists.
 
-## Gold And Rice
+### Gold And Rice
 
 Now, indeed, we know by instinct that brain surgery is not more “scientific” than aspirin,
 any more than flying the forty or so miles between JFK and Newark airports represent
@@ -5100,7 +4899,7 @@ I realized soon after that, owing to the minority rule, there was no point conti
 said in Book 3, GMOs lost simply because a minority of intelligent and intransigent people
 stood against them.
 
-## The Compensation
+### The Compensation
 
 Simply, the minute one is judged by others rather than by reality, things become warped as
 follows. Firms that haven’t gone bankrupt yet have something called personnel departments.
@@ -5117,7 +4916,7 @@ in front of the big boss and they left me alone.
 Now the mere fact that an evaluation causes you to be judged not by the end results, but by
 some intermediary metric that invites you to look sophisticated, brings some distortions.
 
-## Education As Luxury Good
+### Education As Luxury Good
 
 Ivy League universities are becoming in the eyes of the new Asian upper class the ultimate
 status luxury good. Harvard is like a Vuitton bag and a Cartier watch. It is a huge drag on
@@ -5131,7 +4930,7 @@ extractors. In a way it is no different from racketeering: one needs a decent un
 with organized education, rather the reverse: the level of (formal) education in a country
 is the result of wealth. fn2
 
-## A Bs Detection Heuristic
+### A Bs Detection Heuristic
 
 The heuristic here would be to use education in reverse: hire, conditional on an equal set
 of skills, the person with the least label-oriented education. It means that the person had
@@ -5150,7 +4949,7 @@ site arXiv (with a minimum hurdle) is fine. In low-quality fields like academic 
 (where papers are usually some form of complicated storytelling), the “prestige” of the
 journal is the sole criterion.
 
-## Real Gyms Don’T Look Like Gyms
+### Real Gyms Don’T Look Like Gyms
 
 This education labeling provides a lot of cosmetic things but misses something essential
 about antifragility and true learning, reminiscent of gyms. People are impressed with
@@ -5179,16 +4978,16 @@ color-rich juices to “improve” your health. They even have a swimming pool; 
 And if gyms should not look like gyms, exercise should not look like exercise. Most gains in
 physical strength come from working the tails of the distribution, close to your limit.
 
-## Next
+### Next
 
 This chapter managed to mix weight lifting and fundamental research under the single
 argument that, while the presence of skin in the game does away with the cosmetic, its
 absence causes multiplicative nonsense. Next, let us consider the divergence of interest
 between you and yourself when you become rich.
 
-# Chapter 10
+### Chapter 10
 
-## Only the Rich Are Poisoned: The Preferences of Others
+### Only the Rich Are Poisoned: The Preferences of Others
 
 The salesman to drink poison—Advertising and manipulation—The unbearable silence of large
 mansions on Sunday evening the boss—How is When people get rich, they shed their
@@ -5221,7 +5020,7 @@ energy to fake that you’re not bored. In fact, I discovered an optimization in
 place: the only thing I cared about, the bread, was not warm. It appears that this is not a
 Michelin requirement for three stars.
 
-## Venenum In Auro Bibitur
+### Venenum In Auro Bibitur
 
 I left the place starving. Now, if I had a choice, I would have had some time-tested recipe
 (say a pizza with very fresh ingredients, or a juicy hamburger) in a lively place—for a
@@ -5250,7 +5049,7 @@ find yourself stuck seated for two hours between the wife of a Kansas City real 
 developer (who just visited Nepal) and a Washington lobbyist (who just returned from a
 vacation in Bali).
 
-## Large Funeral Homes
+### Large Funeral Homes
 
 Same with real estate: most people, I am convinced, are happier in close quarters, in a real
 barrio-style neighborhood, where they can feel human warmth and company. But when they have
@@ -5282,7 +5081,7 @@ them —will make them better off.
 To put it another way: if wealth is giving you fewer options instead of more (and more
 varied) options, you’re doing it wrong.
 
-## Conversation
+### Conversation
 
 If anything, being rich you need to hide your money if you want to have what I call friends.
 This may be known; what is less obvious is that you may also need to hide your erudition and
@@ -5301,7 +5100,7 @@ course there will be tension with the outside, but that’s another discussion. 
 competition being lifted within a group or a tribe was, once again, present in the notion of
 a group as studied by Elinor Ostrom.
 
-## Nonlinearity Of Progress
+### Nonlinearity Of Progress
 
 Now let us generalize to progress in general. Do you want society to get wealthy, or is
 there something else you prefer—avoidance of poverty? Are your choices yours or those of
@@ -5328,14 +5127,14 @@ complicated crap.
 So long as society is getting richer, someone will try to sell you something until the point
 of degradation of your well-being, and a bit beyond that.
 
-## Next
+### Next
 
 The next chapter will present the rule of no verbal threat through the history of the
 experts of the craft, the sect of the Assassins.
 
-# Chapter 11
+### Chapter 11
 
-## Facta non Verba (Deeds Before Words)
+### Facta non Verba (Deeds Before Words)
 
 Dead horse in your bed—Friendship via poisoned cake—Roman emperors and U.S. presidents—A
 living enemy is worth ten dead ones The best enemy is the one you own by putting skin in his
@@ -5344,7 +5143,7 @@ knowledge that he owes his life to your benevolence. The notion that an enemy yo
 better than a dead one was perfected by the order of the Assassins, so we will do some
 digging into the work of that secret society.
 
-## An Offer Very Hard To Refuse
+### An Offer Very Hard To Refuse
 
 There is this formidable scene in the Godfather when a Hollywood executive wakes up with the
 bloody severed head of his cherished race horse in his bed.
@@ -5392,7 +5191,7 @@ for reasons other than being the victim of a successful or attempted assassinati
 I have enough Salafi enemies and there is still time to satisfy such requirement—skin in the
 game).
 
-## The Assassins
+### The Assassins
 
 The most interesting thing about the Assassins is that actual assassination was low on their
 agenda. They understood noncheap messaging. They preferred to own their enemies. And the
@@ -5432,7 +5231,7 @@ threats of the dagger-by-yourbed variety are even better for bloodless control. 
 supposedly aimed at sparing civilians and people who were not directly targeted. Their
 precision was meant to reduce what is now called “collateral damage.”
 
-## Assassination As Marketing
+### Assassination As Marketing
 
 Those readers who may have tried to get rid of pebbles in their shoes (that is, someone who
 bothers you and doesn’t get the hint) might know that “contracts” on ordinary citizens (that
@@ -5461,11 +5260,11 @@ to forty thousand without significant new information. Both the Syrian regime an
 enemies had an interest in numbers being inflated. Interestingly the number has continued to
 climb in recent years. We will return to historians in
 
-# Chapter 14, where we show how empirical rigor is quite foreign to
+### Chapter 14, where we show how empirical rigor is quite foreign to
 
 their discipline.
 
-## Assassination As Democracy
+### Assassination As Democracy
 
 Now, political life; if the democratic system doesn’t fully deliver governance—it patently
 doesn’t, owing to cronyisms and the Hillary Monsanto-Malmaison style of covert legal
@@ -5487,7 +5286,7 @@ the Praetorian Guard or, in the case of Nero, dead by suicide in anticipation. R
 in the first four hundred years of empire, less than a third of emperors died a natural
 death, assuming these deaths were truly natural.
 
-## The Camera For Skin In The Game
+### The Camera For Skin In The Game
 
 Thanks to the camera, you no longer need to put horses’ heads in boutique hotels or villas
 in the Hamptons to own people. You may no longer even need to assassinate anyone.
@@ -5533,13 +5332,13 @@ pleasing the watchers, and can actually irritate them. Remember that Socrates wa
 death because he would not compromise his standards. More on that, in a few chapters, when
 we discuss real virtue.
 
-# Chapter 12
+### Chapter 12
 
-## The Facts Are True, the News Is Fake
+### The Facts Are True, the News Is Fake
 
 I never said that I said—No news is mostly news—Information flows in both directions
 
-## How To Disagree With Yourself
+### How To Disagree With Yourself
 
 In the summer of 2009, I partook of an hour-long public discussion with David Cameron, who
 was in the running for, and later became, the U.K. prime minister. The discussion was about
@@ -5584,7 +5383,7 @@ Guardian and the restaurant owner in Milan, who, when you ask for a taxi, calls 
 who does a tour of the city to inflate the meter before showing up. Or the doctor who
 willfully misdiagnoses you to sell you a drug in which he has a vested interest.
 
-## Information Doesn’T Like To Be Owned
+### Information Doesn’T Like To Be Owned
 
 Information isn’t Lindy compatible.
 
@@ -5631,7 +5430,7 @@ about Brexit, GMOs, or Putin, and you become history.
 
 This is the opposite of business where me-tooism is penalized.
 
-## The Ethics Of Disagreement
+### The Ethics Of Disagreement
 
 Now let us get deeper into the application of the Silver Rule in intellectual debates. You
 can criticize either what a person said or what a person meant. The former is more
@@ -5683,13 +5482,13 @@ However, in philosophy, the principle of charity—as principle —is only sixty
 with other things, if the principle of charity had to become a principle, it must be because
 some old ethical practices were abandoned.
 
-## Next
+### Next
 
 The next chapter will take us to virtue as skin in the game.
 
-# Chapter 13
+### Chapter 13
 
-## The Merchandising of Virtue
+### The Merchandising of Virtue
 
 Sontag is about Sontag—Virtue is what you do when nobody is looking— Have the guts to be
 unpopular—Meetings breed meetings—Call someone lonely on Saturdays after tennis Lycurgus,
@@ -5720,7 +5519,7 @@ into some unimpeachable sainthood, exempting her from having skin in the game.
 It is immoral to be in opposition to the market system and not live (somewhere in Vermont or
 Northwestern Afghanistan) in a hut or cave isolated from it.
 
-## But there is worse:
+### But there is worse:
 
 It is much more immoral to claim virtue without fully living with its direct consequences.
 
@@ -5730,7 +5529,7 @@ does not share the downside of a negative action.
 
 By contrast with Sontag, I have met a few people who live their public ideas. Ralph Nader, for instance, leads the life of a monk, identical to a member of a monastery in the sixteenth century. And the secular saint Simone Weil, while coming from the French Jewish upper class, spent a year in a car factory so the working class could be something other than an abstract construct for her.
 
-## The Public And The Private
+### The Public And The Private
 
 As we saw with the interventionistas, a certain class of theoretical people can despise the
 details of reality. If you manage to convince yourself that you are right in theory, you
@@ -5758,7 +5557,7 @@ find that immoral. I know of no ethical system that allows you to let someone dr
 helping him because other people are not helping, no system that says, “I will save people
 from drowning only if others too save other people from drowning.”
 
-## Which brings us to the principle:
+### Which brings us to the principle:
 
 If your private life conflicts with your intellectual opinion, it cancels your intellectual
 ideas, not your private life.
@@ -5770,7 +5569,7 @@ This is not strictly about ethics, but information. If a car salesman tries to s
 Detroit car while driving a Honda, he is signaling that the wares he is touting may have a
 problem.
 
-## The Virtue Merchants
+### The Virtue Merchants
 
 In about every hotel chain, from Argentina to Kazakhstan, the bathroom will have a sign
 meant to get your attention: PROTECT THE ENVIRONMENT. They want you to hold off from sending
@@ -5805,7 +5604,7 @@ their reward in full. But when you give to the needy, do not let your left hand 
 your right hand is doing, so that your giving may be in secret. Then your Father, who sees
 what is done in secret, will reward you.
 
-## To Be Or To Seem?
+### To Be Or To Seem?
 
 The investor Charlie Munger once said: “Look it. Would you rather be the world’s greatest
 lover, but have everyone think you’re the world’s worst lover? Or would you rather be the
@@ -5815,7 +5614,7 @@ videri, which I translate as to be or to be seen as such. It can be found in Cic
 Sallust, even Machiavelli, who, characteristically, inverted it to videri quam esse, “show
 rather than be.”
 
-## Simony
+### Simony
 
 At some point in history, if you had money, you could part with some of it to exonerate your
 sins. The opulent could clear their conscience thanks to the purchase of ecclesiastical
@@ -5853,7 +5652,7 @@ We have argued that virtue is not an ornament, not something one can buy. Let us
 beyond and see where virtue requires skin in the game in terms of risk taking, particularly
 when it is one’s reputation that is at risk.
 
-## Virtue Is About Others And The Collective
+### Virtue Is About Others And The Collective
 
 From the scaling property, we can safely establish that virtue is doing something for the
 collective, particularly when such an action conflicts with your narrowly defined interests.
@@ -5864,7 +5663,7 @@ obvious cases, those people the grand charity business tends to miss. Or people 
 friends and would like someone once in while to just call them for a chat or a cup of fresh
 roasted Italian-style coffee.
 
-## Unpopular Virtue
+### Unpopular Virtue
 
 Further, the highest form of virtue is unpopular. This does not mean that virtue is
 inherently unpopular, or correlates with unpopularity, only that unpopular acts signal some
@@ -5888,7 +5687,7 @@ Some people only express their opinions as part of mob shaming, when it is safe 
 and, in the bargain, think that they are displaying virtue. This is not virtue but vice, a
 mixture of bullying and cowardice.
 
-## Take Risk
+### Take Risk
 
 Finally, when young people who “want to help mankind” come to me asking, “What should I do?
 I want to reduce poverty, save the world,” and similar noble aspirations at the macro-level,
@@ -5905,9 +5704,9 @@ economy); institutions (like the aid industry) may help, but they are equally li
 
 Courage (risk taking) is the highest virtue. We need entrepreneurs.
 
-# Chapter 14
+### Chapter 14
 
-## Peace, Neither Ink nor Blood
+### Peace, Neither Ink nor Blood
 
 Arabs fighting to the last Palestinian—Where are the lions?—Italians don’t die easily—Make
 historians build rockets—Commerce makes people equal (or unequal, but that’s another
@@ -5964,7 +5763,7 @@ Jews. Yet some people with no skin in the game who have read too much about the 
 Westphalia (and not enough on complex systems) still insist on conflating relations between
 countries with relations between governments.
 
-## Mars Vs. Saturn
+### Mars Vs. Saturn
 
 If you understand nothing about the problem (like D.C. pundits) and have no skin in the
 game, then everything is seen through the prism of geopolitics. For these ignorant pundits,
@@ -5983,7 +5782,7 @@ geopolitics. Real people are interested in commonalities and peace, not conflict
 Let us now examine history as it runs by itself, as opposed to what’s seen by
 “intellectuals” and institutions.
 
-## Where Are The Lions?
+### Where Are The Lions?
 
 As I was writing Antifragile, I spent some time in South Africa in a wild reserve, doing
 Safari-style tours during part of the day and tinkering with the book in the afternoons. I
@@ -6010,7 +5809,7 @@ anything, it means collaboration for the most part, with a few perceptional dist
 caused by our otherwise well-functioning risk-management intuitions. Even predators end up
 in some type of arrangement with their prey.
 
-## History Seen From The Emergency Room
+### History Seen From The Emergency Room
 
 History is largely peace punctuated by wars, rather than wars punctuated by peace. The
 problem is that we humans are prone to the availability heuristic, by which the salient is
@@ -6106,7 +5905,7 @@ through the worst part of the civil war in Lebanon. Except for areas near the Gr
 didn’t feel like war. But those reading about it in history books will not understand my
 experience. fn2
 
-## Next
+### Next
 
 We just saw in Book 6 various asymmetries in life coming from largely undetected agency
 problems, where absence of skin in the game contaminates fields and produces distortions.
@@ -6115,11 +5914,11 @@ But recall that religion is about skin in the game—not quite about “belief.�
 the next few chapters with what people call “religion,” which will take us deeper and deeper
 into the core of the book: rationality and risk bearing.
 
-# Book 7
+## Book 7
 
-## G A M E
+### G A M E
 
-# Chapter 15
+### Chapter 15
 
 They Don’t Know What They Are Talking About When They Talk About Religion The more they
 talk. the less you understand—Law or nomous?—In religion, as in other things, you pay for
@@ -6200,7 +5999,7 @@ all-embracing control over all of human activity and thought, which makes discus
 whether religion or atheistic regimes are more murderous lacking in pertinence, precision,
 and realism.
 
-## Belief Vs. Belief
+### Belief Vs. Belief
 
 We will see in the next chapter that “belief” can be epistemic, or simply procedural (or
 metaphorical)—leading to confusions about which sorts of beliefs are religious beliefs and
@@ -6219,14 +6018,14 @@ away from the literal.
 
 The literal doesn’t leave any room for adaptation.
 
-## As Gibbon wrote:
+### As Gibbon wrote:
 
 The various modes of worship, which prevailed in the Roman world, were all considered by the
 people, as equally true; by the philosopher, as equally false; and by the magistrate, as
 equally useful. And thus toleration produced not only mutual indulgence, but even religious
 concord.
 
-## Libertarianism And Church-Free Religions
+### Libertarianism And Church-Free Religions
 
 As we mentioned, the Roman emperor Julian the Apostate tried to revert to ancient paganism
 after his father’s cousin Constantine the Great made Christianity a state religion almost
@@ -6258,18 +6057,18 @@ substitute the rule of law for the rule of authority. Without necessarily realiz
 libertarians believe in complex systems. And, since libertarianism is a movement, it can
 still exist as splintered factions within other political parties.
 
-## Next
+### Next
 
 To conclude, beware labels when it comes to matters associated with beliefs. And avoid
 treating religions as if they are all the same animal. But there is a commonality. The next
 chapter will show us how religion does not like fair-weather friends; it wants commitment;
 it is based on skin in the game.
 
-# Chapter 16
+### Chapter 16
 
 No Worship Without Skin in the Game
 
-## Symmetry, symmetry everywhere—Belief requires an entry fee
+### Symmetry, symmetry everywhere—Belief requires an entry fee
 
 It is when you break a fast that you understand religion. I am writing this as I am ending
 the grueling Greek-Orthodox period of Lent, which, for the most part, allows no animal
@@ -6285,7 +6084,7 @@ entails a symmetry between what you pay and what you receive. Things otherwise w
 easy. So the skin-in-the-game rules that hold between humans also hold in our rapport with
 the gods.
 
-## The Gods Do Not Like Cheap Signaling
+### The Gods Do Not Like Cheap Signaling
 
 I will always remember the church altar in Saint Sergius (or, in the vernacular, Mar Sarkis)
 in the Aramaic-speaking town of Maaloula, even if I live 125 years. I visited the church a
@@ -6350,7 +6149,7 @@ At the Last Supper, on the night when He was betrayed, our Savior instituted the
 sacrifice of His Body and Blood. He did this in order to perpetuate the sacrifice of the
 Cross throughout the centuries until He should come again. —Sacrosanctum Concilium, 47
 
-## Sacrifice was ended by making it metaphorical:
+### Sacrifice was ended by making it metaphorical:
 
 I appeal to you therefore brothers, by the mercies of God, to present your bodies as a
 living sacrifice, holy and acceptable to God, which is your spiritual worship. —Romans 12:1
@@ -6368,7 +6167,7 @@ millennia later, Christians had their last transaction. reciprocal expectations.
 
 It was
 
-## The philosopher Moshe Halbertal holds
+### The philosopher Moshe Halbertal holds
 
 the simulacrum of Isaac, dealings with the Lord became a reciprocal gift-giving affair. But
 why did animal sacrifice continue for a while? that, post Canaanite habits die hard.
@@ -6386,7 +6185,7 @@ worship, took place in Mecca.
 Love without sacrifice is theft (Procrustes). This applies to any form of love, particularly
 the love of God.
 
-## The Evidence
+### The Evidence
 
 To summarize, in a Judeo-Christian place of worship, the focal point, where the priest
 stands, symbolizes skin in the game. The notion of belief without sacrifice, which is
@@ -6395,7 +6194,7 @@ tangible proof, is new in history.
 The strength of a creed did not rest on “evidence” of the powers of its gods, but evidence
 of the skin in the game on the part of its worshippers.
 
-# Chapter 17
+### Chapter 17
 
 Is the Pope Atheist?
 
@@ -6462,7 +6261,7 @@ accepted the trappings of democracy, oligarchy, or military modern dictatorship,
 heathen political regimes, rather than seeking theocracies. Their decisions on central
 matters are indistinguishable from those of an atheist.
 
-## Religious In Words
+### Religious In Words
 
 So we define atheism or secularism in deeds, by the distance between one’s actions and those
 of a nonatheistic person for an equivalent situation, not his beliefs and other decorative
@@ -6475,17 +6274,17 @@ actions and words, completely devoid of rituals, respect for the dead, and super
 (say a belief in economics, or in the miraculous powers of the mighty state and its
 institutions).
 
-## Next
+### Next
 
 This chapter will ease us to the next section: a) rationality resides in what you do, not in
 what you think or in what you “believe” (skin in the game), and b) rationality is about
 survival.
 
-# Book 8
+## Book 8
 
-# Chapter 18
+### Chapter 18
 
-## How to Be Rational About Rationality
+### How to Be Rational About Rationality
 
 Restaurants without kitchens—Science from the grave—Do not shoot to the left of piano
 players—Merchants of rationality My friend Rory Sutherland claims that the real function of
@@ -6506,7 +6305,7 @@ distance. Your eyes are not sensors designed to capture the electromagnetic spec
 job description is not to produce the most accurate scientific representation of reality;
 rather the most useful one for survival.
 
-## Ocular Deception
+### Ocular Deception
 
 Our perceptional apparatus makes mistakes—distortions—in order to lead us to more precise
 actions: ocular deception, it turns out, is a necessary thing. Greek and Roman architects
@@ -6520,7 +6319,7 @@ lined up like a marching Russian division in a parade.
 Should one go lodge a complaint with the Greek Ministry of Tourism claiming that the columns
 are not vertical and that someone is taking advantage of our visual mechanisms?
 
-## Ergodicity First
+### Ergodicity First
 
 The same applies to distortions of beliefs. Are visual deceits any different from leading
 someone to believe in Santa Claus, if it enhances his or her holiday aesthetic experience?
@@ -6565,9 +6364,9 @@ intelligence; the psychologist Gerd Gigerenzer; and the mathematician, logician,
 decision theorist Ken Binmore, who spent his life formulating the logical foundations of
 rationality.
 
-## From Simon To Gigerenzer
+### From Simon To Gigerenzer
 
-## Simon formulated the notion now known as bounded rationality:
+### Simon formulated the notion now known as bounded rationality:
 
 we cannot possibly measure and assess everything as if we were a computer; we therefore
 produce, under evolutionary pressures, some shortcuts and distortions. Our knowledge of the
@@ -6579,7 +6378,7 @@ mostly organized and led by Gerd Gigerenzer (the one who critiqued Dawkins in Ch
 mapping how many things we do that appear, on the surface, illogical, but have deeper
 reasons.
 
-## Revelation Of Preferences
+### Revelation Of Preferences
 
 As for Ken Binmore, he showed that the concept casually dubbed “rational” is ill-defined, in
 fact so ill-defined that many uses of the term are just gibberish. There is nothing
@@ -6620,7 +6419,7 @@ This is why I have been against the state dictating to us what we “should” b
 evolution knows if the “wrong” thing is really wrong, provided there is skin in the game to
 allow for selection.
 
-## What Is Religion About?
+### What Is Religion About?
 
 It is therefore my opinion that religion exists to enforce tail risk management across
 generations, as its binary and unconditional rules are easy to teach and enforce. We have
@@ -6661,7 +6460,7 @@ therapy.
 Also recall from Chapter 3 that collective rationality might require some individual biases.
 “TAWK” AND CHEAP “TAWK”
 
-## The first principle we draw:
+### The first principle we draw:
 
 There is a difference between beliefs that are decorative and different sorts of beliefs,
 those that map to action.
@@ -6669,7 +6468,7 @@ those that map to action.
 There is no difference between them in words, except that the true difference reveals itself
 in risk taking, having something at stake, something one could lose in case one is wrong.
 
-## And the lesson, by rephrasing the principle:
+### And the lesson, by rephrasing the principle:
 
 How much you truly “believe” in something can be manifested only through what you are
 willing to risk for it.
@@ -6680,7 +6479,7 @@ discussion. What are these for? Can we truly understand their function? Are we c
 about their function? Do we mistake their rationality? Can we use them instead to define
 rationality?
 
-## What Does Lindy Say?
+### What Does Lindy Say?
 
 works Let us see what Lindy has to say about “rationality.” While the notions of “reason”
 and “reasonable” were present in ancient thought, mostly embedded in the notion of
@@ -6700,7 +6499,7 @@ is, to me, irrational.
 
 Hence the understanding. precautionary principle and sound risk
 
-## The Nondecorative In The Decorative
+### The Nondecorative In The Decorative
 
 Now what I’ve called decorative is not necessarily superfluous, often to the contrary. The
 decorative may just have a function we do not know much about. We could consult for that the
@@ -6737,12 +6536,12 @@ commercial transactions with remote members of the community, thus creating a vi
 network. Or some other benefit—but it remains that Jews have survived in spite of a very
 hard history.
 
-## This allows us to summarize:
+### This allows us to summarize:
 
 Rationality does not depend on explicit verbalistic explanatory factors; it is only what
 aids survival, what avoids ruin.
 
-## Why? Clearly as we saw in the Lindy discussion:
+### Why? Clearly as we saw in the Lindy discussion:
 
 Not everything that happens happens for a reason, but everything that survives survives for
 a reason.
@@ -6750,9 +6549,9 @@ a reason.
 Rationality is risk management, period. The next chapter will make the final argument in
 support of this principle.
 
-# Chapter 19
+### Chapter 19
 
-## The Logic of Risk Taking
+### The Logic of Risk Taking
 
 The central chapter always comes last—Always bet twice—Do you know your uncle point?—Who is
 “you”?—The Greeks were almost always right FIGURE 5. The difference between one hundred
@@ -6846,7 +6645,7 @@ never will. Adding people without fundamental insights does not sum up to insigh
 for clarity in these fields is like looking for aesthetic harmony in the cubicle of a
 self-employed computer hacker or the attic of a highly disorganized electrician.
 
-## Ergodicity
+### Ergodicity
 
 To take stock: a situation is deemed non-ergodic when observed past probabilities do not
 apply to future processes. There is a “stop” somewhere, an absorbing barrier that prevents
@@ -6864,7 +6663,7 @@ percent chance of gains, for an “expected” average return per shot of $833,3
 keep playing Russian roulette, you will end up in the cemetery. Your expected return is …
 not computable.
 
-## Repetition Of Exposures
+### Repetition Of Exposures
 
 Let us see why “statistical testing” and “scientific” statements are highly insufficient in
 the presence of both ruin problems and repetition of exposures. If one claimed that there is
@@ -6885,7 +6684,7 @@ Recall from the chapter on inequality that academics in social science are … d
 challenged. Nobody could see the grandmother-obvious inconsistency of such behavior with our
 ingrained daily life logic, which is remarkably more rigorous.
 
-## Smoking a single cigarette is extremely benign, so a cost-benefit
+### Smoking a single cigarette is extremely benign, so a cost-benefit
 
 analysis would deem it irrational to give up so much pleasure for so little risk! But it is
 the act of smoking that kills, at a certain number of packs per year, or tens of thousand of
@@ -6947,7 +6746,7 @@ Let us return to the notion of “tribe.” One of the defects modern education 
 introduces is the illusion that each one of us is a single unit. In fact, I’ve sampled
 ninety people in seminars and asked them: “what’s the worst thing that can happen to you?”
 
-## Eighty-eight people answered “my death.”
+### Eighty-eight people answered “my death.”
 
 This can only be the worst-case situation for a psychopath. For after that, I asked those
 who deemed that their worst-case outcome was their own death: “Is your death plus that of
@@ -6984,7 +6783,7 @@ extinct from an accident, or from a gradual buildup of misfitness. But shorter s
 for humans allows genetic changes across generations to be in sync with the variability of
 the environment. they are
 
-## Courage And Precaution Aren’T Opposites
+### Courage And Precaution Aren’T Opposites
 
 in Aristotle’s Nicomachean Ethics, How can both courage and prudence be classical virtues?
 Virtue, as presented includes: sophrosyne (σωφροσύνη), prudence, and a form of sound
@@ -7004,7 +6803,7 @@ your own well-being for the sake of the survival of a layer higher than yours.
 Selfish courage is not courage. A foolish gambler is not committing an act of courage,
 especially if he is risking other people’s funds or has a family to feed. fn5
 
-## Rationality, Again
+### Rationality, Again
 
 The last chapter reframed rationality in terms of actual decisions, not what are called
 “beliefs,” as these may be adapted to stimulate us in the most convincing way to avoid
@@ -7028,7 +6827,7 @@ Indeed, it doesn’t cost us much to refuse some new shoddy technologies. It doe
 much to go with my “refined paranoia,” even if wrong. For all it takes is for my paranoia to
 be right once, and it saves my life.
 
-## Love Some Risks
+### Love Some Risks
 
 Antifragile shows how people confuse risk of ruin with variations and fluctuations—a
 simplification that violates a deeper, more rigorous logic of things. I make the case for
@@ -7041,7 +6840,7 @@ never larger ones, those that have irreversible effects.
 Fearmongering about some classes of events is fearmongering; about others it is not. Risk
 and ruin are different tings.
 
-## Naive Empiricism
+### Naive Empiricism
 
 All risks are not equal. We often hear that “Ebola is causing fewer deaths than people
 drowning in their bathtubs,” or something of the sort, based on “evidence.” This is another
@@ -7093,7 +6892,7 @@ is milder than Extremistan. They classify what can happens “in the tails” ac
 generalized extreme value distribution. Things are a lot—a lot—clearer in the tails. And
 things are a lot—a lot— clearer in probability than they are in words.
 
-## Summary
+### Summary
 
 We close this chapter with a few summarizing lines.
 
@@ -7110,7 +6909,7 @@ Finally: Rationality is avoidance of systemic ruin.
 
 Epilogue
 
-## What Lindy Told Me
+### What Lindy Told Me
 
 Now, reader, comes the end of the journey—and a fifth installment of the Incerto. So while
 trying to summarize the book, with the obligatory distillation, I saw the reflection of my
@@ -7122,7 +6921,7 @@ my beard turned gray. Lindy was telling me that, for a certain class of things, 
 to prove, less to explain, and less to theorize. I had overheard someone in the restaurant
 saying emphatically, “It is what it is,” and the phrase kept repeating itself in my head.
 
-## No summary this time, no summary anymore. Per Lindy:
+### No summary this time, no summary anymore. Per Lindy:
 
 When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the
 beard is gray, consider both reasoning and conclusion. When the beard is white, skip the
@@ -7364,6 +7163,7 @@ Public Choice 48(1): 3–25.
 Parfit, Derek, 2011. On What Matters. Vols. 1–3. Oxford: Oxford University Press.
 
 Periander of Corinth. In Early Greek Philosophy: Beginning and Early Ionian Thinkers, Part
+
 1. Loeb Classical Library, Harvard University Press.
 
 Peters, Ole, 2011. “The Time Resolution of the St Petersburg Paradox.” Philosophical
@@ -7373,7 +7173,7 @@ Sciences 369(1956): 4913–4931.
 Peters, Ole, and Murray Gell-Mann, 2016. “Evaluating Gambles Using Dynamics.” Chaos: An
 Interdisciplinary Journal of Nonlinear Available:
 
-## 26(2):
+### 26(2):
 
 scitation.aip.org/content/aip/journal/chaos/26/2/10.1063/1.4940236 023103.
 
@@ -7594,7 +7394,7 @@ the opponent as accurately as you would like yours to be represented. The opposi
 
 Technical Appendix
 
-## A. Skin In The Game And Tail Probabilities
+### A. Skin In The Game And Tail Probabilities
 
 FIGURE 7. The Bob Rubin trade. Payoff in a skewed domain where the benefits are visible (and
 rewarded with some compensation) and the detriment is rare (and unpunished owing to absence
@@ -7619,7 +7419,7 @@ performance, which does not have to be monetary (as long as it can be quantified
 “benefit”). The quantity indicates the size of the exposure at times (because of an Ito lag,
 as the performance at period s is determined by q at a strictly earlier period < s). to
 
-## Let {fj} be the family of probability measures corresponds
+### Let {fj} be the family of probability measures corresponds
 
 Each measure certain mean/skewness characteristics, and we can split their properties in
 half on both sides of a “centrality” parameter K, as the “upper” and “lower” distributions.
@@ -7643,7 +7443,7 @@ express the stopping time condition in terms of be the ordered set of {{F}, {SF}
 S is success and F is failure over period probabilities corresponding associated with For M
 large, since almost an equality, hence: we can treat the previous as
 
-## Finally, the expected payoff for the agent:
+### Finally, the expected payoff for the agent:
 
 (ii) minimizing the which increases by (i) increasing , but, and that’s the core point, even
 if probability of the loss (i) and (ii) take place at the expense of m, the total
@@ -7659,7 +7459,7 @@ agent payoff maximizes under the distribution j with the lowest value of vj (max
 negative asymmetry). The total expectation of the positive-incentive
 without-skin-in-the-game depends on negative skewness, not on m.
 
-## B. Probabilistic Sustainability And Ergodicity
+### B. Probabilistic Sustainability And Ergodicity
 
 Dynamic Risk Taking: If you take the risk—any risk—repeatedly, the way to count is in
 exposure per lifespan, or in the way it shortens the remaining lifespan.
@@ -7678,7 +7478,7 @@ time-dependent, path-dependent derivative function.
 
 Less Technical Translation: Never cross a river if it is on average only 4 feet deep. fn1
 
-## A simplified general case
+### A simplified general case
 
 Consider the extremely simplified example, the sequence of independent random variables with
 support in the positive real numbers . The convergence theorems of classical probability
@@ -7698,7 +7498,7 @@ In the presence of terminal, that is irreversible, ruin, every observation is no
 conditional on some attribute of the preceding one, and what happens at period t depends on
 t − 1, what happens at t − 1 depends on t − 2, etc. We now have path dependence.
 
-## Next what we call failure of ergodicity:
+### Next what we call failure of ergodicity:
 
 Theorem 1 (state space-time inequality): Assume that and period t, and through the weak law
 of large numbers. We have the state space expectation for a static initial the time
@@ -7758,7 +7558,7 @@ We can show (Briys and Taleb, in progress and private logarithmic communication)
 transformation as simple ruin avoidance, which happens to be a special case of the HARA
 utility class. which integrates to a logarithm. necessity the of
 
-## Adaptation of Theorem 1 to Brownian Motion
+### Adaptation of Theorem 1 to Brownian Motion
 
 The implications of simplified discussion do not change whether one uses richer models, such
 as a full stochastic process subjected to an absorbing barrier. And of course in a natural
@@ -7782,7 +7582,7 @@ remain in the same order.
 We switched the focus from probability to the mismatch between stopping time T for ruin and
 the remaining lifespan.
 
-## C. Principle Of Probabilistic Sustainability
+### C. Principle Of Probabilistic Sustainability
 
 Principle: A unit needs to take any risk as if it were going to take it repeatedly—at a
 specified frequency—over its remaining lifespan.
@@ -7802,7 +7602,7 @@ FIGURE 9. Why ruin is not a renewable resource. No matter how small the probabil
 time, something bound to hit the ruin barrier is about guaranteed to hit it. No risk should
 be considered a “one-off” event.
 
-## Now, we do not have to take
+### Now, we do not have to take
 
 nor is permanent sustainability necessary. We can just extend shelf time. The longer the t,
 the more the expectation operators diverge.
@@ -7865,7 +7665,7 @@ In other words, assuming the SP500 has a certain expected return “alpha,” an
 strategy would generate a strategy, say Kelly Criterion, to capture the assumed alpha. If it
 doesn’t, because of absorbing barrier or something else, it is not ergodic.
 
-## D. Technical Definition Of Fat Tails
+### D. Technical Definition Of Fat Tails
 
 Probability distributions range between extreme thin-tailed (Bernoulli) and extreme
 fat-tailed. Among the categories of distributions that are often distinguished due to the
@@ -7926,27 +7726,23 @@ Viktoria Martin; Ban Kanj Elsabeh; Vince Pomal; Graeme Michael Price; Karen Bren
 Tohme; Marie-Christine Riachi; Jordan Thibodeau; Pietro Bonavita. I apologize for the
 near-certain omission.
 
-## The Beginning
+### The Beginning
 
 - Let the conversation begin …
-
 - Follow the Penguin Twitter.com@penguinUKbooks
-
 - Keep up-to-date with all our stories YouTube.com/penguinbooks
-
 - Pin ‘Penguin Books’ to your Pinterest
-
 - Like ‘Penguin Books’ on Facebook.com/penguinbooks
 
-## Listen to Penguin at SoundCloud.com/penguin-books
+### Listen to Penguin at SoundCloud.com/penguin-books
 
 Find out more about the author and discover more stories like this at Penguin.co.uk
 
-## Allen Lane
+### Allen Lane
 
 UK | USA | Canada | Ireland | Australia
 
-## India | New Zealand | South Africa
+### India | New Zealand | South Africa
 
 Penguin Books is part of the Penguin Random House group of companies whose addresses can be
 found at global.penguinrandomhouse.com.
@@ -7957,14 +7753,12 @@ Penguin Random House LLC 2018 First published in Great Britain by Allen Lane 201
 Copyright © Nassim Nicholas Taleb, 2018
 
 - Portions of this work were originally published in different form on Medium
-
 - The moral right of the author has been asserted
-
 - Cover design: Richard Green
 
-## Isbn: 978-0-241-24748-8
+### Isbn: 978-0-241-24748-8
 
-# Book 1: Introduction
+## Book 1: Introduction
 
 fn1 To figure out why ethics, moral obligations, and skills cannot be easily separable in
 real life, consider the following. When you tell someone in a position of responsibility,
@@ -7973,7 +7767,7 @@ divert money to Panama), 2) you trust his accounting precision, or 3) both? The 
 of the book is that in the real world it is hard to disentangle ethics on one hand from
 knowledge and competence on the other.
 
-## Prologue, Part 1 Antaeus Whacked
+### Prologue, Part 1 Antaeus Whacked
 
 fn1 Interventionistas have in common one main attribute: they are usually not weight
 lifters. fn2 Playing with others’ lives. fn3 Rent-seeking is trying to use protective
@@ -7986,7 +7780,7 @@ easier to know that something is wrong than to find the fix. Actions that remove
 robust than those that add because addition may have unseen, complicated feedback loops.
 This is discussed in some depth in Antifragile.
 
-## Prologue, Part 2 A Brief Tour Of Symmetry
+### Prologue, Part 2 A Brief Tour Of Symmetry
 
 fn1 “Do not do unto others what you would not have them do unto you” (Isocrates, Hillel the
 Elder, Mahabharata). “What is hateful to you, do not do to your fellow: this is the whole
@@ -8016,7 +7810,7 @@ place who come to bid up prices, and hurt new young buyers permanently priced ou
 market. Is this silly, economically? Not at all, though some real estate developers would
 strongly disagree.
 
-## Prologue, Part 3 The Ribs Of The Incerto
+### Prologue, Part 3 The Ribs Of The Incerto
 
 fn1 The hidden risk transfer is not limited to bankers and corporations.
 
@@ -8032,9 +7826,9 @@ Randomness to be understood as “there is more luck than you think,” rather t
 people were getting from reviews: “it is all dumb luck.” Most books don’t survive three
 months.
 
-# CHAPTER 1: WHY EACH ONE SHOULD EAT HIS OWN TURTLES:
+### CHAPTER 1: WHY EACH ONE SHOULD EAT HIS OWN TURTLES:
 
-## Equality In Uncertainty
+### Equality In Uncertainty
 
 fn1 fn2 Ipsi testudines edite, qui cepistis.
 
@@ -8058,9 +7852,9 @@ filtering. I bought an electric car—a Tesla—because my neighbor was enthusia
 (skin in the game), and I watched him remain so for a few years. No amount of advertising
 will match the credibility of a genuine user.
 
-# CHAPTER 2: THE MOST INTOLERANT WINS: THE DOMINANCE OF THE
+### CHAPTER 2: THE MOST INTOLERANT WINS: THE DOMINANCE OF THE
 
-## Stubborn Minority
+### Stubborn Minority
 
 fn1 To put it in technical terms, it was a best worse-case divergence from expectations: a
 lower variance and lower mean. fn2 There is a also current controversy in the United Kingdom
@@ -8081,9 +7875,9 @@ half Christian: people greeted one another in the Roman pagan way of sharing one
 holidays. Today Shiites (and some Sunnis not yet brainwashed by Saudi Arabia) would wish a
 Christian “Merry Christmas.”
 
-## Appendix To Book 3 A Few More Counterintuitive Things
+### Appendix To Book 3 A Few More Counterintuitive Things
 
-## About The Collective
+### About The Collective
 
 fn1 What I just said explains the failure of the so-called field of behavioral economics to
 give us any more information than orthodox economics (itself rather poor) on how to play the
@@ -8091,7 +7885,7 @@ market or understand the economy, or generate policy. fn2 It is worth mentioning
 as these people acted as attack dogs against those who discounted the selfish-gene theory,
 without addressing the mathematics provided (they can’t), yet kept barking.
 
-# CHAPTER 3: HOW TO LEGALLY OWN ANOTHER PERSON
+### CHAPTER 3: HOW TO LEGALLY OWN ANOTHER PERSON
 
 fn1 The academic tenure system is meant to give people the security to express their
 opinions freely. However, tenure is given (in the ideological disciplines, such as the
@@ -8115,7 +7909,7 @@ more social mobility, ironically, more people could access the pool of politicia
 their jobs. And progressively, as with corporations, you start gathering people with minimal
 courage—and selected because they don’t have courage, as with a regular corporation.
 
-# CHAPTER 4: THE SKIN OF OTHERS IN YOUR GAME
+### CHAPTER 4: THE SKIN OF OTHERS IN YOUR GAME
 
 fn1 In Plato’s Apology, Socrates behaved like a mensch: “I, Sir, have a family, you know,
 and was not born ‘from oak or from rock’ ”—this is again an expression of Homer—“but from
@@ -8126,7 +7920,7 @@ narrative is that terrorists think they are going to heaven and will meet virgin
 like their next-door neighbors. Not quite true: many just seek a perceived heroic death, or
 to impress their friends. The desire to be a hero can be quite blinding.
 
-# CHAPTER 5: LIFE IN THE SIMULATION MACHINE
+### CHAPTER 5: LIFE IN THE SIMULATION MACHINE
 
 fn1 “The Son of God shares our nature so we can share His; as He has us in Him, so we have
 Him in us.”—Chrysostom fn2 I note that even the fact that Trump expressed himself in an
@@ -8134,7 +7928,7 @@ unconventional manner was a signal that he never had a boss before, no superviso
 convince, impress, or seek approval from: people who have been employed are more careful in
 their choice of words.
 
-# CHAPTER 6: THE INTELLECTUAL YET IDIOT
+### CHAPTER 6: THE INTELLECTUAL YET IDIOT
 
 fn1 Pareto’s comments are harsher than mine on this topic. fn2 Also the IYI thinks this
 criticism of IYIs means “everybody is an idiot,” not realizing that their group represents,
@@ -8146,7 +7940,7 @@ advocate übernudger Cass Sunstein, interpreted this piece as saying that “the
 non-idiots not called Taleb,” not realizing that people like him are less than 1 percent or
 even less than one-tenth of 1 percent of the population.
 
-# CHAPTER 7: INEQUALITY AND SKIN IN THE GAME
+### CHAPTER 7: INEQUALITY AND SKIN IN THE GAME
 
 fn1 It came to my notice that in countries with high rent-seeking, wealth is seen as
 something zero-sum: you take from Peter to give to Paul. On the other hand, in places with
@@ -8187,17 +7981,18 @@ the salaryperson over the entrepreneur. fn13 See Cirillo and Taleb, “On the St
 Properties and Tail Risk of Violent Conflicts.” Physica A: Statistical Mechanics and Its
 Applications
 
-## 452,
+### 452,
 
 Belligerence,” https://stevenpinker.com/files/comments_on_taleb_by_s_pinker.pdf; Cirillo and
 Taleb, “The Decline of Violent Conflicts: What Do the Data Really Say?” Nobel Foundation,
+
 2017. “Fooled Pinker, 29–45;
 
-## 2016:
+### 2016:
 
 by
 
-# CHAPTER 8: AN EXPERT CALLED LINDY
+### CHAPTER 8: AN EXPERT CALLED LINDY
 
 fn1 The “turtles all the way down” expression expresses an infinite regress problem, as
 follows. The logician Bertrand Russell was once told that the world sits on turtles. “And
@@ -8233,24 +8028,24 @@ Nimium boni est, cui hinil est mali.
 Non scabat caput praeter unges tuo, Ma bi ikkak illa ifrak. xasfour bil ‘id a san min xaṡra
 xalṡajra. fn10 Nimium allercando veritas amittitur. fn11 Fiducia pecunias amici.
 
-# CHAPTER 9: SURGEONS SHOULD NOT LOOK LIKE SURGEONS
+### CHAPTER 9: SURGEONS SHOULD NOT LOOK LIKE SURGEONS
 
 fn1 Non teneas aurum totum quod splendet ut aurum/nec pulchrum pomum quodlibet esse bonum.
 fn2
 
-## The same argument applies
+### The same argument applies
 
 to biographies of scientists and mathematicians written by science journalists—or
 professional biographers. They will find some narrative and, worse, put scientists on
 pedestals.
 
-# CHAPTER 11: FACTA NON VERBA (DEEDS BEFORE WORDS)
+### CHAPTER 11: FACTA NON VERBA (DEEDS BEFORE WORDS)
 
 fn1 It appears that what we read about the Assassins can be smear by their enemies,
 including the apocryphal accounts according to which their name comes from consumption of
 hashish (cannabis in Arabic), as they would get into a trance before their assassination.
 
-# CHAPTER 12: THE FACTS ARE TRUE, THE NEWS IS FAKE
+### CHAPTER 12: THE FACTS ARE TRUE, THE NEWS IS FAKE
 
 fn1 There were some occasional episodes of collective frenzy, with the spread of false
 rumors, but, owing to the low level of connectivity between communities, these did not
@@ -8264,7 +8059,7 @@ most misplaced exploitation of that concept, rather than with the public, who si
 naturally, with the victim. This is to remind the reader that journalism has the mother of
 all agency problems. lives in
 
-# CHAPTER 14: PEACE, NEITHER INK NOR BLOOD
+### CHAPTER 14: PEACE, NEITHER INK NOR BLOOD
 
 fn1 This is the elementary but very common error I pointed out in Fooled by Randomness, of
 confusing frequency with expectation (or average). It is very hard for nontraders to
@@ -8292,21 +8087,21 @@ Other books: James Davidson’s Courtesans and Fishcakes, where you see how the 
 bread with the left hand. Or Graham Robb’s The Discovery of France, which informs you that
 the French spoke little French in 1914. And many more.
 
-# CHAPTER 15: THEY DON’T KNOW WHAT THEY ARE TALKING ABOUT
+### CHAPTER 15: THEY DON’T KNOW WHAT THEY ARE TALKING ABOUT
 
-## When They Talk About Religion
+### When They Talk About Religion
 
 fn1 The Egyptian Copts have been increasingly persecuted by Sunni Muslims, but the Coptic
 Church stands against the creation of a selfgoverning state somewhere in Egypt, using the
 argument that it was “not Christian” to want a political entity in this world.
 
-# CHAPTER 16: NO WORSHIP WITHOUT SKIN IN THE GAME
+### CHAPTER 16: NO WORSHIP WITHOUT SKIN IN THE GAME
 
 fn1 Taraktu’l ḱalqa ṫarran fi hawaka, ayatamtul xiyala likay araka /Falaw qataxani fil ubbi
 irban, lama malil fu’ada(ou) ila siwaka/faḱuth ma ṡưta ya mawlaya minni, ana lkurbanu
 wajjahani nidaka. But, once again, this may be apocryphal.
 
-# CHAPTER 19: THE LOGIC OF RISK TAKING
+### CHAPTER 19: THE LOGIC OF RISK TAKING
 
 fn1 As with my “Fat Tails” project, economists may have been aware of the ensemble-time
 problem, but in a sterile way. Further, they keep saying “we’ve known about fat tails,” but
@@ -8327,7 +8122,7 @@ muster up the sensationalism of “mirror neurons” to explain the link between
 and the collective. Relying on neuro-something is a form of scientism called “brain porn,”
 discussed in Antifragile.
 
-## Technical Appendix
+### Technical Appendix
 
 fn1 Debate of author with P. Jorion, 1997, and Taleb 2007. fn2 Thanks to questioning by
 Andrew Lesniewski, who helped define what we mean by ergodicity, as the meaning here
